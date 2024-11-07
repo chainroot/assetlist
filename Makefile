@@ -1,6 +1,6 @@
 # Define the source and target directories
 SRC_DIR = src/chainlist/chain
-TARGET_DIR = .
+TARGET_DIR = go
 
 .PHONY: def update-registry update-chain-data
 # Find all asset_list.json files and their corresponding target directories
