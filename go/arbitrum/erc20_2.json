@@ -6,7 +6,7 @@
         "symbol": "WETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+        "image": "https://cdn.chainroot.io/images/tokens/weth.png",
         "coinGeckoId": "weth",
         "wallet_preload": true
     },
@@ -17,7 +17,7 @@
         "symbol": "ARB",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/arbitrum/asset/arb.png",
+        "image": "https://cdn.chainroot.io/images/tokens/arb.png",
         "coinGeckoId": "arbitrum",
         "wallet_preload": true
     },
@@ -28,7 +28,7 @@
         "symbol": "USDT",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
         "coinGeckoId": "tether",
         "wallet_preload": true
     },
@@ -39,7 +39,7 @@
         "symbol": "USDC",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "usd-coin",
         "wallet_preload": true
     },
@@ -50,7 +50,7 @@
         "symbol": "USDC.e",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "usd-coin-ethereum-bridged",
         "wallet_preload": true
     },
@@ -61,7 +61,7 @@
         "symbol": "LINK",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/link.png",
+        "image": "https://cdn.chainroot.io/images/tokens/link.png",
         "coinGeckoId": "chainlink",
         "wallet_preload": true
     },
@@ -72,7 +72,7 @@
         "symbol": "WBTC",
         "description": "",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/wbtc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/wbtc.png",
         "coinGeckoId": "wbtc",
         "wallet_preload": true
     },
@@ -83,7 +83,7 @@
         "symbol": "UNI",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/uni.png",
+        "image": "https://cdn.chainroot.io/images/tokens/uni.png",
         "coinGeckoId": "uni",
         "wallet_preload": true
     },
@@ -94,7 +94,7 @@
         "symbol": "DAI",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/dai.png",
+        "image": "https://cdn.chainroot.io/images/tokens/dai.png",
         "coinGeckoId": "dai",
         "wallet_preload": true
     },
@@ -105,7 +105,7 @@
         "symbol": "axlUSDC",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/0xsquid/assets/main/images/master/tokens/usdc.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/9311ef4ba0836d86d1e506f2920ad51ace07a4f45e791d4b67f945d754ba8d1e.svg",
         "coinGeckoId": "axlusdc"
     },
     {
@@ -125,7 +125,7 @@
         "symbol": "axlUSDT",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/0xsquid/assets/main/images/master/tokens/usdt.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/0d5043127c389dff314d8f6b47513f387761e89dcb3ecbcdd3363c402061abb2.svg",
         "coinGeckoId": "tether"
     },
     {
@@ -135,7 +135,7 @@
         "symbol": "FRAX",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/0xsquid/assets/main/images/master/tokens/frax.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/7a2ea4ee8014c4f67bda8054590338b81d813ed61d9b7065b9ecfa94ff909e85.svg",
         "coinGeckoId": "frax"
     },
     {
@@ -145,7 +145,7 @@
         "symbol": "AXL",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/axelar/asset/axl.png",
+        "image": "https://cdn.chainroot.io/images/tokens/axl.png",
         "coinGeckoId": "axelar"
     },
     {
@@ -155,7 +155,7 @@
         "symbol": "KNC",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/0xsquid/assets/main/images/master/tokens/knc.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/1afbf5244a28167cbc50eeb7cd7466f343c718c92feaf2dd626f0dc8333b644d.svg",
         "coinGeckoId": "kyber-network-crystal"
     },
     {
@@ -165,7 +165,7 @@
         "symbol": "axlKNC",
         "description": "",
         "decimals": 18,
-        "image": "https://storage.googleapis.com/ks-setting-1d682dca/538cbc06-ef8a-4acc-ac38-7f41d75f1666.png",
+        "image": "https://cdn.chainroot.io/images/tokens/aa1549a99a6629c5aac965467cd0431a91669bbcbc8e0cddbe7a563265c31f65.png",
         "coinGeckoId": "kyber-network-crystal"
     },
     {
@@ -175,7 +175,7 @@
         "symbol": "SUSHI",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sushi.jpg",
+        "image": "https://cdn.chainroot.io/images/tokens/a6909fe96656257f948973d875659e4d95e2250a098298803e06e39a8f168745.jpg",
         "coinGeckoId": "sushi"
     },
     {
@@ -185,7 +185,7 @@
         "symbol": "DPX",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55/logo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/cc7cf4129f8d91761aabbed95e863e9443422ee5ecc0681fc698e338928f1e59.png",
         "coinGeckoId": "dopex"
     },
     {
@@ -195,7 +195,7 @@
         "symbol": "axlTIA",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/0xsquid/assets/main/images/master/tokens/celestia.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/666141f1bdb943d1941198fa13d2039bd2681703f18eb33266c205d22e40b30c.svg",
         "coinGeckoId": "celestia"
     },
     {
@@ -205,7 +205,7 @@
         "symbol": "FLUID",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x876Ec6bE52486Eeec06bc06434f3E629D695c6bA/logo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/91fa67ce9c5acbcc77c46efcf0d7c7ebc741ee9fa451c99800bb244f23d0a357.png",
         "coinGeckoId": "fluidfi"
     },
     {
@@ -215,7 +215,7 @@
         "symbol": "gOHM",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x8D9bA570D6cb60C7e3e0F31343Efe75AB8E65FB1/logo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/af61f4f997eb2e81e691f77cf6b0ca1a7144c5630cc79bfe620a1cdc53d4e1e5.png",
         "coinGeckoId": "governance-ohm"
     },
     {
@@ -225,7 +225,7 @@
         "symbol": "GOVI",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x07E49d5dE43DDA6162Fa28D24d5935C151875283.jpg",
+        "image": "https://cdn.chainroot.io/images/tokens/967bf86e2b7f3bc649dcfb730cfa49b6c79e8a3c3397aa7883eb7a1b7af3bdc7.jpg",
         "coinGeckoId": "govi"
     },
     {
@@ -235,7 +235,7 @@
         "symbol": "jETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x662d0f9Ff837A51cF89A1FE7E0882a906dAC08a3.jpg",
+        "image": "https://cdn.chainroot.io/images/tokens/d2d08cdab926f223e93bc318ca02064f85e3b34c3b258a66e7906150663ee5cb.jpg",
         "coinGeckoId": ""
     },
     {
@@ -245,7 +245,7 @@
         "symbol": "JONES",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x10393c20975cF177a3513071bC110f7962CD67da.jpg",
+        "image": "https://cdn.chainroot.io/images/tokens/f2c4fb8d23f45658ea9d8786359179e0433aee1a13885f50bc581bd03b4fe1a9.jpg",
         "coinGeckoId": "jones-dao"
     },
     {
@@ -255,7 +255,7 @@
         "symbol": "LIQD",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x93C15cd7DE26f07265f0272E0b831C5D7fAb174f.jpg",
+        "image": "https://cdn.chainroot.io/images/tokens/85ad65f1d1122ad0e1c480addcc74c2dced222f49e702cdfd112b8bc32b13878.jpg",
         "coinGeckoId": "liquid-finance"
     },
     {
@@ -265,7 +265,7 @@
         "symbol": "lqETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x73700aeCfC4621E112304B6eDC5BA9e36D7743D3.jpg",
+        "image": "https://cdn.chainroot.io/images/tokens/c43eac37c2e9f9db4c416a1e2ea8ffa7866e341105b0acfa1d6871965f1390d4.jpg",
         "coinGeckoId": ""
     },
     {
@@ -275,7 +275,7 @@
         "symbol": "MAGIC",
         "description": "",
         "decimals": 18,
-        "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/14783.png",
+        "image": "https://cdn.chainroot.io/images/tokens/a996feaadf53f391ec193efc410f7d6a5989eb752b32f7f15dee1320f837b463.png",
         "coinGeckoId": "magic"
     },
     {
@@ -285,7 +285,7 @@
         "symbol": "MIM",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A.jpg",
+        "image": "https://cdn.chainroot.io/images/tokens/67967ac035dce140c801cade00cb298e52f4fd1e5c4e983cadd8d2e8a463c5d8.jpg",
         "coinGeckoId": "magic-internet-money"
     },
     {
@@ -295,7 +295,7 @@
         "symbol": "PLS",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x51318B7D00db7ACc4026C88c3952B66278B6A67F.jpg",
+        "image": "https://cdn.chainroot.io/images/tokens/1882fddce5a0d5e427ea1465a64c7bb5056683877e642f205cc6307e41c676eb.jpg",
         "coinGeckoId": "ipulse"
     },
     {
@@ -305,7 +305,7 @@
         "symbol": "PREMIA",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/premia.jpg",
+        "image": "https://cdn.chainroot.io/images/tokens/fc70f9aded840d9ccf39fb1076a755e4dc699b11ced4a0a11e5c08c5fc315110.jpg",
         "coinGeckoId": "premia"
     },
     {
@@ -315,7 +315,7 @@
         "symbol": "RDNT",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x0C4681e6C0235179ec3D4F4fc4DF3d14FDD96017.jpg",
+        "image": "https://cdn.chainroot.io/images/tokens/0820f0a2e0b675e328b5a7a52893b0548ce96a60a0776dcccdc254fb1187a650.jpg",
         "coinGeckoId": "radiant-capital"
     },
     {
@@ -325,7 +325,7 @@
         "symbol": "RDPX",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x32Eb7902D4134bf98A28b963D26de779AF92A212.jpg",
+        "image": "https://cdn.chainroot.io/images/tokens/0f7416810901034dcda593bf4025b1443ccfc4e4e763013d61c17248b45b4ec8.jpg",
         "coinGeckoId": "dopex-rebate-token"
     },
     {
@@ -335,7 +335,7 @@
         "symbol": "SPELL",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x3E6648C5a70A150A88bCE65F4aD4d506Fe15d2AF.jpg",
+        "image": "https://cdn.chainroot.io/images/tokens/3cc7841e2c7a0e0c079763b3676d090020e84fb79dc30a61985954a428ca5955.jpg",
         "coinGeckoId": "spell-token"
     },
     {
@@ -345,7 +345,7 @@
         "symbol": "ARBIS",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x9f20de1fc9b161b34089cbEAE888168B44b03461/logo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/618302ab1e13f1b49d225fe681eea951b9e099dd8a6e8727808b796a126103d6.png",
         "coinGeckoId": "arbis-finance"
     },
     {
@@ -365,7 +365,7 @@
         "symbol": "BIFI",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x99C409E5f62E4bd2AC142f17caFb6810B8F0BAAE/logo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/3f11bab50888b8c093bdb8048d04dcb9c46b3234b6bfa5c9c40204e91010e9de.png",
         "coinGeckoId": "beefy-finance"
     },
     {
@@ -375,7 +375,7 @@
         "symbol": "BUCK",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xAFD871f684F21Ab9D7137608C71808f83D75e6fc/logo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/539b3f3d51c4d36374f338e011aa9efd386b9481b9bcb449d02d926e3ad9b5fe.png",
         "coinGeckoId": "arbucks"
     },
     {
@@ -385,7 +385,7 @@
         "symbol": "CREDA",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xc136E6B376a9946B156db1ED3A34b08AFdAeD76d/logo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/f4b196b96f51d18fa94c87cb06cd2fb6e9a9a8a3b3dc08face02b6bdcc9ff0aa.png",
         "coinGeckoId": "creda"
     },
     {
@@ -395,7 +395,7 @@
         "symbol": "DICE",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0xAeEBa475eDC438f8Eeb6BFBc3164c1C7716Fb304.jpg",
+        "image": "https://cdn.chainroot.io/images/tokens/698e57426b2766d37441b87c77119f85664bd104b0e048fd51709ce83600db78.jpg",
         "coinGeckoId": "klaydice"
     },
     {
@@ -405,7 +405,7 @@
         "symbol": "EMAX",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x123389C2f0e9194d9bA98c21E63c375B67614108.jpg",
+        "image": "https://cdn.chainroot.io/images/tokens/742c0b1dba657ed128941b37b569013360b4676cbbf043a4f5351df61136678f.jpg",
         "coinGeckoId": "ethereummax"
     },
     {
@@ -415,7 +415,7 @@
         "symbol": "IMO",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xB41bd4C99dA73510d9e081C5FADBE7A27Ac1F814/logo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/323d496080a9b373b0b5c8295503f17b25dca4f21665b265ce3ab229b18aa48d.png",
         "coinGeckoId": "ideamarket"
     },
     {
@@ -425,7 +425,7 @@
         "symbol": "NYAN",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/nyan.jpg",
+        "image": "https://cdn.chainroot.io/images/tokens/beddb9157b00af7ee70da3a69e14cce71d7df42a7cc9631796651bb082da9f9b.jpg",
         "coinGeckoId": "arbinyan"
     },
     {
@@ -435,7 +435,7 @@
         "symbol": "TCR",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xA72159FC390f0E3C6D415e658264c7c4051E9b87/logo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/f8149f6ef7e2933cf259286d4204473532341d0b8991291b5dcf48c86f70959b.png",
         "coinGeckoId": "tecracoin"
     },
     {
@@ -475,7 +475,7 @@
         "symbol": "axlFIL",
         "description": "",
         "decimals": 18,
-        "image": "https://docs.axelar.dev/images/assets/wfil.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/e71cb624382f041529ed1f452a700d6dc7ca0ce18323ba20e43190fccd51d036.svg",
         "coinGeckoId": "filecoin"
     },
     {
@@ -485,7 +485,7 @@
         "symbol": "ERN",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/0xsquid/assets/main/images/master/tokens/ern.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/599a334b4023adc8763a9fb9f427ac989258c6cf9eac59fe6065a5a10181faad.svg",
         "coinGeckoId": "ethos-reserve-note"
     },
     {
@@ -495,7 +495,7 @@
         "symbol": "SILO",
         "description": "",
         "decimals": 18,
-        "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/16010.png",
+        "image": "https://cdn.chainroot.io/images/tokens/a3e7b8367339f72b6d27d66c95fb314d425566e67ef2aa1836b43441d59832be.png",
         "coinGeckoId": "silo-finance"
     },
     {
@@ -515,7 +515,7 @@
         "symbol": "OATH",
         "description": "",
         "decimals": 18,
-        "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/18520.png",
+        "image": "https://cdn.chainroot.io/images/tokens/3f8d3f1b085e0a983d8c0b426d18f854e909fad9670e264013ad1dbf80c9b59e.png",
         "coinGeckoId": "oath"
     },
     {
@@ -525,7 +525,7 @@
         "symbol": "stERN",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/0xsquid/assets/refs/heads/main/images/tokens/stern.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/278da54ffa98048ac2fbb64a3c8a83de6e7810363340f200d64110d7f76a384c.svg",
         "coinGeckoId": "staked-ethos-reserve-note"
     },
     {
@@ -535,7 +535,7 @@
         "symbol": "RAM",
         "description": "",
         "decimals": 18,
-        "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/23858.png",
+        "image": "https://cdn.chainroot.io/images/tokens/2a470058467d73701ea68cfd279f7fd4717f9a315d072da821e042e5fec064fe.png",
         "coinGeckoId": "ramses-exchange"
     },
     {
@@ -545,7 +545,7 @@
         "symbol": "axl-wstETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/0xsquid/assets/main/images/master/tokens/wsteth.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/0e9d23bc7d18aa4aca85702209cfb79b4b2fc9b876eecefcb1506d727ebcc383.svg",
         "coinGeckoId": "wrapped-steth"
     },
     {
@@ -555,7 +555,7 @@
         "symbol": "axlETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/0xsquid/assets/main/images/master/tokens/eth.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/6fa6b8d4dfa97b2cfdebfa96fa1f348faacba8a6d33c80340d967874b025a1e6.svg",
         "coinGeckoId": "weth"
     },
     {
@@ -565,7 +565,7 @@
         "symbol": "GDX",
         "description": "",
         "decimals": 18,
-        "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/23941.png",
+        "image": "https://cdn.chainroot.io/images/tokens/dc0a07505eb614c70da4546df2c9849e79fe05e2bdbddf2c94221899297c1ffa.png",
         "coinGeckoId": "gdx-token"
     },
     {
@@ -575,7 +575,7 @@
         "symbol": "RING",
         "description": "",
         "decimals": 18,
-        "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/17786.png",
+        "image": "https://cdn.chainroot.io/images/tokens/9c50fca368f3f88d97afcf2b29e8a42e5ec753c38800c2f8919b3e4791bd618c.png",
         "coinGeckoId": "onering"
     },
     {
@@ -585,7 +585,7 @@
         "symbol": "DEUS",
         "description": "",
         "decimals": 18,
-        "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/12972.png",
+        "image": "https://cdn.chainroot.io/images/tokens/13bb618c29bac95c34aecdf27fb1b2836604aaf34e86438143f02271e1199778.png",
         "coinGeckoId": "deus-finance-2"
     },
     {
@@ -595,7 +595,7 @@
         "symbol": "VELA",
         "description": "",
         "decimals": 18,
-        "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/23248.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8630a8a6957c6debef88e8f936bc38432735b639140487757d58d083844532c8.png",
         "coinGeckoId": "vela-token"
     },
     {
@@ -605,7 +605,7 @@
         "symbol": "ARBINU",
         "description": "",
         "decimals": 18,
-        "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/23301.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ee0dfa18f309655b224791fbf48a43096e8351b86dfb072d493e53b7358509e6.png",
         "coinGeckoId": "arbinu"
     },
     {
@@ -615,7 +615,7 @@
         "symbol": "ARX",
         "description": "",
         "decimals": 18,
-        "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/25130.png",
+        "image": "https://cdn.chainroot.io/images/tokens/39f23c87af8bd9d0dd797de90faa7c86286727e3b60fb96b99e2b8888db71507.png",
         "coinGeckoId": "arbitrum-exchange"
     },
     {
@@ -625,7 +625,7 @@
         "symbol": "LUSD",
         "description": "",
         "decimals": 18,
-        "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/9566.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8f5f32a07542e958fa06d5af0faa592806f19cc18944d6defcf9df4b3c649f6f.png",
         "coinGeckoId": "liquity-usd"
     },
     {
@@ -635,7 +635,7 @@
         "symbol": "axlFRAX",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/0xsquid/assets/main/images/master/tokens/frax.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/7a2ea4ee8014c4f67bda8054590338b81d813ed61d9b7065b9ecfa94ff909e85.svg",
         "coinGeckoId": "frax"
     },
     {
@@ -645,7 +645,7 @@
         "symbol": "OVN",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/0xsquid/assets/main/images/master/tokens/ovn.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/ccef86cf215466abb713f58224200b5d5e46a2adfa93e965fdc62a5aacb50f24.svg",
         "coinGeckoId": "overnight-finance"
     },
     {
@@ -655,7 +655,7 @@
         "symbol": "axlBAL",
         "description": "",
         "decimals": 18,
-        "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/5728.png",
+        "image": "https://cdn.chainroot.io/images/tokens/0b3c3a088941a4352df17985f47b15b3fbcb9478c73a4815b850050b2c871cab.png",
         "coinGeckoId": "balancer"
     },
     {
@@ -665,7 +665,7 @@
         "symbol": "KUJI",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/0xsquid/assets/main/images/master/tokens/kuji.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/826723c5538ad56673edafbe765dff7e850b3b4a7a4cb980187d2166c55f7b2b.svg",
         "coinGeckoId": "kujira"
     },
     {
@@ -675,7 +675,7 @@
         "symbol": "TORI",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/0xsquid/assets/main/images/master/tokens/tori.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/eea0bf6a5450fd64f061b50436449de8df5c4b0d10113a6d6332396b943d0bc2.svg",
         "coinGeckoId": "teritori"
     },
     {
@@ -685,7 +685,7 @@
         "symbol": "AI",
         "description": "",
         "decimals": 18,
-        "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/28916.png",
+        "image": "https://cdn.chainroot.io/images/tokens/d1f8903618d42a858c32705fa3e638d5b1372ace6f531361fbcd08af4776adfe.png",
         "coinGeckoId": "any-inu"
     },
     {
@@ -695,7 +695,7 @@
         "symbol": "HUAHUA",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/0xsquid/assets/main/images/master/tokens/huahua.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/6a06a149f1abe5505c0cbe839734abe372df9426b7f8d337ea2891c12d400dc3.svg",
         "coinGeckoId": "chihuahua-token"
     },
     {
@@ -705,7 +705,7 @@
         "symbol": "sFRAX",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/0xsquid/assets/main/images/master/tokens/sfrax.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/f6e733345a75da4c441242ae410bd2108a63758db7f2a0bd01ad27cf41cfeabb.svg",
         "coinGeckoId": "staked-frax"
     },
     {
@@ -715,7 +715,7 @@
         "symbol": "FPI",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/0xsquid/assets/main/images/master/tokens/fpi.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/f5f4d5c9b361b19b37c4ebe227b2ce567244f638f6989b380248d82a8ec50a9e.svg",
         "coinGeckoId": "frax-price-index"
     },
     {
@@ -725,7 +725,7 @@
         "symbol": "FXS",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/0xsquid/assets/main/images/master/tokens/fxs.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/319e3291c3488d9c12a6fe72de5c8fd0d9b0a713ed1f3f7dca453e29470c57a3.svg",
         "coinGeckoId": "frax-share"
     },
     {
@@ -735,7 +735,7 @@
         "symbol": "GRAIN",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/0xsquid/assets/main/images/master/tokens/grain.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/544edc3e1e35ecd14122a5263abcc43f1aca4c436e71e0dfd56e9b9d837a8146.svg",
         "coinGeckoId": "granary"
     },
     {
@@ -755,7 +755,7 @@
         "symbol": "YUM",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/0xsquid/assets/main/images/master/tokens/yum.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/1ae8f9f95b0f563b1cd98080b41b7c8b2a8a423c34fe45214ac94c8a5ae49d10.svg",
         "coinGeckoId": "yum"
     },
     {
@@ -765,7 +765,7 @@
         "symbol": "YUM.e",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/0xsquid/assets/main/images/master/tokens/yum.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/1ae8f9f95b0f563b1cd98080b41b7c8b2a8a423c34fe45214ac94c8a5ae49d10.svg",
         "coinGeckoId": ""
     },
     {
@@ -775,7 +775,7 @@
         "symbol": "axlSTARS",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/0xsquid/assets/main/images/master/tokens/stars.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/1e2978d085cb3951f03c2c8d3182b7449b63b506b6a03651048fa93debc12f06.svg",
         "coinGeckoId": "stargaze"
     },
     {
@@ -785,7 +785,7 @@
         "symbol": "axlSAGA",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/0xsquid/assets/main/images/master/tokens/saga.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/a5fe426ae9b9d5f69ab7ead7930ecac6233bfd0079d305536c15c2062c64361d.svg",
         "coinGeckoId": "saga"
     },
     {
@@ -795,7 +795,7 @@
         "symbol": "LAVA",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/0xsquid/assets/main/images/master/tokens/lava.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/3a068b8d3cb5273f14fa045776db283b1d926538734d93573ad2d955e3929e7d.svg",
         "coinGeckoId": "lava-network"
     }
 ]

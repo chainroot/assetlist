@@ -6,7 +6,7 @@
         "symbol": "TKX",
         "description": "Titan Testnet Staking Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/titan-testnet/asset/tkx.png",
+        "image": "https://cdn.chainroot.io/images/tokens/tkx.png",
         "coinGeckoId": ""
     }
 ]

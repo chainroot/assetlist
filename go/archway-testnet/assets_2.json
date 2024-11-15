@@ -6,7 +6,7 @@
         "symbol": "ARCH",
         "description": "Archway Testnet Staking Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/archway-testnet/asset/arch.png",
+        "image": "https://cdn.chainroot.io/images/tokens/arch.png",
         "coinGeckoId": "",
         "color": "#FF8F69"
     }

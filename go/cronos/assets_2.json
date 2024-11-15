@@ -6,7 +6,7 @@
         "symbol": "CRO",
         "description": "Cronos Native Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cronos/asset/cro.png",
+        "image": "https://cdn.chainroot.io/images/tokens/cro.png",
         "coinGeckoId": "crypto-com-chain"
     }
 ]

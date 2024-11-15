@@ -6,7 +6,7 @@
         "symbol": "HASH",
         "description": "Provenance Staking Coin",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/provenance/asset/hash.png",
+        "image": "https://cdn.chainroot.io/images/tokens/hash.png",
         "coinGeckoId": "provenance-blockchain",
         "color": "#628EE4"
     }

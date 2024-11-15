@@ -6,7 +6,7 @@
         "symbol": "SOMM",
         "description": "Gateway Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gateway/asset/worm.png",
+        "image": "https://cdn.chainroot.io/images/tokens/worm.png",
         "coinGeckoId": "wormhole"
     },
     {
@@ -16,7 +16,7 @@
         "symbol": "TEST",
         "description": "Gateway Native fee token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gateway/asset/test.png"
+        "image": "https://cdn.chainroot.io/images/tokens/test.png"
     },
     {
         "type": "bridge",
@@ -25,7 +25,7 @@
         "symbol": "SUI.wh",
         "description": "Sui (Wormhole)",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sui/asset/sui.png",
+        "image": "https://cdn.chainroot.io/images/tokens/sui.png",
         "coinGeckoId": "sui",
         "bridge_info" : {
             "path": "sui>gateway",
@@ -42,7 +42,7 @@
         "symbol": "WETH.wh",
         "description": "Wrapped Ether (Wormhole)",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+        "image": "https://cdn.chainroot.io/images/tokens/weth.png",
         "coinGeckoId": "weth",
         "bridge_info" : {
             "path": "ethereum>gateway",
@@ -59,7 +59,7 @@
         "symbol": "wstETH.wh",
         "description": "Wrapped liquid staked Ether 2.0 (Wormhole)",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/wsteth.png",
+        "image": "https://cdn.chainroot.io/images/tokens/wsteth.png",
         "coinGeckoId": "wrapped-steth",
         "bridge_info" : {
             "path": "ethereum>gateway",
@@ -76,7 +76,7 @@
         "symbol": "APT.wh",
         "description": "Aptos Coin (Wormhole)",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/aptos/asset/aptos.png",
+        "image": "https://cdn.chainroot.io/images/tokens/aptos.png",
         "coinGeckoId": "aptos",
         "bridge_info" : {
             "path": "aptos>gateway",
@@ -93,7 +93,7 @@
         "symbol": "USDT.wh",
         "description": "Tether USD (Wormhole)",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
         "coinGeckoId": "tether",
         "bridge_info" : {
             "path": "ethereum>gateway",
@@ -110,7 +110,7 @@
         "symbol": "SOL.wh",
         "description": "Wrapped SOL (Wormhole)",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/solana.png",
+        "image": "https://cdn.chainroot.io/images/tokens/solana.png",
         "coinGeckoId": "solana",
         "bridge_info" : {
             "path": "solana>gateway",
@@ -127,7 +127,7 @@
         "symbol": "BONK.wh",
         "description": "Bonk (Wormhole)",
         "decimals": 5,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/bonk.png",
+        "image": "https://cdn.chainroot.io/images/tokens/bonk.png",
         "coinGeckoId": "bonk",
         "bridge_info" : {
             "path": "solana>gateway",
@@ -144,7 +144,7 @@
         "symbol": "WBTC.wh",
         "description": "Wrapped BTC (Wormhole)",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/wbtc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/wbtc.png",
         "coinGeckoId": "wrapped-bitcoin",
         "bridge_info" : {
             "path": "ethereum>gateway",
@@ -161,7 +161,7 @@
         "symbol": "tBTC.wh",
         "description": "tBTC v2 (Wormhole)",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/tbtc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/tbtc.png",
         "coinGeckoId": "tbtc",
         "bridge_info" : {
             "path": "ethereum>gateway",
@@ -178,7 +178,7 @@
         "symbol": "DAI.wh",
         "description": "Dai Stablecoin (Wormhole)",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/dai.png",
+        "image": "https://cdn.chainroot.io/images/tokens/dai.png",
         "coinGeckoId": "dai",
         "bridge_info" : {
             "path": "ethereum>gateway",
@@ -195,7 +195,7 @@
         "symbol": "USDC.wh",
         "description": "USD Coin (Wormhole)",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "usd-coin",
         "bridge_info" : {
             "path": "ethereum>gateway",
@@ -212,7 +212,7 @@
         "symbol": "USDC.aval.wh",
         "description": "Avalanche USD Coin (Wormhole)",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "usd-coin",
         "bridge_info" : {
             "path": "avalanche>gateway",
@@ -229,7 +229,7 @@
         "symbol": "PYTH.wh",
         "description": "PYTH (Wormhole)",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/pyth.png",
+        "image": "https://cdn.chainroot.io/images/tokens/pyth.png",
         "coinGeckoId": "pyth-network",
         "bridge_info" : {
             "path": "solana>gateway",
@@ -246,7 +246,7 @@
         "symbol": "USDC.sol.wh",
         "description": "Solana USD Coin (Wormhole)",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "usd-coin",
         "bridge_info" : {
             "path": "solana>gateway",
@@ -263,7 +263,7 @@
         "symbol": "BSKT.wh",
         "description": "Solana Basket (Wormhole)",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/solana/images/bskt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/328b17cfc3f4ca5aab4f71e092d5ed031c76df84984e4c53ee605d9a6c40aafd.png",
         "coinGeckoId": "basketcoin",
         "bridge_info" : {
             "path": "solana>gateway",
@@ -280,7 +280,7 @@
         "symbol": "W.wh",
         "description": "W is the native token powering the Wormhole interoperability platform. (Solana - Wormhole)",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/solana/images/w.png",
+        "image": "https://cdn.chainroot.io/images/tokens/1e57663cd18faca53e9d95aa281a0d8dfb9a35043c1b92121c0fc2b4a0a8b9d0.png",
         "coinGeckoId": "wormhole",
         "bridge_info" : {
             "path": "solana>gateway",
@@ -297,7 +297,7 @@
         "symbol": "PBJ.wh",
         "description": "Pepe Bruce Jenner (Solana - Wormhole)",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/solana/images/pbj.png",
+        "image": "https://cdn.chainroot.io/images/tokens/fa69c9c06a6f79f2568c66c734a00966cf582d34cc1fb10f5cda525d901d2bc3.png",
         "coinGeckoId": "",
         "bridge_info" : {
             "path": "solana>gateway",

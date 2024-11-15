@@ -6,7 +6,7 @@
         "symbol": "MER",
         "description": "ERC-20 contract",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/shido/asset/shido.png",
+        "image": "https://cdn.chainroot.io/images/tokens/shido.png",
         "coinGeckoId": "shido-2",
         "wallet_preload": true
     }

@@ -6,7 +6,7 @@
     "symbol": "FUND",
     "description": "Unification Staking Coin",
     "decimals": 9,
-    "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/unification/asset/fund.png",
+    "image": "https://cdn.chainroot.io/images/tokens/fund.png",
     "coinGeckoId": "unification"
   }
 ]

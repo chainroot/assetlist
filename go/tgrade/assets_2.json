@@ -6,7 +6,7 @@
         "symbol": "TGD",
         "description": "T-Grade Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/tgrade/asset/tgd.png",
+        "image": "https://cdn.chainroot.io/images/tokens/tgd.png",
         "coinGeckoId": "tgrade",
         "color": "#C7177B"
     },
@@ -17,7 +17,7 @@
         "symbol": "EVMOS",
         "description": "Evmos Staking Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/evmos/asset/evmos.png",
+        "image": "https://cdn.chainroot.io/images/tokens/evmos.png",
         "coinGeckoId": "evmos",
         "ibc_info" : {
             "path": "evmos>tgrade",

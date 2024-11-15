@@ -6,7 +6,7 @@
         "symbol": "EVMOS",
         "description": "Evmos Testnet Staking Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/evmos-testnet/asset/evmos.png",
+        "image": "https://cdn.chainroot.io/images/tokens/evmos.png",
         "coinGeckoId": "",
         "color": "#ED4E33"
     }

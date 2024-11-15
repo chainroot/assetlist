@@ -6,7 +6,7 @@
         "symbol": "OSMO",
         "description": "Osmosis-testnet Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis-testnet/asset/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
         "coinGeckoId": ""
     },
     {
@@ -16,7 +16,7 @@
         "symbol": "TFNSA",
         "description": "Finschia Testnet Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/finschia-testnet/asset/fnsa.png",
+        "image": "https://cdn.chainroot.io/images/tokens/fnsa.png",
         "coinGeckoId": "",
         "ibc_info" : {
             "path": "finschia-testnet>osmosis",
@@ -39,7 +39,7 @@
         "symbol": "USDY",
         "description": "Noble testnet Native Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdy.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdy.png",
         "coinGeckoId": "",
         "ibc_info" : {
             "path": "noble-testnet>osmosis-testnet",

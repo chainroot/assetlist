@@ -6,7 +6,7 @@
         "symbol": "CNTO",
         "description": "Ciento Exchange Token",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/acrechain/asset/cnto.png"
+        "image": "https://cdn.chainroot.io/images/tokens/cnto.png"
     },
     {
         "type": "erc20",
@@ -15,7 +15,7 @@
         "symbol": "arUSD",
         "description": "Overcollateralized stable coin for Arable derivatives v1",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/acrechain/images/arusd.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7a2d4e2cdad69c0b08eae13a26190e152bbac880058495bac1c035e9c41e8824.png",
         "coinGeckoId": "arable-usd",
         "color": "#77b64f"
     }

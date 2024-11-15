@@ -6,7 +6,7 @@
         "symbol": "TIA",
         "description": "Celestia Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/celestia/asset/tia.png",
+        "image": "https://cdn.chainroot.io/images/tokens/tia.png",
         "coinGeckoId": "celestia",
         "color": "#D554F8"
     },
@@ -17,7 +17,7 @@
         "symbol": "TORO",
         "description": "The memecoin built for the Celestia community.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/toro.png",
+        "image": "https://cdn.chainroot.io/images/tokens/toro.png",
         "coinGeckoId": "",
         "ibc_info" : {
             "path": "osmosis>celestia",

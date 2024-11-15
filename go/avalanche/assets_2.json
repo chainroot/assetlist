@@ -6,7 +6,7 @@
         "symbol": "AVAX",
         "description": "Avalanche Native Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/avax.png",
+        "image": "https://cdn.chainroot.io/images/tokens/avax.png",
         "coinGeckoId": "avalanche-2"
     }
 ]

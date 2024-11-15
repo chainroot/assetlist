@@ -6,7 +6,7 @@
         "symbol": "JKL",
         "description": "Jackal Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/jackal/asset/jkl.png",
+        "image": "https://cdn.chainroot.io/images/tokens/jkl.png",
         "coinGeckoId": "jackal-protocol",
         "color": "#3f57b3"
     }

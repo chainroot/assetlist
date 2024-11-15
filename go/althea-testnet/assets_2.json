@@ -6,7 +6,7 @@
         "symbol": "ALTHEA",
         "description": "Althea Testnet Staking Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/althea-testnet/asset/althea.png",
+        "image": "https://cdn.chainroot.io/images/tokens/althea.png",
         "coinGeckoId": "",
         "color": "#3f95d4"
     }

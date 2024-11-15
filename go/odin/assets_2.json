@@ -6,7 +6,7 @@
         "symbol": "ODIN",
         "description": "ODIN Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/odin/asset/odin.png",
+        "image": "https://cdn.chainroot.io/images/tokens/odin.png",
         "coinGeckoId": "odin-protocol"
     },
     {
@@ -16,7 +16,7 @@
         "symbol": "GEO",
         "description": "Native Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/odin/asset/geo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/geo.png",
         "coinGeckoId": "geodb"
     },
     {
@@ -26,7 +26,7 @@
         "symbol": "O9W",
         "description": "Native Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/odin/asset/o9w.png",
+        "image": "https://cdn.chainroot.io/images/tokens/o9w.png",
         "coinGeckoId": ""
     },
     {
@@ -36,7 +36,7 @@
         "symbol": "DOKI",
         "description": "Native Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/odin/asset/doki.png",
+        "image": "https://cdn.chainroot.io/images/tokens/doki.png",
         "coinGeckoId": "doki"
     }
 ]

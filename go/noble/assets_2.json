@@ -6,7 +6,7 @@
         "symbol": "STAKE",
         "description": "Noble Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble/asset/stake.png",
+        "image": "https://cdn.chainroot.io/images/tokens/stake.png",
         "coinGeckoId": "",
         "color": "#6A8AF8"
     },
@@ -17,7 +17,7 @@
         "symbol": "USDC",
         "description": "USD Coin - Directly minted on the Noble chain by the Circle Foundation.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble/asset/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "usd-coin"
     },
     {
@@ -27,7 +27,7 @@
         "symbol": "USDY",
         "description": "Ondo US Dollar Yield",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble/asset/usdy.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdy.png",
         "coinGeckoId": "ondo-us-dollar-yield"
     },
     {
@@ -37,7 +37,7 @@
         "symbol": "USYC",
         "description": "Native Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble/asset/usyc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usyc.png",
         "coinGeckoId": "hashnote-usyc"
     },
     {
@@ -47,7 +47,7 @@
         "symbol": "EURe",
         "description": "EURe is a Euro-backed stablecoin issued by Monerium on Noble.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble/asset/eure.png",
+        "image": "https://cdn.chainroot.io/images/tokens/eure.png",
         "coinGeckoId": "monerium-eur-money"
     },
     {
@@ -57,7 +57,7 @@
         "symbol": "FRNZ",
         "description": "Frienzies are an IBC token redeemable exclusively for a physical asset issued by the Noble entity.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble/asset/frnz.png",
+        "image": "https://cdn.chainroot.io/images/tokens/frnz.png",
         "coinGeckoId": ""
     },
     {
@@ -67,7 +67,7 @@
         "symbol": "ATOM",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/asset/atom.png",
+        "image": "https://cdn.chainroot.io/images/tokens/atom.png",
         "coinGeckoId": "cosmos",
         "ibc_info" : {
             "path": "cosmos>noble",

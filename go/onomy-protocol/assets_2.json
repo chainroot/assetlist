@@ -6,7 +6,7 @@
         "symbol": "NOM",
         "description": "Onomy Staking Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/onomy-protocol/asset/nom.png",
+        "image": "https://cdn.chainroot.io/images/tokens/nom.png",
         "coinGeckoId": "onomy-protocol"
     }
 ]

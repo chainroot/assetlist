@@ -6,7 +6,7 @@
         "symbol": "ASTRO.cw20",
         "description": "Astroport is a neutral marketplace where anyone, from anywhere in the galaxy, can dock to trade their wares.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/astro.png",
+        "image": "https://cdn.chainroot.io/images/tokens/astro.png",
         "coinGeckoId": "astroport-fi",
         "color": "#4056e9",
         "wallet_preload": true
@@ -18,7 +18,7 @@
         "symbol": "LUNAX",
         "description": "Stader LunaX Token.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/lunax.png",
+        "image": "https://cdn.chainroot.io/images/tokens/lunax.png",
         "coinGeckoId": "lunax"
     },
     {
@@ -28,7 +28,7 @@
         "symbol": "CUB",
         "description": "Lion Cub DAO is a useless meme community DAO on Terra.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/cub.png",
+        "image": "https://cdn.chainroot.io/images/tokens/cub.png",
         "coinGeckoId": "lunax",
         "color": "#f3d343"
     },
@@ -39,7 +39,7 @@
         "symbol": "BLUE",
         "description": "BLUE CUB DAO is a community DAO on Terra.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/blue.png",
+        "image": "https://cdn.chainroot.io/images/tokens/blue.png",
         "coinGeckoId": "",
         "color": "#040404"
     },
@@ -50,7 +50,7 @@
         "symbol": "GEM",
         "description": "GEM DAO.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/gem.png",
+        "image": "https://cdn.chainroot.io/images/tokens/gem.png",
         "coinGeckoId": ""
     },
     {
@@ -60,7 +60,7 @@
         "symbol": "ampLUNA",
         "description": "ERIS liquid staked LUNA.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/ampluna.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ampluna.png",
         "coinGeckoId": "eris-amplified-luna"
     },
     {
@@ -70,7 +70,7 @@
         "symbol": "boneLUNA",
         "description": "BackBone Labs Liquid Staked LUNA.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/bluna.png",
+        "image": "https://cdn.chainroot.io/images/tokens/bluna.png",
         "coinGeckoId": "backbone-labs-staked-luna",
         "color": "#070707"
     },
@@ -81,7 +81,7 @@
         "symbol": "LADS",
         "description": "Steady Lads Token with $LADS ticker is a meme token originated from Terra blockchain the home of Do Kwon.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/LADS.png",
+        "image": "https://cdn.chainroot.io/images/tokens/LADS.png",
         "coinGeckoId": "",
         "color": "#040507"
     },
@@ -92,7 +92,7 @@
         "symbol": "DINHEIROS",
         "description": "Dinheiros is the reserve currency of dioalma.protocol, an undivisible and rare token.",
         "decimals": 0,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/Dinheiros.png",
+        "image": "https://cdn.chainroot.io/images/tokens/744cdaf4d178c08747a1b482b38585e0e3bf4cc1363ff62cc3030c2f0dc16cd0.png",
         "coinGeckoId": "",
         "color": "#244c9c"
     },
@@ -103,7 +103,7 @@
         "symbol": "REIS",
         "description": "Reis is the king of trading, high volume high liquidity, sibling of Dinheiros, Reis and Alem, a token of dioalma.protocol.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/Reis.png",
+        "image": "https://cdn.chainroot.io/images/tokens/31f94962493e0d2a450891541e8036f51dd4f1edc119da852098633ce1396f40.png",
         "coinGeckoId": "",
         "color": "#1d5c65"
     },
@@ -114,7 +114,7 @@
         "symbol": "ESCUDOS",
         "description": "Escudos is the everyday currency of dioalma.protocol, good to send money back and forward.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/Escudos.png",
+        "image": "https://cdn.chainroot.io/images/tokens/013c5fc5877ea41d59401dbad6cd7cf88d1f12f02bbc7ffe98f1b812e221a79d.png",
         "coinGeckoId": "",
         "color": "#040404"
     },
@@ -125,7 +125,7 @@
         "symbol": "ALEM",
         "description": "Alem is one of the tokens of the seven families of dioalmaprotocol, alem almagem arika danu torus dmt plasma, all seven families use dinheiros reis and escudos, dioalma.protcol the currency of the seven seas.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/Alem.png",
+        "image": "https://cdn.chainroot.io/images/tokens/d945cf74868a7f1776c191cbafd6a410b678a3d672133b257dd37d228c4d1162.png",
         "coinGeckoId": "",
         "color": "#d1b295"
     },
@@ -136,7 +136,7 @@
         "symbol": "AMG",
         "description": "almagem is one of the tokens of the seven families of dioalmaprotocol, alem almagem arika danu torus dmt plasma, all seven families use dinheiros reis and escudos, dioalma.protcol the currency of the seven seas.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/almagem.png",
+        "image": "https://cdn.chainroot.io/images/tokens/cefff36edbc4c059c10820cd80d4c951317ee56c09849ba2272faa6e24d98795.png",
         "coinGeckoId": "",
         "color": "#d1b295"
     },
@@ -147,7 +147,7 @@
         "symbol": "ARK",
         "description": "arika is one of the tokens of the seven families of dioalmaprotocol, alem almagem arika danu torus dmt plasma, all seven families use dinheiros reis and escudos, dioalma.protcol the currency of the seven seas.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/arika.png",
+        "image": "https://cdn.chainroot.io/images/tokens/2d90eeb3097437f214db069170c13cc7f54fd23d87cb1abb76282a35d185c0f0.png",
         "coinGeckoId": "",
         "color": "#d1b295"
     },
@@ -158,7 +158,7 @@
         "symbol": "DANU",
         "description": "danu is one of the tokens of the seven families of dioalmaprotocol, alem almagem arika danu torus dmt plasma, all seven families use dinheiros reis and escudos, dioalma.protcol the currency of the seven seas.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/danu.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7b6108b8894da6a85bef949c0c2ea20583a7225a4a607d86e8d838546d388159.png",
         "coinGeckoId": "",
         "color": "#d1b295"
     },
@@ -169,7 +169,7 @@
         "symbol": "TRS",
         "description": "torus is one of the tokens of the seven families of dioalmaprotocol, alem almagem arika danu torus dmt plasma, all seven families use dinheiros reis and escudos, dioalma.protcol the currency of the seven seas.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/trs.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ca7392c03bce041ef2c507f531d489006c5133372ccdf217dd207b7f462d4909.png",
         "coinGeckoId": "",
         "color": "#d1b295"
     },
@@ -180,7 +180,7 @@
         "symbol": "PLASMA",
         "description": "plasma is one of the tokens of the seven families of dioalmaprotocol, alem almagem arika danu torus dmt plasma, all seven families use dinheiros reis and escudos, dioalma.protcol the currency of the seven seas.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/plasma.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8b9af3b54bf93f31016731c94c94c790707312cdd094c8e4a231d7059edcf5ac.png",
         "coinGeckoId": "",
         "color": "#d1b295"
     },
@@ -191,7 +191,7 @@
         "symbol": "DMT",
         "description": "dmt is one of the tokens of the seven families of dioalmaprotocol, alem almagem arika danu torus dmt plasma, all seven families use dinheiros reis and escudos, dioalma.protcol the currency of the seven seas.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/dmt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/c8e5fd6735afe6f927d2683644f9b302c524b166ddc8d07523332e01a4b62555.png",
         "coinGeckoId": "",
         "color": "#d1b295"
     },
@@ -202,7 +202,7 @@
         "symbol": "xxx",
         "description": "Liquidity token, NFT, HARVEST FOR VALUE.",
         "decimals": 10,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/xxx3.png",
+        "image": "https://cdn.chainroot.io/images/tokens/a501aab6563187e3406fd9137fa652b57872d3d956dfbb4307a000647c11dacd.png",
         "coinGeckoId": "",
         "color": "#efe8e9"
     },
@@ -213,7 +213,7 @@
         "symbol": "GUGU",
         "description": "Just a meme coin on Terra.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/gugu.png",
+        "image": "https://cdn.chainroot.io/images/tokens/f6d1218e5ec2825602b6214250b478e3872efc48fddd1c9418061d2ff6fdecd3.png",
         "coinGeckoId": "",
         "color": "#e3e2e5"
     },
@@ -224,7 +224,7 @@
         "symbol": "SAYVE",
         "description": "Sayve is a revolutionary language learning app in the Web3 era that combines gamification, blockchain technology, and a Metaverse experience to motivate users to learn languages while earning rewards.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/sayve.png",
+        "image": "https://cdn.chainroot.io/images/tokens/f823124ab2eca237ffb2fe666033d45bbac89e347d2cc78b8fc612fcc656484d.png",
         "coinGeckoId": "",
         "color": "#f3ebdb"
     },
@@ -235,7 +235,7 @@
         "symbol": "NICO",
         "description": "Nico Dao Money",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/nicodao.png",
+        "image": "https://cdn.chainroot.io/images/tokens/92767e7fde07ee62d930ad65eeb11a76e78ef1242165f1a93b2b0206a584aaeb.png",
         "coinGeckoId": "",
         "color": "#f1cc79"
     },
@@ -246,7 +246,7 @@
         "symbol": "SEAS",
         "description": "Sailing the Seas DAO is a community DAO built on Enterprise on Terra",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/SEAS.png",
+        "image": "https://cdn.chainroot.io/images/tokens/c4ed20f065afc9e1bab073ebadb720734532fa8acba6c5709542b0e8626eba4b.png",
         "coinGeckoId": "",
         "color": "#c0943f"
     },
@@ -257,7 +257,7 @@
         "symbol": "BITZ",
         "description": "A community DAO built on Enterprise",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/BITZ.png",
+        "image": "https://cdn.chainroot.io/images/tokens/fa9fce805d79204659e168dd14f8ee3a9e2feb753a3a03a4c1a6dc1625de669e.png",
         "coinGeckoId": "",
         "color": "#dd6a30"
     },
@@ -268,7 +268,7 @@
         "symbol": "SEUL",
         "description": "SEUL DAO",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/seul.png",
+        "image": "https://cdn.chainroot.io/images/tokens/b2db519038c7b99f24d5a6869ae9aff114192fad1c2aae7ff423079e6df497c7.png",
         "coinGeckoId": "",
         "color": "#0da8c9"
     },
@@ -279,7 +279,7 @@
         "symbol": "xSEUL",
         "description": "SEUL DAO",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/xseul.png",
+        "image": "https://cdn.chainroot.io/images/tokens/db72e689b5f0eab6579309b22ca29720a46ccab1217e32ce1b3365544fcb641e.png",
         "coinGeckoId": "",
         "color": "#0ba7ce"
     },
@@ -290,7 +290,7 @@
         "symbol": "ITO",
         "description": "ITO DAO",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/I.png",
+        "image": "https://cdn.chainroot.io/images/tokens/23b300eee0d9fc020e7256812f4fefb97620a7c60fa1a8c1d544833c8d3fff9c.png",
         "coinGeckoId": "",
         "color": "#f8d034"
     },
@@ -301,7 +301,7 @@
         "symbol": "ARMANI",
         "description": "Chris Armani Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/armani.png",
+        "image": "https://cdn.chainroot.io/images/tokens/d716eb4c3797bc486414368387f156d2e54cebbbf04055cb9ed5eb1f4fd364eb.png",
         "coinGeckoId": "",
         "color": "#d19a84"
     },
@@ -312,7 +312,7 @@
         "symbol": "DROGO",
         "description": "useless meme coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/drogo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/6435522f44afe230176990085a86dccad7bb5f1fcd7a69bc18a5e99a12e5ceed.png",
         "coinGeckoId": "",
         "color": "#ae987b"
     },
@@ -323,7 +323,7 @@
         "symbol": "ADO",
         "description": "ado the flower of night",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/ADO.png",
+        "image": "https://cdn.chainroot.io/images/tokens/fa505a3e3443a81f977762ebc25b3f3516e1b254986fa144e3b17f437ea7db47.png",
         "coinGeckoId": "",
         "color": "#040607"
     },
@@ -334,7 +334,7 @@
         "symbol": "DNA",
         "description": "DNA DAO",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/DNA.png",
+        "image": "https://cdn.chainroot.io/images/tokens/3850a9833b43db97db7d8ca7ee8441411952ca14daec7a48f1f861e26bc950af.png",
         "coinGeckoId": "",
         "color": "#232333"
     },
@@ -345,7 +345,7 @@
         "symbol": "BMOS",
         "description": "Bitmos opens doors for BRC20 tokens to thrive alongside established players in the Cosmos Network, revolutionizing decentralized finance (DeFi) for all.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/bitmos.png",
+        "image": "https://cdn.chainroot.io/images/tokens/240d04ebcf62b90e1f33dc54c82c342516467e48a8e81a48872621cf36e7370e.png",
         "coinGeckoId": "",
         "color": "#0c0704"
     },
@@ -356,7 +356,7 @@
         "symbol": "CLON",
         "description": "ClonEliteFund invests in Cosmos ecosystem projects, focusing on scalability, security, and interoperability to maximize returns",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/clon1.png",
+        "image": "https://cdn.chainroot.io/images/tokens/0fa2c4e95e13ec17f0bbd3712a448509edea97e9b8ab57f3fb1c8c802d706277.png",
         "coinGeckoId": "",
         "color": "#c7cbcf"
     }

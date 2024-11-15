@@ -6,7 +6,7 @@
         "symbol": "BCNA",
         "description": "Bitcanna Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bitcanna/asset/bcna.png",
+        "image": "https://cdn.chainroot.io/images/tokens/bcna.png",
         "coinGeckoId": "bitcanna",
         "color": "#00B786"
     }

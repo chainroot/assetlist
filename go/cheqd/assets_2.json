@@ -6,7 +6,7 @@
         "symbol": "CHEQ",
         "description": "Cheqd Network Staking Coin",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cheqd/asset/cheq.png",
+        "image": "https://cdn.chainroot.io/images/tokens/cheq.png",
         "coinGeckoId": "cheqd-network",
         "color": "#fc5f04"
     }

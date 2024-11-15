@@ -6,7 +6,7 @@
     "symbol": "WCRO",
     "description": "",
     "decimals": 18,
-    "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cronos/asset/wcro.png",
+    "image": "https://cdn.chainroot.io/images/tokens/wcro.png",
     "coinGeckoId": "wrapped-cro",
     "wallet_preload": true
   },
@@ -17,7 +17,7 @@
     "symbol": "USDT",
     "description": "",
     "decimals": 6,
-    "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+    "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
     "coinGeckoId": "tether",
     "wallet_preload": true
   },
@@ -28,7 +28,7 @@
     "symbol": "USDC",
     "description": "",
     "decimals": 6,
-    "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+    "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
     "coinGeckoId": "usd-coin",
     "wallet_preload": true
   },
@@ -39,7 +39,7 @@
     "symbol": "WBTC",
     "description": "",
     "decimals": 8,
-    "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/wbtc.png",
+    "image": "https://cdn.chainroot.io/images/tokens/wbtc.png",
     "coinGeckoId": "wrapped-bitcoin"
   },
   {
@@ -49,7 +49,7 @@
     "symbol": "ATOM",
     "description": "",
     "decimals": 6,
-    "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/asset/atom.png",
+    "image": "https://cdn.chainroot.io/images/tokens/atom.png",
     "coinGeckoId": "cosmos"
   },
   {
@@ -59,7 +59,7 @@
     "symbol": "DOGE",
     "description": "",
     "decimals": 8,
-    "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/doge.png",
+    "image": "https://cdn.chainroot.io/images/tokens/doge.png",
     "coinGeckoId": "dogecoin"
   },
   {
@@ -69,7 +69,7 @@
     "symbol": "SHIB",
     "description": "",
     "decimals": 18,
-    "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/shib.png",
+    "image": "https://cdn.chainroot.io/images/tokens/shib.png",
     "coinGeckoId": "shiba-inu"
   },
   {
@@ -79,7 +79,7 @@
     "symbol": "DAI",
     "description": "DAI",
     "decimals": 18,
-    "image": "https://static.okx.com/cdn/wallet/logo/dai01.png",
+    "image": "https://cdn.chainroot.io/images/tokens/ff316d803634431b58b5c8e6288d8da3aef2286a50c376cd465b37a40d83d30a.png",
     "coinGeckoId": "dai"
   },
   {
@@ -89,7 +89,7 @@
     "symbol": "TUSD",
     "description": "TUSD",
     "decimals": 18,
-    "image": "https://static.okx.com/cdn/wallet/logo/tusd01.png",
+    "image": "https://cdn.chainroot.io/images/tokens/6aea2c484e259359a030609e560022f4079c6048dbb0d05259a90bff979d66fc.png",
     "coinGeckoId": "true-usd"
   },
   {
@@ -109,7 +109,7 @@
     "symbol": "VVS",
     "description": "VVS",
     "decimals": 18,
-    "image": "https://static.okx.com/cdn/wallet/logo/VVS-fbf5a8ec98d44b828746db5dd6b865f2-20220719.png",
+    "image": "https://cdn.chainroot.io/images/tokens/35c08e8f9d180dfcea2b786ca0b3d1358890e72b2933eb37a4c4922c20c612ca.png",
     "coinGeckoId": "vvs-finance"
   },
   {
@@ -119,7 +119,7 @@
     "symbol": "MMF",
     "description": "MMF",
     "decimals": 18,
-    "image": "https://static.okx.com/cdn/wallet/logo/MMF-f4d2b8aaf67548d88f61ee13ffee5a99-20220719.png",
+    "image": "https://cdn.chainroot.io/images/tokens/a4a34dadacc5b643081c4911360612955985999efc62549502e539156bc94513.png",
     "coinGeckoId": "mmfinance"
   },
   {
@@ -129,7 +129,7 @@
     "symbol": "TONIC",
     "description": "TONIC",
     "decimals": 18,
-    "image": "https://static.okx.com/cdn/wallet/logo/TONIC-f486cab2632947238288d7d8db76f709-20220719.png",
+    "image": "https://cdn.chainroot.io/images/tokens/3d4aac4a544007260620a497d584953c75b3548969f6580c5e766c2b70bc3597.png",
     "coinGeckoId": "tectonic"
   },
   {
@@ -139,7 +139,7 @@
     "symbol": "SINGLE",
     "description": "SINGLE",
     "decimals": 18,
-    "image": "https://static.okx.com/cdn/wallet/logo/SINGLE-cc210a9661a9451aaefecd0b0a3c0536-20220719.png",
+    "image": "https://cdn.chainroot.io/images/tokens/2bce012472d04f8fe99d0b5d30b595a8248c417aa21fe595ea5b7517ecdf8396.png",
     "coinGeckoId": ""
   },
   {
@@ -149,7 +149,7 @@
     "symbol": "SVN",
     "description": "SVN",
     "decimals": 18,
-    "image": "https://static.okx.com/cdn/wallet/logo/SVN-7cb96c82b0494d9d8580755ab4030346-20220719.png",
+    "image": "https://cdn.chainroot.io/images/tokens/d812804c59c9457f84c828c02e1d5caa6f12ad31c6d501af8e520fcd56d6b21d.png",
     "coinGeckoId": "savanna"
   },
   {
@@ -159,7 +159,7 @@
     "symbol": "CRN",
     "description": "CRN",
     "decimals": 18,
-    "image": "https://static.okx.com/cdn/wallet/logo/cro.png",
+    "image": "https://cdn.chainroot.io/images/tokens/0338b43625b745bb1843aec70623bc347442399d4a27720e5cae97512457d24a.png",
     "coinGeckoId": ""
   },
   {
@@ -169,7 +169,7 @@
     "symbol": "CRONA",
     "description": "CRONA",
     "decimals": 18,
-    "image": "https://static.okx.com/cdn/wallet/logo/CRONA-683bcc76625049d5aa58c5a0994b451d-20220719.png",
+    "image": "https://cdn.chainroot.io/images/tokens/3d958c786a7dbd116127a752b28251653cae73ad9458c5dfabc0f30a3b63c304.png",
     "coinGeckoId": "cronaswap"
   },
   {
@@ -179,7 +179,7 @@
     "symbol": "DARK",
     "description": "DARK",
     "decimals": 18,
-    "image": "https://static.okx.com/cdn/wallet/logo/dark-0fba6f2c5f5340c998ccf3b24c67263e-20220720.png",
+    "image": "https://cdn.chainroot.io/images/tokens/a1aefcab4c38cbd068c5e5d25f415957fc17729bdd2a4f6e526aafe66782bf29.png",
     "coinGeckoId": ""
   },
   {
@@ -189,7 +189,7 @@
     "symbol": "MMO",
     "description": "MMO",
     "decimals": 18,
-    "image": "https://static.okx.com/cdn/wallet/logo/MMO-fe8f22ba45664d4e8bee95938e632733-20220719.png",
+    "image": "https://cdn.chainroot.io/images/tokens/fc042d8ff3673db79e68c8466e5962b51c1aebf9371994642b2e0ce68c627be0.png",
     "coinGeckoId": "mad-meerkat-optimizer"
   },
   {
@@ -199,7 +199,7 @@
     "symbol": "MSHARE",
     "description": "MSHARE",
     "decimals": 18,
-    "image": "https://static.okx.com/cdn/wallet/logo/mshare-b31296e52d2f43da89436190ea98053e-20220721.png",
+    "image": "https://cdn.chainroot.io/images/tokens/2f93d8da7c3c291a8bea2c611f390d9b5d8f3ea65af9a577b37d2bfbef8bd6b0.png",
     "coinGeckoId": "meerkat-shares"
   },
   {
@@ -209,7 +209,7 @@
     "symbol": "METF",
     "description": "METF",
     "decimals": 18,
-    "image": "https://static.okx.com/cdn/wallet/logo/metf-ef5ba336290049febc4332e19fcc8916-20220721.png",
+    "image": "https://cdn.chainroot.io/images/tokens/50e11c8e0c4f5ab6fa8e267724a81c73b22fdfd7683552eb7cdd0d03aabbdee8.png",
     "coinGeckoId": ""
   },
   {
@@ -219,7 +219,7 @@
     "symbol": "CRK",
     "description": "CRK",
     "decimals": 9,
-    "image": "https://static.okx.com/cdn/wallet/logo/CRK-29bf51a58c3a4bf5b7856d31c167b290-20220719.png",
+    "image": "https://cdn.chainroot.io/images/tokens/a99aab9e9317daf4a96ecf285f135255c7d60ec9dc10589b039302a9066f2609.png",
     "coinGeckoId": "croking"
   },
   {
@@ -229,7 +229,7 @@
     "symbol": "ELON",
     "description": "ELON",
     "decimals": 18,
-    "image": "https://static.okx.com/cdn/wallet/logo/BNBSmartChain-7567-231240808.png",
+    "image": "https://cdn.chainroot.io/images/tokens/6e3c8d56b98f2a4457d96fd647cd3ba3a786395ebc03fdeda5db9018631fa85b.png",
     "coinGeckoId": ""
   },
   {
@@ -239,7 +239,7 @@
     "symbol": "CGS",
     "description": "CGS",
     "decimals": 18,
-    "image": "https://static.okx.com/cdn/wallet/logo/CGS-20220719.png",
+    "image": "https://cdn.chainroot.io/images/tokens/02d3298341fbad41e1453e5c8c6dd8b86ad9abd0ab606ce33031810d10108b11.png",
     "coinGeckoId": ""
   },
   {
@@ -249,7 +249,7 @@
     "symbol": "SKY",
     "description": "SKY",
     "decimals": 18,
-    "image": "https://static.okx.com/cdn/wallet/logo/sky-ce3d39b023ec4d199e692ce5bb13ef4d-20220720.png",
+    "image": "https://cdn.chainroot.io/images/tokens/0b8bc07dee73f211a9c48655108f713cbbdb8f027212c5020cc9e587e37a7be0.png",
     "coinGeckoId": "darkcrypto-share"
   },
   {
@@ -259,7 +259,7 @@
     "symbol": "LUNC",
     "description": "LUNC",
     "decimals": 6,
-    "image": "https://static.okx.com/cdn/wallet/logo/LUNA-20220719.png",
+    "image": "https://cdn.chainroot.io/images/tokens/4c8236066507076c50ebbe147fb0fcf4340c526a1b78a0486eb7d23c8c5a789d.png",
     "coinGeckoId": "terra-luna"
   },
   {
@@ -269,7 +269,7 @@
     "symbol": "MOON",
     "description": "MOON",
     "decimals": 9,
-    "image": "https://static.okx.com/cdn/wallet/logo/MOON-1f6f2a1fabbc439f9799cbada45efb3c-20220719.png",
+    "image": "https://cdn.chainroot.io/images/tokens/834f36c05ec5e5a342a8d1fe9fdf1151f46e5664911cb658376cefcfedef33bf.png",
     "coinGeckoId": ""
   },
   {
@@ -279,7 +279,7 @@
     "symbol": "CRX",
     "description": "CRX",
     "decimals": 18,
-    "image": "https://static.okx.com/cdn/wallet/logo/crx-b7b7a769f95e469a8f69cb6967e98e46-20220720.jpg",
+    "image": "https://cdn.chainroot.io/images/tokens/02548e4ec9731a9762ac102156a41ff900342993d479d301fb0c3a1074c7e1d3.jpg",
     "coinGeckoId": "crodex"
   },
   {
@@ -289,7 +289,7 @@
     "symbol": "ADA",
     "description": "ADA",
     "decimals": 6,
-    "image": "https://static.okx.com/cdn/wallet/logo/ADA-20220328.png",
+    "image": "https://cdn.chainroot.io/images/tokens/f6e7ba298ec143a3ca93ee520baaeb98b5a95f05b887ff3472615e608b5093b7.png",
     "coinGeckoId": "cardano"
   },
   {
@@ -299,7 +299,7 @@
     "symbol": "NESS",
     "description": "NESS",
     "decimals": 18,
-    "image": "https://static.okx.com/cdn/wallet/logo/ness-312c7918b53141439156b96aafb82096-20220720.png",
+    "image": "https://cdn.chainroot.io/images/tokens/3648f27bed6aab139d22b7e29746ca9bf59bdfda6243f465cc6d24a45340ae3c.png",
     "coinGeckoId": ""
   },
   {
@@ -319,7 +319,7 @@
     "symbol": "SPHERE",
     "description": "SPHERE",
     "decimals": 18,
-    "image": "https://static.okx.com/cdn/wallet/logo/sphere-89191b4cabfc42eca3882616f2635d06-20220720.jpg",
+    "image": "https://cdn.chainroot.io/images/tokens/cd9de38c3f85d5636ca00ca7ff1ebcc0b9b7e848cf6934029ec43ad7ceff43c2.jpg",
     "coinGeckoId": ""
   },
   {
@@ -329,7 +329,7 @@
     "symbol": "CROISSANT",
     "description": "CROISSANT",
     "decimals": 18,
-    "image": "https://static.okx.com/cdn/wallet/logo/croissant-58ec5633c8864a0e82943cb71c29be99-20220720.png",
+    "image": "https://cdn.chainroot.io/images/tokens/5b7496a49d93bacf204360555ebcc1fe35f9b9b69aa08848e74536d21fba311c.png",
     "coinGeckoId": "croissant-games"
   },
   {
@@ -339,7 +339,7 @@
     "symbol": "MINO",
     "description": "MINO",
     "decimals": 9,
-    "image": "https://static.okx.com/cdn/wallet/logo/MINO-c55594928d4b48d097a710b44d834d40-20220719.png",
+    "image": "https://cdn.chainroot.io/images/tokens/217855f5f450ae667661cd5f05a0d81f46103e554f3f5b5261d5fd28262b6460.png",
     "coinGeckoId": ""
   },
   {
@@ -349,7 +349,7 @@
     "symbol": "LHRC",
     "description": "LHRC",
     "decimals": 18,
-    "image": "https://static.okx.com/cdn/wallet/logo/LHRC-0595264f67634514a458a8b7fe0d162b-20220719.png",
+    "image": "https://cdn.chainroot.io/images/tokens/fb2974cf5e561b61800a8e9a50cf89a74a33d75ef14fcc59071ce2cc0d55cbc0.png",
     "coinGeckoId": ""
   },
   {
@@ -359,7 +359,7 @@
     "symbol": "APE",
     "description": "APE",
     "decimals": 18,
-    "image": "https://static.okx.com/cdn/wallet/icon/77040_APE-20220825.png",
+    "image": "https://cdn.chainroot.io/images/tokens/e490993cf1adbd63b58e65b58483ca7ad7d7b44efa22be16a0af7465335c4bf1.png",
     "coinGeckoId": "apecoin"
   },
   {
@@ -369,7 +369,7 @@
     "symbol": "PAE",
     "description": "PAE",
     "decimals": 18,
-    "image": "https://static.okx.com/cdn/wallet/logo/pae-bf6b58bb56c444eabf9069d6ccdfb56e-20220823.png",
+    "image": "https://cdn.chainroot.io/images/tokens/384a8196c2e439bc704f4a67620ebd027f50bc8ccfbd76d030aedecb63208daa.png",
     "coinGeckoId": ""
   },
   {
@@ -379,7 +379,7 @@
     "symbol": "MAI",
     "description": "MAI",
     "decimals": 18,
-    "image": "https://static.okx.com/cdn/wallet/logo/mimatic-4260095d2f504c009e26fce9d4384c33-20220721.png",
+    "image": "https://cdn.chainroot.io/images/tokens/ef354949080d3ab7eddb8f6d01505702ce0f9a270bba8497996185ba5ff2898d.png",
     "coinGeckoId": "mimatic"
   },
   {
@@ -389,7 +389,7 @@
     "symbol": "ONI",
     "description": "ONI",
     "decimals": 18,
-    "image": "https://static.okx.com/cdn/wallet/icon/77043_ONI-20220825.png",
+    "image": "https://cdn.chainroot.io/images/tokens/0aeda448b61cef09254283a342b8702a60c610a4d108cdee8ed5c50e0e09f3f6.png",
     "coinGeckoId": "oni-token"
   },
   {
@@ -399,7 +399,7 @@
     "symbol": "DoKEN",
     "description": "DoKEN",
     "decimals": 18,
-    "image": "https://static.okx.com/cdn/wallet/icon/77044_DoKEN-20220825.png",
+    "image": "https://cdn.chainroot.io/images/tokens/4613bdedb38cf2d2e8b1dba167642999267d0b83d9af70df7d8ae45f2f780451.png",
     "coinGeckoId": ""
   },
   {
@@ -409,7 +409,7 @@
     "symbol": "BIFI",
     "description": "BIFI",
     "decimals": 18,
-    "image": "https://static.okx.com/cdn/wallet/logo/bifi-8274b2e310794cf8b670eeb52ad3cd50-20220720.png",
+    "image": "https://cdn.chainroot.io/images/tokens/6f49e52c3888fd1c95607a45aa0ed507eeb4d60b001004426218dd5cf5298ab1.png",
     "coinGeckoId": "beefy-finance"
   },
   {
@@ -419,7 +419,7 @@
     "symbol": "BASE",
     "description": "BASE",
     "decimals": 18,
-    "image": "https://static.okx.com/cdn/wallet/logo/77046_BASE-20220830.png",
+    "image": "https://cdn.chainroot.io/images/tokens/5ae93dc4ecd45f8cccc42bbc22b848f8fb9c4cb113c3860278bdb0d060534902.png",
     "coinGeckoId": ""
   },
   {
@@ -429,7 +429,7 @@
     "symbol": "GHC",
     "description": "GHC",
     "decimals": 18,
-    "image": "https://static.okx.com/cdn/wallet/logo/GHC-510bf5b155614e2898ff64ca0e0dd9ef-20220719.png",
+    "image": "https://cdn.chainroot.io/images/tokens/c7872588d66f3011b3f171ead2ab7ac8d57f76adec6fb78db0c005855c5051d2.png",
     "coinGeckoId": ""
   },
   {
@@ -439,7 +439,7 @@
     "symbol": "BTE",
     "description": "BTE",
     "decimals": 18,
-    "image": "https://static.okx.com/cdn/wallet/logo/bte-784090d489434127a698241251fe86e3-20220720.png",
+    "image": "https://cdn.chainroot.io/images/tokens/5552b9d477fa80c10af5ce43c27375e9cd78207bdbb30e706f3e9b8fd13dc3ef.png",
     "coinGeckoId": "betero"
   },
   {
@@ -449,7 +449,7 @@
     "symbol": "BISON",
     "description": "BISON",
     "decimals": 18,
-    "image": "https://static.okx.com/cdn/wallet/logo/bison-f0c5e9d0a44f47d5899972f611dd23b0-20220720.png",
+    "image": "https://cdn.chainroot.io/images/tokens/42c5bd033b227970f6985136916ca136dbf67e218cdb7d2ef527ee756e8cae56.png",
     "coinGeckoId": ""
   },
   {
@@ -459,7 +459,7 @@
     "symbol": "Army",
     "description": "Army",
     "decimals": 18,
-    "image": "https://static.okx.com/cdn/wallet/icon/77052_Army-20220825.png",
+    "image": "https://cdn.chainroot.io/images/tokens/76ddbe601fdf04d6577da5397626a82a7c95004b464dde0eaad07d1ce88e3a71.png",
     "coinGeckoId": ""
   },
   {
@@ -469,7 +469,7 @@
     "symbol": "VERSA",
     "description": "VERSA",
     "decimals": 18,
-    "image": "https://static.okx.com/cdn/wallet/logo/VERSA-2fb4996c13ea401ea0d205774fb01f6b-20220719.png",
+    "image": "https://cdn.chainroot.io/images/tokens/15d69901ce271ed0110c94fde33eceba714283acf5cb009b76608cb8943cf11d.png",
     "coinGeckoId": ""
   },
   {
@@ -479,7 +479,7 @@
     "symbol": "ORBS",
     "description": "ORBS",
     "decimals": 18,
-    "image": "https://static.okx.com/cdn/wallet/icon/77054_ORBS-20220826.png",
+    "image": "https://cdn.chainroot.io/images/tokens/3aa18f5cce4e5634ba9cbbba20858c4473d041917518f61dfda9dc01f245693f.png",
     "coinGeckoId": "orbs"
   },
   {
@@ -489,7 +489,7 @@
     "symbol": "DIBS",
     "description": "DIBS",
     "decimals": 18,
-    "image": "https://static.okx.com/cdn/wallet/logo/icon_custom_default_D.png",
+    "image": "https://cdn.chainroot.io/images/tokens/9cc79f71b48070ba21c17a669c3d1eff1198c51f44f4f8f110efed00202eb0dd.png",
     "coinGeckoId": ""
   },
   {
@@ -499,7 +499,7 @@
     "symbol": "NVT",
     "description": "NVT",
     "decimals": 8,
-    "image": "https://static.okx.com/cdn/wallet/logo/NVT-0xd1351ec15e8511658c2ba1e1e81e1e60aa39c9cd.png",
+    "image": "https://cdn.chainroot.io/images/tokens/d97d5a5f31138603088ed7a3f0a7aaea0450337b04575383eac3a433ba26f9f8.png",
     "coinGeckoId": "nervenetwork"
   }
 ]

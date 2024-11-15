@@ -6,7 +6,7 @@
         "symbol": "BTSG",
         "description": "BitSong Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bitsong/asset/btsg.png",
+        "image": "https://cdn.chainroot.io/images/tokens/btsg.png",
         "coinGeckoId": "bitsong",
         "color": "#FF005C"
     },
@@ -17,7 +17,7 @@
         "symbol": "ATOM",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/asset/atom.png",
+        "image": "https://cdn.chainroot.io/images/tokens/atom.png",
         "coinGeckoId": "cosmos",
         "ibc_info" : {
             "path": "cosmos>bitsong",
@@ -40,7 +40,7 @@
         "symbol": "CLAY",
         "description": "Adam Clay a BitSong Music FanToken.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/ft2D8E7041556CE93E1EFD66C07C45D551A6AAAE09.png"
+        "image": "https://cdn.chainroot.io/images/tokens/a486db4552586caac18dcd532dfd7f7e47a89489825d5db7e9fe8b1794a48847.png"
     },
     {
         "type": "native",
@@ -49,7 +49,7 @@
         "symbol": "404DR",
         "description": "404Deep Records a BitSong Music FanToken.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/ft99091610CCC66F4277C66D14AF2BC4C5EE52E27A.png"
+        "image": "https://cdn.chainroot.io/images/tokens/574c9297726c613d23163566fcc372590d670082d8d03e41e5d6f30c12126f14.png"
     },
     {
         "type": "native",
@@ -58,6 +58,6 @@
         "symbol": "N43",
         "description": "N43 a BitSong Music FanToken.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/ft387C1C279D962ED80C09C1D592A92C4275FD7C5D.png"
+        "image": "https://cdn.chainroot.io/images/tokens/b270d5ba061e47f21d1be03dc58e40662b9ea2069a62d29ace9e0a35e681ff53.png"
     }
 ]

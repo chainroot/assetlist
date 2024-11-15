@@ -6,7 +6,7 @@
         "symbol": "KLAY",
         "description": "Kaia Native Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kaia/asset/klay.png",
+        "image": "https://cdn.chainroot.io/images/tokens/klay.png",
         "coinGeckoId": "klay-token"
     }
 ]
