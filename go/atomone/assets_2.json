@@ -6,7 +6,7 @@
         "symbol": "ATONE",
         "description": "Atomone Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/atomone/asset/atone.png",
+        "image": "https://cdn.chainroot.io/images/tokens/atone.png",
         "coinGeckoId": "atomone"
     }
 ]

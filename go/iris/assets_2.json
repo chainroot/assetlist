@@ -6,7 +6,7 @@
         "symbol": "IRIS",
         "description": "IRISnet Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/iris/asset/iris.png",
+        "image": "https://cdn.chainroot.io/images/tokens/iris.png",
         "coinGeckoId": "iris-network",
         "color": "#00A8FF"
     },
@@ -17,7 +17,7 @@
         "symbol": "ATOM",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/asset/atom.png",
+        "image": "https://cdn.chainroot.io/images/tokens/atom.png",
         "coinGeckoId": "cosmos",
         "ibc_info" : {
             "path": "cosmos>iris",
@@ -40,7 +40,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
         "coinGeckoId": "osmosis",
         "ibc_info" : {
             "path": "osmosis>iris",
@@ -63,7 +63,7 @@
         "symbol": "ION",
         "description": "ION is the second native token of Osmosis.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ion.png",
         "coinGeckoId": "ion",
         "ibc_info" : {
             "path": "osmosis>iris",
@@ -86,7 +86,7 @@
         "symbol": "USDC.grv",
         "description": "Gravity Bridge USDC",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "usd-coin",
         "ibc_info" : {
             "path": "ethereum>gravity-bridge>iris",
@@ -109,7 +109,7 @@
         "symbol": "DAI.grv",
         "description": "Gravity Bridge DAI",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/dai.png",
+        "image": "https://cdn.chainroot.io/images/tokens/dai.png",
         "coinGeckoId": "dai",
         "ibc_info" : {
             "path": "ethereum>gravity-bridge>iris",
@@ -132,7 +132,7 @@
         "symbol": "WETH.grv",
         "description": "Gravity Bridge WETH",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+        "image": "https://cdn.chainroot.io/images/tokens/weth.png",
         "coinGeckoId": "weth",
         "ibc_info" : {
             "path": "ethereum>gravity-bridge>iris",
@@ -155,7 +155,7 @@
         "symbol": "WDT",
         "description": "Winner RDC",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/iris/asset/wdt.png"
+        "image": "https://cdn.chainroot.io/images/tokens/wdt.png"
     },
     {
         "type": "bridge",
@@ -164,7 +164,7 @@
         "symbol": "BNB",
         "description": "BNB on IRIS - Deprecated",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bnb-beacon-chain/asset/bnb.png",
+        "image": "https://cdn.chainroot.io/images/tokens/bnb.png",
         "coinGeckoId": "binancecoin",
         "bridge_info" : {
             "path": "bnb-beacon-chain>iris",
@@ -178,7 +178,7 @@
         "symbol": "BUSD",
         "description": "BUSD on IRIS - Deprecated",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bnb-beacon-chain/asset/busd.png",
+        "image": "https://cdn.chainroot.io/images/tokens/busd.png",
         "coinGeckoId": "binance-usd",
         "bridge_info" : {
             "path": "bnb-beacon-chain>iris",

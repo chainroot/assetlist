@@ -2,11 +2,11 @@
 SRC_DIR = src/chainlist/chain
 TARGET_DIR = go
 
-.PHONY: def update-registry update-chain-data
+.PHONY: def update-registry update-chain-data update-images
 # Find all asset_list.json files and their corresponding target directories
 FILES_TO_COPY = assets_2.json erc20_2.json cw20_2.json
 
-def: update-registry uupdate-chain-data
+def: update-chainlist update-chain-data update-images
 
 update-chainlist:
 	@echo "Updating cosmostation/chainlist submodule to latest"
@@ -23,4 +23,14 @@ update-chain-data:
 			fi; \
 		done; \
 	done
+
+# Command to update all JSON files in 'go/' directory for non-cosmostation URLs
+update-images:
+	@echo "Updating image URLs with hashed values"
+		bash ./replace_urls.sh
+	done
+	@echo "Updating image URLs with hashed values"
+		bash ./replace_chainlist.sh
+	done
+
 

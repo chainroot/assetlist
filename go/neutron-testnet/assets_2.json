@@ -6,7 +6,7 @@
         "symbol": "NTRN",
         "description": "The Native Main Dao Asset on Neutron Chain",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron-testnet/asset/ntrn.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ntrn.png",
         "coinGeckoId": ""
     },
     {
@@ -16,7 +16,7 @@
         "symbol": "dATOM",
         "description": "Drop staked ATOM(Neutron-testnet)",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron-testnet/asset/datom.png",
+        "image": "https://cdn.chainroot.io/images/tokens/datom.png",
         "coinGeckoId": ""
     },
     {
@@ -26,7 +26,7 @@
         "symbol": "dTIA",
         "description": "Drop Staked TIA(Neutron-testnet)",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron-testnet/asset/dtia.png",
+        "image": "https://cdn.chainroot.io/images/tokens/dtia.png",
         "coinGeckoId": ""
     },
     {
@@ -36,7 +36,7 @@
         "symbol": "ATOM",
         "description": "Cosmoshub Testnet Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos-testnet/asset/atom.png",
+        "image": "https://cdn.chainroot.io/images/tokens/atom.png",
         "coinGeckoId": "",
         "ibc_info": {
             "path": "cosmos-testnet>neutron-testnet",
@@ -59,7 +59,7 @@
         "symbol": "ASTRO.cw20",
         "description": "Astroport in Testnet",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/astro.png",
+        "image": "https://cdn.chainroot.io/images/tokens/astro.png",
         "coinGeckoId": "",
         "ibc_info": {
             "path": "terra-testnet>neutron-testnet",
@@ -82,7 +82,7 @@
         "symbol": "WETH.eth.axl",
         "description": "Wrapped Ether on Axelar (Testnet)",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+        "image": "https://cdn.chainroot.io/images/tokens/weth.png",
         "coinGeckoId": "",
         "ibc_info": {
             "path": "ethereum-testnet>axelar-testnet>neutron-testnet",
@@ -105,7 +105,7 @@
         "symbol": "wstETH",
         "description": "wstETH on Neutron Testnet.",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/wsteth.png",
+        "image": "https://cdn.chainroot.io/images/tokens/wsteth.png",
         "coinGeckoId": "",
         "bridge_info": {
             "path": "ethereum-testnet>neutron-testnet",

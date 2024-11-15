@@ -6,7 +6,7 @@
         "symbol": "CMDX",
         "description": "Comdex Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/comdex/asset/cmdx.png",
+        "image": "https://cdn.chainroot.io/images/tokens/cmdx.png",
         "coinGeckoId": "comdex",
         "color": "#FE4350"
     },
@@ -17,7 +17,7 @@
         "symbol": "HARBOR",
         "description": "Governance Token of Harbor protocol on Comdex network",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/comdex/asset/harbor.png",
+        "image": "https://cdn.chainroot.io/images/tokens/harbor.png",
         "coinGeckoId": "harbor-2",
         "color": "#645ca4"
     },
@@ -28,7 +28,7 @@
         "symbol": "CMST",
         "description": "Stable Token of Harbor protocol on Comdex network",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/comdex/asset/cmst.png",
+        "image": "https://cdn.chainroot.io/images/tokens/cmst.png",
         "coinGeckoId": "composite",
         "color": "#040404"
     },
@@ -39,7 +39,7 @@
         "symbol": "JUNO",
         "description": "Juno Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/juno.png",
+        "image": "https://cdn.chainroot.io/images/tokens/juno.png",
         "coinGeckoId": "juno-network",
         "ibc_info" : {
             "path": "juno>comdex",
@@ -62,7 +62,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
         "coinGeckoId": "osmosis",
         "ibc_info" : {
             "path": "osmosis>comdex",
@@ -85,7 +85,7 @@
         "symbol": "ATOM",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/asset/atom.png",
+        "image": "https://cdn.chainroot.io/images/tokens/atom.png",
         "coinGeckoId": "cosmos",
         "ibc_info" : {
             "path": "cosmos>comdex",
@@ -108,7 +108,7 @@
         "symbol": "USDC.eth.axl",
         "description": "Circle's stablecoin on Axelar",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "axlusdc",
         "ibc_info" : {
             "path": "ethereum>axelar>comdex",

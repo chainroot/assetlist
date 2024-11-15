@@ -6,7 +6,7 @@
         "symbol": "JUNO",
         "description": "Juno Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/juno.png",
+        "image": "https://cdn.chainroot.io/images/tokens/juno.png",
         "coinGeckoId": "juno-network",
         "color": "#F0827D"
     },
@@ -17,7 +17,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
         "coinGeckoId": "osmosis",
         "ibc_info" : {
             "path": "osmosis>juno",
@@ -40,7 +40,7 @@
         "symbol": "BTSG",
         "description": "BitSong Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bitsong/asset/btsg.png",
+        "image": "https://cdn.chainroot.io/images/tokens/btsg.png",
         "coinGeckoId": "bitsong",
         "ibc_info" : {
             "path": "bitsong>juno",
@@ -63,7 +63,7 @@
         "symbol": "STARS",
         "description": "Stargaze Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stargaze/asset/stars.png",
+        "image": "https://cdn.chainroot.io/images/tokens/stars.png",
         "coinGeckoId": "stargaze",
         "ibc_info" : {
             "path": "stargaze>juno",
@@ -86,7 +86,7 @@
         "symbol": "HUAHUA",
         "description": "Chihuahua Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/chihuahua/asset/huahua.png",
+        "image": "https://cdn.chainroot.io/images/tokens/huahua.png",
         "coinGeckoId": "chihuahua-token",
         "ibc_info" : {
             "path": "chihuahua>juno",
@@ -109,7 +109,7 @@
         "symbol": "DIG",
         "description": "Dig Chain Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/dig-chain/asset/dig.png",
+        "image": "https://cdn.chainroot.io/images/tokens/dig.png",
         "coinGeckoId": "dig-chain",
         "ibc_info" : {
             "path": "dig-chain>juno",
@@ -132,7 +132,7 @@
         "symbol": "XPRT",
         "description": "Persistence Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/persistence/asset/xprt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/xprt.png",
         "coinGeckoId": "persistence",
         "ibc_info" : {
             "path": "persistence>juno",
@@ -155,7 +155,7 @@
         "symbol": "CMDX",
         "description": "Comdex Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/comdex/asset/cmdx.png",
+        "image": "https://cdn.chainroot.io/images/tokens/cmdx.png",
         "coinGeckoId": "comdex",
         "ibc_info" : {
             "path": "comdex>juno",
@@ -178,7 +178,7 @@
         "symbol": "AKT",
         "description": "Akash Network Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/akash/asset/akt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/akt.png",
         "coinGeckoId": "akash-network",
         "ibc_info" : {
             "path": "akash>juno",
@@ -201,7 +201,7 @@
         "symbol": "ATOM",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/asset/atom.png",
+        "image": "https://cdn.chainroot.io/images/tokens/atom.png",
         "coinGeckoId": "cosmos",
         "ibc_info" : {
             "path": "cosmos>juno",
@@ -224,7 +224,7 @@
         "symbol": "SCRT",
         "description": "Secret Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/secret/asset/scrt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/scrt.png",
         "coinGeckoId": "secret",
         "ibc_info" : {
             "path": "secret>juno",
@@ -247,7 +247,7 @@
         "symbol": "USDC.eth.axl",
         "description": "Circle's stablecoin on Axelar",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "axlusdc",
         "ibc_info" : {
             "path": "ethereum>axelar>juno",
@@ -270,7 +270,7 @@
         "symbol": "MARS.old",
         "description": "Mars Protocol token (pre-migration)",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/mars-protocol/asset/mars-ibc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/mars-ibc.png",
         "coinGeckoId": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
         "ibc_info" : {
             "path": "mars-protocol>juno",
@@ -293,7 +293,7 @@
         "symbol": "WETH.eth.axl",
         "description": "Wrapped Ether on Axelar",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+        "image": "https://cdn.chainroot.io/images/tokens/weth.png",
         "coinGeckoId": "axlweth",
         "ibc_info" : {
             "path": "ethereum>axelar>juno",
@@ -316,7 +316,7 @@
         "symbol": "WHALE",
         "description": "Migaloo Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/migaloo/asset/whitewhale.png",
+        "image": "https://cdn.chainroot.io/images/tokens/whitewhale.png",
         "coinGeckoId": "white-whale",
         "ibc_info" : {
             "path": "migaloo>juno",
@@ -339,7 +339,7 @@
         "symbol": "ampWHALE",
         "description": "ampWHALE",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/migaloo/asset/ampwhale.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ampwhale.png",
         "coinGeckoId": "",
         "ibc_info" : {
             "path": "migaloo>juno",
@@ -362,7 +362,7 @@
         "symbol": "bWHALE",
         "description": "BackBoneLabs Liquid Staked WHALE",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/migaloo/asset/bwhale.png",
+        "image": "https://cdn.chainroot.io/images/tokens/bwhale.png",
         "coinGeckoId": "backbone-labs-staked-whale",
         "ibc_info" : {
             "path": "migaloo>juno",
@@ -385,7 +385,7 @@
         "symbol": "RSTK",
         "description": "Restake DAO Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/rstk.png",
+        "image": "https://cdn.chainroot.io/images/tokens/454e71c239d2eca91fecf9d46715507bceec71fe81289d4ff19065a459d30e40.png",
         "coinGeckoId": "",
         "ibc_info" : {
             "path": "migaloo>juno",
@@ -408,7 +408,7 @@
         "symbol": "CUB",
         "description": "Lion Cub DAO is a useless meme community DAO on Terra.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/cub.png",
+        "image": "https://cdn.chainroot.io/images/tokens/cub.png",
         "coinGeckoId": "",
         "ibc_info" : {
             "path": "terra>juno",
@@ -431,7 +431,7 @@
         "symbol": "BLUE",
         "description": "BLUE CUB DAO is a community DAO on Terra.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/blue.png",
+        "image": "https://cdn.chainroot.io/images/tokens/blue.png",
         "coinGeckoId": "",
         "ibc_info" : {
             "path": "terra>juno",
@@ -454,7 +454,7 @@
         "symbol": "NOIS",
         "description": "Nois Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/nois/asset/nois.png",
+        "image": "https://cdn.chainroot.io/images/tokens/nois.png",
         "coinGeckoId": "nois",
         "ibc_info" : {
             "path": "nois>juno",
@@ -477,7 +477,7 @@
         "symbol": "USDC",
         "description": "USD Coin - Directly minted on the Noble chain by the Circle Foundation.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble/asset/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "usd-coin",
         "ibc_info" : {
             "path": "noble>juno",
@@ -500,7 +500,7 @@
         "symbol": "WIND",
         "description": "Wind Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/wind.png",
+        "image": "https://cdn.chainroot.io/images/tokens/wind.png",
         "coinGeckoId": "",
         "color": "#122b4d"
     },
@@ -511,7 +511,7 @@
         "symbol": "ARENA",
         "description": "The token for the Arena DAO",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/arena.png",
+        "image": "https://cdn.chainroot.io/images/tokens/a01f03a24d52a149b18e5818663795b27799e413a648349dd02ac20bf8ce14ba.png",
         "coinGeckoId": "",
         "color": "#dc6c24"
     },
@@ -522,7 +522,7 @@
         "symbol": "ashWIND",
         "description": "ashWIND",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/wind.ash.png",
+        "image": "https://cdn.chainroot.io/images/tokens/6e20eb39a75019fedab43d051feb8e84893099b0f1aa49ea4149a372a134a4d8.png",
         "coinGeckoId": ""
     },
     {
@@ -532,7 +532,7 @@
         "symbol": "DGL",
         "description": "Licorice",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/dgl.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ccc8e3e6fd06b946c8848d3e4ac04ad0bab5ac604060249949666d136d3a4e2c.png",
         "coinGeckoId": "dfe0e0"
     },
     {
@@ -542,7 +542,7 @@
         "symbol": "NEXX",
         "description": "NEXX GEN AI",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/nexx.png",
+        "image": "https://cdn.chainroot.io/images/tokens/054d7ef399f5c9e96fbc18510558143123489cb5085bac4afce6279d0004fefa.png",
         "coinGeckoId": "040405"
     }
 ]

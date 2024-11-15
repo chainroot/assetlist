@@ -6,7 +6,7 @@
         "symbol": "HEDGE",
         "description": "The native staking token of the Hedge Testnet blockchain.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/hedge-testent/asset/uhedge.png",
+        "image": "https://cdn.chainroot.io/images/tokens/uhedge.png",
         "coinGeckoId": ""
     }
 ]

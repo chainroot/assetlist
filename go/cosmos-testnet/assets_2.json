@@ -6,7 +6,7 @@
         "symbol": "ATOM",
         "description": "Cosmoshub Testnet Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos-testnet/asset/atom.png",
+        "image": "https://cdn.chainroot.io/images/tokens/atom.png",
         "coinGeckoId": "",
         "color": "#9248DB"
     }

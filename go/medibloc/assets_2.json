@@ -6,7 +6,7 @@
         "symbol": "MED",
         "description": "Medibloc Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/medibloc/asset/med.png",
+        "image": "https://cdn.chainroot.io/images/tokens/med.png",
         "coinGeckoId": "medibloc",
         "color": "#79AAF2"
     },
@@ -17,7 +17,7 @@
         "symbol": "ION",
         "description": "ION is the second native token of Osmosis.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ion.png",
         "coinGeckoId": "ion",
         "ibc_info" : {
             "path": "osmosis>medibloc",
@@ -40,7 +40,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
         "coinGeckoId": "osmosis",
         "ibc_info" : {
             "path": "osmosis>medibloc",

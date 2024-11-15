@@ -6,7 +6,7 @@
         "symbol": "IXO",
         "description": "Ixo Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ixo/asset/ixo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ixo.png",
         "coinGeckoId": "ixo",
         "color": "#06B7DD"
     }

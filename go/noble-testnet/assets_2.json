@@ -6,7 +6,7 @@
         "symbol": "STAKE",
         "description": "Noble testnet Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble-testnet/asset/stake.png",
+        "image": "https://cdn.chainroot.io/images/tokens/stake.png",
         "coinGeckoId": ""
     },
     {
@@ -16,7 +16,7 @@
         "symbol": "USDC",
         "description": "Noble testnet Native Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble-testnet/asset/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": ""
     },
     {
@@ -26,7 +26,7 @@
         "symbol": "USDY",
         "description": "Noble testnet Native Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdy.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdy.png",
         "coinGeckoId": ""
     },
     {
@@ -36,7 +36,7 @@
         "symbol": "USYC",
         "description": "Noble testnet Native Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble-testnet/asset/usyc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usyc.png",
         "coinGeckoId": ""
     },
     {
@@ -46,7 +46,7 @@
         "symbol": "EURe",
         "description": "Noble testnet Native Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble-testnet/asset/eure.png",
+        "image": "https://cdn.chainroot.io/images/tokens/eure.png",
         "coinGeckoId": ""
     }
 ]

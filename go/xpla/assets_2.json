@@ -6,7 +6,7 @@
         "symbol": "XPLA",
         "description": "XPLA Staking Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/xpla/asset/xpla.png",
+        "image": "https://cdn.chainroot.io/images/tokens/xpla.png",
         "coinGeckoId": "xpla",
         "color": "#00B1FF"
     },
@@ -17,7 +17,7 @@
         "symbol": "USDC.eth.axl",
         "description": "Circle's stablecoin on Axelar",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "axlusdc",
         "ibc_info" : {
             "path": "ethereum>axelar>xpla",

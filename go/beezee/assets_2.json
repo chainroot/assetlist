@@ -6,7 +6,7 @@
         "symbol": "BZE",
         "description": "BeeZee Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/beezee/images/bze.png",
+        "image": "https://cdn.chainroot.io/images/tokens/91c23a8daed58c80046d8c407405fe4c4ab2cb39dcdbacf4c87cbeda6663efc3.png",
         "coinGeckoId": "bzedge",
         "color": "#079fd7"
     }

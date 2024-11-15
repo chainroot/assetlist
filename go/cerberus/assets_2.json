@@ -6,7 +6,7 @@
         "symbol": "CRBRUS",
         "description": "Cerberus Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cerberus/asset/crbrus.png",
+        "image": "https://cdn.chainroot.io/images/tokens/crbrus.png",
         "coinGeckoId": "cerberus-2",
         "color": "#D7AD17"
     }

@@ -6,7 +6,7 @@
         "symbol": "DYS",
         "description": "Dyson Protocol Staking Coin",
         "decimals": 0,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/dyson-protocol/asset/dys.png",
+        "image": "https://cdn.chainroot.io/images/tokens/dys.png",
         "coinGeckoId": "",
         "color": "#040404"
     },
@@ -17,7 +17,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
         "coinGeckoId": "osmosis",
         "ibc_info" : {
             "path": "osmosis>dyson-protocol",

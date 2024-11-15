@@ -6,7 +6,7 @@
         "symbol": "WHALE",
         "description": "Migaloo Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/migaloo/asset/whitewhale.png",
+        "image": "https://cdn.chainroot.io/images/tokens/whitewhale.png",
         "coinGeckoId": "white-whale"
     },
     {
@@ -16,7 +16,7 @@
         "symbol": "CUB",
         "description": "Lion Cub DAO is a useless meme community DAO on Terra.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/cub.png",
+        "image": "https://cdn.chainroot.io/images/tokens/cub.png",
         "coinGeckoId": "",
         "ibc_info" : {
             "path": "terra>migaloo",
@@ -39,7 +39,7 @@
         "symbol": "BLUE",
         "description": "BLUE CUB DAO is a community DAO on Terra.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/blue.png",
+        "image": "https://cdn.chainroot.io/images/tokens/blue.png",
         "coinGeckoId": "",
         "ibc_info" : {
             "path": "terra>migaloo",
@@ -62,7 +62,7 @@
         "symbol": "RAC",
         "description": "RAC",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/migaloo/asset/rac.png",
+        "image": "https://cdn.chainroot.io/images/tokens/rac.png",
         "coinGeckoId": "",
         "color": "#2b2434"
     },
@@ -73,7 +73,7 @@
         "symbol": "ampGASH",
         "description": "ERIS Liquid Alliance Staked GASH",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/migaloo/asset/ampGASH.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ampGASH.png",
         "coinGeckoId": "",
         "color": "#374455"
     },
@@ -84,7 +84,7 @@
         "symbol": "bWHALE",
         "description": "BackBoneLabs Liquid Staked WHALE",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/migaloo/asset/bwhale.png",
+        "image": "https://cdn.chainroot.io/images/tokens/bwhale.png",
         "coinGeckoId": "backbone-labs-staked-whale",
         "color": "#d8d8d8"
     },
@@ -95,7 +95,7 @@
         "symbol": "ampWHALE",
         "description": "ampWHALE",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/migaloo/asset/ampwhale.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ampwhale.png",
         "coinGeckoId": ""
     },
     {
@@ -105,7 +105,7 @@
         "symbol": "RSTK",
         "description": "Restake DAO Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/migaloo/images/rstk.png",
+        "image": "https://cdn.chainroot.io/images/tokens/454e71c239d2eca91fecf9d46715507bceec71fe81289d4ff19065a459d30e40.png",
         "coinGeckoId": "",
         "color": "#3ccc64"
     }

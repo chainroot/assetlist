@@ -6,7 +6,7 @@
         "symbol": "MARS",
         "description": "Mars Protocol is a cross-collateralized Money Market Protocol on Neutron and Osmosis.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/mars-protocol/asset/mars.png",
+        "image": "https://cdn.chainroot.io/images/tokens/mars.png",
         "coinGeckoId": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
         "color": "#DA3A14"
     },
@@ -17,7 +17,7 @@
         "symbol": "ATOM",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/asset/atom.png",
+        "image": "https://cdn.chainroot.io/images/tokens/atom.png",
         "coinGeckoId": "cosmos",
         "ibc_info" : {
             "path": "cosmos>osmosis>mars-protocol",
@@ -40,7 +40,7 @@
         "symbol": "USDC.eth.axl",
         "description": "Circle's stablecoin on Axelar",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "usd-coin",
         "ibc_info" : {
             "path": "ethereum>axelar>osmosis>mars-protocol",
@@ -63,7 +63,7 @@
         "symbol": "CRE",
         "description": "Crescent Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/crescent/asset/cre.png",
+        "image": "https://cdn.chainroot.io/images/tokens/cre.png",
         "coinGeckoId": "crescent-network",
         "ibc_info" : {
             "path": "crescent>mars-protocol",
@@ -87,7 +87,7 @@
         "symbol": "JUNO",
         "description": "Juno Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/juno.png",
+        "image": "https://cdn.chainroot.io/images/tokens/juno.png",
         "coinGeckoId": "juno-network",
         "ibc_info" : {
             "path": "juno>mars-protocol",
@@ -110,7 +110,7 @@
         "symbol": "KUJI",
         "description": "KUJI Staking Coin - Legacy",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kujira/asset/kuji.png",
+        "image": "https://cdn.chainroot.io/images/tokens/kuji.png",
         "coinGeckoId": "kujira",
         "ibc_info" : {
             "path": "kujira>mars-protocol",
@@ -134,7 +134,7 @@
         "symbol": "LUNA",
         "description": "Terra Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/luna.png",
+        "image": "https://cdn.chainroot.io/images/tokens/luna.png",
         "coinGeckoId": "terra",
         "ibc_info" : {
             "path": "terra>mars-protocol",
@@ -157,7 +157,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
         "coinGeckoId": "osmosis",
         "ibc_info" : {
             "path": "osmosis>mars-protocol",

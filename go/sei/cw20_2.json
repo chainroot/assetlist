@@ -6,7 +6,7 @@
         "symbol": "COOK",
         "description": "COOK",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sei/asset/cook.png",
+        "image": "https://cdn.chainroot.io/images/tokens/cook.png",
         "coinGeckoId": ""
     },
     {
@@ -16,7 +16,7 @@
         "symbol": "SEIDOW",
         "description": "SEIDOW",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sei/asset/seidow.png",
+        "image": "https://cdn.chainroot.io/images/tokens/seidow.png",
         "coinGeckoId": ""
     },
     {
@@ -26,7 +26,7 @@
         "symbol": "SABER",
         "description": "SABER",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sei/asset/saber.png",
+        "image": "https://cdn.chainroot.io/images/tokens/saber.png",
         "coinGeckoId": ""
     },
     {
@@ -36,7 +36,7 @@
         "symbol": "OOZARU",
         "description": "OOZARU is a meme token on SEI Network inspired by the iconic transformation in the Dragon Ball series",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sei/images/oozaru.png",
+        "image": "https://cdn.chainroot.io/images/tokens/fb94d45b0d99c1828f4437080ab8948a9b6b32965cc671cdcfc0fa7a54a94e95.png",
         "coinGeckoId": "",
         "color": "#2b1619"
     },
@@ -47,7 +47,7 @@
         "symbol": "SEIYAN",
         "description": "The Original Meme Coin of SEI Network",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sei/images/SEIYAN.png",
+        "image": "https://cdn.chainroot.io/images/tokens/a0e01f602be7983ae8f2bd957963826a3bbc6b60c05d1ac56922370bd61cf672.png",
         "coinGeckoId": "",
         "color": "#db1f22"
     }

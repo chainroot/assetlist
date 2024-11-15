@@ -6,7 +6,7 @@
         "symbol": "UMEE",
         "description": "Umee Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/umee/asset/umee.png",
+        "image": "https://cdn.chainroot.io/images/tokens/umee.png",
         "coinGeckoId": "umee",
         "color": "#BB90F8"
     },
@@ -17,7 +17,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
         "coinGeckoId": "osmosis",
         "ibc_info" : {
             "path": "osmosis>umee",
@@ -40,7 +40,7 @@
         "symbol": "ION",
         "description": "ION is the second native token of Osmosis.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ion.png",
         "coinGeckoId": "ion",
         "ibc_info" : {
             "path": "osmosis>umee",
@@ -63,7 +63,7 @@
         "symbol": "ATOM",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/asset/atom.png",
+        "image": "https://cdn.chainroot.io/images/tokens/atom.png",
         "coinGeckoId": "cosmos",
         "ibc_info" : {
             "path": "cosmos>umee",
@@ -86,7 +86,7 @@
         "symbol": "WETH.eth.axl",
         "description": "Wrapped Ether on Axelar",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+        "image": "https://cdn.chainroot.io/images/tokens/weth.png",
         "coinGeckoId": "axlweth",
         "ibc_info" : {
             "path": "ethereum>axelar>umee",
@@ -109,7 +109,7 @@
         "symbol": "WBTC.eth.axl",
         "description": "Wrapped Bitcoin on Axelar",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/wbtc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/wbtc.png",
         "coinGeckoId": "axlwbtc",
         "ibc_info" : {
             "path": "ethereum>axelar>umee",
@@ -133,7 +133,7 @@
         "symbol": "USDC.eth.axl",
         "description": "Circle's stablecoin on Axelar",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "axlusdc",
         "ibc_info" : {
             "path": "ethereum>axelar>umee",
@@ -156,7 +156,7 @@
         "symbol": "stOSMO",
         "description": "Stride Liquid Staked OSMO",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/stosmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/stosmo.png",
         "coinGeckoId": "stride-staked-osmo",
         "ibc_info" : {
             "path": "stride>umee",
@@ -179,7 +179,7 @@
         "symbol": "WBNB.axl",
         "description": "Wrapped BNB on Axelar.",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bnb-smart-chain/asset/wbnb.png",
+        "image": "https://cdn.chainroot.io/images/tokens/wbnb.png",
         "coinGeckoId": "binancecoin",
         "ibc_info" : {
             "path": "bnb-smart-chain>axelar>umee",
@@ -202,7 +202,7 @@
         "symbol": "DOT.axl",
         "description": "Wrapped Polkadot on Axelar",
         "decimals": 10,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/moonbeam/asset/xcdot.png",
+        "image": "https://cdn.chainroot.io/images/tokens/xcdot.png",
         "coinGeckoId": "xcdot",
         "ibc_info" : {
             "path": "moonbeam>axelar>umee",
@@ -225,7 +225,7 @@
         "symbol": "IST",
         "description": "IST is the stable token used by the Agoric chain for execution fees and commerce.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/agoric/asset/ist.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ist.png",
         "coinGeckoId": "inter-stable-token",
         "ibc_info" : {
             "path": "agoric>umee",
@@ -248,7 +248,7 @@
         "symbol": "DAI.eth.axl",
         "description": "Dai stablecoin on Axelar",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/dai.png",
+        "image": "https://cdn.chainroot.io/images/tokens/dai.png",
         "coinGeckoId": "dai",
         "ibc_info" : {
             "path": "ethereum>axelar>umee",
@@ -271,7 +271,7 @@
         "symbol": "stATOM",
         "description": "Stride Liquid Staked ATOM",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/statom.png",
+        "image": "https://cdn.chainroot.io/images/tokens/statom.png",
         "coinGeckoId": "stride-staked-atom",
         "ibc_info" : {
             "path": "stride>umee",
@@ -294,7 +294,7 @@
         "symbol": "AXL",
         "description": "Axelar Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/axelar/asset/axl.png",
+        "image": "https://cdn.chainroot.io/images/tokens/axl.png",
         "coinGeckoId": "axelar",
         "ibc_info" : {
             "path": "axelar>umee",
@@ -317,7 +317,7 @@
         "symbol": "JUNO",
         "description": "Juno Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/juno.png",
+        "image": "https://cdn.chainroot.io/images/tokens/juno.png",
         "coinGeckoId": "juno-network",
         "ibc_info" : {
             "path": "juno>umee",
@@ -340,7 +340,7 @@
         "symbol": "AKT",
         "description": "Akash Network Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/akash/asset/akt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/akt.png",
         "coinGeckoId": "akash-network",
         "ibc_info" : {
             "path": "akash>umee",
@@ -363,7 +363,7 @@
         "symbol": "WMATIC.pol.axl",
         "description": "Wrapped Matic on Axelar",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/polygon/asset/wmatic.png",
+        "image": "https://cdn.chainroot.io/images/tokens/wmatic.png",
         "coinGeckoId": "wmatic",
         "ibc_info" : {
             "path": "polygon>axelar>umee",
@@ -386,7 +386,7 @@
         "symbol": "USDT.eth.axl",
         "description": "Tether's USD stablecoin on Axelar",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
         "coinGeckoId": "axelar-usdt",
         "ibc_info" : {
             "path": "ethereum>axelar>umee",
@@ -409,7 +409,7 @@
         "symbol": "USDC",
         "description": "USD Coin - Directly minted on the Noble chain by the Circle Foundation.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble/asset/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "usd-coin",
         "ibc_info" : {
             "path": "noble>umee",

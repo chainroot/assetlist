@@ -6,7 +6,7 @@
         "symbol": "AKT",
         "description": "Akash Network Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/akash/asset/akt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/akt.png",
         "coinGeckoId": "akash-network",
         "color": "#C71E10"
     },
@@ -17,7 +17,7 @@
         "symbol": "ATOM",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/asset/atom.png",
+        "image": "https://cdn.chainroot.io/images/tokens/atom.png",
         "coinGeckoId": "cosmos",
         "ibc_info" : {
             "path": "cosmos>akash",
@@ -40,7 +40,7 @@
         "symbol": "JUNO",
         "description": "Juno Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/juno.png",
+        "image": "https://cdn.chainroot.io/images/tokens/juno.png",
         "coinGeckoId": "juno-network",
         "ibc_info" : {
             "path": "juno>akash",
@@ -63,7 +63,7 @@
         "symbol": "KAVA",
         "description": "Kava Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/kava.png",
+        "image": "https://cdn.chainroot.io/images/tokens/kava.png",
         "coinGeckoId": "kava",
         "ibc_info" : {
             "path": "kava>akash",
@@ -86,7 +86,7 @@
         "symbol": "SWP",
         "description": "Governance token of Kava Swap Protocol.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/swp.png",
+        "image": "https://cdn.chainroot.io/images/tokens/swp.png",
         "coinGeckoId": "kava-swap",
         "ibc_info" : {
             "path": "kava>akash",
@@ -109,7 +109,7 @@
         "symbol": "HARD",
         "description": "Governance token of Kava Lend Protocol.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/hard.png",
+        "image": "https://cdn.chainroot.io/images/tokens/hard.png",
         "coinGeckoId": "kava-lend",
         "ibc_info" : {
             "path": "kava>akash",
@@ -132,7 +132,7 @@
         "symbol": "USDX",
         "description": "The native stablecoin of Kava.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/usdx.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdx.png",
         "coinGeckoId": "usdx",
         "ibc_info" : {
             "path": "kava>akash",
@@ -155,7 +155,7 @@
         "symbol": "ION",
         "description": "ION is the second native token of Osmosis.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ion.png",
         "coinGeckoId": "ion",
         "ibc_info" : {
             "path": "osmosis>akash",
@@ -178,7 +178,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
         "coinGeckoId": "osmosis",
         "ibc_info" : {
             "path": "osmosis>akash",
@@ -201,7 +201,7 @@
         "symbol": "ROWAN",
         "description": "Sifchain Staking Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sifchain/asset/rowan.png",
+        "image": "https://cdn.chainroot.io/images/tokens/rowan.png",
         "coinGeckoId": "sifchain",
         "ibc_info" : {
             "path": "sifchain>akash",

@@ -6,7 +6,7 @@
         "symbol": "SAGA",
         "description": "Saga Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/saga/asset/saga.png",
+        "image": "https://cdn.chainroot.io/images/tokens/saga.png",
         "coinGeckoId": "saga-2",
         "color": "#FF724F"
     }

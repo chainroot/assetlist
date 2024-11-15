@@ -6,7 +6,7 @@
         "symbol": "USDT",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
         "coinGeckoId": "tether",
         "wallet_preload": true
     },
@@ -17,7 +17,7 @@
         "symbol": "USDC",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "usd-coin",
         "wallet_preload": true
     },
@@ -28,7 +28,7 @@
         "symbol": "GCKLAY",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kaia/asset/gcklay.png",
+        "image": "https://cdn.chainroot.io/images/tokens/gcklay.png",
         "coinGeckoId": ""
     },
     {
@@ -38,7 +38,7 @@
         "symbol": "KSP",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kaia/asset/ksp.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ksp.png",
         "coinGeckoId": "klayswap-protocol"
     },
     {
@@ -48,7 +48,7 @@
         "symbol": "weETH",
         "description": "WETH",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+        "image": "https://cdn.chainroot.io/images/tokens/weth.png",
         "coinGeckoId": "weth",
         "wallet_preload": true
     },
@@ -59,7 +59,7 @@
         "symbol": "GRND",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kaia/asset/grnd.png",
+        "image": "https://cdn.chainroot.io/images/tokens/grnd.png",
         "coinGeckoId": "superwalk-grnd"
     },
     {
@@ -69,7 +69,7 @@
         "symbol": "BTCB",
         "description": "Binance Bitcoin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bnb-smart-chain/asset/btcb.png",
+        "image": "https://cdn.chainroot.io/images/tokens/btcb.png",
         "coinGeckoId": "binance-bitcoin"
     },
     {
@@ -79,7 +79,7 @@
         "symbol": "BORA",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kaia/asset/bora.png",
+        "image": "https://cdn.chainroot.io/images/tokens/bora.png",
         "coinGeckoId": "bora"
     },
     {
@@ -89,7 +89,7 @@
         "symbol": "stKAIA",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kaia/asset/stkaia.png",
+        "image": "https://cdn.chainroot.io/images/tokens/stkaia.png",
         "coinGeckoId": "lair-staked-kaia"
     },
     {
@@ -99,7 +99,7 @@
         "symbol": "KRWO",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kaia/asset/krwo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/krwo.png",
         "coinGeckoId": ""
     }
 ]

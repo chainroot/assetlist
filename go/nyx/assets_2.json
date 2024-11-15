@@ -6,7 +6,7 @@
         "symbol": "NYX",
         "description": "Nyx Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/nyx/asset/nyx.png",
+        "image": "https://cdn.chainroot.io/images/tokens/nyx.png",
         "coinGeckoId": "",
         "color": "#FF6C5A"
     },
@@ -17,7 +17,7 @@
         "symbol": "NYM",
         "description": "NYM Token (NYM) is the Nym Network's native utility token, used as the primary means to incentivize mixnet node operators.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/nyx/asset/nym.png",
+        "image": "https://cdn.chainroot.io/images/tokens/nym.png",
         "coinGeckoId": "nym"
     },
     {
@@ -27,7 +27,7 @@
         "symbol": "GRAV",
         "description": "Gravity Bridge Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/gravity-bridge/asset/grav.png",
+        "image": "https://cdn.chainroot.io/images/tokens/grav.png",
         "coinGeckoId": "graviton",
         "ibc_info" : {
             "path": "gravity-bridge>nyx",

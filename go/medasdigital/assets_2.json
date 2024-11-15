@@ -6,7 +6,7 @@
         "symbol": "MEDAS",
         "description": "The native token of Medas Digital Network",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/medasdigital/asset/medas.png",
+        "image": "https://cdn.chainroot.io/images/tokens/medas.png",
         "coinGeckoId": "medasdigital",
         "color": "#0A4ED2"
     },
@@ -17,7 +17,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
         "coinGeckoId": "osmosis",
         "ibc_info" : {
             "path": "osmosis>medasdigital",
@@ -40,7 +40,7 @@
         "symbol": "DVPN",
         "description": "Sentinel Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sentinel/asset/dvpn.png",
+        "image": "https://cdn.chainroot.io/images/tokens/dvpn.png",
         "coinGeckoId": "sentinel",
         "ibc_info" : {
             "path": "sentinel>medasdigital",
@@ -63,7 +63,7 @@
         "symbol": "ROWAN",
         "description": "Sifchain Staking Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sifchain/asset/rowan.png",
+        "image": "https://cdn.chainroot.io/images/tokens/rowan.png",
         "coinGeckoId": "sifchain",
         "ibc_info" : {
             "path": "sifchain>medasdigital",

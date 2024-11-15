@@ -6,7 +6,7 @@
         "symbol": "HEART",
         "description": "Humans Staking Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/humans/asset/humans.png",
+        "image": "https://cdn.chainroot.io/images/tokens/humans.png",
         "coinGeckoId": "humans-ai",
         "color": "#8268FB"
     }

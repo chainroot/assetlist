@@ -6,7 +6,7 @@
         "symbol": "KUJI",
         "description": "Kujira Staking Coin - Deprecated",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kujira/asset/kuji.png",
+        "image": "https://cdn.chainroot.io/images/tokens/kuji.png",
         "coinGeckoId": "kujira",
         "color": "#E53935"
     }

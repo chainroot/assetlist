@@ -6,7 +6,7 @@
         "symbol": "NGM",
         "description": "e-Money Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/emoney/asset/ngm.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ngm.png",
         "coinGeckoId": "e-money",
         "color": "#78C6B2"
     },
@@ -17,7 +17,7 @@
         "symbol": "EEUR",
         "description": "EUR on E-Money Network",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/emoney/asset/eeur.png",
+        "image": "https://cdn.chainroot.io/images/tokens/eeur.png",
         "coinGeckoId": "e-money-eur"
     },
     {
@@ -27,7 +27,7 @@
         "symbol": "ECHF",
         "description": "CHF on E-Money Network",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/emoney/asset/echf.png",
+        "image": "https://cdn.chainroot.io/images/tokens/echf.png",
         "image": "emoney/asset/echf.png"
     },
     {
@@ -37,7 +37,7 @@
         "symbol": "ENOK",
         "description": "NOK on E-Money Network",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/emoney/asset/enok.png",
+        "image": "https://cdn.chainroot.io/images/tokens/enok.png",
         "image": "emoney/asset/enok.png"
     },
     {
@@ -47,7 +47,7 @@
         "symbol": "EDKK",
         "description": "DKK on E-Money Network",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/emoney/asset/edkk.png",
+        "image": "https://cdn.chainroot.io/images/tokens/edkk.png",
         "image": "emoney/asset/edkk.png"
     },
     {
@@ -57,7 +57,7 @@
         "symbol": "ESEK",
         "description": "SEK on E-Money Network",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/emoney/asset/esek.png",
+        "image": "https://cdn.chainroot.io/images/tokens/esek.png",
         "image": "emoney/asset/esek.png"
     },
     {
@@ -67,7 +67,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
         "coinGeckoId": "osmosis",
         "ibc_info" : {
             "path": "osmosis>emoney",
@@ -90,7 +90,7 @@
         "symbol": "ION",
         "description": "ION is the second native token of Osmosis.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ion.png",
         "coinGeckoId": "ion",
         "ibc_info" : {
             "path": "osmosis>emoney",
@@ -113,7 +113,7 @@
         "symbol": "JUNO",
         "description": "Juno Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/juno.png",
+        "image": "https://cdn.chainroot.io/images/tokens/juno.png",
         "coinGeckoId": "juno-network",
         "ibc_info" : {
             "path": "juno>emoney",
@@ -136,7 +136,7 @@
         "symbol": "ROWAN",
         "description": "Sifchain Staking Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sifchain/asset/rowan.png",
+        "image": "https://cdn.chainroot.io/images/tokens/rowan.png",
         "coinGeckoId": "sifchain",
         "ibc_info" : {
             "path": "sifchain>emoney",
@@ -159,7 +159,7 @@
         "symbol": "ATOM",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/asset/atom.png",
+        "image": "https://cdn.chainroot.io/images/tokens/atom.png",
         "coinGeckoId": "cosmos",
         "ibc_info" : {
             "path": "cosmos>emoney",
@@ -182,7 +182,7 @@
         "symbol": "AXL",
         "description": "Axelar Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/axelar/asset/axl.png",
+        "image": "https://cdn.chainroot.io/images/tokens/axl.png",
         "coinGeckoId": "axelar",
         "ibc_info" : {
             "path": "axelar>emoney",

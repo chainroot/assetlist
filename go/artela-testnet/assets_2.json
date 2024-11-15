@@ -6,7 +6,7 @@
         "symbol": "ART",
         "description": "Artela Testnet Staking Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/artela-testnet/asset/art.png",
+        "image": "https://cdn.chainroot.io/images/tokens/art.png",
         "coinGeckoId": "",
         "color": "#0000BD"
     }

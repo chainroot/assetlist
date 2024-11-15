@@ -6,7 +6,7 @@
         "symbol": "FET",
         "description": "Fetch Hub Staking Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/fetchai/asset/fet.png",
+        "image": "https://cdn.chainroot.io/images/tokens/fet.png",
         "coinGeckoId": "fetch-ai",
         "color": "#57B5A8"
     },
@@ -17,7 +17,7 @@
         "symbol": "MOBX",
         "description": "The MOBX coin rewards the use of eco-friendly micromobility transportation.",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/fetchai/asset/mobx.png",
+        "image": "https://cdn.chainroot.io/images/tokens/mobx.png",
         "coinGeckoId": "mobix",
         "color": "#04ae9b"
     }

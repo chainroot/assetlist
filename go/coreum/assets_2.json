@@ -6,7 +6,7 @@
         "symbol": "COREUM",
         "description": "Coreum Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/coreum/asset/core.png",
+        "image": "https://cdn.chainroot.io/images/tokens/core.png",
         "coinGeckoId": "coreum",
         "color": "#16B87B"
     },
@@ -17,7 +17,7 @@
         "symbol": "XRP",
         "description": "XRP bridged from XRPL",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/coreum/asset/xrp.png",
+        "image": "https://cdn.chainroot.io/images/tokens/xrp.png",
         "coinGeckoId": "ripple",
         "color": "#040404"
     },
@@ -28,7 +28,7 @@
         "symbol": "SARA",
         "description": "Pulsara Ecosystem Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/coreum/asset/sara.png",
+        "image": "https://cdn.chainroot.io/images/tokens/sara.png",
         "coinGeckoId": "pulsara",
         "color": "#1739ff"
     },
@@ -39,7 +39,7 @@
         "symbol": "liCORE",
         "description": "Liquid staking asset for COREUM, by Pulsara",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/coreum/asset/licore.png",
+        "image": "https://cdn.chainroot.io/images/tokens/licore.png",
         "coinGeckoId": "",
         "color": "#FF03CB"
     },
@@ -50,7 +50,7 @@
         "symbol": "SOLO",
         "description": "Sologenic",
         "decimals": 15,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/coreum/asset/solo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/solo.png",
         "coinGeckoId": "solo-coin"
     },
     {
@@ -60,7 +60,7 @@
         "symbol": "USDC",
         "description": "USD Coin - Directly minted on the Noble chain by the Circle Foundation.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble/asset/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "usd-coin",
         "ibc_info" : {
             "path": "noble>coreum",

@@ -6,7 +6,7 @@
         "symbol": "ACRE",
         "description": "The native EVM, governance and staking token of the Acrechain",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/acrechain/asset/acre.png",
+        "image": "https://cdn.chainroot.io/images/tokens/acre.png",
         "coinGeckoId": "arable-protocol",
         "color": "#4aa29e"
     },
@@ -17,7 +17,7 @@
         "symbol": "CNTO",
         "description": "Ciento Exchange Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/acrechain/images/cnto.png",
+        "image": "https://cdn.chainroot.io/images/tokens/b4d24881cf8080c8eafff05f23137d78aa562e6505d901c413ed928fb589995f.png",
         "coinGeckoId": "",
         "color": "#ecc53b"
     }

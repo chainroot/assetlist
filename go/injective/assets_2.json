@@ -6,7 +6,7 @@
         "symbol": "INJ",
         "description": "Injective Staking Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/injective/asset/inj.png",
+        "image": "https://cdn.chainroot.io/images/tokens/inj.png",
         "coinGeckoId": "injective-protocol",
         "color": "#00BBDD"
     },
@@ -17,7 +17,7 @@
         "symbol": "stINJ",
         "description": "Stride Staked INJ",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/stinj.png",
+        "image": "https://cdn.chainroot.io/images/tokens/stinj.png",
         "coinGeckoId": "stride-staked-injective",
         "ibc_info" : {
             "path": "stride>injective",
@@ -40,7 +40,7 @@
         "symbol": "STRD",
         "description": "Stride Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/strd.png",
+        "image": "https://cdn.chainroot.io/images/tokens/strd.png",
         "coinGeckoId": "stride",
         "ibc_info" : {
             "path": "stride>injective",
@@ -63,7 +63,7 @@
         "symbol": "KAVA",
         "description": "Kava Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/kava.png",
+        "image": "https://cdn.chainroot.io/images/tokens/kava.png",
         "coinGeckoId": "kava",
         "ibc_info" : {
             "path": "kava>injective",
@@ -86,7 +86,7 @@
         "symbol": "USDt.kava",
         "description": "USDt - directly minted on the Kava chain by the Tether Foundation.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
         "coinGeckoId": "tether",
         "ibc_info" : {
             "path": "kava>injective",
@@ -109,7 +109,7 @@
         "symbol": "ATOM",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/asset/atom.png",
+        "image": "https://cdn.chainroot.io/images/tokens/atom.png",
         "coinGeckoId": "cosmos",
         "ibc_info" : {
             "path": "cosmos>injective",
@@ -132,7 +132,7 @@
         "symbol": "EVMOS",
         "description": "Evmos Staking Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/evmos/asset/evmos.png",
+        "image": "https://cdn.chainroot.io/images/tokens/evmos.png",
         "coinGeckoId": "evmos",
         "ibc_info" : {
             "path": "evmos>injective",
@@ -155,7 +155,7 @@
         "symbol": "NEOK",
         "description": "The token of Neokingdom DAO.",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/evmos/asset/neok.png",
+        "image": "https://cdn.chainroot.io/images/tokens/neok.png",
         "coinGeckoId": "",
         "ibc_info" : {
             "path": "evmos>injective",
@@ -178,7 +178,7 @@
         "symbol": "XPRT",
         "description": "Persistence Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/persistence/asset/xprt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/xprt.png",
         "coinGeckoId": "persistence",
         "ibc_info" : {
             "path": "persistence>injective",
@@ -201,7 +201,7 @@
         "symbol": "AXL",
         "description": "Axelar Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/axelar/asset/axl.png",
+        "image": "https://cdn.chainroot.io/images/tokens/axl.png",
         "coinGeckoId": "axelar",
         "ibc_info" : {
             "path": "axelar>injective",
@@ -224,7 +224,7 @@
         "symbol": "USDC.eth.axl",
         "description": "Circle's stablecoin on Axelar",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "axlusdc",
         "ibc_info" : {
             "path": "ethereum>axelar>injective",
@@ -247,7 +247,7 @@
         "symbol": "DOT.glmr.axl",
         "description": "Wrapped Polkadot on Axelar",
         "decimals": 10,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/moonbeam/asset/xcdot.png",
+        "image": "https://cdn.chainroot.io/images/tokens/xcdot.png",
         "coinGeckoId": "xcdot",
         "ibc_info" : {
             "path": "moonbeam>axelar>injective",
@@ -270,7 +270,7 @@
         "symbol": "NOIS",
         "description": "Nois Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/nois/asset/nois.png",
+        "image": "https://cdn.chainroot.io/images/tokens/nois.png",
         "coinGeckoId": "nois",
         "ibc_info" : {
             "path": "nois>injective",
@@ -293,7 +293,7 @@
         "symbol": "ASTRO.cw20",
         "description": "Astroport is a neutral marketplace where anyone, from anywhere in the galaxy, can dock to trade their wares.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/astro.png",
+        "image": "https://cdn.chainroot.io/images/tokens/astro.png",
         "coinGeckoId": "astroport-fi",
         "ibc_info" : {
             "path": "terra>injective",
@@ -316,7 +316,7 @@
         "symbol": "ORAI",
         "description": "Oraichain Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/orai-chain/asset/orai.png",
+        "image": "https://cdn.chainroot.io/images/tokens/orai.png",
         "coinGeckoId": "oraichain-token",
         "ibc_info" : {
             "path": "oraichain>injective",
@@ -339,7 +339,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
         "coinGeckoId": "osmosis",
         "ibc_info" : {
             "path": "osmosis>injective",
@@ -362,7 +362,7 @@
         "symbol": "WHALE",
         "description": "Migaloo Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/migaloo/asset/whitewhale.png",
+        "image": "https://cdn.chainroot.io/images/tokens/whitewhale.png",
         "coinGeckoId": "white-whale",
         "ibc_info" : {
             "path": "migaloo>injective",
@@ -385,7 +385,7 @@
         "symbol": "SOMM",
         "description": "Sommelier Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+        "image": "https://cdn.chainroot.io/images/tokens/somm.png",
         "coinGeckoId": "sommelier",
         "ibc_info" : {
             "path": "sommelier>injective",
@@ -408,7 +408,7 @@
         "symbol": "CRE",
         "description": "Crescent Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/crescent/asset/cre.png",
+        "image": "https://cdn.chainroot.io/images/tokens/cre.png",
         "coinGeckoId": "crescent-network",
         "ibc_info" : {
             "path": "crescent>injective",
@@ -432,7 +432,7 @@
         "symbol": "CANTO",
         "description": "Canto Staking Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/canto/asset/canto.png",
+        "image": "https://cdn.chainroot.io/images/tokens/canto.png",
         "coinGeckoId": "canto",
         "ibc_info" : {
             "path": "canto>injective",
@@ -455,7 +455,7 @@
         "symbol": "TIA",
         "description": "Celestia Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/celestia/asset/tia.png",
+        "image": "https://cdn.chainroot.io/images/tokens/tia.png",
         "coinGeckoId": "celestia",
         "ibc_info" : {
             "path": "celestia>injective",
@@ -478,7 +478,7 @@
         "symbol": "CRBRUS",
         "description": "Cerberus Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cerberus/asset/crbrus.png",
+        "image": "https://cdn.chainroot.io/images/tokens/crbrus.png",
         "coinGeckoId": "cerberus-2",
         "ibc_info" : {
             "path": "cerberus>osmosis>injective",
@@ -501,7 +501,7 @@
         "symbol": "KUJI",
         "description": "KUJI Staking Coin - Legacy",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kujira/asset/kuji.png",
+        "image": "https://cdn.chainroot.io/images/tokens/kuji.png",
         "coinGeckoId": "kujira",
         "ibc_info" : {
             "path": "kujira>injective",
@@ -525,7 +525,7 @@
         "symbol": "USDC",
         "description": "USD Coin - Directly minted on the Noble chain by the Circle Foundation.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble/asset/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "usd-coin",
         "ibc_info" : {
             "path": "noble>injective",
@@ -548,7 +548,7 @@
         "symbol": "ANDR",
         "description": "Andromeda Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/andromeda/images/andromeda-logo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/fa2f0049c733c83a51bf71cf5e841b832087b49e3e79c871c6ba19f17c6a9f56.png",
         "coinGeckoId": "andromeda-2",
         "ibc_info" : {
             "path": "andromeda>injective",
@@ -571,7 +571,7 @@
         "symbol": "PYTH.wh",
         "description": "PYTH (Wormhole)",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/pyth.png",
+        "image": "https://cdn.chainroot.io/images/tokens/pyth.png",
         "coinGeckoId": "pyth-network",
         "ibc_info" : {
             "path": "solana>gateway>injective",
@@ -594,7 +594,7 @@
         "symbol": "SOL.wh",
         "description": "Wrapped SOL (Wormhole)",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/solana.png",
+        "image": "https://cdn.chainroot.io/images/tokens/solana.png",
         "coinGeckoId": "solana",
         "ibc_info" : {
             "path": "solana>gateway>injective",
@@ -617,7 +617,7 @@
         "symbol": "ARB.wh",
         "description": "ARB (Wormhole)",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/arbitrum/asset/arb.png",
+        "image": "https://cdn.chainroot.io/images/tokens/arb.png",
         "coinGeckoId": "arbitrum",
         "ibc_info" : {
             "path": "arbitrum>gateway>injective",
@@ -640,7 +640,7 @@
         "symbol": "WMATIC.wh",
         "description": "Wrapped MATIC  (Wormhole)",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/polygon/asset/wmatic.png",
+        "image": "https://cdn.chainroot.io/images/tokens/wmatic.png",
         "coinGeckoId": "wmatic",
         "ibc_info" : {
             "path": "polygon>gateway>injective",
@@ -663,7 +663,7 @@
         "symbol": "NBZ",
         "description": "Ninja Blaze Token",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/nbz.png",
+        "image": "https://cdn.chainroot.io/images/tokens/nbz.png",
         "coinGeckoId": "",
         "ibc_info" : {
             "path": "neutron>injective",
@@ -686,7 +686,7 @@
         "symbol": "USDY",
         "description": "Ondo US Dollar Yield",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdy.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdy.png",
         "coinGeckoId": "ondo-us-dollar-yield",
         "ibc_info" : {
             "path": "noble>injective",
@@ -709,7 +709,7 @@
         "symbol": "UST",
         "description": "TerraUSD",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/ustc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ustc.png",
         "coinGeckoId": "terrausd",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -726,7 +726,7 @@
         "symbol": "CEL",
         "description": "Celsius",
         "decimals": 4,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/cel.png",
+        "image": "https://cdn.chainroot.io/images/tokens/cel.png",
         "coinGeckoId": "celsius-degree-token",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -743,7 +743,7 @@
         "symbol": "USDT",
         "description": "Tether",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
         "coinGeckoId": "tether",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -760,7 +760,7 @@
         "symbol": "USDClegacy",
         "description": "USD Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "usd-coin",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -777,7 +777,7 @@
         "symbol": "DEFI5",
         "description": "DEFI Top 5 Tokens Index",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/defi5.png",
+        "image": "https://cdn.chainroot.io/images/tokens/defi5.png",
         "coinGeckoId": "",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -794,7 +794,7 @@
         "symbol": "UTK",
         "description": "Utrust",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/utk.png",
+        "image": "https://cdn.chainroot.io/images/tokens/utk.png",
         "coinGeckoId": "utrust",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -811,7 +811,7 @@
         "symbol": "GRT",
         "description": "Graph Token",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/grt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/grt.png",
         "coinGeckoId": "the-graph",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -828,7 +828,7 @@
         "symbol": "STARS",
         "description": "Mogul Productions",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/stars.png",
+        "image": "https://cdn.chainroot.io/images/tokens/stars.png",
         "coinGeckoId": "mogul-productions",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -845,7 +845,7 @@
         "symbol": "STT",
         "description": "Scatter.cx",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/stt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/stt.png",
         "coinGeckoId": "",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -862,7 +862,7 @@
         "symbol": "NOIA",
         "description": "Syntropy",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/noia.png",
+        "image": "https://cdn.chainroot.io/images/tokens/noia.png",
         "coinGeckoId": "noia-network",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -879,7 +879,7 @@
         "symbol": "ENJ",
         "description": "Enjin Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/enj.png",
+        "image": "https://cdn.chainroot.io/images/tokens/enj.png",
         "coinGeckoId": "enjincoin",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -896,7 +896,7 @@
         "symbol": "ZRX",
         "description": "0x",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/zrx.png",
+        "image": "https://cdn.chainroot.io/images/tokens/zrx.png",
         "coinGeckoId": "0x",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -913,7 +913,7 @@
         "symbol": "SWAP",
         "description": "TrustSwap",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/swap.png",
+        "image": "https://cdn.chainroot.io/images/tokens/swap.png",
         "coinGeckoId": "trustswap",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -930,7 +930,7 @@
         "symbol": "wETH",
         "description": "Wrapped Ethereum",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+        "image": "https://cdn.chainroot.io/images/tokens/weth.png",
         "coinGeckoId": "weth",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -947,7 +947,7 @@
         "symbol": "SNX",
         "description": "Synthetix Network Token",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/snx.png",
+        "image": "https://cdn.chainroot.io/images/tokens/snx.png",
         "coinGeckoId": "havven",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -964,7 +964,7 @@
         "symbol": "AXS",
         "description": "Axie Infinity",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/axs.png",
+        "image": "https://cdn.chainroot.io/images/tokens/axs.png",
         "coinGeckoId": "axie-infinity",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -981,7 +981,7 @@
         "symbol": "NEXO",
         "description": "Nexo",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/nexo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/nexo.png",
         "coinGeckoId": "nexo",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -998,7 +998,7 @@
         "symbol": "GF",
         "description": "GuildFi",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/gf.png",
+        "image": "https://cdn.chainroot.io/images/tokens/gf.png",
         "coinGeckoId": "guildfi",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -1015,7 +1015,7 @@
         "symbol": "OCEAN",
         "description": "Ocean Protocol",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/ocean.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ocean.png",
         "coinGeckoId": "ocean-protocol",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -1032,7 +1032,7 @@
         "symbol": "SHIB",
         "description": "SHIBA INU",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/shib.png",
+        "image": "https://cdn.chainroot.io/images/tokens/shib.png",
         "coinGeckoId": "shiba-inu",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -1049,7 +1049,7 @@
         "symbol": "AAVE",
         "description": "Aave",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/aave.png",
+        "image": "https://cdn.chainroot.io/images/tokens/aave.png",
         "coinGeckoId": "aave",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -1066,7 +1066,7 @@
         "symbol": "MATIC",
         "description": "Polygon",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/matic.png",
+        "image": "https://cdn.chainroot.io/images/tokens/matic.png",
         "coinGeckoId": "matic-network",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -1083,7 +1083,7 @@
         "symbol": "HT",
         "description": "Huobi Token",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/ht.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ht.png",
         "coinGeckoId": "huobi-token",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -1100,7 +1100,7 @@
         "symbol": "SUSHI",
         "description": "SushiSwap",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/sushi.png",
+        "image": "https://cdn.chainroot.io/images/tokens/sushi.png",
         "coinGeckoId": "sushi",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -1117,7 +1117,7 @@
         "symbol": "DAI",
         "description": "Dai",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/dai.png",
+        "image": "https://cdn.chainroot.io/images/tokens/dai.png",
         "coinGeckoId": "dai",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -1134,7 +1134,7 @@
         "symbol": "LINK",
         "description": "Chainlink",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/link.png",
+        "image": "https://cdn.chainroot.io/images/tokens/link.png",
         "coinGeckoId": "chainlink",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -1151,7 +1151,7 @@
         "symbol": "EVAI",
         "description": "Evai.io",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/evai.png",
+        "image": "https://cdn.chainroot.io/images/tokens/evai.png",
         "coinGeckoId": "evai",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -1168,7 +1168,7 @@
         "symbol": "QNT",
         "description": "Quant",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/qnt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/qnt.png",
         "coinGeckoId": "quant-network",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -1185,7 +1185,7 @@
         "symbol": "BUSD",
         "description": "Binance USD",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/busd.png",
+        "image": "https://cdn.chainroot.io/images/tokens/busd.png",
         "coinGeckoId": "binance-usd",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -1202,7 +1202,7 @@
         "symbol": "FTM",
         "description": "Fantom",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/ftm.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ftm.png",
         "coinGeckoId": "fantom",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -1219,7 +1219,7 @@
         "symbol": "PAXG",
         "description": "PAX Gold",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/paxg.png",
+        "image": "https://cdn.chainroot.io/images/tokens/paxg.png",
         "coinGeckoId": "pax-gold",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -1236,7 +1236,7 @@
         "symbol": "CHZ",
         "description": "Chiliz",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/chz.png",
+        "image": "https://cdn.chainroot.io/images/tokens/chz.png",
         "coinGeckoId": "chiliz",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -1253,7 +1253,7 @@
         "symbol": "RUNE",
         "description": "THORChain (ERC20)",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/chz.png",
+        "image": "https://cdn.chainroot.io/images/tokens/chz.png",
         "coinGeckoId": "thorchain-erc20",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -1270,7 +1270,7 @@
         "symbol": "wBTC",
         "description": "Wrapped Bitcoin",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/wbtc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/wbtc.png",
         "coinGeckoId": "wrapped-bitcoin",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -1287,7 +1287,7 @@
         "symbol": "UNI",
         "description": "Uniswap",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/uni.png",
+        "image": "https://cdn.chainroot.io/images/tokens/uni.png",
         "coinGeckoId": "uniswap",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -1304,7 +1304,7 @@
         "symbol": "UMA",
         "description": "UMA",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/uma.png",
+        "image": "https://cdn.chainroot.io/images/tokens/uma.png",
         "coinGeckoId": "uma",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -1321,7 +1321,7 @@
         "symbol": "BAT",
         "description": "Basic Attention Token",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/bat.png",
+        "image": "https://cdn.chainroot.io/images/tokens/bat.png",
         "coinGeckoId": "basic-attention-token",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -1338,7 +1338,7 @@
         "symbol": "POOL",
         "description": "PoolTogether",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/pool.png",
+        "image": "https://cdn.chainroot.io/images/tokens/pool.png",
         "coinGeckoId": "pooltogether",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -1355,7 +1355,7 @@
         "symbol": "1INCH",
         "description": "1inch",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/1inch.png",
+        "image": "https://cdn.chainroot.io/images/tokens/1inch.png",
         "coinGeckoId": "1inch",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -1372,7 +1372,7 @@
         "symbol": "XBX",
         "description": "BurnX",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/xbx.png",
+        "image": "https://cdn.chainroot.io/images/tokens/xbx.png",
         "coinGeckoId": "",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -1389,7 +1389,7 @@
         "symbol": "dYdX",
         "description": "dYdX",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/dydx.png",
+        "image": "https://cdn.chainroot.io/images/tokens/dydx.png",
         "coinGeckoId": "dydx",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -1406,7 +1406,7 @@
         "symbol": "APE",
         "description": "Ape Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/ape.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ape.png",
         "coinGeckoId": "apecoin",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -1423,7 +1423,7 @@
         "symbol": "stETH",
         "description": "Lido Staked ETH",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/steth.png",
+        "image": "https://cdn.chainroot.io/images/tokens/steth.png",
         "coinGeckoId": "staked-ether",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -1440,7 +1440,7 @@
         "symbol": "LYM",
         "description": "Lympo",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/lym.png",
+        "image": "https://cdn.chainroot.io/images/tokens/lym.png",
         "coinGeckoId": "lympo",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -1457,7 +1457,7 @@
         "symbol": "OMI",
         "description": "ECOMI",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/omi.png",
+        "image": "https://cdn.chainroot.io/images/tokens/omi.png",
         "coinGeckoId": "ecomi",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -1474,7 +1474,7 @@
         "symbol": "WSTETH",
         "description": "Lido wstETH",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/wsteth.png",
+        "image": "https://cdn.chainroot.io/images/tokens/wsteth.png",
         "coinGeckoId": "wrapped-steth",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -1491,7 +1491,7 @@
         "symbol": "SteadyETH",
         "description": "SteadyETH",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/steadyeth.png",
+        "image": "https://cdn.chainroot.io/images/tokens/steadyeth.png",
         "coinGeckoId": "",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -1508,7 +1508,7 @@
         "symbol": "SteadyBTC",
         "description": "SteadyBTC",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/steadybtc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/steadybtc.png",
         "coinGeckoId": "",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -1525,7 +1525,7 @@
         "symbol": "ETHBTCTrend",
         "description": "ETHBTC Trend",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/ethbtctrend.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ethbtctrend.png",
         "coinGeckoId": "",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -1542,7 +1542,7 @@
         "symbol": "SOMM (Erc20)",
         "description": "Sommelier",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+        "image": "https://cdn.chainroot.io/images/tokens/somm.png",
         "coinGeckoId": "sommelier",
         "bridge_info" : {
             "path": "sommelier>ethereum>injective",
@@ -1559,7 +1559,7 @@
         "symbol": "APP",
         "description": "Moon App",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/app.png",
+        "image": "https://cdn.chainroot.io/images/tokens/app.png",
         "coinGeckoId": "moon-app",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -1576,7 +1576,7 @@
         "symbol": "ZIG",
         "description": "ZigCoin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/zig.png",
+        "image": "https://cdn.chainroot.io/images/tokens/zig.png",
         "coinGeckoId": "zignaly",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -1593,7 +1593,7 @@
         "symbol": "USDYet",
         "description": "Ondo US Dollar Yield",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdy.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdy.png",
         "coinGeckoId": "ondo-us-dollar-yield",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -1610,7 +1610,7 @@
         "symbol": "USDe",
         "description": "Ethena USDe",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usde.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usde.png",
         "coinGeckoId": "ethena-usde",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -1627,7 +1627,7 @@
         "symbol": "GYEN",
         "description": "GMO JPY",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/gyen.png",
+        "image": "https://cdn.chainroot.io/images/tokens/gyen.png",
         "coinGeckoId": "gyen",
         "bridge_info" : {
             "path": "ethereum>injective",
@@ -1644,7 +1644,7 @@
         "symbol": "USDCet",
         "description": "USD Coin (legacy)",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "usd-coin-wormhole-from-ethereum"
     },
     {
@@ -1654,7 +1654,7 @@
         "symbol": "USDCso",
         "description": "USD Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "usd-coin"
     },
     {
@@ -1664,7 +1664,7 @@
         "symbol": "SOLlegacy",
         "description": "Solana (legacy)",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/sol.png",
+        "image": "https://cdn.chainroot.io/images/tokens/sol.png",
         "coinGeckoId": "solana"
     },
     {
@@ -1674,7 +1674,7 @@
         "symbol": "WMATIClegacy",
         "description": "Wrapped Matic (legacy)",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/polygon/asset/wmatic.png",
+        "image": "https://cdn.chainroot.io/images/tokens/wmatic.png",
         "coinGeckoId": "wmatic"
     },
     {
@@ -1684,7 +1684,7 @@
         "symbol": "CHZlegacy",
         "description": "Chiliz (legacy)",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/chz.png",
+        "image": "https://cdn.chainroot.io/images/tokens/chz.png",
         "coinGeckoId": "chiliz"
     },
     {
@@ -1694,7 +1694,7 @@
         "symbol": "ARBlegacy",
         "description": "Arbitrum (legacy)",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/arbitrum/asset/arb.png",
+        "image": "https://cdn.chainroot.io/images/tokens/arb.png",
         "coinGeckoId": "arbitrum"
     },
     {
@@ -1704,7 +1704,7 @@
         "symbol": "TALIS",
         "description": "talis-protocol",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/injective/asset/talis.png",
+        "image": "https://cdn.chainroot.io/images/tokens/talis.png",
         "coinGeckoId": "talis-protocol"
     },
     {
@@ -1714,7 +1714,7 @@
         "symbol": "PYTHlegacy",
         "description": "Pyth Network (legacy)",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/pyth.png",
+        "image": "https://cdn.chainroot.io/images/tokens/pyth.png",
         "coinGeckoId": "pyth-network"
     },
     {
@@ -1724,7 +1724,7 @@
         "symbol": "GINGER",
         "description": "GINGER",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/injective/asset/ginger.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ginger.png",
         "coinGeckoId": "ginger"
     },
     {
@@ -1734,7 +1734,7 @@
         "symbol": "AUTISM",
         "description": "AUTISM",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/injective/asset/autism.png",
+        "image": "https://cdn.chainroot.io/images/tokens/autism.png",
         "coinGeckoId": "autism"
     },
     {
@@ -1744,7 +1744,7 @@
         "symbol": "KIRA",
         "description": "KIRA",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/injective/asset/kira.png",
+        "image": "https://cdn.chainroot.io/images/tokens/kira.png",
         "coinGeckoId": "kira-the-injective-cat"
     },
     {
@@ -1754,7 +1754,7 @@
         "symbol": "NINJA",
         "description": "Dog Wif Nunchucks",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/injective/asset/ninja.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ninja.png",
         "coinGeckoId": "dog-wif-nuchucks"
     },
     {
@@ -1764,7 +1764,7 @@
         "symbol": "KATANA",
         "description": "Dog Wif Katana",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/injective/asset/katana.png",
+        "image": "https://cdn.chainroot.io/images/tokens/katana.png",
         "coinGeckoId": "dogwifkatana"
     },
     {
@@ -1774,7 +1774,7 @@
         "symbol": "HAVA",
         "description": "Hava Coin is the lifeblood of the Cosmos & Injective networks, rewarding builders and welcoming supporters. https://havacoin.xyz/",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/injective/asset/hava.png",
+        "image": "https://cdn.chainroot.io/images/tokens/hava.png",
         "coinGeckoId": ""
     },
     {
@@ -1784,7 +1784,7 @@
         "symbol": "QUNT",
         "description": "QUNT",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/injective/asset/qunt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/qunt.png",
         "coinGeckoId": ""
     },
     {
@@ -1794,7 +1794,7 @@
         "symbol": "HDRO",
         "description": "Hydro",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/injective/asset/hdro.png",
+        "image": "https://cdn.chainroot.io/images/tokens/hdro.png",
         "coinGeckoId": ""
     },
     {
@@ -1804,7 +1804,7 @@
         "symbol": "DOJO",
         "description": "Dojo Token",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/injective/asset/dojo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/dojo.png",
         "coinGeckoId": ""
     },
     {
@@ -1814,7 +1814,7 @@
         "symbol": "bINJ",
         "description": "BackBone Labs LST",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/injective/asset/bINJ.png",
+        "image": "https://cdn.chainroot.io/images/tokens/bINJ.png",
         "coinGeckoId": ""
     },
     {
@@ -1824,7 +1824,7 @@
         "symbol": "SYN",
         "description": "Galactic Syndicate",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/injective/asset/syn.png",
+        "image": "https://cdn.chainroot.io/images/tokens/syn.png",
         "coinGeckoId": ""
     },
     {
@@ -1834,7 +1834,7 @@
         "symbol": "ashSYN",
         "description": "SYN burn derivative",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/injective/asset/syn.ash.png",
+        "image": "https://cdn.chainroot.io/images/tokens/syn.ash.png",
         "coinGeckoId": ""
     },
     {
@@ -1844,7 +1844,7 @@
         "symbol": "DRUGS",
         "description": "DRUGS",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/injective/asset/drugsoninj.png",
+        "image": "https://cdn.chainroot.io/images/tokens/drugsoninj.png",
         "coinGeckoId": ""
     },
     {
@@ -1894,7 +1894,7 @@
         "symbol": "INJX",
         "description": "Injex Finance",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/injective/asset/injx.png",
+        "image": "https://cdn.chainroot.io/images/tokens/injx.png",
         "coinGeckoId": "injex-finance"
     }
 ]

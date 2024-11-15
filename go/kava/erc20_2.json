@@ -6,7 +6,7 @@
         "symbol": "WKAVA",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/kava_evm_wkava.png",
+        "image": "https://cdn.chainroot.io/images/tokens/kava_evm_wkava.png",
         "coinGeckoId": "wrapped-kava",
         "wallet_preload": true
     },
@@ -17,7 +17,7 @@
         "symbol": "USDt",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/kava_evm_usd₮.png",
+        "image": "https://cdn.chainroot.io/images/tokens/kava_evm_usd₮.png",
         "coinGeckoId": "tether",
         "wallet_preload": true
     },
@@ -28,7 +28,7 @@
         "symbol": "ATOM",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/kava_evm_atom.png",
+        "image": "https://cdn.chainroot.io/images/tokens/kava_evm_atom.png",
         "coinGeckoId": "cosmos",
         "wallet_preload": true
     },
@@ -39,7 +39,7 @@
         "symbol": "MultiUSDC",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/kava_evm_multiusdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/kava_evm_multiusdc.png",
         "coinGeckoId": ""
     },
     {
@@ -49,7 +49,7 @@
         "symbol": "MultiUSDT",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/kava_evm_multiusdt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/kava_evm_multiusdt.png",
         "coinGeckoId": ""
     },
     {
@@ -59,7 +59,7 @@
         "symbol": "MultiDAI",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/kava_evm_multidai.png",
+        "image": "https://cdn.chainroot.io/images/tokens/kava_evm_multidai.png",
         "coinGeckoId": ""
     },
     {
@@ -69,7 +69,7 @@
         "symbol": "MultiWBTC",
         "description": "",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/kava_evm_multiwbtc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/kava_evm_multiwbtc.png",
         "coinGeckoId": ""
     },
     {
@@ -79,7 +79,7 @@
         "symbol": "axlUSDC",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/kava_evm_axlusdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/kava_evm_axlusdc.png",
         "coinGeckoId": "usd-coin"
     },
     {
@@ -89,7 +89,7 @@
         "symbol": "axlWBTC",
         "description": "",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/kava_evm_axlwbtc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/kava_evm_axlwbtc.png",
         "coinGeckoId": "wrapped-bitcoin"
     },
     {
@@ -99,7 +99,7 @@
         "symbol": "axlUSDT",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/kava_evm_axlusdt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/kava_evm_axlusdt.png",
         "coinGeckoId": "tether"
     },
     {
@@ -109,7 +109,7 @@
         "symbol": "axlETH",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/kava_evm_axlweth.png",
+        "image": "https://cdn.chainroot.io/images/tokens/kava_evm_axlweth.png",
         "coinGeckoId": "weth-wei"
     },
     {
@@ -119,7 +119,7 @@
         "symbol": "axlFIL",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/kava_evm_axlwfil.png",
+        "image": "https://cdn.chainroot.io/images/tokens/kava_evm_axlwfil.png",
         "coinGeckoId": "wfil-wei"
     },
     {
@@ -129,7 +129,7 @@
         "symbol": "axlLqdr",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/axelar/asset/kava_evm_axlLqdr.png",
+        "image": "https://cdn.chainroot.io/images/tokens/kava_evm_axlLqdr.png",
         "coinGeckoId": "liquiddriver"
     },
     {
@@ -139,7 +139,7 @@
         "symbol": "axlWMAI",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/15264/small/mimatic-red.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8081e9f8570bc3e85788318ab693317a644c994c013de3b4e078ee346e483e83.png",
         "coinGeckoId": "mimatic"
     },
     {
@@ -149,7 +149,7 @@
         "symbol": "axlKNC",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/axelar/asset/kava_evm_axlknc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/kava_evm_axlknc.png",
         "coinGeckoId": "kyber-network-crystal"
     },
     {
@@ -159,7 +159,7 @@
         "symbol": "WBTC",
         "description": "",
         "decimals": 8,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/kava_evm_wbtc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/kava_evm_wbtc.png",
         "coinGeckoId": "wrapped-bitcoin"
     },
     {
@@ -169,7 +169,7 @@
         "symbol": "ELK",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/elk.png",
+        "image": "https://cdn.chainroot.io/images/tokens/elk.png",
         "coinGeckoId": "elk-finance"
     },
     {
@@ -179,7 +179,7 @@
         "symbol": "MARE",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/mare.png",
+        "image": "https://cdn.chainroot.io/images/tokens/mare.png",
         "coinGeckoId": "mare-finance"
     },
     {
@@ -189,7 +189,7 @@
         "symbol": "ERN",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/kava/asset/ern.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ern.png",
         "coinGeckoId": "ethos-reserve-note"
     },
     {
@@ -199,7 +199,7 @@
         "symbol": "AXL",
         "description": "",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/axelar/asset/axl.png",
+        "image": "https://cdn.chainroot.io/images/tokens/axl.png",
         "coinGeckoId": "axelar"
     },
     {
@@ -209,7 +209,7 @@
         "symbol": "BNB",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bnb-smart-chain/asset/bnb.png",
+        "image": "https://cdn.chainroot.io/images/tokens/bnb.png",
         "coinGeckoId": "wbnb-wei"
     },
     {
@@ -219,7 +219,7 @@
         "symbol": "BUSD",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bnb-smart-chain/asset/busd.png",
+        "image": "https://cdn.chainroot.io/images/tokens/busd.png",
         "coinGeckoId": "binance-usd"
     },
     {
@@ -229,7 +229,7 @@
         "symbol": "MAI",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/15264/small/mimatic-red.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8081e9f8570bc3e85788318ab693317a644c994c013de3b4e078ee346e483e83.png",
         "coinGeckoId": "mimatic"
     },
     {
@@ -239,7 +239,7 @@
         "symbol": "QI",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/15329/small/qi.png",
+        "image": "https://cdn.chainroot.io/images/tokens/27a1cba271236a65f94674fc18807cfd7f9ee4da945dc3a81cfa2ce89ca6bff0.png",
         "coinGeckoId": "qi-dao"
     },
     {
@@ -249,7 +249,7 @@
         "symbol": "VARA",
         "description": "",
         "decimals": 18,
-        "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/23836.png",
+        "image": "https://cdn.chainroot.io/images/tokens/b6bec80509d8224e122101ef2ab6156897f1e88149671640af229592e7e2e494.png",
         "coinGeckoId": "equilibre"
     },
     {
@@ -259,7 +259,7 @@
         "symbol": "PINKAV",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/30803/small/PINKAV_Logo_%28200x200%29.png",
+        "image": "https://cdn.chainroot.io/images/tokens/f5a98be6fdb9e8ca171386ead291573d371da2129d7554d19e62721d8815f9e4.png",
         "coinGeckoId": "pinjam-kava"
     },
     {
@@ -269,7 +269,7 @@
         "symbol": "USX",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/17422/small/usx_32.png",
+        "image": "https://cdn.chainroot.io/images/tokens/a43fda662eb7476fb108c4a7056f83200fe7e57b0812dc9fc1a64d5d5b13ac4b.png",
         "coinGeckoId": "token-dforce-usd"
     },
     {
@@ -279,7 +279,7 @@
         "symbol": "OATH",
         "description": "",
         "decimals": 18,
-        "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/18520.png",
+        "image": "https://cdn.chainroot.io/images/tokens/3f8d3f1b085e0a983d8c0b426d18f854e909fad9670e264013ad1dbf80c9b59e.png",
         "coinGeckoId": "oath"
     }
 ]

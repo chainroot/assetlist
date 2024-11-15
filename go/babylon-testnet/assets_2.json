@@ -6,7 +6,7 @@
         "symbol": "BBN",
         "description": "Babylon Testnet Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/babylon-testnet/asset/bbn.png",
+        "image": "https://cdn.chainroot.io/images/tokens/bbn.png",
         "coinGeckoId": "",
         "color": "#FF863C"
     }

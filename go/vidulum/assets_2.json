@@ -6,7 +6,7 @@
         "symbol": "VDL",
         "description": "Vidulum Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/vidulum/asset/vdl.png",
+        "image": "https://cdn.chainroot.io/images/tokens/vdl.png",
         "coinGeckoId": ""
     }
 ]

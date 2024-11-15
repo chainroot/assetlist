@@ -6,7 +6,7 @@
         "symbol": "LUNA",
         "description": "Terra Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/luna.png",
+        "image": "https://cdn.chainroot.io/images/tokens/luna.png",
         "coinGeckoId": "terra-luna-2",
         "color": "#1E75EE"
     },
@@ -17,7 +17,7 @@
         "symbol": "USDC.eth.axl",
         "description": "Circle's stablecoin on Axelar",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "usd-coin",
         "ibc_info" : {
             "path": "ethereum>axelar>terra",
@@ -40,7 +40,7 @@
         "symbol": "USDT.eth.axl",
         "description": "Tether's USD stablecoin on Axelar",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
         "coinGeckoId": "tether",
         "ibc_info" : {
             "path": "ethereum>axelar>terra",
@@ -63,7 +63,7 @@
         "symbol": "CRBRUS",
         "description": "Cerberus Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cerberus/asset/crbrus.png",
+        "image": "https://cdn.chainroot.io/images/tokens/crbrus.png",
         "coinGeckoId": "cerberus-2",
         "ibc_info" : {
             "path": "cerberus>osmosis>terra",
@@ -86,7 +86,7 @@
         "symbol": "USDC",
         "description": "USD Coin - Directly minted on the Noble chain by the Circle Foundation.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble/asset/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "usd-coin",
         "ibc_info" : {
             "path": "noble>terra",
@@ -109,7 +109,7 @@
         "symbol": "ashLUNA",
         "description": "LUNA burn derivative",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/luna.ash.png",
+        "image": "https://cdn.chainroot.io/images/tokens/luna.ash.png",
         "coinGeckoId": ""
     },
     {
@@ -119,7 +119,7 @@
         "symbol": "ampWHALEt",
         "description": "ERIS Alliance Staked ampWHALE on Terra",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/ampwhalet.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ampwhalet.png",
         "coinGeckoId": ""
     },
     {
@@ -129,7 +129,7 @@
         "symbol": "boneWHALEt",
         "description": "ERIS Alliance Staked boneWHALE on Terra",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/bonewhalet.png",
+        "image": "https://cdn.chainroot.io/images/tokens/bonewhalet.png",
         "coinGeckoId": ""
     },
     {
@@ -139,7 +139,7 @@
         "symbol": "ampROAR",
         "description": "ERIS Liquid Enterprise Staked ROAR",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/amproar.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7f782a33282f792433df640a85abcbfb3314ec05431c1013f9bbacc46bee02c3.png",
         "coinGeckoId": "",
         "color": "#5b83c3"
     },
@@ -150,7 +150,7 @@
         "symbol": "MOAR",
         "description": "ERIS Liquid Alliance Staked ampROAR",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/moar.png",
+        "image": "https://cdn.chainroot.io/images/tokens/09b5fd05faf6d69b48e6c96af3beffd46eb8febe3bc0f7431017739dac044a18.png",
         "coinGeckoId": "",
         "color": "#9363b3"
     },
@@ -161,7 +161,7 @@
         "symbol": "ATOM-LUNA-LP",
         "description": "ATOM-LUNA liquidity pool token on URA",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/ura.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ura.png",
         "coinGeckoId": ""
     },
     {
@@ -171,7 +171,7 @@
         "symbol": "LUNA-USDC-LP",
         "description": "LUNA-USDC liquidity pool token on URA",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/ura.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ura.png",
         "coinGeckoId": ""
     },
     {
@@ -181,7 +181,7 @@
         "symbol": "LUNA-USDT-LP",
         "description": "LUNA-USDT liquidity pool token on URA",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/ura.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ura.png",
         "coinGeckoId": ""
     }
 ]

@@ -6,7 +6,7 @@
         "symbol": "PLQ",
         "description": "Planq Staking Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/planq/asset/planq.png",
+        "image": "https://cdn.chainroot.io/images/tokens/planq.png",
         "coinGeckoId": "planq"
     },
     {
@@ -16,7 +16,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
         "coinGeckoId": "osmosis",
         "ibc_info" : {
             "path": "osmosis>planq",
@@ -39,7 +39,7 @@
         "symbol": "NRIDE",
         "description": "nRide is developing a uber-like ride-hailing protocol, leveraging cosmwasm smart-contracts for payment, driver registration and text-messaging between the rider and the driver, to create a trustless public transportation environment for any cab or taxi company to use.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno/asset/nride.png",
+        "image": "https://cdn.chainroot.io/images/tokens/nride.png",
         "coinGeckoId": "",
         "ibc_info" : {
             "path": "osmosis>planq",
@@ -62,7 +62,7 @@
         "symbol": "MEME",
         "description": "MEME Token (MEME) is the native staking token of the MEME Chain.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/meme/images/meme.png",
+        "image": "https://cdn.chainroot.io/images/tokens/f2df4c874afe69d7b86bef315d384edb26da77132aaf17ad9c93e14c487c981a.png",
         "coinGeckoId": "",
         "ibc_info" : {
             "path": "meme>planq",
@@ -85,7 +85,7 @@
         "symbol": "SRCX",
         "description": "The token of Source Protocol bridged from BSC.",
         "decimals": 9,
-        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/binancesmartchain/images/srcx.png",
+        "image": "https://cdn.chainroot.io/images/tokens/16bee07ac8b6b0115d265ec492e23fbea7a0f9d5a46353a18857433abc30dc49.png",
         "coinGeckoId": ""
     }
 ]

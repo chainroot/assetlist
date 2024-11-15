@@ -6,7 +6,7 @@
         "symbol": "BOY",
         "description": "Astro BOY",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/boy.png",
+        "image": "https://cdn.chainroot.io/images/tokens/boy.png",
         "coinGeckoId": "",
         "color": "#333333",
         "wallet_preload": true
@@ -18,7 +18,7 @@
         "symbol": "WTF",
         "description": "What the Fuck",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/WTF.png",
+        "image": "https://cdn.chainroot.io/images/tokens/WTF.png",
         "coinGeckoId": "",
         "color": "#dcd5ab",
         "wallet_preload": true
@@ -30,7 +30,7 @@
         "symbol": "BTC",
         "description": "BITCOSMOS",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/bitcosmos.png",
+        "image": "https://cdn.chainroot.io/images/tokens/bitcosmos.png",
         "coinGeckoId": "",
         "color": "#1b0847",
         "wallet_preload": true

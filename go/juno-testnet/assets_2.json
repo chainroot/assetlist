@@ -6,7 +6,7 @@
         "symbol": "JUNO",
         "description": "Juno Testnet Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/juno-testnet/asset/juno.png",
+        "image": "https://cdn.chainroot.io/images/tokens/juno.png",
         "coinGeckoId": "juno-network",
         "color": "#F0827D"
     }

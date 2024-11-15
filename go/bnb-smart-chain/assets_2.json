@@ -6,7 +6,7 @@
         "symbol": "BNB",
         "description": "Binance Smart Chain Native Coin",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bnb-smart-chain/asset/bnb.png",
+        "image": "https://cdn.chainroot.io/images/tokens/bnb.png",
         "coinGeckoId": "binancecoin"
     }
 ]

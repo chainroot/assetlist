@@ -6,7 +6,7 @@
         "symbol": "OKB",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/okc/asset/okb.png",
+        "image": "https://cdn.chainroot.io/images/tokens/okb.png",
         "coinGeckoId": "okb",
         "wallet_preload": true
     },
@@ -17,7 +17,7 @@
         "symbol": "WOKT",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/okc/asset/wokt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/wokt.png",
         "coinGeckoId": "wrapped-okt"
     },
     {
@@ -27,7 +27,7 @@
         "symbol": "USDT",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
         "coinGeckoId": "tether"
     },
     {
@@ -37,7 +37,7 @@
         "symbol": "USDC",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "usd-coin"
     },
     {
@@ -47,7 +47,7 @@
         "symbol": "BTCK",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/okc/asset/btck.png",
+        "image": "https://cdn.chainroot.io/images/tokens/btck.png",
         "coinGeckoId": "oec-btc"
     },
     {
@@ -57,7 +57,7 @@
         "symbol": "ETHK",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/okc/asset/ethk.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ethk.png",
         "coinGeckoId": "oec-eth"
     },
     {
@@ -67,7 +67,7 @@
         "symbol": "DAIK",
         "description": "",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/okc/asset/daik.png",
+        "image": "https://cdn.chainroot.io/images/tokens/daik.png",
         "coinGeckoId": "oec-dai"
     }
 ]

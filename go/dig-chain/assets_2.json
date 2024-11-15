@@ -6,7 +6,7 @@
         "symbol": "DIG",
         "description": "Dig Staking Coin",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/dig-chain/asset/dig.png",
+        "image": "https://cdn.chainroot.io/images/tokens/dig.png",
         "coinGeckoId": "",
         "color": "#1b1433"
     }

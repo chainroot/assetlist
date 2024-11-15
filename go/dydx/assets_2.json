@@ -6,7 +6,7 @@
         "symbol": "dYdX",
         "description": "dYdX",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/dydx/asset/dydx.png",
+        "image": "https://cdn.chainroot.io/images/tokens/dydx.png",
         "coinGeckoId": "dydx",
         "color": "#9248DB"
     },
@@ -17,7 +17,7 @@
         "symbol": "USDC",
         "description": "USD Coin - Directly minted on the Noble chain by the Circle Foundation.",
         "decimals": 6,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble/asset/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "usd-coin",
         "ibc_info" : {
             "path": "noble>dydx",
@@ -40,7 +40,7 @@
         "symbol": "stDYDX",
         "description": "Stride Staked DYDX",
         "decimals": 18,
-        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/stride/asset/stadydx.png",
+        "image": "https://cdn.chainroot.io/images/tokens/stadydx.png",
         "coinGeckoId": "stride-staked-dydx",
         "ibc_info" : {
             "path": "stride>dydx",
