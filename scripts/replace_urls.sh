@@ -13,7 +13,7 @@ find go/ -type f -name "*_2.json" | while read -r json_file; do
   echo "Processing file: $json_file"
 
   # Extract all URLs ending with common image extensions
-  grep -Eo 'https?://[^"]+\.(png|svg|jpg|jpeg|gif)' "$json_file" | grep -v 'https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/' | while read -r url; do
+  grep -Eo 'https?://[^"]+\.(png|svg|jpg|jpeg|gif)' "$json_file" | grep -v 'https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/' | grep -v 'https://cdn.chainroot.io' | while read -r url; do
     # Calculate the hash of the URL
     hash=$(hash_url "$url")
 
