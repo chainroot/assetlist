@@ -1,0 +1,677 @@
+[
+  {
+    "denom": "ibc/62039EAA4748958D1F4CB46A63CDF68CC7E9771FA422D0E1504363FD9A1C8A8C",
+    "symbol": "PEPE",
+    "name": "pepe",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/7c2f48973d37221004afe6a74d88485741f57e9480a5f4ba3be124f2b2c89c87.svg",
+    "coinGeckoId": "",
+    "description": ""
+  },
+  {
+    "denom": "ibc/0B3614BED25B82953A184B4AB7F2F96661443BEB2645ACACA85F3B32BF45B329",
+    "symbol": "SHIB",
+    "name": "shib",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/a6d5c18819b33d7d7ceb733dec445c229b6e7453c6b0d88b2c8bb4bb24c580ef.svg",
+    "coinGeckoId": "",
+    "description": ""
+  },
+  {
+    "denom": "ibc/394483A316B10AC8365D597834255105386B8C306A531C46DB2A8222158F77A0",
+    "symbol": "SHIB",
+    "name": "shib",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/a6d5c18819b33d7d7ceb733dec445c229b6e7453c6b0d88b2c8bb4bb24c580ef.svg",
+    "coinGeckoId": "",
+    "description": ""
+  },
+  {
+    "denom": "ibc/BE533265D8FF2B8E6DAC31579D69056C21BBFDB02BBDC78AB0EEF514D5553CA4",
+    "symbol": "FX",
+    "name": "WFX",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/5275de60c5436282af3855ae21536deb41e6ae1d734fd304ff4fcaaf281fb489.svg",
+    "coinGeckoId": "fx-coin",
+    "description": ""
+  },
+  {
+    "denom": "ibc/6F0955036B92C0A1EE4EB03942A989369DB275CA57454E5F564B581AB5D81CDB",
+    "symbol": "INJ",
+    "name": "INJ",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/c824ba4c934281bfa3a10052366f3c00fe94ed254da7f0e2b82da59a5c2872df.svg",
+    "coinGeckoId": "injective-protocol",
+    "description": ""
+  },
+  {
+    "denom": "ibc/3167205FB1807384FE21BB042336C889DCD8A38B6577588B3AEB1D8FE4665987",
+    "symbol": "EVMOS",
+    "name": "evmos",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/8fd37bed9ab943bf6d2114ddae7f4a42b91cdebc269406c7f6acfb4fd1885e05.svg",
+    "coinGeckoId": "evmos",
+    "description": ""
+  },
+  {
+    "denom": "ibc/0A626B51C9EC657B41CC4235F85C8D999A461AFAD7016CB9A60974B410D3DEDA",
+    "symbol": "DAI",
+    "name": "gdai",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/ed321759e86bba51e2a90254548b77b54994ce54c564a5f36995ac059a36d953.svg",
+    "coinGeckoId": "",
+    "description": ""
+  },
+  {
+    "denom": "ibc/764D1629980B02BAFF3D25BEE4FB1E0C5E350AFA252FDF66E68E10D2179A826A",
+    "symbol": "ETH",
+    "name": "eth",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/af33707625a9a948852514d2ffd2f99d2d8cfc603bca373190a152522fdb1c0c.svg",
+    "coinGeckoId": "ethereum",
+    "description": ""
+  },
+  {
+    "denom": "ibc/6B1BB0F4EF06B1FBDC82BEEA23E8170355DAC6D6C24D2D40B0BC92364FE8E1C8",
+    "symbol": "PICA",
+    "name": "pica",
+    "decimals": 12,
+    "image": "https://cdn.chainroot.io/images/tokens/703a67bd4a27c653b35e425b8cd978acf2e810fcef52626d7d8396f66b6dab41.svg",
+    "coinGeckoId": "picasso",
+    "description": ""
+  },
+  {
+    "denom": "ibc/6BB4ADB45B1903AE497710FBC24E73C2C578A79D25EF923BD2E784A7FD0FC59F",
+    "symbol": "ROAR",
+    "name": "roar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/b1eefb34a5b9ca56fcf188eea2837c1b6d05eb740a8ffcbe2293dc4d0a78b3ec.png",
+    "coinGeckoId": "lion-dao",
+    "description": ""
+  },
+  {
+    "denom": "ibc/A7B494649CB480E16845F5C1F2485E11BF3EF7C746EEF8A50BB8AD2A67C00E78",
+    "symbol": "ETH",
+    "name": "eth",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/af33707625a9a948852514d2ffd2f99d2d8cfc603bca373190a152522fdb1c0c.svg",
+    "coinGeckoId": "ethereum",
+    "description": ""
+  },
+  {
+    "denom": "ibc/9F63977F17AB8106AAFD8E336F5114F76F08B170B120119C8B62F27B0346A9FB",
+    "symbol": "ETH",
+    "name": "eth",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/af33707625a9a948852514d2ffd2f99d2d8cfc603bca373190a152522fdb1c0c.svg",
+    "coinGeckoId": "ethereum",
+    "description": ""
+  },
+  {
+    "denom": "ibc/C0AFA9090B2DE3B79EA0296A43CD8C3C2FDAF153CC81E90A234AB8CBB1EAD6D6",
+    "symbol": "rHUAHUA",
+    "name": "rhuahua",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/c40958bfa39ff5269d683d5ce87cec21a23cb4a27354d1fae93589d427f35d91.svg",
+    "coinGeckoId": "",
+    "description": ""
+  },
+  {
+    "denom": "ibc/FA7112322CE7656DC84D441E49BAEAB9DC0AB3C7618A178A212CDE8B3F17C70B",
+    "symbol": "WHALE",
+    "name": "whale",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/516ed75052338f9ed271f0b26f6090dfa1ed4acb81067b03b45c97222853a3da.svg",
+    "coinGeckoId": "white-whale",
+    "description": ""
+  },
+  {
+    "denom": "ibc/E470C9EEEF2C799E7CFDBB5F2EBD494F5ED8E4F638FA4D22DF04B107171002E8",
+    "symbol": "GRAC",
+    "name": "GRAC",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/c8809b651a43d46bec484e5134b0cd2509262c6380bd4c358ea78038a689839c.png",
+    "coinGeckoId": "",
+    "description": ""
+  },
+  {
+    "denom": "ibc/E452FABA9C51E85726BAB567EB582FEA1541B9D26543C6876996B61112DE72F7",
+    "symbol": "bWHALE",
+    "name": "bWHALE",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/28c4cd2961bb40ebd2cca253c6b8d5a0e9fdea3425a79112865cfe12c37268a6.png",
+    "coinGeckoId": "backbone-labs-staked-whale",
+    "description": ""
+  },
+  {
+    "denom": "ibc/4984B09C4BDF6D1AF32B22983AEF544732A0A517076A0B745BD87ED6EFC1CA2E",
+    "symbol": "HUAHUA",
+    "name": "huahua",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9f226984a0945cdd8fbe6b52a6285a82b061b6e895fe99f42ce775d42efa8c06.svg",
+    "coinGeckoId": "chihuahua-token",
+    "description": ""
+  },
+  {
+    "denom": "ibc/1ABC53B2BB5F76F5DE57F6A6640DAC100F5D078075768115FC3B8E83C54FD9FF",
+    "symbol": "ampWHALE",
+    "name": "ampWHALE",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f003573c99e022772de4fcbd6c45eab4cae1c26fe00fd23ee128a86257542c8c.svg",
+    "coinGeckoId": "",
+    "description": ""
+  },
+  {
+    "denom": "ibc/432CB7245E79C5C064FEC36914CD1614E4CAE9A66E5C5335AB7E750830261300",
+    "symbol": "ROAR",
+    "name": "roar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/b1eefb34a5b9ca56fcf188eea2837c1b6d05eb740a8ffcbe2293dc4d0a78b3ec.png",
+    "coinGeckoId": "lion-dao",
+    "description": ""
+  },
+  {
+    "denom": "ibc/B02AD11CB71728802531D7690FF88BD65C2E9C383B7AFCE10EDD42F26DEEBA65",
+    "symbol": "NEWT",
+    "name": "newt",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/c8e76561d8e1514fe88756d28f63656e3a2b21cc350a217fac8a761916b8c35e.png",
+    "coinGeckoId": "newt",
+    "description": ""
+  },
+  {
+    "denom": "ibc/21A3AFC6D3566634D3065D8CF3851A911542CDB8D4ED86369D412350B1AC7B0A",
+    "symbol": "GASH",
+    "name": "gash",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/6f25a70f358e9bacedde63b6ac0f83c562e59fa89461bacfe3e1d5a0dcf47e49.png",
+    "coinGeckoId": "",
+    "description": ""
+  },
+  {
+    "denom": "ibc/5FA12AB6B23F7FC00BFBA3B26E320C91226BF88CC17DA5E088013252C91AEAD1",
+    "symbol": "USDC",
+    "name": "usdc",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc",
+    "description": ""
+  },
+  {
+    "denom": "ibc/92FAF833D9D9D2495E8CA31FD595D53D4796680BB93D86A859937A5543767ED0",
+    "symbol": "HUAHUA",
+    "name": "huahua",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9f226984a0945cdd8fbe6b52a6285a82b061b6e895fe99f42ce775d42efa8c06.svg",
+    "coinGeckoId": "chihuahua-token",
+    "description": ""
+  },
+  {
+    "denom": "ibc/17F04DD3FE3A75C13BA777F5C3ECE6B3955B5A1D9A0164AB62012199FB17EEEA",
+    "symbol": "HUAHUA",
+    "name": "huahua",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9f226984a0945cdd8fbe6b52a6285a82b061b6e895fe99f42ce775d42efa8c06.svg",
+    "coinGeckoId": "chihuahua-token",
+    "description": ""
+  },
+  {
+    "denom": "ibc/0C31FE8544E2885B01923A2E0B531D7EF90FCB2D2C534CFDF41955C88C22F0D0",
+    "symbol": "LUM",
+    "name": "lum",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/b83db90d9c0385944824acdf459feff0de88d7eeefa09a169a51c7898d02cb51.svg",
+    "coinGeckoId": "lum-network",
+    "description": ""
+  },
+  {
+    "denom": "ibc/D4DBC94F47BE536D778031EFB672F4B23128F18FF7BFE5919F6CEE234A96593D",
+    "symbol": "HUAHUA",
+    "name": "huahua",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9f226984a0945cdd8fbe6b52a6285a82b061b6e895fe99f42ce775d42efa8c06.svg",
+    "coinGeckoId": "chihuahua-token",
+    "description": ""
+  },
+  {
+    "denom": "ibc/E45945EAF3F1587CA3013FFC6CE0B5EEE0F49DAFED2CE51370B5B6A0C3AA258E",
+    "symbol": "RAC",
+    "name": "RAC",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/56079d21b1a05e6e19c016d16319da1de62f636b19c83846caee567418bf58da.svg",
+    "coinGeckoId": "",
+    "description": ""
+  },
+  {
+    "denom": "ibc/A14A9F6687A0D77961A864E41432000D1B3EE95CBDE00AF2F7BDA908B3648D40",
+    "symbol": "HUAHUA",
+    "name": "huahua",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9f226984a0945cdd8fbe6b52a6285a82b061b6e895fe99f42ce775d42efa8c06.svg",
+    "coinGeckoId": "chihuahua-token",
+    "description": ""
+  },
+  {
+    "denom": "ibc/AED9D9DBE04F77AF0EECE104855CB013C8319C764C7B78237D9F0C3A1BA7524C",
+    "symbol": "STARS",
+    "name": "stars",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/8c41a49f8a121387817f0fd11a45f39da6ea8a8952026c46760f2c001316e207.svg",
+    "coinGeckoId": "stargaze",
+    "description": ""
+  },
+  {
+    "denom": "ibc/89C79BD28DCCF300B9EE87740B061011AD870EC480777FAB95D85B3ED36BC06C",
+    "symbol": "JUNO",
+    "name": "juno",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/79f9def0d7428ed8b761a7c42dc5f7a3492367f014258935d72cbbe2d813a552.svg",
+    "coinGeckoId": "juno-network",
+    "description": ""
+  },
+  {
+    "denom": "ibc/A6A4B96313329BED910A6710BFDAFCAC89AB3F293EC91BA0DE76C14424B4ACE2",
+    "symbol": "HARBOR",
+    "name": "harbor",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/1a502badbefa8cc68e70549b0f831717f060d42b772bfa51547c4f6be93509ee.svg",
+    "coinGeckoId": "",
+    "description": ""
+  },
+  {
+    "denom": "ibc/1C2B822D67BA32E77DFA49060CF597B0020DA5243D4AD4CB39F617E6D2691061",
+    "symbol": "HUAHUA",
+    "name": "huahua",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9f226984a0945cdd8fbe6b52a6285a82b061b6e895fe99f42ce775d42efa8c06.svg",
+    "coinGeckoId": "chihuahua-token",
+    "description": ""
+  },
+  {
+    "denom": "ibc/DD44CDCD7379C1550D397AE05AB87474925EB0A521A07F36298572C9F30ABEB8",
+    "symbol": "LVN",
+    "name": "lvn",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/d4b74abb24cc5ededa0b2fd76431824bc634119cac0a4dc029a9921388602d5d.svg",
+    "coinGeckoId": "levana-protocol",
+    "description": ""
+  },
+  {
+    "denom": "ibc/F828D9783DF1B5EB971584F3BC5F483893E25A83ED45CAF4DEEF6E9433C13F3A",
+    "symbol": "PAGE",
+    "name": "page",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/2202aba8b4e6e1ebecfaa17e15f72d6d8922e33777fca5e875d99b6e14908764.svg",
+    "coinGeckoId": "",
+    "description": ""
+  },
+  {
+    "denom": "ibc/AAB9D6E11B004922E886CCCFD7546336D29A6F8B9CB43AEEC62D8B66200A9CED",
+    "symbol": "ROAR",
+    "name": "roar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/b1eefb34a5b9ca56fcf188eea2837c1b6d05eb740a8ffcbe2293dc4d0a78b3ec.png",
+    "coinGeckoId": "lion-dao",
+    "description": ""
+  },
+  {
+    "denom": "ibc/FAC1BAAA6ECDCB88408A6EEEA13AD4736DA687F85ACD22B5BBD00D36754AC0FA",
+    "symbol": "OSMO",
+    "name": "osmo",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/e053406240eac4d978a66008f0551daa497be489fba6c5840e5cd073bd6fcd94.svg",
+    "coinGeckoId": "osmosis",
+    "description": ""
+  },
+  {
+    "denom": "ibc/D1B575EA5C5109D14D6B857A3783718BACFADDCB9B12D5E102558B643023D5C1",
+    "symbol": "PUPPY",
+    "name": "puppy",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/aeeac241aaa2aab71d580eff03d0a158d6ef496ac22881eb11d19b410573f29d.png",
+    "coinGeckoId": "",
+    "description": ""
+  },
+  {
+    "denom": "ibc/2C5E546AA29270E203F83088106E7C262DBC1F0B48D6DB17F55D0F72E9AB94CE",
+    "symbol": "BTSG",
+    "name": "btsg",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/1dc938038b71c5f1a85de37216ba7471ea9ac6be735980308d4b0def67ffd18b.svg",
+    "coinGeckoId": "bitsong",
+    "description": ""
+  },
+  {
+    "denom": "ibc/B1C671DAA104B8D93C7E4F2C9E0BAD4FEEB7AD0FF39F0DE91B471CD92DB077B5",
+    "symbol": "ATOM",
+    "name": "atom",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
+    "coinGeckoId": "cosmos",
+    "description": ""
+  },
+  {
+    "denom": "ibc/06791171A55A3B0AD9FAB4869E25AF71A34D5FBFF20D9B27C5A7D7CBCCF6891F",
+    "symbol": "OSMO",
+    "name": "osmo",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/e053406240eac4d978a66008f0551daa497be489fba6c5840e5cd073bd6fcd94.svg",
+    "coinGeckoId": "osmosis",
+    "description": ""
+  },
+  {
+    "denom": "ibc/EB2CED20AB0466F18BE49285E56B31306D4C60438A022EA995BA65D5E3CF7E09",
+    "symbol": "SCRT",
+    "name": "scrt",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/4e950180cbb20a28d82f99bc2243211928ef4995504af4b4029ba1f3031fde4a.svg",
+    "coinGeckoId": "secret",
+    "description": ""
+  },
+  {
+    "denom": "ibc/D6F1BE66B3689B15DDC0FA60E71A3D32CD07855FD0E754D488F665CCB29AC5BD",
+    "symbol": "IRIS",
+    "name": "iris",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/1595a34d03a89ceaaa0d00e2c31d143b92b9b6e38f3962b9459241c8c6eb7f8d.svg",
+    "coinGeckoId": "iris-network",
+    "description": ""
+  },
+  {
+    "denom": "ibc/9DC979ED1A893586DC54167F8621460A56C8B30B12EC331F92FD9F71C273DEEC",
+    "symbol": "USDC",
+    "name": "gusdc",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/d5b4a9ae52bab105a3a3d04814f9aa2e21dbc8a71181221172ebbe52cefd5c0b.svg",
+    "coinGeckoId": "",
+    "description": ""
+  },
+  {
+    "denom": "ibc/86E7F8E854A97E490225D423EBCEA096018B3FEDE025A8EAEC86F2D09A468345",
+    "symbol": "HUAHUA",
+    "name": "huahua",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9f226984a0945cdd8fbe6b52a6285a82b061b6e895fe99f42ce775d42efa8c06.svg",
+    "coinGeckoId": "chihuahua-token",
+    "description": ""
+  },
+  {
+    "denom": "ibc/9833A6A65567ED7262DAE32AAEA63EB812AEFB227375467560E8D843510EDC5A",
+    "symbol": "HUAHUA",
+    "name": "huahua",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9f226984a0945cdd8fbe6b52a6285a82b061b6e895fe99f42ce775d42efa8c06.svg",
+    "coinGeckoId": "chihuahua-token",
+    "description": ""
+  },
+  {
+    "denom": "ibc/8975823883A07F8A56E1A20AB298E1424C08A0004D3F319E047E549AE6A227D8",
+    "symbol": "ATOM",
+    "name": "atom",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
+    "coinGeckoId": "cosmos",
+    "description": ""
+  },
+  {
+    "denom": "ibc/B2AF3247B7FD21EE12AC105759315E81567138840F81316C734548708D7D1EAB",
+    "symbol": "LUNC",
+    "name": "luna",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna",
+    "description": ""
+  },
+  {
+    "denom": "ibc/D3B753C21BB7149299C1C175A6515EDE13E04AFA0E7A6319505553B903C3C7B7",
+    "symbol": "FLIX",
+    "name": "flix",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/5b1f270194315b91c0282ed58501cf2f454756d248fe1f8e4f1c48d20e3edafa.svg",
+    "coinGeckoId": "omniflix-network",
+    "description": ""
+  },
+  {
+    "denom": "ibc/881B09C071D2D60FE5521D6B0FA01008AED3957BC5F4ACD370261F1F62F114A8",
+    "symbol": "MEDAS",
+    "name": "medas",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/a8460b7c30a9f39c44e595a8363ae71e40d9e35c4ddcefb90c40d55f9a8ad12a.svg",
+    "coinGeckoId": "",
+    "description": ""
+  },
+  {
+    "denom": "ibc/E35DABBACE94BD326B8146F8D9D26FE0DAF94ECC6BBED420B07DF73EA9992619",
+    "symbol": "CMDX",
+    "name": "cmdx",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/18ef9a7a59ab88889f56c3723f72a35db05f8bc967c41f08ff64cd3ecdbe3818.svg",
+    "coinGeckoId": "comdex",
+    "description": ""
+  },
+  {
+    "denom": "ibc/60BB22A3585B8066A4D4B6F85A5402AF8307CF16EC77688EF27E418B6FEEE2D4",
+    "symbol": "AXL",
+    "name": "axl",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
+    "coinGeckoId": "axelar",
+    "description": ""
+  },
+  {
+    "denom": "ibc/92FC3CF65F5D5952ED6AB3E18072BE3F8BF521C0755A0C42172F98664BF4DC83",
+    "symbol": "MEDAS",
+    "name": "medas",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/a8460b7c30a9f39c44e595a8363ae71e40d9e35c4ddcefb90c40d55f9a8ad12a.svg",
+    "coinGeckoId": "",
+    "description": ""
+  },
+  {
+    "denom": "ibc/A44594341E4545E8FDCE8F7496FD02384E18EB2462E4DBD0F4DA01EC3B642A4D",
+    "symbol": "LUNC",
+    "name": "luna",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna",
+    "description": ""
+  },
+  {
+    "denom": "ibc/B26DC1D702ED46B3EE53A7CE210C53D50218CA68D02F88C70010D97568DF024E",
+    "symbol": "USTC",
+    "name": "ust",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/bbf7ad631fa51027777b71c54feda0517f9f112a5f42edad9c584fb9724561cb.svg",
+    "coinGeckoId": "terrausd",
+    "description": ""
+  },
+  {
+    "denom": "ibc/FC47EC0858F2B2C4B06E931C116CE890B32F0D4561F88F4E66589B439E46AEF5",
+    "symbol": "LUNC",
+    "name": "luna",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna",
+    "description": ""
+  },
+  {
+    "denom": "ibc/398B3A1DE10411F2BC51FE25AC367CF501385016C1B030C57E624EC46E158F15",
+    "symbol": "USDC",
+    "name": "usdc",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc",
+    "description": ""
+  },
+  {
+    "denom": "ibc/8CF3A8F46A1087997D32AB6E06F372022D051DF97FBCAC01BE3F93E180584C22",
+    "symbol": "WHALE",
+    "name": "whale",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/516ed75052338f9ed271f0b26f6090dfa1ed4acb81067b03b45c97222853a3da.svg",
+    "coinGeckoId": "white-whale",
+    "description": ""
+  },
+  {
+    "denom": "ibc/1ADFA9848D8DFE81F67E864461551E767ACE0D898B266C53690B877B786EAB15",
+    "symbol": "WHALE",
+    "name": "whale",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/516ed75052338f9ed271f0b26f6090dfa1ed4acb81067b03b45c97222853a3da.svg",
+    "coinGeckoId": "white-whale",
+    "description": ""
+  },
+  {
+    "denom": "ibc/11688CB60D5C49CE79337EDD10B574A35AE0F045C592F66238913088377B07C9",
+    "symbol": "WHALE",
+    "name": "whale",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/516ed75052338f9ed271f0b26f6090dfa1ed4acb81067b03b45c97222853a3da.svg",
+    "coinGeckoId": "white-whale",
+    "description": ""
+  },
+  {
+    "denom": "ibc/9B371E925C2957F1AA1E3981E1750581F30CB4CA80AD81E75E253953B1F338A2",
+    "symbol": "WHALE",
+    "name": "whale",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/516ed75052338f9ed271f0b26f6090dfa1ed4acb81067b03b45c97222853a3da.svg",
+    "coinGeckoId": "white-whale",
+    "description": ""
+  },
+  {
+    "denom": "ibc/D1489F3713939AE235BE7C4D6D01C49B3A67791D86F79520EE67CFA4A1A88846",
+    "symbol": "XPRT",
+    "name": "xprt",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f3d55f97fcb02b6863bbf49d29b405e4e61b9124f4b6c11d97f2997b67adee38.svg",
+    "coinGeckoId": "persistence",
+    "description": ""
+  },
+  {
+    "denom": "ibc/59334E4659EE35FB629D7468D08F4B25B730D0CA8CA07121D82D6788C3C2F957",
+    "symbol": "XPRT",
+    "name": "xprt",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f3d55f97fcb02b6863bbf49d29b405e4e61b9124f4b6c11d97f2997b67adee38.svg",
+    "coinGeckoId": "persistence",
+    "description": ""
+  },
+  {
+    "denom": "ibc/04B5C562EAF986EBC7D477B8EB0110DEC38C807BEF48B0AC75D2D06216ABDD28",
+    "symbol": "JUNO",
+    "name": "juno",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/79f9def0d7428ed8b761a7c42dc5f7a3492367f014258935d72cbbe2d813a552.svg",
+    "coinGeckoId": "juno-network",
+    "description": ""
+  },
+  {
+    "denom": "ibc/82A4028D66417588952377F3ACEFECF39BB5908DFD25B173D771D0E19376D07B",
+    "symbol": "CMST",
+    "name": "cmst",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/ccb1049a9bf51739510f8702c13c234456e37ec0ef19d30406e42889bfd734fe.svg",
+    "coinGeckoId": "composite",
+    "description": ""
+  },
+  {
+    "denom": "ibc/06B662CF7EF9C09C85BEB1234418AF8EC073BB5F1F970974F934C33FB7662AC9",
+    "symbol": "JUNO",
+    "name": "juno",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/79f9def0d7428ed8b761a7c42dc5f7a3492367f014258935d72cbbe2d813a552.svg",
+    "coinGeckoId": "juno-network",
+    "description": ""
+  },
+  {
+    "denom": "ibc/4DD75AE6A1A5A440B43D5D064DBC4DB31A67F6B60FB057B737521B5D96F178C3",
+    "symbol": "bLUNA",
+    "name": "bLUNA",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/062bd270899f74d4f31cd235acfe646abdb214705d6c8a4da64c62f09f23d81a.png",
+    "coinGeckoId": "backbone-labs-staked-luna",
+    "description": ""
+  },
+  {
+    "denom": "ibc/4AA6E784863F4FB0DF3AF3BC8F8006333BEABA2F6C69C42B3C356800B4A3A774",
+    "symbol": "ATOM",
+    "name": "atom",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
+    "coinGeckoId": "cosmos",
+    "description": ""
+  },
+  {
+    "denom": "ibc/602B2AB3379A9917CB9E7BA6DA2B8F63AD842DAD36D1B36CCDBF3AB620B60904",
+    "symbol": "NTRN",
+    "name": "ntrn",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/bcc7880c69cc88313d52a96ce2f7e780a98c5e8a5b86e7318667fd5eabe34c4c.svg",
+    "coinGeckoId": "neutron-3",
+    "description": ""
+  },
+  {
+    "denom": "ibc/6D77E9A854F9537F2A68C735CEC62B55BC4052F13244A889B1B59433124BA980",
+    "symbol": "HUAHUA",
+    "name": "huahua",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9f226984a0945cdd8fbe6b52a6285a82b061b6e895fe99f42ce775d42efa8c06.svg",
+    "coinGeckoId": "chihuahua-token",
+    "description": ""
+  },
+  {
+    "denom": "ibc/9239D3A4DCB4F8D9765DF1D87F5C904A05E8A3CAC1D22326B95AD0C429FB8352",
+    "symbol": "GRAV",
+    "name": "graviton",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/80113d9226d07b7d5f24a7b6f569d4971cdfed9481d0b80d4121b8c3bd7e0a8b.svg",
+    "coinGeckoId": "graviton",
+    "description": ""
+  },
+  {
+    "denom": "ibc/CE390060CC5A9A918FB5CBA12894E6A11237E198B989CAAB2C6B4E3E63C8ECC5",
+    "symbol": "LUNC",
+    "name": "luna",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna",
+    "description": ""
+  },
+  {
+    "denom": "ibc/C6BF622B73A9FD6E1A27EBC432AAA2B7089D0F47DB2EFEF4D9ABA938DDB8E4F7",
+    "symbol": "FIS",
+    "name": "fis",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/3c1f69681825450ad7f91f83fd29d1403e7dbc3105c86dc7e7c1a3d6437ac36e.svg",
+    "coinGeckoId": "stafi",
+    "description": ""
+  },
+  {
+    "denom": "ibc/5A63D05D43F19EA782E7342F8CFB2161E3E1991DA4AE4B7F096ABCFDD6C38B8E",
+    "symbol": "SCRT",
+    "name": "scrt",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/4e950180cbb20a28d82f99bc2243211928ef4995504af4b4029ba1f3031fde4a.svg",
+    "coinGeckoId": "secret",
+    "description": ""
+  },
+  {
+    "denom": "ibc/8CE03AF2B73E16AA5BC52FBCAE5ABD9214BF0D4F48CA20B8B255401B8658480C",
+    "symbol": "ATOM",
+    "name": "atom",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
+    "coinGeckoId": "cosmos",
+    "description": ""
+  },
+  {
+    "denom": "ibc/B273F94B1F66B22F1ABAB27C8B7A2692D0AB9754DC1971FCE0360962A9E4C6E7",
+    "symbol": "LUM",
+    "name": "lum",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/b83db90d9c0385944824acdf459feff0de88d7eeefa09a169a51c7898d02cb51.svg",
+    "coinGeckoId": "lum-network",
+    "description": ""
+  }
+]

@@ -27,10 +27,10 @@ update-chain-data:
 # Command to update all JSON files in 'go/' directory for non-cosmostation URLs
 update-images:
 	@echo "Updating image URLs with hashed values"
-		bash ./replace_urls.sh
+		bash ./scripts/replace_urls.sh
 	done
 	@echo "Updating image URLs with hashed values"
-		bash ./replace_chainlist.sh
+		bash ./scripts/replace_chainlist.sh
 	done
 
 
