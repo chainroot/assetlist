@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "rowan",
-        "name" : "Sifchain",
+        "name": "Sifchain",
         "symbol": "ROWAN",
         "description": "Sifchain Staking Coin",
         "decimals": 18,
@@ -13,15 +13,15 @@
     {
         "type": "ibc",
         "denom": "ibc/21CB41565FCA19AB6613EE06B0D56E588E0DC3E53FF94BA499BB9635794A1A35",
-        "name" : "Sentinel",
+        "name": "Sentinel",
         "symbol": "DVPN",
         "description": "Sentinel Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/dvpn.png",
         "coinGeckoId": "sentinel",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "sentinel>sifchain",
-            "client" : {
+            "client": {
                 "channel": "channel-1",
                 "port": "transfer"
             },
@@ -36,15 +36,15 @@
     {
         "type": "ibc",
         "denom": "ibc/6D717BFF5537D129035BAB39F593D638BA258A9F8D86FB7ECCEAB05B6950CC3E",
-        "name" : "Akash Network",
+        "name": "Akash Network",
         "symbol": "AKT",
         "description": "Akash Network Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/akt.png",
         "coinGeckoId": "akash-network",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "akash>sifchain",
-            "client" : {
+            "client": {
                 "channel": "channel-2",
                 "port": "transfer"
             },
@@ -59,15 +59,15 @@
     {
         "type": "ibc",
         "denom": "ibc/2CC6F10253D563A7C238096BA63D060F7F356E37D5176E517034B8F730DB4AB6",
-        "name" : "Regen",
+        "name": "Regen",
         "symbol": "REGEN",
         "description": "Regen Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/regen.png",
         "coinGeckoId": "regen",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "regen>sifchain",
-            "client" : {
+            "client": {
                 "channel": "channel-10",
                 "port": "transfer"
             },
@@ -82,15 +82,15 @@
     {
         "type": "ibc",
         "denom": "ibc/F20C4E30E4202C11FE009D6D58B2FF212C99084CB6F767287A51A93EFD960086",
-        "name" : "Starname",
+        "name": "Starname",
         "symbol": "IOV",
         "description": "Starname Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/iov.png",
         "coinGeckoId": "starname",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "starname>sifchain",
-            "client" : {
+            "client": {
                 "channel": "channel-54",
                 "port": "transfer"
             },
@@ -105,15 +105,15 @@
     {
         "type": "ibc",
         "denom": "ibc/D87BC708A791246AA683D514C273736F07579CBD56C9CA79B7823F9A01C16270",
-        "name" : "Persistence One",
+        "name": "Persistence One",
         "symbol": "XPRT",
         "description": "Persistence Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/xprt.png",
         "coinGeckoId": "persistence",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "persistence>sifchain",
-            "client" : {
+            "client": {
                 "channel": "channel-7",
                 "port": "transfer"
             },
@@ -128,15 +128,15 @@
     {
         "type": "ibc",
         "denom": "ibc/B4314D0E670CB43C88A5DCA09F76E5E812BD831CC2FEC6E434C9E5A9D1F57953",
-        "name" : "Osmosis",
+        "name": "Osmosis",
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
         "coinGeckoId": "osmosis",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "osmosis>sifchain",
-            "client" : {
+            "client": {
                 "channel": "channel-17",
                 "port": "transfer"
             },
@@ -151,15 +151,15 @@
     {
         "type": "ibc",
         "denom": "ibc/ACA7D0100794F39DF3FF0C5E31638B24737321C24F32C2C486A24C78DD8F2029",
-        "name" : "e-Money",
+        "name": "e-Money",
         "symbol": "NGM",
         "description": "e-Money Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/ngm.png",
         "coinGeckoId": "e-money",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "emoney>sifchain",
-            "client" : {
+            "client": {
                 "channel": "channel-19",
                 "port": "transfer"
             },
@@ -174,15 +174,15 @@
     {
         "type": "ibc",
         "denom": "ibc/7B8A3357032F3DB000ACFF3B2C9F8E77B932F21004FC93B5A8F77DE24161A573",
-        "name" : "EUR stablecoin",
+        "name": "EUR stablecoin",
         "symbol": "EEUR",
         "description": "e-Money EUR stablecoin. Audited and backed by fiat EUR deposits and government bonds.",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/eeur.png",
         "coinGeckoId": "e-money-eur",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "emoney>sifchain",
-            "client" : {
+            "client": {
                 "channel": "channel-19",
                 "port": "transfer"
             },
@@ -197,15 +197,15 @@
     {
         "type": "ibc",
         "denom": "ibc/F279AB967042CAC10BFF70FAECB179DCE37AAAE4CD4C1BC4565C2BBC383BC0FA",
-        "name" : "Juno",
+        "name": "Juno",
         "symbol": "JUNO",
         "description": "Juno Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/juno.png",
         "coinGeckoId": "juno-network",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "juno>sifchain",
-            "client" : {
+            "client": {
                 "channel": "channel-14",
                 "port": "transfer"
             },
@@ -220,15 +220,15 @@
     {
         "type": "ibc",
         "denom": "ibc/B21954812E6E642ADC0B5ACB233E02A634BF137C572575BF80F7C0CC3DB2E74D",
-        "name" : "Cronos Coin",
+        "name": "Cronos Coin",
         "symbol": "CRO",
         "description": "Cronos POS Staking Coin",
         "decimals": 8,
         "image": "https://cdn.chainroot.io/images/tokens/cro.png",
         "coinGeckoId": "crypto-com-chain",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "crypto-org>sifchain",
-            "client" : {
+            "client": {
                 "channel": "channel-9",
                 "port": "transfer"
             },
@@ -243,15 +243,15 @@
     {
         "type": "ibc",
         "denom": "ibc/11DFDFADE34DCE439BA732EBA5CD8AA804A544BA1ECC0882856289FAF01FE53F",
-        "name" : "IRISnet",
+        "name": "IRISnet",
         "symbol": "IRIS",
         "description": "IRISnet Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/iris.png",
         "coinGeckoId": "iris-network",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "iris>sifchain",
-            "client" : {
+            "client": {
                 "channel": "channel-8",
                 "port": "transfer"
             },
@@ -266,15 +266,15 @@
     {
         "type": "ibc",
         "denom": "ibc/345D30E8ED06B47FC538ED131D99D16126F07CD6F8B35DE96AAF4C1E445AF466",
-        "name" : "Secret",
+        "name": "Secret",
         "symbol": "SCRT",
         "description": "Secret Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/scrt.png",
         "coinGeckoId": "secret",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "secret>sifchain",
-            "client" : {
+            "client": {
                 "channel": "channel-65",
                 "port": "transfer"
             },
@@ -289,15 +289,15 @@
     {
         "type": "ibc",
         "denom": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
-        "name" : "Atom",
+        "name": "Atom",
         "symbol": "ATOM",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/atom.png",
         "coinGeckoId": "cosmos",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "cosmos>sifchain",
-            "client" : {
+            "client": {
                 "channel": "channel-0",
                 "port": "transfer"
             },
@@ -312,26 +312,26 @@
     {
         "type": "bridge",
         "denom": "ceth",
-        "name" : "ETH (Ethereum via Sifchain)",
+        "name": "ETH (Ethereum via Sifchain)",
         "symbol": "ETH",
         "description": "ETH",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/eth.png",
         "coinGeckoId": "ethereum",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain"
         }
     },
     {
         "type": "bridge",
         "denom": "cusdc",
-        "name" : "USDC (Ethereum via Sifchain)",
+        "name": "USDC (Ethereum via Sifchain)",
         "symbol": "USDC",
         "description": "USDC",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "usd-coin",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -342,13 +342,13 @@
     {
         "type": "bridge",
         "denom": "csrm",
-        "name" : "SRM (Ethereum via Sifchain)",
+        "name": "SRM (Ethereum via Sifchain)",
         "symbol": "SRM",
         "description": "SRM",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/srm.png",
         "coinGeckoId": "serum",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -359,13 +359,13 @@
     {
         "type": "bridge",
         "denom": "cusdt",
-        "name" : "USDT (Ethereum via Sifchain)",
+        "name": "USDT (Ethereum via Sifchain)",
         "symbol": "USDT",
         "description": "USDT",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
         "coinGeckoId": "tether",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -376,13 +376,13 @@
     {
         "type": "bridge",
         "denom": "ccro",
-        "name" : "CRO (Ethereum via Sifchain)",
+        "name": "CRO (Ethereum via Sifchain)",
         "symbol": "CRO",
         "description": "CRO",
         "decimals": 8,
         "image": "https://cdn.chainroot.io/images/tokens/cro.png",
         "coinGeckoId": "crypto-com-chain",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "crypto-org>ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -393,13 +393,13 @@
     {
         "type": "bridge",
         "denom": "c1inch",
-        "name" : "1INCH (Ethereum via Sifchain)",
+        "name": "1INCH (Ethereum via Sifchain)",
         "symbol": "1INCH",
         "description": "1INCH",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/1inch.png",
         "coinGeckoId": "1inch",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -410,13 +410,13 @@
     {
         "type": "bridge",
         "denom": "caave",
-        "name" : "AAVE (Ethereum via Sifchain)",
+        "name": "AAVE (Ethereum via Sifchain)",
         "symbol": "AAVE",
         "description": "AAVE",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/aave.png",
         "coinGeckoId": "aave",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -427,13 +427,13 @@
     {
         "type": "bridge",
         "denom": "cakro",
-        "name" : "AKRO (Ethereum via Sifchain)",
+        "name": "AKRO (Ethereum via Sifchain)",
         "symbol": "AKRO",
         "description": "AKRO",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/akro.png",
         "coinGeckoId": "akropolis",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -444,13 +444,13 @@
     {
         "type": "bridge",
         "denom": "cant",
-        "name" : "ANT (Ethereum via Sifchain)",
+        "name": "ANT (Ethereum via Sifchain)",
         "symbol": "ANT",
         "description": "ANT",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/ant.png",
         "coinGeckoId": "aragon",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -461,13 +461,13 @@
     {
         "type": "bridge",
         "denom": "caxs",
-        "name" : "AXS (Ethereum via Sifchain)",
+        "name": "AXS (Ethereum via Sifchain)",
         "symbol": "AXS",
         "description": "AXS",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/axs.png",
         "coinGeckoId": "axie-infinity",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -478,13 +478,13 @@
     {
         "type": "bridge",
         "denom": "cb20",
-        "name" : "B20 (Ethereum via Sifchain)",
+        "name": "B20 (Ethereum via Sifchain)",
         "symbol": "B20",
         "description": "B20",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/b20.png",
         "coinGeckoId": "b20",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -495,13 +495,13 @@
     {
         "type": "bridge",
         "denom": "cbal",
-        "name" : "BAL (Ethereum via Sifchain)",
+        "name": "BAL (Ethereum via Sifchain)",
         "symbol": "BAL",
         "description": "BAL",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/bal.png",
         "coinGeckoId": "balancer",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -512,13 +512,13 @@
     {
         "type": "bridge",
         "denom": "cband",
-        "name" : "Band (Ethereum via Sifchain)",
+        "name": "Band (Ethereum via Sifchain)",
         "symbol": "Band",
         "description": "Band",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/band.png",
         "coinGeckoId": "band-protocol",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -529,13 +529,13 @@
     {
         "type": "bridge",
         "denom": "cbat",
-        "name" : "BAT (Ethereum via Sifchain)",
+        "name": "BAT (Ethereum via Sifchain)",
         "symbol": "BAT",
         "description": "BAT",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/bat.png",
         "coinGeckoId": "basic-attention-token",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -546,13 +546,13 @@
     {
         "type": "bridge",
         "denom": "cbnt",
-        "name" : "BNT (Ethereum via Sifchain)",
+        "name": "BNT (Ethereum via Sifchain)",
         "symbol": "BNT",
         "description": "BNT",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/bnt.png",
         "coinGeckoId": "bancor",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -563,13 +563,13 @@
     {
         "type": "bridge",
         "denom": "cbond",
-        "name" : "BOND (Ethereum via Sifchain)",
+        "name": "BOND (Ethereum via Sifchain)",
         "symbol": "BOND",
         "description": "BOND",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/bond.png",
         "coinGeckoId": "barnbridge",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -580,13 +580,13 @@
     {
         "type": "bridge",
         "denom": "cbtsg",
-        "name" : "BTSG (Ethereum via Sifchain)",
+        "name": "BTSG (Ethereum via Sifchain)",
         "symbol": "BTSG",
         "description": "BTSG",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/btsg.png",
         "coinGeckoId": "bitsong",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -597,13 +597,13 @@
     {
         "type": "bridge",
         "denom": "ccocos",
-        "name" : "COCOS (Ethereum via Sifchain)",
+        "name": "COCOS (Ethereum via Sifchain)",
         "symbol": "COCOS",
         "description": "COCOS",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/cocos.png",
         "coinGeckoId": "",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -614,13 +614,13 @@
     {
         "type": "bridge",
         "denom": "ccomp",
-        "name" : "COMP (Ethereum via Sifchain)",
+        "name": "COMP (Ethereum via Sifchain)",
         "symbol": "COMP",
         "description": "COMP",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/comp.png",
         "coinGeckoId": "",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -631,13 +631,13 @@
     {
         "type": "bridge",
         "denom": "cconv",
-        "name" : "CONV (Ethereum via Sifchain)",
+        "name": "CONV (Ethereum via Sifchain)",
         "symbol": "CONV",
         "description": "CONV",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/conv.png",
         "coinGeckoId": "convergence",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -648,13 +648,13 @@
     {
         "type": "bridge",
         "denom": "ccream",
-        "name" : "CREAM (Ethereum via Sifchain)",
+        "name": "CREAM (Ethereum via Sifchain)",
         "symbol": "CREAM",
         "description": "CREAM",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/cream.png",
         "coinGeckoId": "cream-2",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -665,13 +665,13 @@
     {
         "type": "bridge",
         "denom": "cdai",
-        "name" : "DAI (Ethereum via Sifchain)",
+        "name": "DAI (Ethereum via Sifchain)",
         "symbol": "DAI",
         "description": "DAI",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/dai.png",
         "coinGeckoId": "dai",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -682,13 +682,13 @@
     {
         "type": "bridge",
         "denom": "cdaofi",
-        "name" : "DAOFI (Ethereum via Sifchain)",
+        "name": "DAOFI (Ethereum via Sifchain)",
         "symbol": "DAOFI",
         "description": "DAOFI",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/daofi.png",
         "coinGeckoId": "xxxxx",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -699,13 +699,13 @@
     {
         "type": "bridge",
         "denom": "cdfyn",
-        "name" : "DFYN (Ethereum via Sifchain)",
+        "name": "DFYN (Ethereum via Sifchain)",
         "symbol": "DFYN",
         "description": "DFYN",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/dfyn.png",
         "coinGeckoId": "dfyn-network",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -716,13 +716,13 @@
     {
         "type": "bridge",
         "denom": "cdino",
-        "name" : "DINO (Ethereum via Sifchain)",
+        "name": "DINO (Ethereum via Sifchain)",
         "symbol": "DINO",
         "description": "DINO",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/dino.png",
         "coinGeckoId": "",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -733,13 +733,13 @@
     {
         "type": "bridge",
         "denom": "cdnxc",
-        "name" : "DNXC (Ethereum via Sifchain)",
+        "name": "DNXC (Ethereum via Sifchain)",
         "symbol": "DNXC",
         "description": "DNXC",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/dnxc.png",
         "coinGeckoId": "dinox",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -750,13 +750,13 @@
     {
         "type": "bridge",
         "denom": "cdon",
-        "name" : "DON (Ethereum via Sifchain)",
+        "name": "DON (Ethereum via Sifchain)",
         "symbol": "DON",
         "description": "DON",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/don.png",
         "coinGeckoId": "donkey-token",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -767,13 +767,13 @@
     {
         "type": "bridge",
         "denom": "cenj",
-        "name" : "ENJ (Ethereum via Sifchain)",
+        "name": "ENJ (Ethereum via Sifchain)",
         "symbol": "ENJ",
         "description": "ENJ",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/enj.png",
         "coinGeckoId": "enjincoin",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -784,13 +784,13 @@
     {
         "type": "bridge",
         "denom": "cern",
-        "name" : "ERN (Ethereum via Sifchain)",
+        "name": "ERN (Ethereum via Sifchain)",
         "symbol": "ERN",
         "description": "ERN",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/ern.png",
         "coinGeckoId": "ethernity-chain",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -801,13 +801,13 @@
     {
         "type": "bridge",
         "denom": "cesd",
-        "name" : "ESD (Ethereum via Sifchain)",
+        "name": "ESD (Ethereum via Sifchain)",
         "symbol": "ESD",
         "description": "ESD",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/esd.png",
         "coinGeckoId": "empty-set-dollar",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -818,13 +818,13 @@
     {
         "type": "bridge",
         "denom": "cfrax",
-        "name" : "FRAX (Ethereum via Sifchain)",
+        "name": "FRAX (Ethereum via Sifchain)",
         "symbol": "FRAX",
         "description": "FRAX",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/frax.png",
         "coinGeckoId": "frax",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -835,13 +835,13 @@
     {
         "type": "bridge",
         "denom": "cftm",
-        "name" : "FTM (Ethereum via Sifchain)",
+        "name": "FTM (Ethereum via Sifchain)",
         "symbol": "FTM",
         "description": "FTM",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/ftm.png",
         "coinGeckoId": "fantom",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -852,13 +852,13 @@
     {
         "type": "bridge",
         "denom": "cfxs",
-        "name" : "FXS (Ethereum via Sifchain)",
+        "name": "FXS (Ethereum via Sifchain)",
         "symbol": "FXS",
         "description": "FXS",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/fxs.png",
         "coinGeckoId": "frax-share",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -869,13 +869,13 @@
     {
         "type": "bridge",
         "denom": "cgrt",
-        "name" : "GRT (Ethereum via Sifchain)",
+        "name": "GRT (Ethereum via Sifchain)",
         "symbol": "GRT",
         "description": "GRT",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/grt.png",
         "coinGeckoId": "the-graph",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -886,13 +886,13 @@
     {
         "type": "bridge",
         "denom": "ciotx",
-        "name" : "IOTX (Ethereum via Sifchain)",
+        "name": "IOTX (Ethereum via Sifchain)",
         "symbol": "IOTX",
         "description": "IOTX",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/iotx.png",
         "coinGeckoId": "iotex",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -903,13 +903,13 @@
     {
         "type": "bridge",
         "denom": "ckeep",
-        "name" : "KEEP (Ethereum via Sifchain)",
+        "name": "KEEP (Ethereum via Sifchain)",
         "symbol": "KEEP",
         "description": "KEEP",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/keep.png",
         "coinGeckoId": "keep-network",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -920,13 +920,13 @@
     {
         "type": "bridge",
         "denom": "ckft",
-        "name" : "KFT (Ethereum via Sifchain)",
+        "name": "KFT (Ethereum via Sifchain)",
         "symbol": "KFT",
         "description": "KFT",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/kft.png",
         "coinGeckoId": "knit-finance",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -937,13 +937,13 @@
     {
         "type": "bridge",
         "denom": "cldo",
-        "name" : "LDO (Ethereum via Sifchain)",
+        "name": "LDO (Ethereum via Sifchain)",
         "symbol": "LDO",
         "description": "LDO",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/ldo.png",
         "coinGeckoId": "lido-dao",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -954,13 +954,13 @@
     {
         "type": "bridge",
         "denom": "cleash",
-        "name" : "LEASH (Ethereum via Sifchain)",
+        "name": "LEASH (Ethereum via Sifchain)",
         "symbol": "LEASH",
         "description": "LEASH",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/leash.png",
         "coinGeckoId": "leash",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -971,13 +971,13 @@
     {
         "type": "bridge",
         "denom": "clgcy",
-        "name" : "LGCY (Ethereum via Sifchain)",
+        "name": "LGCY (Ethereum via Sifchain)",
         "symbol": "LGCY",
         "description": "LGCY",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/lgcy.png",
         "coinGeckoId": "lgcy-network",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -988,13 +988,13 @@
     {
         "type": "bridge",
         "denom": "clina",
-        "name" : "LINA (Ethereum via Sifchain)",
+        "name": "LINA (Ethereum via Sifchain)",
         "symbol": "LINA",
         "description": "LINA",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/lina.png",
         "coinGeckoId": "linear",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1005,13 +1005,13 @@
     {
         "type": "bridge",
         "denom": "clink",
-        "name" : "LINK (Ethereum via Sifchain)",
+        "name": "LINK (Ethereum via Sifchain)",
         "symbol": "LINK",
         "description": "LINK",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/link.png",
         "coinGeckoId": "chainlink",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1022,13 +1022,13 @@
     {
         "type": "bridge",
         "denom": "clon",
-        "name" : "LON (Ethereum via Sifchain)",
+        "name": "LON (Ethereum via Sifchain)",
         "symbol": "LON",
         "description": "LON",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/lon.png",
         "coinGeckoId": "tokenlon",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1039,13 +1039,13 @@
     {
         "type": "bridge",
         "denom": "clrc",
-        "name" : "LRC (Ethereum via Sifchain)",
+        "name": "LRC (Ethereum via Sifchain)",
         "symbol": "LRC",
         "description": "LRC",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/lrc.png",
         "coinGeckoId": "loopring",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1056,13 +1056,13 @@
     {
         "type": "bridge",
         "denom": "cmana",
-        "name" : "MANA (Ethereum via Sifchain)",
+        "name": "MANA (Ethereum via Sifchain)",
         "symbol": "MANA",
         "description": "MANA",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/mana.png",
         "coinGeckoId": "decentraland",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1073,13 +1073,13 @@
     {
         "type": "bridge",
         "denom": "cmatic",
-        "name" : "MATIC (Ethereum via Sifchain)",
+        "name": "MATIC (Ethereum via Sifchain)",
         "symbol": "MATIC",
         "description": "MATIC",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/matic.png",
         "coinGeckoId": "matic-network",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1090,13 +1090,13 @@
     {
         "type": "bridge",
         "denom": "cmetis",
-        "name" : "METIS (Ethereum via Sifchain)",
+        "name": "METIS (Ethereum via Sifchain)",
         "symbol": "METIS",
         "description": "METIS",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/metis.png",
         "coinGeckoId": "metis-token",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1107,13 +1107,13 @@
     {
         "type": "bridge",
         "denom": "cocean",
-        "name" : "OCEAN (Ethereum via Sifchain)",
+        "name": "OCEAN (Ethereum via Sifchain)",
         "symbol": "OCEAN",
         "description": "OCEAN",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/ocean.png",
         "coinGeckoId": "ocean-protocol",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1124,13 +1124,13 @@
     {
         "type": "bridge",
         "denom": "cogn",
-        "name" : "OGN (Ethereum via Sifchain)",
+        "name": "OGN (Ethereum via Sifchain)",
         "symbol": "OGN",
         "description": "OGN",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/ogn.png",
         "coinGeckoId": "origin-protocol",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1141,13 +1141,13 @@
     {
         "type": "bridge",
         "denom": "coh",
-        "name" : "OH (Ethereum via Sifchain)",
+        "name": "OH (Ethereum via Sifchain)",
         "symbol": "OH",
         "description": "OH",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/oh.png",
         "coinGeckoId": "oh-finance",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1158,13 +1158,13 @@
     {
         "type": "bridge",
         "denom": "cpaid",
-        "name" : "PAID (Ethereum via Sifchain)",
+        "name": "PAID (Ethereum via Sifchain)",
         "symbol": "PAID",
         "description": "PAID",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/paid.png",
         "coinGeckoId": "paid-network",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1175,13 +1175,13 @@
     {
         "type": "bridge",
         "denom": "cpols",
-        "name" : "POLS (Ethereum via Sifchain)",
+        "name": "POLS (Ethereum via Sifchain)",
         "symbol": "POLS",
         "description": "POLS",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/pols.png",
         "coinGeckoId": "polkastarter",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1192,13 +1192,13 @@
     {
         "type": "bridge",
         "denom": "cpond",
-        "name" : "POND (Ethereum via Sifchain)",
+        "name": "POND (Ethereum via Sifchain)",
         "symbol": "POND",
         "description": "POND",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/pond.png",
         "coinGeckoId": "marlin",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1209,13 +1209,13 @@
     {
         "type": "bridge",
         "denom": "cquick",
-        "name" : "QUICK (Ethereum via Sifchain)",
+        "name": "QUICK (Ethereum via Sifchain)",
         "symbol": "QUICK",
         "description": "QUICK",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/quick.png",
         "coinGeckoId": "quick",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1226,13 +1226,13 @@
     {
         "type": "bridge",
         "denom": "crail",
-        "name" : "RAIL (Ethereum via Sifchain)",
+        "name": "RAIL (Ethereum via Sifchain)",
         "symbol": "RAIL",
         "description": "RAIL",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/rail.png",
         "coinGeckoId": "railgun",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1243,13 +1243,13 @@
     {
         "type": "bridge",
         "denom": "cratom",
-        "name" : "RATOM (Ethereum via Sifchain)",
+        "name": "RATOM (Ethereum via Sifchain)",
         "symbol": "RATOM",
         "description": "RATOM",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/ratom.png",
         "coinGeckoId": "stafi-ratom",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1260,13 +1260,13 @@
     {
         "type": "bridge",
         "denom": "creef",
-        "name" : "REEF (Ethereum via Sifchain)",
+        "name": "REEF (Ethereum via Sifchain)",
         "symbol": "REEF",
         "description": "REEF",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/reef.png",
         "coinGeckoId": "reef",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1277,13 +1277,13 @@
     {
         "type": "bridge",
         "denom": "crfuel",
-        "name" : "RFUEL (Ethereum via Sifchain)",
+        "name": "RFUEL (Ethereum via Sifchain)",
         "symbol": "RFUEL",
         "description": "RFUEL",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/rfuel.png",
         "coinGeckoId": "rio-defi",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1294,13 +1294,13 @@
     {
         "type": "bridge",
         "denom": "crly",
-        "name" : "RLY (Ethereum via Sifchain)",
+        "name": "RLY (Ethereum via Sifchain)",
         "symbol": "RLY",
         "description": "RLY",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/rly.png",
         "coinGeckoId": "rally-2",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1311,13 +1311,13 @@
     {
         "type": "bridge",
         "denom": "crndr",
-        "name" : "RNDR (Ethereum via Sifchain)",
+        "name": "RNDR (Ethereum via Sifchain)",
         "symbol": "RNDR",
         "description": "RNDR",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/rndr.png",
         "coinGeckoId": "render-token",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1328,13 +1328,13 @@
     {
         "type": "bridge",
         "denom": "crune",
-        "name" : "RUNE (Ethereum via Sifchain)",
+        "name": "RUNE (Ethereum via Sifchain)",
         "symbol": "RUNE",
         "description": "RUNE",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/rune.png",
         "coinGeckoId": "thorchain",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1345,13 +1345,13 @@
     {
         "type": "bridge",
         "denom": "csaito",
-        "name" : "SAITO (Ethereum via Sifchain)",
+        "name": "SAITO (Ethereum via Sifchain)",
         "symbol": "SAITO",
         "description": "SAITO",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/saito.png",
         "coinGeckoId": "saito",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1362,13 +1362,13 @@
     {
         "type": "bridge",
         "denom": "csand",
-        "name" : "SAND (Ethereum via Sifchain)",
+        "name": "SAND (Ethereum via Sifchain)",
         "symbol": "SAND",
         "description": "SAND",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/sand.png",
         "coinGeckoId": "the-sandbox",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1379,13 +1379,13 @@
     {
         "type": "bridge",
         "denom": "cshib",
-        "name" : "SHIB (Ethereum via Sifchain)",
+        "name": "SHIB (Ethereum via Sifchain)",
         "symbol": "SHIB",
         "description": "SHIB",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/shib.png",
         "coinGeckoId": "shiba-inu",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1396,13 +1396,13 @@
     {
         "type": "bridge",
         "denom": "csnx",
-        "name" : "SNX (Ethereum via Sifchain)",
+        "name": "SNX (Ethereum via Sifchain)",
         "symbol": "SNX",
         "description": "SNX",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/snx.png",
         "coinGeckoId": "havven",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1413,13 +1413,13 @@
     {
         "type": "bridge",
         "denom": "csusd",
-        "name" : "sUSD (Ethereum via Sifchain)",
+        "name": "sUSD (Ethereum via Sifchain)",
         "symbol": "sUSD",
         "description": "sUSD",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/susd.png",
         "coinGeckoId": "nusd",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1430,13 +1430,13 @@
     {
         "type": "bridge",
         "denom": "csushi",
-        "name" : "SUSHI (Ethereum via Sifchain)",
+        "name": "SUSHI (Ethereum via Sifchain)",
         "symbol": "SUSHI",
         "description": "SUSHI",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/sushi.png",
         "coinGeckoId": "sushi",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1447,13 +1447,13 @@
     {
         "type": "bridge",
         "denom": "csxp",
-        "name" : "SXP (Ethereum via Sifchain)",
+        "name": "SXP (Ethereum via Sifchain)",
         "symbol": "SXP",
         "description": "SXP",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/sxp.png",
         "coinGeckoId": "swipe",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1464,13 +1464,13 @@
     {
         "type": "bridge",
         "denom": "ctidal",
-        "name" : "TIDAL (Ethereum via Sifchain)",
+        "name": "TIDAL (Ethereum via Sifchain)",
         "symbol": "TIDAL",
         "description": "TIDAL",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/tidal.png",
         "coinGeckoId": "tidal-finance",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1481,13 +1481,13 @@
     {
         "type": "bridge",
         "denom": "ctoke",
-        "name" : "TOKE (Ethereum via Sifchain)",
+        "name": "TOKE (Ethereum via Sifchain)",
         "symbol": "TOKE",
         "description": "TOKE",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/toke.png",
         "coinGeckoId": "tokemak",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1498,13 +1498,13 @@
     {
         "type": "bridge",
         "denom": "ctshp",
-        "name" : "TSHP (Ethereum via Sifchain)",
+        "name": "TSHP (Ethereum via Sifchain)",
         "symbol": "TSHP",
         "description": "TSHP",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/tshp.png",
         "coinGeckoId": "12ships",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1515,13 +1515,13 @@
     {
         "type": "bridge",
         "denom": "ctusd",
-        "name" : "TUSD (Ethereum via Sifchain)",
+        "name": "TUSD (Ethereum via Sifchain)",
         "symbol": "TUSD",
         "description": "TUSD",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/tusd.png",
         "coinGeckoId": "true-usd",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1532,13 +1532,13 @@
     {
         "type": "bridge",
         "denom": "cufo",
-        "name" : "UFO (Ethereum via Sifchain)",
+        "name": "UFO (Ethereum via Sifchain)",
         "symbol": "UFO",
         "description": "UFO",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/ufo.png",
         "coinGeckoId": "ufo-gaming",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1549,13 +1549,13 @@
     {
         "type": "bridge",
         "denom": "cuma",
-        "name" : "UMA (Ethereum via Sifchain)",
+        "name": "UMA (Ethereum via Sifchain)",
         "symbol": "UMA",
         "description": "UMA",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/uma.png",
         "coinGeckoId": "uma",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1566,13 +1566,13 @@
     {
         "type": "bridge",
         "denom": "cuni",
-        "name" : "UNI (Ethereum via Sifchain)",
+        "name": "UNI (Ethereum via Sifchain)",
         "symbol": "UNI",
         "description": "UNI",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/uni.png",
         "coinGeckoId": "uniswap",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1583,13 +1583,13 @@
     {
         "type": "bridge",
         "denom": "cust",
-        "name" : "USTC (Ethereum via Sifchain)",
+        "name": "USTC (Ethereum via Sifchain)",
         "symbol": "USTC",
         "description": "USTC",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/ust.png",
         "coinGeckoId": "wrapped-ust",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1600,13 +1600,13 @@
     {
         "type": "bridge",
         "denom": "cwbtc",
-        "name" : "WBTC (Ethereum via Sifchain)",
+        "name": "WBTC (Ethereum via Sifchain)",
         "symbol": "WBTC",
         "description": "WBTC",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/wbtc.png",
         "coinGeckoId": "wrapped-bitcoin",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1617,13 +1617,13 @@
     {
         "type": "bridge",
         "denom": "cwfil",
-        "name" : "WFIL (Ethereum via Sifchain)",
+        "name": "WFIL (Ethereum via Sifchain)",
         "symbol": "WFIL",
         "description": "WFIL",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/wfil.png",
         "coinGeckoId": "wrapped-filecoin",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1634,13 +1634,13 @@
     {
         "type": "bridge",
         "denom": "cwscrt",
-        "name" : "WSCRT (Ethereum via Sifchain)",
+        "name": "WSCRT (Ethereum via Sifchain)",
         "symbol": "WSCRT",
         "description": "WSCRT",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/wscrt.png",
         "coinGeckoId": "secret-erc20",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1651,13 +1651,13 @@
     {
         "type": "bridge",
         "denom": "cyfi",
-        "name" : "YFI (Ethereum via Sifchain)",
+        "name": "YFI (Ethereum via Sifchain)",
         "symbol": "YFI",
         "description": "YFI",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/yfi.png",
         "coinGeckoId": "yearn-finance",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1668,13 +1668,13 @@
     {
         "type": "bridge",
         "denom": "czcn",
-        "name" : "ZCN (Ethereum via Sifchain)",
+        "name": "ZCN (Ethereum via Sifchain)",
         "symbol": "ZCN",
         "description": "ZCN",
         "decimals": 10,
         "image": "https://cdn.chainroot.io/images/tokens/zcn.png",
         "coinGeckoId": "0chain",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1685,13 +1685,13 @@
     {
         "type": "bridge",
         "denom": "czcx",
-        "name" : "ZCX (Ethereum via Sifchain)",
+        "name": "ZCX (Ethereum via Sifchain)",
         "symbol": "ZCX",
         "description": "ZCX",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/zcx.png",
         "coinGeckoId": "unizen",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1702,13 +1702,13 @@
     {
         "type": "bridge",
         "denom": "czrx",
-        "name" : "ZRX (Ethereum via Sifchain)",
+        "name": "ZRX (Ethereum via Sifchain)",
         "symbol": "ZRX",
         "description": "ZRX",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/zrx.png",
         "coinGeckoId": "0x",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>sifchain",
             "counterparty": {
                 "chain": "ethereum",
@@ -1719,15 +1719,15 @@
     {
         "type": "ibc",
         "denom": "ibc/4F7199F3ECB5FA109E71EB9ED2FA3DE6A98F3C87E7E60285BFEDDAA2DF1EB0B4",
-        "name" : "Medas Digital",
+        "name": "Medas Digital",
         "symbol": "MEDAS",
         "description": "The native token of Medas Digital Network",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/medas.png",
         "coinGeckoId": "medasdigital",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "medasdigital>sifchain",
-            "client" : {
+            "client": {
                 "channel": "channel-89",
                 "port": "transfer"
             },

@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "uprov",
-        "name" : "ICS Testnet Provider",
+        "name": "ICS Testnet Provider",
         "symbol": "PROV",
         "description": "ICS Testnet Staking Coin",
         "decimals": 6,

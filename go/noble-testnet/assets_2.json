@@ -1,6 +1,6 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "ustake",
         "name": "Stake Testnet",
         "symbol": "STAKE",
@@ -12,7 +12,7 @@
     {
         "type": "native",
         "denom": "uusdc",
-        "name" : "USDC Testnet",
+        "name": "USDC Testnet",
         "symbol": "USDC",
         "description": "Noble testnet Native Coin",
         "decimals": 6,

@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "note",
-        "name" : "Symphony",
+        "name": "Symphony",
         "symbol": "MLD",
         "description": "Symphony Native Coin",
         "decimals": 6,

@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "loki",
-        "name" : "Odin",
+        "name": "Odin",
         "symbol": "ODIN",
         "description": "ODIN Staking Coin",
         "decimals": 6,
@@ -12,7 +12,7 @@
     {
         "type": "native",
         "denom": "mgeo",
-        "name" : "Geo",
+        "name": "Geo",
         "symbol": "GEO",
         "description": "Native Coin",
         "decimals": 6,
@@ -22,7 +22,7 @@
     {
         "type": "native",
         "denom": "mO9W",
-        "name" : "O9W",
+        "name": "O9W",
         "symbol": "O9W",
         "description": "Native Coin",
         "decimals": 6,
@@ -32,7 +32,7 @@
     {
         "type": "native",
         "denom": "udoki",
-        "name" : "DOKI",
+        "name": "DOKI",
         "symbol": "DOKI",
         "description": "Native Coin",
         "decimals": 6,

@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "azeta",
-        "name" : "Zeta",
+        "name": "Zeta",
         "symbol": "ZETA",
         "description": "Zeta Staking Coin",
         "decimals": 18,

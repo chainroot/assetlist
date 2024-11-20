@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "uprysm",
-        "name" : "Prysm",
+        "name": "Prysm",
         "symbol": "Prysm",
         "description": "Prysm Staking Coin",
         "decimals": 6,

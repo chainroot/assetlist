@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "upasg",
-        "name" : "Passage",
+        "name": "Passage",
         "symbol": "PASG",
         "description": "Passage Staking Coin",
         "decimals": 6,

@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "ucrbrus",
-        "name" : "Cerberus",
+        "name": "Cerberus",
         "symbol": "CRBRUS",
         "description": "Cerberus Staking Coin",
         "decimals": 6,

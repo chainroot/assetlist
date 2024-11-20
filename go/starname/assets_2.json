@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "uiov",
-        "name" : "Starname",
+        "name": "Starname",
         "symbol": "IOV",
         "description": "Starname Staking Coin",
         "decimals": 6,

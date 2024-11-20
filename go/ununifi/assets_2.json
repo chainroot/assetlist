@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "uguu",
-        "name" : "UnUniFi",
+        "name": "UnUniFi",
         "symbol": "GUU",
         "description": "UnUniFi Staking Coin",
         "decimals": 6,
@@ -13,15 +13,15 @@
     {
         "type": "ibc",
         "denom": "ibc/05AC4BBA78C5951339A47DD1BC1E7FC922A9311DF81C85745B1C162F516FF2F1",
-        "name" : "Osmosis",
+        "name": "Osmosis",
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
         "coinGeckoId": "osmosis",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "osmosis>ununifi",
-            "client" : {
+            "client": {
                 "channel": "channel-4",
                 "port": "transfer"
             },
@@ -36,15 +36,15 @@
     {
         "type": "ibc",
         "denom": "ibc/20D06D04E1BC1FAC482FECC06C2E2879A596904D64D8BA3285B4A3789DEAF910",
-        "name" : "Atom",
+        "name": "Atom",
         "symbol": "ATOM",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/atom.png",
         "coinGeckoId": "cosmos",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "cosmos>osmosis>ununifi",
-            "client" : {
+            "client": {
                 "channel": "channel-4",
                 "port": "transfer"
             },
@@ -59,15 +59,15 @@
     {
         "type": "ibc",
         "denom": "ibc/A01367FF44D9DE359A984FC14EC5227AA96ED08B8B4B31B539BB63B9B9305F80",
-        "name" : "USDC (Ethereum via Axelar)",
+        "name": "USDC (Ethereum via Axelar)",
         "symbol": "USDC.eth.axl",
         "description": "Circle's stablecoin on Axelar",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "axlusdc",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "ethereum>axelar>osmosis>ununifi",
-            "client" : {
+            "client": {
                 "channel": "channel-4",
                 "port": "transfer"
             },

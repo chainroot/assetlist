@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "uixo",
-        "name" : "Impacts Hub",
+        "name": "Impacts Hub",
         "symbol": "IXO",
         "description": "Ixo Staking Coin",
         "decimals": 6,

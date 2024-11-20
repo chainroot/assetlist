@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "udig",
-        "name" : "Dig",
+        "name": "Dig",
         "symbol": "DIG",
         "description": "Dig Staking Coin",
         "decimals": 6,

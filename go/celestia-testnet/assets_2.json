@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "utia",
-        "name" : "Celestia Testnet",
+        "name": "Celestia Testnet",
         "symbol": "TIA",
         "description": "Celestia Testnet Staking Coin",
         "decimals": 6,

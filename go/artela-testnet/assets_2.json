@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "uart",
-        "name" : "Artela Testnet",
+        "name": "Artela Testnet",
         "symbol": "ART",
         "description": "Artela Testnet Staking Coin",
         "decimals": 18,

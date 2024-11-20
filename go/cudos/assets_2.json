@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "acudos",
-        "name" : "Cudos",
+        "name": "Cudos",
         "symbol": "CUDOS",
         "description": "Cudos Staking Coin",
         "decimals": 18,

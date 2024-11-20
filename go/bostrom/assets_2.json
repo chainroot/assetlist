@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "boot",
-        "name" : "Bostrom",
+        "name": "Bostrom",
         "symbol": "BOOT",
         "description": "Bostrom Staking Coin",
         "decimals": 0,
@@ -13,7 +13,7 @@
     {
         "type": "native",
         "denom": "hydrogen",
-        "name" : "Bostrom Hydrogen",
+        "name": "Bostrom Hydrogen",
         "symbol": "HYDROGEN",
         "description": "The liquid staking token of Bostrom",
         "decimals": 0,
@@ -24,7 +24,7 @@
     {
         "type": "native",
         "denom": "milliampere",
-        "name" : "Bostrom Ampere",
+        "name": "Bostrom Ampere",
         "symbol": "AMPERE",
         "description": "The resource token of Bostrom",
         "decimals": 3,
@@ -35,7 +35,7 @@
     {
         "type": "native",
         "denom": "millivolt",
-        "name" : "Bostrom Volt",
+        "name": "Bostrom Volt",
         "symbol": "VOLT",
         "description": "The resource token of Bostrom",
         "decimals": 3,
@@ -46,15 +46,15 @@
     {
         "type": "ibc",
         "denom": "ibc/8D9262E35CAE362FA74AE05E430550757CF8D842EC1B241F645D3CB7179AFD10",
-        "name" : "Juno",
+        "name": "Juno",
         "symbol": "JUNO",
         "description": "Juno Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/juno.png",
         "coinGeckoId": "juno-network",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "juno>bostrom",
-            "client" : {
+            "client": {
                 "channel": "channel-10",
                 "port": "transfer"
             },
@@ -69,15 +69,15 @@
     {
         "type": "ibc",
         "denom": "ibc/13B2C536BB057AC79D5616B8EA1B9540EC1F2170718CAFF6F0083C966FFFED0B",
-        "name" : "Osmosis",
+        "name": "Osmosis",
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
         "coinGeckoId": "osmosis",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "osmosis>bostrom",
-            "client" : {
+            "client": {
                 "channel": "channel-2",
                 "port": "transfer"
             },
@@ -92,15 +92,15 @@
     {
         "type": "ibc",
         "denom": "ibc/C23D820C5B6009E544AFC8AF5A2FEC288108AEDBFAEFDBBDD6BE54CC23069559",
-        "name" : "Graviton",
+        "name": "Graviton",
         "symbol": "GRAV",
         "description": "Gravity Bridge Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/grav.png",
         "coinGeckoId": "graviton",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "gravity-bridge>bostrom",
-            "client" : {
+            "client": {
                 "channel": "channel-12",
                 "port": "transfer"
             },
@@ -115,15 +115,15 @@
     {
         "type": "ibc",
         "denom": "ibc/15E9C5CF5969080539DB395FA7D9C0868265217EFC528433671AAF9B1912D159",
-        "name" : "Atom",
+        "name": "Atom",
         "symbol": "ATOM",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/atom.png",
         "coinGeckoId": "cosmos",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "cosmos>bostrom",
-            "client" : {
+            "client": {
                 "channel": "channel-8",
                 "port": "transfer"
             },

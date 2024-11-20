@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "atkx",
-        "name" : "Titan",
+        "name": "Titan",
         "symbol": "TKX",
         "description": "Titan Staking Coin",
         "decimals": 18,

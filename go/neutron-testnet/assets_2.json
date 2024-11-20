@@ -1,6 +1,6 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "untrn",
         "name": "Neutron Testnet",
         "symbol": "NTRN",

@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "usomm",
-        "name" : "Sommelier",
+        "name": "Sommelier",
         "symbol": "SOMM",
         "description": "Sommelier Staking Coin",
         "decimals": 6,
@@ -13,15 +13,15 @@
     {
         "type": "ibc",
         "denom": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
-        "name" : "Osmosis",
+        "name": "Osmosis",
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
         "coinGeckoId": "osmosis",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "osmosis>sommelier",
-            "client" : {
+            "client": {
                 "channel": "channel-0",
                 "port": "transfer"
             },

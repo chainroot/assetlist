@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "afet",
-        "name" : "fetch-ai",
+        "name": "fetch-ai",
         "symbol": "FET",
         "description": "Fetch Hub Staking Coin",
         "decimals": 18,
@@ -13,7 +13,7 @@
     {
         "type": "native",
         "denom": "nanomobx",
-        "name" : "MOBIX",
+        "name": "MOBIX",
         "symbol": "MOBX",
         "description": "The MOBX coin rewards the use of eco-friendly micromobility transportation.",
         "decimals": 9,

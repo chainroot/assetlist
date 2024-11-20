@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "uatone",
-        "name" : "Atomone",
+        "name": "Atomone",
         "symbol": "ATONE",
         "description": "Atomone Staking Coin",
         "decimals": 6,

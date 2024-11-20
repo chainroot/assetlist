@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "umeme",
-        "name" : "Meme",
+        "name": "Meme",
         "symbol": "MEME",
         "description": "Meme Staking Coin",
         "decimals": 6,
@@ -12,15 +12,15 @@
     {
         "type": "ibc",
         "denom": "ibc/67C89B8B0A70C08F093C909A4DD996DD10E0494C87E28FD9A551697BF173D4CA",
-        "name" : "Osmosis",
+        "name": "Osmosis",
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
         "coinGeckoId": "osmosis",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "osmosis>meme",
-            "client" : {
+            "client": {
                 "channel": "channel-1",
                 "port": "transfer"
             },

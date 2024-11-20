@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "uhuahua",
-        "name" : "Chihuahua Chain",
+        "name": "Chihuahua Chain",
         "symbol": "HUAHUA",
         "description": "Chihuahua Staking Coin",
         "decimals": 6,
@@ -13,7 +13,7 @@
     {
         "type": "native",
         "denom": "factory/chihuahua1mjq48r6435aewerpruwc8up3tz3rzan20vneqh/MASTER",
-        "name" : "Master",
+        "name": "Master",
         "symbol": "MASTER",
         "description": "Master your doggos.",
         "decimals": 6,
@@ -23,7 +23,7 @@
     {
         "type": "native",
         "denom": "factory/chihuahua13jawsn574rf3f0u5rhu7e8n6sayx5gkw3eddhp/uwoof",
-        "name" : "woof",
+        "name": "woof",
         "symbol": "WOOF",
         "description": "The first tokenfactory.",
         "decimals": 6,
@@ -33,7 +33,7 @@
     {
         "type": "native",
         "denom": "factory/chihuahua1x4q2vkrz4dfgd9hcw0p5m2f2nuv2uqmt9xr8k2/achihuahuawifhat",
-        "name" : "Chihuahuawifhat",
+        "name": "Chihuahuawifhat",
         "symbol": "BADDOG",
         "description": "has a hat.",
         "decimals": 6,
@@ -43,7 +43,7 @@
     {
         "type": "native",
         "denom": "factory/chihuahua13jawsn574rf3f0u5rhu7e8n6sayx5gkw3eddhp/utacos",
-        "name" : "TACOS",
+        "name": "TACOS",
         "symbol": "TACOS",
         "description": "Want a tacos?",
         "decimals": 6,
@@ -53,7 +53,7 @@
     {
         "type": "native",
         "denom": "factory/chihuahua13jawsn574rf3f0u5rhu7e8n6sayx5gkw3eddhp/uweed",
-        "name" : "WEED",
+        "name": "WEED",
         "symbol": "WEED",
         "description": "420 token",
         "decimals": 6,
@@ -63,7 +63,7 @@
     {
         "type": "native",
         "denom": "factory/chihuahua13jawsn574rf3f0u5rhu7e8n6sayx5gkw3eddhp/ubdog",
-        "name" : "BDOG",
+        "name": "BDOG",
         "symbol": "BDOG",
         "description": "The Bulldog token",
         "decimals": 6,
@@ -73,7 +73,7 @@
     {
         "type": "native",
         "denom": "factory/chihuahua13jawsn574rf3f0u5rhu7e8n6sayx5gkw3eddhp/ucorso",
-        "name" : "CORSO",
+        "name": "CORSO",
         "symbol": "CORSO",
         "description": "The can corso token",
         "decimals": 6,
@@ -83,7 +83,7 @@
     {
         "type": "native",
         "denom": "factory/chihuahua17dgp6rf7wlhyaxth0j20h33zdv6nqat8xfezvy/Spitz",
-        "name" : "Spitz",
+        "name": "Spitz",
         "symbol": "SPITZ",
         "description": "The Spitz token",
         "decimals": 6,
@@ -93,7 +93,7 @@
     {
         "type": "native",
         "denom": "factory/osmo1mlng7pz4pnyxtpq0akfwall37czyk9lukaucsrn30ameplhhshtqdvfm5c/ulvn",
-        "name" : "Levana",
+        "name": "Levana",
         "symbol": "LVN",
         "description": "Levana Governance Token",
         "decimals": 6,
@@ -103,7 +103,7 @@
     {
         "type": "native",
         "denom": "factory/chihuahua1hplyuj2hzxd75q8686g9vm3uzrrny9ggvt8aza2csupgdp98vg2sp0e3h0/uhuahua.ash",
-        "name" : "Burned HUAHUA",
+        "name": "Burned HUAHUA",
         "symbol": "ashHUAHUA",
         "description": "HUAHUA burn derivative",
         "decimals": 6,

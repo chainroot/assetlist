@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "ugraviton",
-        "name" : "Graviton",
+        "name": "Graviton",
         "symbol": "GRAV",
         "description": "Gravity Bridge Staking Coin",
         "decimals": 6,
@@ -13,15 +13,15 @@
     {
         "type": "ibc",
         "denom": "ibc/376222D6D9DAE23092E29740E56B758580935A6D77C24C2ABD57A6A78A1F3955",
-        "name" : "Osmosis",
+        "name": "Osmosis",
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
         "coinGeckoId": "osmosis",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "osmosis>gravity-bridge",
-            "client" : {
+            "client": {
                 "channel": "channel-10",
                 "port": "transfer"
             },
@@ -36,15 +36,15 @@
     {
         "type": "ibc",
         "denom": "ibc/2E5D0AC026AC1AFA65A23023BA4F24BB8DDF94F118EDC0BAD6F625BFC557CDED",
-        "name" : "Atom",
+        "name": "Atom",
         "symbol": "ATOM",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/atom.png",
         "coinGeckoId": "cosmos",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "cosmos>gravity-bridge",
-            "client" : {
+            "client": {
                 "channel": "channel-17",
                 "port": "transfer"
             },
@@ -59,15 +59,15 @@
     {
         "type": "ibc",
         "denom": "ibc/0C273962C274B2C05B22D9474BFE5B84D6A6FCAD198CB9B0ACD35EA521A36606",
-        "name" : "NYM",
+        "name": "NYM",
         "symbol": "NYM",
         "description": "NYM Token (NYM) is the Nym Network's native utility token, used as the primary means to incentivize mixnet node operators.",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/nym.png",
         "coinGeckoId": "nym",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "nyx>gravity-bridge",
-            "client" : {
+            "client": {
                 "channel": "channel-18",
                 "port": "transfer"
             },
@@ -82,15 +82,15 @@
     {
         "type": "ibc",
         "denom": "ibc/048BE20AE2E6BFD4142C547E04F17E5F94363003A12B7B6C084E08101BFCF7D1",
-        "name" : "Chihuahua Chain",
+        "name": "Chihuahua Chain",
         "symbol": "HUAHUA",
         "description": "Chihuahua Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/huahua.png",
         "coinGeckoId": "chihuahua-token",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "chihuahua>gravity-bridge",
-            "client" : {
+            "client": {
                 "channel": "channel-34",
                 "port": "transfer"
             },
@@ -105,15 +105,15 @@
     {
         "type": "ibc",
         "denom": "ibc/5012B1C96F286E8A6604A87037CE51241C6F1CA195B71D1E261FCACB69FB6BC2",
-        "name" : "Cheq",
+        "name": "Cheq",
         "symbol": "CHEQ",
         "description": "Cheqd Staking Coin",
         "decimals": 9,
         "image": "https://cdn.chainroot.io/images/tokens/cheq.png",
         "coinGeckoId": "cheqd-network",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "cheqd>gravity-bridge",
-            "client" : {
+            "client": {
                 "channel": "channel-43",
                 "port": "transfer"
             },
@@ -128,15 +128,15 @@
     {
         "type": "ibc",
         "denom": "ibc/4F393C3FCA4190C0A6756CE7F6D897D5D1BE57D6CCB80D0BC87393566A7B6602",
-        "name" : "Stargaze",
+        "name": "Stargaze",
         "symbol": "STARS",
         "description": "Stargaze Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/stars.png",
         "coinGeckoId": "stargaze",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "stargaze>gravity-bridge",
-            "client" : {
+            "client": {
                 "channel": "channel-7",
                 "port": "transfer"
             },
@@ -151,15 +151,15 @@
     {
         "type": "ibc",
         "denom": "ibc/7907EA1A11FD4FC2A815FCAA54948C42F08E3F3C874EE48861386286FEB80160",
-        "name" : "Secret",
+        "name": "Secret",
         "symbol": "SCRT",
         "description": "Secret Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/scrt.png",
         "coinGeckoId": "secret",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "secret>gravity-bridge",
-            "client" : {
+            "client": {
                 "channel": "channel-79",
                 "port": "transfer"
             },
@@ -174,15 +174,15 @@
     {
         "type": "ibc",
         "denom": "ibc/D157AD8A50DAB0FC4EB95BBE1D9407A590FA2CDEE04C90A76C005089BF76E519",
-        "name" : "Unification",
+        "name": "Unification",
         "symbol": "FUND",
         "description": "Unification Staking Coin",
         "decimals": 9,
         "image": "https://cdn.chainroot.io/images/tokens/fund.png",
         "coinGeckoId": "unification",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "unification>gravity-bridge",
-            "client" : {
+            "client": {
                 "channel": "channel-98",
                 "port": "transfer"
             },
@@ -197,14 +197,14 @@
     {
         "type": "bridge",
         "denom": "gravity0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
-        "name" : "Wrapped Bitcoin (Ethereum to Gravity-Bridge)",
+        "name": "Wrapped Bitcoin (Ethereum to Gravity-Bridge)",
         "symbol": "WBTC.grv",
         "description": "Gravity Bridge WBTC",
         "decimals": 8,
         "image": "https://cdn.chainroot.io/images/tokens/wbtc.png",
         "coinGeckoId": "wrapped-bitcoin",
         "color": "#f39444",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>gravity-bridge",
             "counterparty": {
                 "chain": "ethereum",
@@ -215,13 +215,13 @@
     {
         "type": "bridge",
         "denom": "gravity0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-        "name" : "Wrapped Ethereum (Ethereum to Gravity-Bridge)",
+        "name": "Wrapped Ethereum (Ethereum to Gravity-Bridge)",
         "symbol": "WETH.grv",
         "description": "Gravity Bridge WETH",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/weth.png",
         "coinGeckoId": "weth",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>gravity-bridge",
             "counterparty": {
                 "chain": "ethereum",
@@ -232,14 +232,14 @@
     {
         "type": "bridge",
         "denom": "gravity0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-        "name" : "USD Coin (Ethereum to Gravity-Bridge)",
+        "name": "USD Coin (Ethereum to Gravity-Bridge)",
         "symbol": "USDC.grv",
         "description": "Gravity Bridge USDC",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "usd-coin",
         "color": "#2775CA",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>gravity-bridge",
             "counterparty": {
                 "chain": "ethereum",
@@ -250,13 +250,13 @@
     {
         "type": "bridge",
         "denom": "gravity0x6B175474E89094C44Da98b954EedeAC495271d0F",
-        "name" : "Dai Stablecoin (Ethereum to Gravity-Bridge)",
+        "name": "Dai Stablecoin (Ethereum to Gravity-Bridge)",
         "symbol": "DAI.grv",
         "description": "Gravity Bridge DAI",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/dai.png",
         "coinGeckoId": "dai",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>gravity-bridge",
             "counterparty": {
                 "chain": "ethereum",
@@ -267,13 +267,13 @@
     {
         "type": "bridge",
         "denom": "gravity0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
-        "name" : "Uniswap (Ethereum to Gravity-Bridge)",
+        "name": "Uniswap (Ethereum to Gravity-Bridge)",
         "symbol": "UNI.grv",
         "description": "Gravity Bridge UNI",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/uni.png",
         "coinGeckoId": "uniswap",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>gravity-bridge",
             "counterparty": {
                 "chain": "ethereum",
@@ -284,13 +284,13 @@
     {
         "type": "bridge",
         "denom": "gravity0x45804880De22913dAFE09f4980848ECE6EcbAf78",
-        "name" : "Paxos Gold (Ethereum to Gravity-Bridge)",
+        "name": "Paxos Gold (Ethereum to Gravity-Bridge)",
         "symbol": "PAXG.grv",
         "description": "Gravity Bridge Paxos Gold",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/paxg.png",
         "coinGeckoId": "pax-gold",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>gravity-bridge",
             "counterparty": {
                 "chain": "ethereum",
@@ -301,13 +301,13 @@
     {
         "type": "bridge",
         "denom": "gravity0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC",
-        "name" : "Storj (Ethereum to Gravity-Bridge)",
+        "name": "Storj (Ethereum to Gravity-Bridge)",
         "symbol": "STORJ.grv",
         "description": "Gravity Bridge Storj",
         "decimals": 8,
         "image": "https://cdn.chainroot.io/images/tokens/storj.png",
         "coinGeckoId": "storj",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>gravity-bridge",
             "counterparty": {
                 "chain": "ethereum",
@@ -318,13 +318,13 @@
     {
         "type": "bridge",
         "denom": "gravity0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
-        "name" : "Lido Staked Ether (Ethereum to Gravity-Bridge)",
+        "name": "Lido Staked Ether (Ethereum to Gravity-Bridge)",
         "symbol": "STETH.grv",
         "description": "Gravity Bridge Lido Staked Ether",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/steth.png",
         "coinGeckoId": "staked-ether",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>gravity-bridge",
             "counterparty": {
                 "chain": "ethereum",
@@ -335,13 +335,13 @@
     {
         "type": "bridge",
         "denom": "gravity0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006",
-        "name" : "pSTAKE Finance (Ethereum to Gravity-Bridge)",
+        "name": "pSTAKE Finance (Ethereum to Gravity-Bridge)",
         "symbol": "PSTAKE.grv",
         "description": "pSTAKE Finance is a Bitcoin Yield and Liquid Staking protocol, backed by Binance Labs.",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/pstake.png",
         "coinGeckoId": "pstake-finance",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>gravity-bridge",
             "counterparty": {
                 "chain": "ethereum",
@@ -352,13 +352,13 @@
     {
         "type": "bridge",
         "denom": "gravity0xdAC17F958D2ee523a2206206994597C13D831ec7",
-        "name" : "Tether USD",
+        "name": "Tether USD",
         "symbol": "USDT.grv",
         "description": "Gravity Bridge USDT.",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
         "coinGeckoId": "tether",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>gravity-bridge",
             "counterparty": {
                 "chain": "ethereum",
@@ -369,13 +369,13 @@
     {
         "type": "bridge",
         "denom": "gravity0x2C5Bcad9Ade17428874855913Def0A02D8bE2324",
-        "name" : "Pstake Staked ETH",
+        "name": "Pstake Staked ETH",
         "symbol": "stkETH.grv",
         "description": "Gravity Bridge stkETH.",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/stketh.png",
         "coinGeckoId": "pstake-staked-eth",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>gravity-bridge",
             "counterparty": {
                 "chain": "ethereum",
@@ -386,13 +386,13 @@
     {
         "type": "bridge",
         "denom": "gravity0x30D20208d987713f46DFD34EF128Bb16C404D10f",
-        "name" : "Stader",
+        "name": "Stader",
         "symbol": "SD.grv",
         "description": "Gravity Bridge SD.",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/sd.png",
         "coinGeckoId": "stader",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>gravity-bridge",
             "counterparty": {
                 "chain": "ethereum",
@@ -403,13 +403,13 @@
     {
         "type": "bridge",
         "denom": "gravity0x60e683C6514Edd5F758A55b6f393BeBBAfaA8d5e",
-        "name" : "Page",
+        "name": "Page",
         "symbol": "PAGE.grv",
         "description": "The PAGE token is used for actions in the PageDAO NFT literary ecosystem and for DAO governance.",
         "decimals": 8,
         "image": "https://cdn.chainroot.io/images/tokens/page.png",
         "coinGeckoId": "page",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>gravity-bridge",
             "counterparty": {
                 "chain": "ethereum",
@@ -420,13 +420,13 @@
     {
         "type": "bridge",
         "denom": "gravity0x853d955aCEf822Db058eb8505911ED77F175b99e",
-        "name" : "Frax",
+        "name": "Frax",
         "symbol": "FRAX.grv",
         "description": "Gravity Bridge Frax.",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/frax.png",
         "coinGeckoId": "frax",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>gravity-bridge",
             "counterparty": {
                 "chain": "ethereum",

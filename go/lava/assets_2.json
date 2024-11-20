@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "ulava",
-        "name" : "Lava",
+        "name": "Lava",
         "symbol": "LAVA",
         "description": "Lava Network Staking Coin",
         "decimals": 6,

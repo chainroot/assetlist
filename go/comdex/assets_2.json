@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "ucmdx",
-        "name" : "Comdex",
+        "name": "Comdex",
         "symbol": "CMDX",
         "description": "Comdex Staking Coin",
         "decimals": 6,
@@ -13,7 +13,7 @@
     {
         "type": "native",
         "denom": "uharbor",
-        "name" : "Harbor",
+        "name": "Harbor",
         "symbol": "HARBOR",
         "description": "Governance Token of Harbor protocol on Comdex network",
         "decimals": 6,
@@ -24,7 +24,7 @@
     {
         "type": "native",
         "denom": "ucmst",
-        "name" : "CMST",
+        "name": "CMST",
         "symbol": "CMST",
         "description": "Stable Token of Harbor protocol on Comdex network",
         "decimals": 6,
@@ -35,15 +35,15 @@
     {
         "type": "ibc",
         "denom": "ibc/167E3D88D71B7D2F6308D3EF93FC3DD51932B2D9672D72B71418F61CBC5F5717",
-        "name" : "Juno",
+        "name": "Juno",
         "symbol": "JUNO",
         "description": "Juno Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/juno.png",
         "coinGeckoId": "juno-network",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "juno>comdex",
-            "client" : {
+            "client": {
                 "channel": "channel-18",
                 "port": "transfer"
             },
@@ -58,15 +58,15 @@
     {
         "type": "ibc",
         "denom": "ibc/0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B",
-        "name" : "Osmosis",
+        "name": "Osmosis",
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
         "coinGeckoId": "osmosis",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "osmosis>comdex",
-            "client" : {
+            "client": {
                 "channel": "channel-1",
                 "port": "transfer"
             },
@@ -81,15 +81,15 @@
     {
         "type": "ibc",
         "denom": "ibc/961FA3E54F5DCCA639F37A7C45F7BBE41815579EF1513B5AFBEFCFEB8F256352",
-        "name" : "Atom",
+        "name": "Atom",
         "symbol": "ATOM",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/atom.png",
         "coinGeckoId": "cosmos",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "cosmos>comdex",
-            "client" : {
+            "client": {
                 "channel": "channel-37",
                 "port": "transfer"
             },
@@ -104,15 +104,15 @@
     {
         "type": "ibc",
         "denom": "ibc/E1616E7C19EA474C565737709A628D6F8A23FF9D3E9A7A6871306CF5E0A5341E",
-        "name" : "USDC (Ethereum via Axelar)",
+        "name": "USDC (Ethereum via Axelar)",
         "symbol": "USDC.eth.axl",
         "description": "Circle's stablecoin on Axelar",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "axlusdc",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "ethereum>axelar>comdex",
-            "client" : {
+            "client": {
                 "channel": "channel-34",
                 "port": "transfer"
             },

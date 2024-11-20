@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "atkx",
-        "name" : "Titan Testnet",
+        "name": "Titan Testnet",
         "symbol": "TKX",
         "description": "Titan Testnet Staking Coin",
         "decimals": 18,

@@ -2,7 +2,7 @@
     {
         "type": "native",
         "denom": "aevmos",
-        "name" : "Evmos Testnet",
+        "name": "Evmos Testnet",
         "symbol": "EVMOS",
         "description": "Evmos Testnet Staking Coin",
         "decimals": 18,

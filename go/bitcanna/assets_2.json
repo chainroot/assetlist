@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "ubcna",
-        "name" : "Bitcanna",
+        "name": "Bitcanna",
         "symbol": "BCNA",
         "description": "Bitcanna Staking Coin",
         "decimals": 6,

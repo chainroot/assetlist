@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "aalthea",
-        "name" : "Althea",
+        "name": "Althea",
         "symbol": "ALTHEA",
         "description": "Althea Staking Coin",
         "decimals": 18,

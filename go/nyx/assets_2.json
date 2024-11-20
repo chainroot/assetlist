@@ -1,6 +1,6 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "unyx",
         "name": "NYX",
         "symbol": "NYX",
@@ -13,7 +13,7 @@
     {
         "type": "native",
         "denom": "unym",
-        "name" : "NYM",
+        "name": "NYM",
         "symbol": "NYM",
         "description": "NYM Token (NYM) is the Nym Network's native utility token, used as the primary means to incentivize mixnet node operators.",
         "decimals": 6,
@@ -23,15 +23,15 @@
     {
         "type": "ibc",
         "denom": "ibc/FC9D92EC12BC974E8B6179D411351524CD5C2EBC3CE29D5BA856414FEFA47093",
-        "name" : "Graviton",
+        "name": "Graviton",
         "symbol": "GRAV",
         "description": "Gravity Bridge Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/grav.png",
         "coinGeckoId": "graviton",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "gravity-bridge>nyx",
-            "client" : {
+            "client": {
                 "channel": "channel-0",
                 "port": "transfer"
             },

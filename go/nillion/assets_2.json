@@ -1,6 +1,6 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "unil",
         "name": "Nillion",
         "symbol": "NIL",

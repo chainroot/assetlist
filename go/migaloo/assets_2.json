@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "uwhale",
-        "name" : "Whale",
+        "name": "Whale",
         "symbol": "WHALE",
         "description": "Migaloo Staking Coin",
         "decimals": 6,
@@ -12,15 +12,15 @@
     {
         "type": "ibc",
         "denom": "ibc/84B8C4F1FE15019DBD937B5670905B6280BB7C0D031E9F4D9F50E33386D3CAE6",
-        "name" : "Lion Cub DAO",
+        "name": "Lion Cub DAO",
         "symbol": "CUB",
         "description": "Lion Cub DAO is a useless meme community DAO on Terra.",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/cub.png",
         "coinGeckoId": "",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "terra>migaloo",
-            "client" : {
+            "client": {
                 "channel": "channel-2",
                 "port": "transfer"
             },
@@ -35,15 +35,15 @@
     {
         "type": "ibc",
         "denom": "ibc/E224A26BBDD3FBBB461CBFC40EDC74BAA9606C667371F428F147A8D6C98C28D6",
-        "name" : "BLUE CUB DAO",
+        "name": "BLUE CUB DAO",
         "symbol": "BLUE",
         "description": "BLUE CUB DAO is a community DAO on Terra.",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/blue.png",
         "coinGeckoId": "",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "terra>migaloo",
-            "client" : {
+            "client": {
                 "channel": "channel-2",
                 "port": "transfer"
             },

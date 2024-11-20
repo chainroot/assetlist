@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "utgd",
-        "name" : "T-Grade",
+        "name": "T-Grade",
         "symbol": "TGD",
         "description": "T-Grade Staking Coin",
         "decimals": 6,
@@ -13,15 +13,15 @@
     {
         "type": "ibc",
         "denom": "ibc/4B322204B4F59D770680FE4D7A565DDC3F37BFF035474B717476C66A4F83DD72",
-        "name" : "Evmos",
+        "name": "Evmos",
         "symbol": "EVMOS",
         "description": "Evmos Staking Coin",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/evmos.png",
         "coinGeckoId": "evmos",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "evmos>tgrade",
-            "client" : {
+            "client": {
                 "channel": "channel-9",
                 "port": "transfer"
             },

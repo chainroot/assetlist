@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "adydx",
-        "name" : "dYdX",
+        "name": "dYdX",
         "symbol": "dYdX",
         "description": "dYdX",
         "decimals": 18,
@@ -13,15 +13,15 @@
     {
         "type": "ibc",
         "denom": "ibc/8E27BA2D5493AF5636760E354E46004562C46AB7EC0CC4C1CA14E9E20E2545B5",
-        "name" : "USDC",
+        "name": "USDC",
         "symbol": "USDC",
         "description": "USD Coin - Directly minted on the Noble chain by the Circle Foundation.",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "usd-coin",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "noble>dydx",
-            "client" : {
+            "client": {
                 "channel": "channel-0",
                 "port": "transfer"
             },
@@ -36,15 +36,15 @@
     {
         "type": "ibc",
         "denom": "ibc/15781DDDCD499274C978F31A0DBD6DA93D8EE0F7200891898549AFC7C5B5948A",
-        "name" : "Stride Staked DYDX",
+        "name": "Stride Staked DYDX",
         "symbol": "stDYDX",
         "description": "Stride Staked DYDX",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/stadydx.png",
         "coinGeckoId": "stride-staked-dydx",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "stride>dydx",
-            "client" : {
+            "client": {
                 "channel": "channel-1",
                 "port": "transfer"
             },

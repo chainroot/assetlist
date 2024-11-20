@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "uflix",
-        "name" : "OmniFlix Network",
+        "name": "OmniFlix Network",
         "symbol": "FLIX",
         "description": "OmniFlix Staking Coin",
         "decimals": 6,
@@ -13,15 +13,15 @@
     {
         "type": "ibc",
         "denom": "ibc/A8C2D23A1E6F95DA4E48BA349667E322BD7A6C996D8A4AAE8BA72E190F3D1477",
-        "name" : "Atom",
+        "name": "Atom",
         "symbol": "ATOM",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/atom.png",
         "coinGeckoId": "cosmos",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "cosmos>omniflix",
-            "client" : {
+            "client": {
                 "channel": "channel-12",
                 "port": "transfer"
             },
@@ -36,15 +36,15 @@
     {
         "type": "ibc",
         "denom": "ibc/F951C98B3D08879376970DD39F74907896391810FD40AF9B2357A02E9E82BBA5",
-        "name" : "Juno",
+        "name": "Juno",
         "symbol": "JUNO",
         "description": "Juno Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/juno.png",
         "coinGeckoId": "juno-network",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "juno>omniflix",
-            "client" : {
+            "client": {
                 "channel": "channel-20",
                 "port": "transfer"
             },
@@ -59,15 +59,15 @@
     {
         "type": "ibc",
         "denom": "ibc/EA7DF7F779C7F14E07172E5713E07356B55F01496CA649DDE46CF8FBF1A8466D",
-        "name" : "Ion DAO",
+        "name": "Ion DAO",
         "symbol": "ION",
         "description": "ION is the second native token of Osmosis.",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/ion.png",
         "coinGeckoId": "ion",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "osmosis>omniflix",
-            "client" : {
+            "client": {
                 "channel": "channel-1",
                 "port": "transfer"
             },
@@ -82,15 +82,15 @@
     {
         "type": "ibc",
         "denom": "ibc/0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B",
-        "name" : "Osmosis",
+        "name": "Osmosis",
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
         "coinGeckoId": "osmosis",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "osmosis>omniflix",
-            "client" : {
+            "client": {
                 "channel": "channel-1",
                 "port": "transfer"
             },
@@ -105,15 +105,15 @@
     {
         "type": "ibc",
         "denom": "ibc/CC12CFFD769D5E0059D98E760DD34FAB477261785B99240C97F6AABC4F566CB5",
-        "name" : "Chihuahua Chain",
+        "name": "Chihuahua Chain",
         "symbol": "HUAHUA",
         "description": "Chihuahua Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/huahua.png",
         "coinGeckoId": "chihuahua-token",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "chihuahua>omniflix",
-            "client" : {
+            "client": {
                 "channel": "channel-5",
                 "port": "transfer"
             },

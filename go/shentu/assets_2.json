@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "uctk",
-        "name" : "Shentu",
+        "name": "Shentu",
         "symbol": "CTK",
         "description": "Shentu Staking Coin",
         "decimals": 6,

@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "uaxl",
-        "name" : "Axelar",
+        "name": "Axelar",
         "symbol": "AXL",
         "description": "Axelar Staking Coin",
         "decimals": 6,
@@ -13,15 +13,15 @@
     {
         "type": "ibc",
         "denom": "ibc/9117A26BA81E29FA4F78F57DC2BD90CD3D26848101BA880445F119B22A1E254E",
-        "name" : "Atom",
+        "name": "Atom",
         "symbol": "ATOM",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/atom.png",
         "coinGeckoId": "cosmos",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "cosmos>axelar",
-            "client" : {
+            "client": {
                 "channel": "channel-2",
                 "port": "transfer"
             },
@@ -36,15 +36,15 @@
     {
         "type": "ibc",
         "denom": "ibc/47BD209179859CDE4A2806763D7189B6E6FE13A17880FE2B42DE1E6C1E329E23",
-        "name" : "Osmosis",
+        "name": "Osmosis",
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
         "coinGeckoId": "osmosis",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "osmosis>axelar",
-            "client" : {
+            "client": {
                 "channel": "channel-3",
                 "port": "transfer"
             },
@@ -59,15 +59,15 @@
     {
         "type": "ibc",
         "denom": "ibc/ADF401C952ADD9EE232D52C8303B8BE17FE7953C8D420F20769AF77240BD0C58",
-        "name" : "Injective",
+        "name": "Injective",
         "symbol": "INJ",
         "description": "Injective Staking Coin",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/inj.png",
         "coinGeckoId": "injective-protocol",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "injective>axelar",
-            "client" : {
+            "client": {
                 "channel": "channel-10",
                 "port": "transfer"
             },
@@ -82,15 +82,15 @@
     {
         "type": "ibc",
         "denom": "ibc/5B0968D76C6250F0824BD0BB4317DB34E884A14B345C83FB8256809855AC7CA7",
-        "name" : "Secret",
+        "name": "Secret",
         "symbol": "SCRT",
         "description": "Secret Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/scrt.png",
         "coinGeckoId": "secret",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "secret>axelar",
-            "client" : {
+            "client": {
                 "channel": "channel-12",
                 "port": "transfer"
             },
@@ -105,15 +105,15 @@
     {
         "type": "ibc",
         "denom": "ibc/1EDB735A58AA984F6FF11E332077D8A05D5E70E355427C2CF419BD1566FC1E2C",
-        "name" : "Kuji",
+        "name": "Kuji",
         "symbol": "KUJI",
         "description": "KUJI Staking Coin - Legacy",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/kuji.png",
         "coinGeckoId": "kujira",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "kujira>axelar",
-            "client" : {
+            "client": {
                 "channel": "channel-14",
                 "port": "transfer"
             },
@@ -129,15 +129,15 @@
     {
         "type": "ibc",
         "denom": "ibc/A139C0E0B5E87CBA8EAEEB12B9BEE13AC7C814CFBBFA87BBCADD67E31003466C",
-        "name" : "Stargaze",
+        "name": "Stargaze",
         "symbol": "STARS",
         "description": "Stargaze Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/stars.png",
         "coinGeckoId": "stargaze",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "stargaze>axelar",
-            "client" : {
+            "client": {
                 "channel": "channel-18",
                 "port": "transfer"
             },
@@ -152,15 +152,15 @@
     {
         "type": "ibc",
         "denom": "ibc/B76399CD0009818F7D347EEC032A4E472173D12F0DC99C2ACFB6BEFCC01030E3",
-        "name" : "Artificial Superintelligence Alliance",
+        "name": "Artificial Superintelligence Alliance",
         "symbol": "FET",
         "description": "Artificial Superintelligence Alliance Staking Coin",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/fet.png",
         "coinGeckoId": "fetch-ai",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "fetchai>axelar",
-            "client" : {
+            "client": {
                 "channel": "channel-21",
                 "port": "transfer"
             },
@@ -175,15 +175,15 @@
     {
         "type": "ibc",
         "denom": "ibc/73D370D177CC659EA123B423D1AC194F0733537E5A346ECEA1DCBC8FEBB45FD3",
-        "name" : "Evmos",
+        "name": "Evmos",
         "symbol": "EVMOS",
         "description": "Evmos Staking Coin",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/evmos.png",
         "coinGeckoId": "evmos",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "evmos>axelar",
-            "client" : {
+            "client": {
                 "channel": "channel-22",
                 "port": "transfer"
             },
@@ -198,15 +198,15 @@
     {
         "type": "ibc",
         "denom": "ibc/5336218FAC4BC06222A3FDD158602CBAAAAE1B16D4B738732C03F6ABDDB1E948",
-        "name" : "Regen",
+        "name": "Regen",
         "symbol": "REGEN",
         "description": "Regen Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/regen.png",
         "coinGeckoId": "regen",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "regen>axelar",
-            "client" : {
+            "client": {
                 "channel": "channel-29",
                 "port": "transfer"
             },
@@ -221,15 +221,15 @@
     {
         "type": "ibc",
         "denom": "ibc/6896F977DF5B427359BA77B5AF1052E5512D460F3CE59C8F6A7CB51408351F3C",
-        "name" : "Luna",
+        "name": "Luna",
         "symbol": "LUNA",
         "description": "Terra Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/luna.png",
         "coinGeckoId": "terra-luna-2",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "terra>axelar",
-            "client" : {
+            "client": {
                 "channel": "channel-11",
                 "port": "transfer"
             },
@@ -244,14 +244,14 @@
     {
         "type": "bridge",
         "denom": "uusdc",
-        "name" : "USDC (Ethereum via Axelar)",
+        "name": "USDC (Ethereum via Axelar)",
         "symbol": "USDC.axl",
         "description": "Circle's stablecoin on Axelar",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "axlusdc",
         "color": "#2474cc",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>axelar",
             "counterparty": {
                 "chain": "ethereum",
@@ -262,14 +262,14 @@
     {
         "type": "bridge",
         "denom": "uusdt",
-        "name" : "Tether USD (Ethereum via Axelar)",
+        "name": "Tether USD (Ethereum via Axelar)",
         "symbol": "USDT.axl",
         "description": "Tether's USD stablecoin on Axelar",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
         "coinGeckoId": "axelar-usdt",
         "color": "#54ac94",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>axelar",
             "counterparty": {
                 "chain": "ethereum",
@@ -280,14 +280,14 @@
     {
         "type": "bridge",
         "denom": "wbtc-satoshi",
-        "name" : "Wrapped Bitcoin (Ethereum via Axelar)",
+        "name": "Wrapped Bitcoin (Ethereum via Axelar)",
         "symbol": "WBTC.axl",
         "description": "Wrapped Bitcoin on Axelar",
         "decimals": 8,
         "image": "https://cdn.chainroot.io/images/tokens/wbtc.png",
         "coinGeckoId": "axlwbtc",
         "color": "#41394d",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>axelar",
             "counterparty": {
                 "chain": "ethereum",
@@ -298,13 +298,13 @@
     {
         "type": "bridge",
         "denom": "ape-wei",
-        "name" : "ApeCoin (Ethereum via Axelar)",
+        "name": "ApeCoin (Ethereum via Axelar)",
         "symbol": "WBTC.axl",
         "description": "ApeCoin on Axelar",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/ape.png",
         "coinGeckoId": "apecoin",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>axelar",
             "counterparty": {
                 "chain": "ethereum",
@@ -315,13 +315,13 @@
     {
         "type": "bridge",
         "denom": "aave-wei",
-        "name" : "AAVE (Ethereum via Axelar)",
+        "name": "AAVE (Ethereum via Axelar)",
         "symbol": "AAVE.axl",
         "description": "Aave on Axelar",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/aave.png",
         "coinGeckoId": "aave",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>axelar",
             "counterparty": {
                 "chain": "ethereum",
@@ -332,14 +332,14 @@
     {
         "type": "bridge",
         "denom": "dai-wei",
-        "name" : "Dai Stablecoin (Ethereum via Axelar)",
+        "name": "Dai Stablecoin (Ethereum via Axelar)",
         "symbol": "DAI.axl",
         "description": "Dai stablecoin on Axelar",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/dai.png",
         "coinGeckoId": "dai",
         "color": "#f4ac34",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>axelar",
             "counterparty": {
                 "chain": "ethereum",
@@ -350,13 +350,13 @@
     {
         "type": "bridge",
         "denom": "frax-wei",
-        "name" : "FRAX (Ethereum via Axelar)",
+        "name": "FRAX (Ethereum via Axelar)",
         "symbol": "FRAX.axl",
         "description": "Frax's fractional-algorithmic stablecoin on Axelar",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/frax.png",
         "coinGeckoId": "frax",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>axelar",
             "counterparty": {
                 "chain": "ethereum",
@@ -367,14 +367,14 @@
     {
         "type": "bridge",
         "denom": "weth-wei",
-        "name" : "Wrapped Ether (Ethereum via Axelar)",
+        "name": "Wrapped Ether (Ethereum via Axelar)",
         "symbol": "WETH.axl",
         "description": "Wrapped Ether on Axelar",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/weth.png",
         "coinGeckoId": "axlweth",
         "color": "#3a3444",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>axelar",
             "counterparty": {
                 "chain": "ethereum",
@@ -385,14 +385,14 @@
     {
         "type": "bridge",
         "denom": "link-wei",
-        "name" : "Chainlink (Ethereum via Axelar)",
+        "name": "Chainlink (Ethereum via Axelar)",
         "symbol": "LINK.axl",
         "description": "Chainlink on Axelar",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/link.png",
         "coinGeckoId": "chainlink",
         "color": "#2c5cdc",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>axelar",
             "counterparty": {
                 "chain": "ethereum",
@@ -403,13 +403,13 @@
     {
         "type": "bridge",
         "denom": "mkr-wei",
-        "name" : "Maker (Ethereum via Axelar)",
+        "name": "Maker (Ethereum via Axelar)",
         "symbol": "MKR.axl",
         "description": "Maker on Axelar",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/mkr.png",
         "coinGeckoId": "maker",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>axelar",
             "counterparty": {
                 "chain": "ethereum",
@@ -420,13 +420,13 @@
     {
         "type": "bridge",
         "denom": "rai-wei",
-        "name" : "Rai Reflex Index (Ethereum via Axelar)",
+        "name": "Rai Reflex Index (Ethereum via Axelar)",
         "symbol": "RAI.axl",
         "description": "Rai Reflex Index on Axelar",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/rai.png",
         "coinGeckoId": "rai",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>axelar",
             "counterparty": {
                 "chain": "ethereum",
@@ -437,14 +437,14 @@
     {
         "type": "bridge",
         "denom": "shib-wei",
-        "name" : "Shiba Inu (Ethereum via Axelar)",
+        "name": "Shiba Inu (Ethereum via Axelar)",
         "symbol": "SHIB.axl",
         "description": "Shiba Inu on Axelar",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/shib.png",
         "coinGeckoId": "shiba-inu",
         "color": "#FFA409",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>axelar",
             "counterparty": {
                 "chain": "ethereum",
@@ -455,13 +455,13 @@
     {
         "type": "bridge",
         "denom": "steth-wei",
-        "name" : "Lido Staked Ether (Ethereum via Axelar)",
+        "name": "Lido Staked Ether (Ethereum via Axelar)",
         "symbol": "stETH.axl",
         "description": "Lido Staked Ether on Axelar",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/steth.png",
         "coinGeckoId": "staked-ether",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>axelar",
             "counterparty": {
                 "chain": "ethereum",
@@ -472,13 +472,13 @@
     {
         "type": "bridge",
         "denom": "uni-wei",
-        "name" : "Uniswap (Ethereum via Axelar)",
+        "name": "Uniswap (Ethereum via Axelar)",
         "symbol": "UNI.axl",
         "description": "Uniswap on Axelar",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/uni.png",
         "coinGeckoId": "uniswap",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>axelar",
             "counterparty": {
                 "chain": "ethereum",
@@ -489,14 +489,14 @@
     {
         "type": "bridge",
         "denom": "wmatic-wei",
-        "name" : "Wrapped Matic (Polygon via Axelar)",
+        "name": "Wrapped Matic (Polygon via Axelar)",
         "symbol": "WMATIC.axl",
         "description": "Wrapped Matic on Axelar",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/wmatic.png",
         "coinGeckoId": "wmatic",
         "color": "#8444e4",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "polygon>axelar",
             "counterparty": {
                 "chain": "polygon",
@@ -507,14 +507,14 @@
     {
         "type": "bridge",
         "denom": "wglmr-wei",
-        "name" : "Wrapped Moonbeam (Moonbeam via Axelar)",
+        "name": "Wrapped Moonbeam (Moonbeam via Axelar)",
         "symbol": "WGLMR.axl",
         "description": "Wrapped Moonbeam on Axelar",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/wglmr.png",
         "coinGeckoId": "wrapped-moonbeam",
         "color": "#e4147c",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "moonbeam>axelar",
             "counterparty": {
                 "chain": "moonbeam",
@@ -525,14 +525,14 @@
     {
         "type": "bridge",
         "denom": "dot-planck",
-        "name" : "Wrapped Polkadot (Moonbeam via Axelar)",
+        "name": "Wrapped Polkadot (Moonbeam via Axelar)",
         "symbol": "DOT.axl",
         "description": "Wrapped Polkadot on Axelar",
         "decimals": 10,
         "image": "https://cdn.chainroot.io/images/tokens/xcdot.png",
         "coinGeckoId": "xcdot",
         "color": "#e4047c",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "moonbeam>axelar",
             "counterparty": {
                 "chain": "moonbeam",
@@ -543,14 +543,14 @@
     {
         "type": "bridge",
         "denom": "wftm-wei",
-        "name" : "Wrapped FTM (Fantom via Axelar)",
+        "name": "Wrapped FTM (Fantom via Axelar)",
         "symbol": "WFTM.axl",
         "description": "Wrapped FTM on Axelar.",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/wftm.png",
         "coinGeckoId": "wrapped-fantom",
         "color": "#1c6cfc",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "fantom>axelar",
             "counterparty": {
                 "chain": "fantom",
@@ -561,13 +561,13 @@
     {
         "type": "bridge",
         "denom": "wavax-wei",
-        "name" : "Wrapped AVAX (Avalanche via Axelar)",
+        "name": "Wrapped AVAX (Avalanche via Axelar)",
         "symbol": "WAVAX.axl",
         "description": "Wrapped AVAX on Axelar.",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/wavax.png",
         "coinGeckoId": "wrapped-avax",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "avalanche>axelar",
             "counterparty": {
                 "chain": "avalanche",
@@ -578,14 +578,14 @@
     {
         "type": "bridge",
         "denom": "wbnb-wei",
-        "name" : "Wrapped BNB (BSC via Axelar)",
+        "name": "Wrapped BNB (BSC via Axelar)",
         "symbol": "WBNB.axl",
         "description": "Wrapped BNB on Axelar.",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/wbnb.png",
         "coinGeckoId": "wbnb",
         "color": "#f3bb0c",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "bnb-smart-chain>axelar",
             "counterparty": {
                 "chain": "bnb-smart-chain",
@@ -596,14 +596,14 @@
     {
         "type": "bridge",
         "denom": "busd-wei",
-        "name" : "Binance USD (Ethereum via Axelar)",
+        "name": "Binance USD (Ethereum via Axelar)",
         "symbol": "BUSD.axl",
         "description": "Binance USD on Axelar.",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/busd.png",
         "coinGeckoId": "binance-usd",
         "color": "#f3bb0c",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "bnb-smart-chain>ethereum>axelar",
             "counterparty": {
                 "chain": "ethereum",
@@ -614,13 +614,13 @@
     {
         "type": "bridge",
         "denom": "wsteth-wei",
-        "name" : "Wrapped Lido Staked Ether (Ethereum via Axelar)",
+        "name": "Wrapped Lido Staked Ether (Ethereum via Axelar)",
         "symbol": "wstETH.axl",
         "description": "Wrapped Lido Staked Ether on Axelar",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/wsteth.png",
         "coinGeckoId": "wrapped-steth",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>axelar",
             "counterparty": {
                 "chain": "ethereum",
@@ -631,13 +631,13 @@
     {
         "type": "bridge",
         "denom": "sfrxeth-wei",
-        "name" : "Staked Frax Ether (Ethereum via Axelar)",
+        "name": "Staked Frax Ether (Ethereum via Axelar)",
         "symbol": "sfrxETH.axl",
         "description": "Staked Frax Ether on Axelar",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/sfrxeth.png",
         "coinGeckoId": "staked-frax-ether",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>axelar",
             "counterparty": {
                 "chain": "ethereum",
@@ -648,14 +648,14 @@
     {
         "type": "bridge",
         "denom": "reth-wei",
-        "name" : "Rocket Pool Ether (Ethereum via Axelar)",
+        "name": "Rocket Pool Ether (Ethereum via Axelar)",
         "symbol": "rETH.axl",
         "description": "Rocket Pool Ether on Axelar",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/reth.png",
         "coinGeckoId": "rocket-pool-eth",
         "color": "#fba487",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>axelar",
             "counterparty": {
                 "chain": "ethereum",
@@ -666,14 +666,14 @@
     {
         "type": "bridge",
         "denom": "cbeth-wei",
-        "name" : "Coinbase Wrapped Staked ETH (Ethereum via Axelar)",
+        "name": "Coinbase Wrapped Staked ETH (Ethereum via Axelar)",
         "symbol": "cbETH.axl",
         "description": "Coinbase Wrapped Staked ETH on Axelar",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/eth_base.png",
         "coinGeckoId": "coinbase-wrapped-staked-eth",
         "color": "#c9dbfc",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>axelar",
             "counterparty": {
                 "chain": "ethereum",
@@ -684,14 +684,14 @@
     {
         "type": "bridge",
         "denom": "pepe-wei",
-        "name" : "Pepe (Ethereum via Axelar)",
+        "name": "Pepe (Ethereum via Axelar)",
         "symbol": "PEPE.axl",
         "description": "Pepe on Axelar",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/pepe.png",
         "coinGeckoId": "pepe",
         "color": "#cc3233",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>axelar",
             "counterparty": {
                 "chain": "ethereum",
@@ -702,13 +702,13 @@
     {
         "type": "bridge",
         "denom": "cusd-wei",
-        "name" : "cUSD (Ethereum via Axelar)",
+        "name": "cUSD (Ethereum via Axelar)",
         "symbol": "cUSD.axl",
         "description": "cUSD on Axelar",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/cusd.png",
         "coinGeckoId": "celo-dollar",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "ethereum>axelar",
             "counterparty": {
                 "chain": "ethereum",
@@ -719,13 +719,13 @@
     {
         "type": "bridge",
         "denom": "mpx-wei",
-        "name" : "MPX (Fantom via Axelar)",
+        "name": "MPX (Fantom via Axelar)",
         "symbol": "MPX.axl",
         "description": "MPX on Axelar",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/mpx.png",
         "coinGeckoId": "mpx",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "fantom>axelar",
             "counterparty": {
                 "chain": "fantom",
@@ -736,14 +736,14 @@
     {
         "type": "bridge",
         "denom": "wfil-wei",
-        "name" : "Wrapped FIL from Filecoin (Ethereum via Axelar)",
+        "name": "Wrapped FIL from Filecoin (Ethereum via Axelar)",
         "symbol": "FIL.axl",
         "description": "Wrapped FIL on Axelar",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/fil.png",
         "coinGeckoId": "filecoin",
         "color": "#0694fc",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "filecoin>ethereum>axelar",
             "counterparty": {
                 "chain": "ethereum",
@@ -754,14 +754,14 @@
     {
         "type": "bridge",
         "denom": "arb-wei",
-        "name" : "Arbitrum (Arbitrum via Axelar)",
+        "name": "Arbitrum (Arbitrum via Axelar)",
         "symbol": "ARB.axl",
         "description": "Arbitrum on Axelar",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/arb.png",
         "coinGeckoId": "arbitrum",
         "color": "#253545",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "arbitrum>axelar",
             "counterparty": {
                 "chain": "arbitrum",

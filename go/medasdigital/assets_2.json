@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "umedas",
-        "name" : "Medas Digital",
+        "name": "Medas Digital",
         "symbol": "MEDAS",
         "description": "The native token of Medas Digital Network",
         "decimals": 6,
@@ -13,15 +13,15 @@
     {
         "type": "ibc",
         "denom": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
-        "name" : "Osmosis",
+        "name": "Osmosis",
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
         "coinGeckoId": "osmosis",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "osmosis>medasdigital",
-            "client" : {
+            "client": {
                 "channel": "channel-0",
                 "port": "transfer"
             },
@@ -36,15 +36,15 @@
     {
         "type": "ibc",
         "denom": "ibc/B4C138B6F08A5BC826ABEFD56CAE828D2CF0A3B62A73B74AECC46D257371B125",
-        "name" : "Sentinel",
+        "name": "Sentinel",
         "symbol": "DVPN",
         "description": "Sentinel Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/dvpn.png",
         "coinGeckoId": "sentinel",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "sentinel>medasdigital",
-            "client" : {
+            "client": {
                 "channel": "channel-4",
                 "port": "transfer"
             },
@@ -59,15 +59,15 @@
     {
         "type": "ibc",
         "denom": "ibc/92E4AB82E3B2AF2D5181AC69C74F9F6D890442C7B7B02CC8634B9D3ED7CF936D",
-        "name" : "Sifchain",
+        "name": "Sifchain",
         "symbol": "ROWAN",
         "description": "Sifchain Staking Coin",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/rowan.png",
         "coinGeckoId": "sifchain",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "sifchain>medasdigital",
-            "client" : {
+            "client": {
                 "channel": "channel-5",
                 "port": "transfer"
             },

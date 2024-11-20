@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "uhedge",
-        "name" : "Hedge Testnet",
+        "name": "Hedge Testnet",
         "symbol": "HEDGE",
         "description": "The native staking token of the Hedge Testnet blockchain.",
         "decimals": 6,
