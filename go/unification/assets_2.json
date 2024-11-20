@@ -1,8 +1,8 @@
 [
   {
-    "type": "native",
+    "type": "staking",
     "denom": "nund",
-    "name" : "Unification Network",
+    "name": "Unification Network",
     "symbol": "FUND",
     "description": "Unification Staking Coin",
     "decimals": 9,

@@ -1,13 +1,13 @@
 [
-    {
-        "type": "native",
-        "denom": "umint",
-        "name" : "Mintstation Testnet",
-        "symbol": "MINT",
-        "description": "MintStation-Testnet Staking Coin",
-        "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/mint.png",
-        "coinGeckoId": "",
-        "color": "#376FFF"
-    }
+  {
+    "type": "staking",
+    "denom": "umint",
+    "name": "Mintstation Testnet",
+    "symbol": "MINT",
+    "description": "MintStation-Testnet Staking Coin",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/mint.png",
+    "coinGeckoId": "",
+    "color": "#376FFF"
+  }
 ]

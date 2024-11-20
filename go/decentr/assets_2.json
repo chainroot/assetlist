@@ -1,13 +1,13 @@
 [
-    {
-        "type": "native",
-        "denom": "udec",
-        "name" : "Decentr",
-        "symbol": "DEC",
-        "description": "Decentr Staking Coin",
-        "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/dec.png",
-        "coinGeckoId": "decentr",
-        "color": "#4678e9"
-    }
+  {
+    "type": "staking",
+    "denom": "udec",
+    "name": "Decentr",
+    "symbol": "DEC",
+    "description": "Decentr Staking Coin",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/dec.png",
+    "coinGeckoId": "decentr",
+    "color": "#4678e9"
+  }
 ]

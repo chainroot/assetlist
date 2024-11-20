@@ -1,13 +1,13 @@
 [
-    {
-        "type": "native",
-        "denom": "ubcna",
-        "name" : "Bitcanna",
-        "symbol": "BCNA",
-        "description": "Bitcanna Staking Coin",
-        "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/bcna.png",
-        "coinGeckoId": "bitcanna",
-        "color": "#00B786"
-    }
+  {
+    "type": "staking",
+    "denom": "ubcna",
+    "name": "Bitcanna",
+    "symbol": "BCNA",
+    "description": "Bitcanna Staking Coin",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/bcna.png",
+    "coinGeckoId": "bitcanna",
+    "color": "#00B786"
+  }
 ]

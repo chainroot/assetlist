@@ -1,13 +1,13 @@
 [
-    {
-        "type": "native",
-        "denom": "cony",
-        "name" : "Finschia",
-        "symbol": "FNSA",
-        "description": "Finschia Staking Coin",
-        "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/fnsa.png",
-        "coinGeckoId": "link",
-        "color": "#61676E"
-    }
+  {
+    "type": "staking",
+    "denom": "cony",
+    "name": "Finschia",
+    "symbol": "FNSA",
+    "description": "Finschia Staking Coin",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/fnsa.png",
+    "coinGeckoId": "link",
+    "color": "#61676E"
+  }
 ]

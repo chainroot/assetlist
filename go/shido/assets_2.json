@@ -1,13 +1,13 @@
 [
-    {
-        "type": "native",
-        "denom": "shido",
-        "name" : "Shido",
-        "symbol": "SHIDO",
-        "description": "Shido Staking Coin",
-        "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/shido.png",
-        "coinGeckoId": "shido-2",
-        "color": "#4169e1"
-    }
+  {
+    "type": "staking",
+    "denom": "shido",
+    "name": "Shido",
+    "symbol": "SHIDO",
+    "description": "Shido Staking Coin",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/shido.png",
+    "coinGeckoId": "shido-2",
+    "color": "#4169e1"
+  }
 ]

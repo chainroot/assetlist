@@ -1,13 +1,13 @@
 [
-    {
-        "type": "native",
-        "denom": "acudos",
-        "name" : "Cudos",
-        "symbol": "CUDOS",
-        "description": "Cudos Staking Coin",
-        "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/cudos.png",
-        "coinGeckoId": "cudos",
-        "color": "#10AECC"
-    }
+  {
+    "type": "staking",
+    "denom": "acudos",
+    "name": "Cudos",
+    "symbol": "CUDOS",
+    "description": "Cudos Staking Coin",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/cudos.png",
+    "coinGeckoId": "cudos",
+    "color": "#10AECC"
+  }
 ]

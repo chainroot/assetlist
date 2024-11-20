@@ -1,13 +1,13 @@
 [
-    {
-        "type": "native",
-        "denom": "aalthea",
-        "name" : "Althea",
-        "symbol": "ALTHEA",
-        "description": "Althea Staking Coin",
-        "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/althea.png",
-        "coinGeckoId": "althea",
-        "color": "#3f95d4"
-    }
+  {
+    "type": "staking",
+    "denom": "aalthea",
+    "name": "Althea",
+    "symbol": "ALTHEA",
+    "description": "Althea Staking Coin",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/althea.png",
+    "coinGeckoId": "althea",
+    "color": "#3f95d4"
+  }
 ]

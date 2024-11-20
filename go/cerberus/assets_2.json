@@ -1,13 +1,13 @@
 [
-    {
-        "type": "native",
-        "denom": "ucrbrus",
-        "name" : "Cerberus",
-        "symbol": "CRBRUS",
-        "description": "Cerberus Staking Coin",
-        "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/crbrus.png",
-        "coinGeckoId": "cerberus-2",
-        "color": "#D7AD17"
-    }
+  {
+    "type": "staking",
+    "denom": "ucrbrus",
+    "name": "Cerberus",
+    "symbol": "CRBRUS",
+    "description": "Cerberus Staking Coin",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/crbrus.png",
+    "coinGeckoId": "cerberus-2",
+    "color": "#D7AD17"
+  }
 ]

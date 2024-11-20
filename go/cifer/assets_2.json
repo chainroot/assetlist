@@ -1,13 +1,13 @@
 [
-    {
-        "type": "native",
-        "denom": "ucif",
-        "name" : "Cifer",
-        "symbol": "CIF",
-        "description": "Cifer Staking Coin",
-        "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/cif.png",
-        "coinGeckoId": "",
-        "color": "#af49b7"
-    }
+  {
+    "type": "staking",
+    "denom": "ucif",
+    "name": "Cifer",
+    "symbol": "CIF",
+    "description": "Cifer Staking Coin",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/cif.png",
+    "coinGeckoId": "",
+    "color": "#af49b7"
+  }
 ]

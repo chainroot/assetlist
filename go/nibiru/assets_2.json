@@ -1,12 +1,12 @@
 [
-    {
-        "type": "native",
-        "denom": "unibi",
-        "name": "Nibiru",
-        "symbol": "NIBI",
-        "description": "Nibiru Staking Coin",
-        "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/nibi.png",
-        "coinGeckoId": "nibiru"
-    }
+  {
+    "type": "staking",
+    "denom": "unibi",
+    "name": "Nibiru",
+    "symbol": "NIBI",
+    "description": "Nibiru Staking Coin",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/nibi.png",
+    "coinGeckoId": "nibiru"
+  }
 ]

@@ -1,13 +1,13 @@
 [
-    {
-        "type": "native",
-        "denom": "umntl",
-        "name" : "AssetMantle",
-        "symbol": "MNTL",
-        "description": "AssetMantle Staking Coin",
-        "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/mntl.png",
-        "coinGeckoId": "assetmantle",
-        "color": "#F3B519"
-    }
+  {
+    "type": "staking",
+    "denom": "umntl",
+    "name": "AssetMantle",
+    "symbol": "MNTL",
+    "description": "AssetMantle Staking Coin",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/mntl.png",
+    "coinGeckoId": "assetmantle",
+    "color": "#F3B519"
+  }
 ]

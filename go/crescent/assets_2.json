@@ -1,23 +1,23 @@
 [
-    {
-        "type": "native",
-        "denom": "ucre",
-        "name" : "Crescent",
-        "symbol": "CRE",
-        "description": "Crescent Staking Coin",
-        "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/cre.png",
-        "coinGeckoId": "crescent-network",
-        "color": "#F4BC76"
-    },
-    {
-        "type": "native",
-        "denom": "ubcre",
-        "name" : "bCrescent",
-        "symbol": "bCRE",
-        "description": "Crescent Liquidated CRE",
-        "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/bcre.png",
-        "coinGeckoId": "liquid-staking-crescent"
-    }
+  {
+    "type": "staking",
+    "denom": "ucre",
+    "name": "Crescent",
+    "symbol": "CRE",
+    "description": "Crescent Staking Coin",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/cre.png",
+    "coinGeckoId": "crescent-network",
+    "color": "#F4BC76"
+  },
+  {
+    "type": "native",
+    "denom": "ubcre",
+    "name": "bCrescent",
+    "symbol": "bCRE",
+    "description": "Crescent Liquidated CRE",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/bcre.png",
+    "coinGeckoId": "liquid-staking-crescent"
+  }
 ]

@@ -1,13 +1,13 @@
 [
-    {
-        "type": "native",
-        "denom": "uiov",
-        "name" : "Starname",
-        "symbol": "IOV",
-        "description": "Starname Staking Coin",
-        "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/iov.png",
-        "coinGeckoId": "starname",
-        "color": "#6E7CDE"
-    }
+  {
+    "type": "staking",
+    "denom": "uiov",
+    "name": "Starname",
+    "symbol": "IOV",
+    "description": "Starname Staking Coin",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/iov.png",
+    "coinGeckoId": "starname",
+    "color": "#6E7CDE"
+  }
 ]

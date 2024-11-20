@@ -1,13 +1,13 @@
 [
-    {
-        "type": "native",
-        "denom": "uctk",
-        "name" : "Shentu",
-        "symbol": "CTK",
-        "description": "Shentu Staking Coin",
-        "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/ctk.png",
-        "coinGeckoId": "certik",
-        "color": "#E1AA4C"
-    }
+  {
+    "type": "staking",
+    "denom": "uctk",
+    "name": "Shentu",
+    "symbol": "CTK",
+    "description": "Shentu Staking Coin",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/ctk.png",
+    "coinGeckoId": "certik",
+    "color": "#E1AA4C"
+  }
 ]

@@ -1,13 +1,13 @@
 [
-    {
-        "type": "native",
-        "denom": "aheart",
-        "name" : "HEART",
-        "symbol": "HEART",
-        "description": "Humans Staking Coin",
-        "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/humans.png",
-        "coinGeckoId": "humans-ai",
-        "color": "#8268FB"
-    }
+  {
+    "type": "staking",
+    "denom": "aheart",
+    "name": "HEART",
+    "symbol": "HEART",
+    "description": "Humans Staking Coin",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/humans.png",
+    "coinGeckoId": "humans-ai",
+    "color": "#8268FB"
+  }
 ]

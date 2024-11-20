@@ -1,13 +1,13 @@
 [
-    {
-        "type": "native",
-        "denom": "aevmos",
-        "name" : "Evmos Testnet",
-        "symbol": "EVMOS",
-        "description": "Evmos Testnet Staking Coin",
-        "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/evmos.png",
-        "coinGeckoId": "",
-        "color": "#ED4E33"
-    }
+  {
+    "type": "native",
+    "denom": "aevmos",
+    "name": "Evmos Testnet",
+    "symbol": "EVMOS",
+    "description": "Evmos Testnet Staking Coin",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/evmos.png",
+    "coinGeckoId": "",
+    "color": "#ED4E33"
+  }
 ]

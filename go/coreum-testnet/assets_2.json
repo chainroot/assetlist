@@ -1,13 +1,13 @@
 [
-    {
-        "type": "native",
-        "denom": "ucore",
-        "name" : "Coreum Testnet",
-        "symbol": "COREUM",
-        "description": "Coreum Testnet Staking Coin",
-        "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/core.png",
-        "coinGeckoId": "",
-        "color": "#16B87B"
-    }
+  {
+    "type": "native",
+    "denom": "ucore",
+    "name": "Coreum Testnet",
+    "symbol": "COREUM",
+    "description": "Coreum Testnet Staking Coin",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/core.png",
+    "coinGeckoId": "",
+    "color": "#16B87B"
+  }
 ]

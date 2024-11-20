@@ -1,13 +1,13 @@
 [
-    {
-        "type": "native",
-        "denom": "usaga",
-        "name" : "Saga",
-        "symbol": "SAGA",
-        "description": "Saga Staking Coin",
-        "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/saga.png",
-        "coinGeckoId": "saga-2",
-        "color": "#FF724F"
-    }
+  {
+    "type": "staking",
+    "denom": "usaga",
+    "name": "Saga",
+    "symbol": "SAGA",
+    "description": "Saga Staking Coin",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/saga.png",
+    "coinGeckoId": "saga-2",
+    "color": "#FF724F"
+  }
 ]

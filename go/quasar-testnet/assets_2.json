@@ -1,12 +1,12 @@
 [
-    {
-        "type": "native",
-        "denom": "uqsr",
-        "name" : "Quasar",
-        "symbol": "QSR",
-        "description": "Quasar-testnet Staking Coin",
-        "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/qsr.png",
-        "coinGeckoId": ""
-    }
+  {
+    "type": "staking",
+    "denom": "uqsr",
+    "name": "Quasar",
+    "symbol": "QSR",
+    "description": "Quasar-testnet Staking Coin",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/qsr.png",
+    "coinGeckoId": ""
+  }
 ]

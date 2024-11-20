@@ -1,13 +1,13 @@
 [
-    {
-        "type": "native",
-        "denom": "uart",
-        "name" : "Artela",
-        "symbol": "ART",
-        "description": "Artela Staking Coin",
-        "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/art.png",
-        "coinGeckoId": "",
-        "color": "#0000BD"
-    }
+  {
+    "type": "staking",
+    "denom": "uart",
+    "name": "Artela",
+    "symbol": "ART",
+    "description": "Artela Staking Coin",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/art.png",
+    "coinGeckoId": "",
+    "color": "#0000BD"
+  }
 ]

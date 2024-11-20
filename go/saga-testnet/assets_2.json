@@ -1,12 +1,12 @@
 [
-    {
-        "type": "native",
-        "denom": "utsaga",
-        "name" : "Saga Testnet",
-        "symbol": "TSAGA",
-        "description": "Saga-testnet Staking Coin",
-        "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/saga.png",
-        "color": "#FF724F"
-    }
+  {
+    "type": "staking",
+    "denom": "utsaga",
+    "name": "Saga Testnet",
+    "symbol": "TSAGA",
+    "description": "Saga-testnet Staking Coin",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/saga.png",
+    "color": "#FF724F"
+  }
 ]

@@ -1,12 +1,12 @@
 [
-    {
-        "type": "native",
-        "denom": "unil",
-        "name": "Nillion",
-        "symbol": "NIL",
-        "description": "Nillion Staing Coin",
-        "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/nil.png",
-        "coinGeckoId": ""
-    }
+  {
+    "type": "staking",
+    "denom": "unil",
+    "name": "Nillion",
+    "symbol": "NIL",
+    "description": "Nillion Staing Coin",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/nil.png",
+    "coinGeckoId": ""
+  }
 ]

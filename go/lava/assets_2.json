@@ -1,13 +1,13 @@
 [
-    {
-        "type": "native",
-        "denom": "ulava",
-        "name" : "Lava",
-        "symbol": "LAVA",
-        "description": "Lava Network Staking Coin",
-        "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/lava.png",
-        "coinGeckoId": "lava-network",
-        "color": "#6f043e"
-    }
+  {
+    "type": "staking",
+    "denom": "ulava",
+    "name": "Lava",
+    "symbol": "LAVA",
+    "description": "Lava Network Staking Coin",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/lava.png",
+    "coinGeckoId": "lava-network",
+    "color": "#6f043e"
+  }
 ]

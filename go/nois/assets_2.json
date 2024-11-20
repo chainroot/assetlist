@@ -1,12 +1,12 @@
 [
-    {
-        "type": "native",
-        "denom": "unois",
-        "name" : "Nois",
-        "symbol": "NOIS",
-        "description": "Nois Staking Coin",
-        "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/nois.png",
-        "coinGeckoId": "nois"
-    }
+  {
+    "type": "staking",
+    "denom": "unois",
+    "name": "Nois",
+    "symbol": "NOIS",
+    "description": "Nois Staking Coin",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/nois.png",
+    "coinGeckoId": "nois"
+  }
 ]

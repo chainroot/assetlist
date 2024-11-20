@@ -1,24 +1,24 @@
 [
-    {
-        "type": "native",
-        "denom": "afet",
-        "name" : "fetch-ai",
-        "symbol": "FET",
-        "description": "Fetch Hub Staking Coin",
-        "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/fet.png",
-        "coinGeckoId": "fetch-ai",
-        "color": "#57B5A8"
-    },
-    {
-        "type": "native",
-        "denom": "nanomobx",
-        "name" : "MOBIX",
-        "symbol": "MOBX",
-        "description": "The MOBX coin rewards the use of eco-friendly micromobility transportation.",
-        "decimals": 9,
-        "image": "https://cdn.chainroot.io/images/tokens/mobx.png",
-        "coinGeckoId": "mobix",
-        "color": "#04ae9b"
-    }
+  {
+    "type": "staking",
+    "denom": "afet",
+    "name": "fetch-ai",
+    "symbol": "FET",
+    "description": "Fetch Hub Staking Coin",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/fet.png",
+    "coinGeckoId": "fetch-ai",
+    "color": "#57B5A8"
+  },
+  {
+    "type": "native",
+    "denom": "nanomobx",
+    "name": "MOBIX",
+    "symbol": "MOBX",
+    "description": "The MOBX coin rewards the use of eco-friendly micromobility transportation.",
+    "decimals": 9,
+    "image": "https://cdn.chainroot.io/images/tokens/mobx.png",
+    "coinGeckoId": "mobix",
+    "color": "#04ae9b"
+  }
 ]

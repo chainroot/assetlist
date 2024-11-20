@@ -1,13 +1,13 @@
 [
-    {
-        "type": "native",
-        "denom": "uart",
-        "name" : "Artela Testnet",
-        "symbol": "ART",
-        "description": "Artela Testnet Staking Coin",
-        "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/art.png",
-        "coinGeckoId": "",
-        "color": "#0000BD"
-    }
+  {
+    "type": "staking",
+    "denom": "uart",
+    "name": "Artela Testnet",
+    "symbol": "ART",
+    "description": "Artela Testnet Staking Coin",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/art.png",
+    "coinGeckoId": "",
+    "color": "#0000BD"
+  }
 ]

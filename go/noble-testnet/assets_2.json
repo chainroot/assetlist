@@ -1,52 +1,52 @@
 [
-    {
-        "type": "native",
-        "denom": "ustake",
-        "name": "Stake Testnet",
-        "symbol": "STAKE",
-        "description": "Noble testnet Staking Coin",
-        "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/stake.png",
-        "coinGeckoId": ""
-    },
-    {
-        "type": "native",
-        "denom": "uusdc",
-        "name" : "USDC Testnet",
-        "symbol": "USDC",
-        "description": "Noble testnet Native Coin",
-        "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
-        "coinGeckoId": ""
-    },
-    {
-        "type": "native",
-        "denom": "ausdy",
-        "name": "Ondo US Dollar Yield Testnet",
-        "symbol": "USDY",
-        "description": "Noble testnet Native Coin",
-        "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/usdy.png",
-        "coinGeckoId": ""
-    },
-    {
-        "type": "native",
-        "denom": "uusyc",
-        "name": "US Yield Coin Testnet",
-        "symbol": "USYC",
-        "description": "Noble testnet Native Coin",
-        "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usyc.png",
-        "coinGeckoId": ""
-    },
-    {
-        "type": "native",
-        "denom": "ueure",
-        "name": "Monerium EUR emoney Testnet",
-        "symbol": "EURe",
-        "description": "Noble testnet Native Coin",
-        "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/eure.png",
-        "coinGeckoId": ""
-    }
+  {
+    "type": "staking",
+    "denom": "ustake",
+    "name": "Stake Testnet",
+    "symbol": "STAKE",
+    "description": "Noble testnet Staking Coin",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/stake.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "native",
+    "denom": "uusdc",
+    "name": "USDC Testnet",
+    "symbol": "USDC",
+    "description": "Noble testnet Native Coin",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "native",
+    "denom": "ausdy",
+    "name": "Ondo US Dollar Yield Testnet",
+    "symbol": "USDY",
+    "description": "Noble testnet Native Coin",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/usdy.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "native",
+    "denom": "uusyc",
+    "name": "US Yield Coin Testnet",
+    "symbol": "USYC",
+    "description": "Noble testnet Native Coin",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/usyc.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "native",
+    "denom": "ueure",
+    "name": "Monerium EUR emoney Testnet",
+    "symbol": "EURe",
+    "description": "Noble testnet Native Coin",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/eure.png",
+    "coinGeckoId": ""
+  }
 ]

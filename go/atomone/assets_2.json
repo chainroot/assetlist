@@ -1,12 +1,12 @@
 [
-    {
-        "type": "native",
-        "denom": "uatone",
-        "name" : "Atomone",
-        "symbol": "ATONE",
-        "description": "Atomone Staking Coin",
-        "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/atone.png",
-        "coinGeckoId": "atomone"
-    }
+  {
+    "type": "staking",
+    "denom": "uatone",
+    "name": "Atomone",
+    "symbol": "ATONE",
+    "description": "Atomone Staking Coin",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/atone.png",
+    "coinGeckoId": "atomone"
+  }
 ]

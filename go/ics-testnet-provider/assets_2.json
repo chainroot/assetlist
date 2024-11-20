@@ -1,13 +1,13 @@
 [
-    {
-        "type": "native",
-        "denom": "uprov",
-        "name" : "ICS Testnet Provider",
-        "symbol": "PROV",
-        "description": "ICS Testnet Staking Coin",
-        "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/prov.png",
-        "coinGeckoId": "",
-        "color": ""
-    }
+  {
+    "type": "staking",
+    "denom": "uprov",
+    "name": "ICS Testnet Provider",
+    "symbol": "PROV",
+    "description": "ICS Testnet Staking Coin",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/prov.png",
+    "coinGeckoId": "",
+    "color": ""
+  }
 ]

@@ -1,13 +1,13 @@
 [
-    {
-        "type": "native",
-        "denom": "adydx",
-        "name" : "dYdX Testnet",
-        "symbol": "dYdX",
-        "description": "dYdX",
-        "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/dydx.png",
-        "coinGeckoId": "dydx",
-        "color": "#9248DB"
-    }
+  {
+    "type": "native",
+    "denom": "adydx",
+    "name": "dYdX Testnet",
+    "symbol": "dYdX",
+    "description": "dYdX",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/dydx.png",
+    "coinGeckoId": "dydx",
+    "color": "#9248DB"
+  }
 ]

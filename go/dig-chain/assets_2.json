@@ -1,13 +1,13 @@
 [
-    {
-        "type": "native",
-        "denom": "udig",
-        "name" : "Dig",
-        "symbol": "DIG",
-        "description": "Dig Staking Coin",
-        "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/dig.png",
-        "coinGeckoId": "",
-        "color": "#1b1433"
-    }
+  {
+    "type": "staking",
+    "denom": "udig",
+    "name": "Dig",
+    "symbol": "DIG",
+    "description": "Dig Staking Coin",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/dig.png",
+    "coinGeckoId": "",
+    "color": "#1b1433"
+  }
 ]

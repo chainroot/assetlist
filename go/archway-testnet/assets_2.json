@@ -1,13 +1,13 @@
 [
-    {
-        "type": "native",
-        "denom": "aarch",
-        "name" : "Archway Testnet",
-        "symbol": "ARCH",
-        "description": "Archway Testnet Staking Coin",
-        "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/arch.png",
-        "coinGeckoId": "",
-        "color": "#FF8F69"
-    }
+  {
+    "type": "native",
+    "denom": "aarch",
+    "name": "Archway Testnet",
+    "symbol": "ARCH",
+    "description": "Archway Testnet Staking Coin",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/arch.png",
+    "coinGeckoId": "",
+    "color": "#FF8F69"
+  }
 ]

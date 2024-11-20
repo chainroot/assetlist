@@ -1,13 +1,13 @@
 [
-    {
-        "type": "native",
-        "denom": "nhash",
-        "name" : "Provenance",
-        "symbol": "HASH",
-        "description": "Provenance Staking Coin",
-        "decimals": 9,
-        "image": "https://cdn.chainroot.io/images/tokens/hash.png",
-        "coinGeckoId": "provenance-blockchain",
-        "color": "#628EE4"
-    }
+  {
+    "type": "staking",
+    "denom": "nhash",
+    "name": "Provenance",
+    "symbol": "HASH",
+    "description": "Provenance Staking Coin",
+    "decimals": 9,
+    "image": "https://cdn.chainroot.io/images/tokens/hash.png",
+    "coinGeckoId": "provenance-blockchain",
+    "color": "#628EE4"
+  }
 ]

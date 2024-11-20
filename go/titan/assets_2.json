@@ -1,12 +1,12 @@
 [
-    {
-        "type": "native",
-        "denom": "atkx",
-        "name" : "Titan",
-        "symbol": "TKX",
-        "description": "Titan Staking Coin",
-        "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/tkx.png",
-        "coinGeckoId": ""
-    }
+  {
+    "type": "staking",
+    "denom": "atkx",
+    "name": "Titan",
+    "symbol": "TKX",
+    "description": "Titan Staking Coin",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/tkx.png",
+    "coinGeckoId": ""
+  }
 ]

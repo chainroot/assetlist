@@ -1,13 +1,13 @@
 [
-    {
-        "type": "native",
-        "denom": "upasg",
-        "name" : "Passage",
-        "symbol": "PASG",
-        "description": "Passage Staking Coin",
-        "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/pasg.png",
-        "coinGeckoId": "passage",
-        "color": "#5DA5FB"
-    }
+  {
+    "type": "staking",
+    "denom": "upasg",
+    "name": "Passage",
+    "symbol": "PASG",
+    "description": "Passage Staking Coin",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/pasg.png",
+    "coinGeckoId": "passage",
+    "color": "#5DA5FB"
+  }
 ]
