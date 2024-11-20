@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "uxprt",
-        "name" : "Persistence One Testnet",
+        "name": "Persistence One Testnet",
         "symbol": "XPRT",
         "description": "Persistence-testnet Staking Coin",
         "decimals": 6,
@@ -13,7 +13,7 @@
     {
         "type": "native",
         "denom": "stk/uatom",
-        "name" : "PSTAKE Testnet staked ATOM",
+        "name": "PSTAKE Testnet staked ATOM",
         "symbol": "stkATOM",
         "description": "PSTAKE-testnet Liquid-Staked ATOM",
         "decimals": 6,
@@ -23,7 +23,7 @@
     {
         "type": "native",
         "denom": "stk/uosmo",
-        "name" : "PSTAKE Testnet staked OSMO",
+        "name": "PSTAKE Testnet staked OSMO",
         "symbol": "stkOSMO",
         "description": "PSTAKE-testnet Liquid-Staked OSMO",
         "decimals": 6,
@@ -33,7 +33,7 @@
     {
         "type": "native",
         "denom": "stk/adv4tnt",
-        "name" : "PSTAKE Testnet staked DV4TNT",
+        "name": "PSTAKE Testnet staked DV4TNT",
         "symbol": "stkDV4TNT",
         "description": "PSTAKE-testnet Liquid-Staked DV4TNT",
         "decimals": 18,

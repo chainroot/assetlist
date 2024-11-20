@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "ucif",
-        "name" : "Cifer",
+        "name": "Cifer",
         "symbol": "CIF",
         "description": "Cifer Staking Coin",
         "decimals": 6,

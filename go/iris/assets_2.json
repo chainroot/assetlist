@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "uiris",
-        "name" : "IRISnet",
+        "name": "IRISnet",
         "symbol": "IRIS",
         "description": "IRISnet Staking Coin",
         "decimals": 6,
@@ -13,15 +13,15 @@
     {
         "type": "ibc",
         "denom": "ibc/A8C2D23A1E6F95DA4E48BA349667E322BD7A6C996D8A4AAE8BA72E190F3D1477",
-        "name" : "Atom",
+        "name": "Atom",
         "symbol": "ATOM",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/atom.png",
         "coinGeckoId": "cosmos",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "cosmos>iris",
-            "client" : {
+            "client": {
                 "channel": "channel-12",
                 "port": "transfer"
             },
@@ -36,15 +36,15 @@
     {
         "type": "ibc",
         "denom": "ibc/47BD209179859CDE4A2806763D7189B6E6FE13A17880FE2B42DE1E6C1E329E23",
-        "name" : "Osmosis",
+        "name": "Osmosis",
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
         "coinGeckoId": "osmosis",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "osmosis>iris",
-            "client" : {
+            "client": {
                 "channel": "channel-3",
                 "port": "transfer"
             },
@@ -59,15 +59,15 @@
     {
         "type": "ibc",
         "denom": "ibc/6CDA7F7E4DDB86FD275A986E78F13DF2FC500E3FEC2149E2215061FA51BB8C5D",
-        "name" : "Ion DAO",
+        "name": "Ion DAO",
         "symbol": "ION",
         "description": "ION is the second native token of Osmosis.",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/ion.png",
         "coinGeckoId": "ion",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "osmosis>iris",
-            "client" : {
+            "client": {
                 "channel": "channel-3",
                 "port": "transfer"
             },
@@ -82,15 +82,15 @@
     {
         "type": "ibc",
         "denom": "ibc/A5A5EBF3B7A180FBA2A3CE133153F5B904AA8B085691F66A15BE8156B6722652",
-        "name" : "USD Coin (Ethereum to Gravity-Bridge)",
+        "name": "USD Coin (Ethereum to Gravity-Bridge)",
         "symbol": "USDC.grv",
         "description": "Gravity Bridge USDC",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "usd-coin",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "ethereum>gravity-bridge>iris",
-            "client" : {
+            "client": {
                 "channel": "channel-29",
                 "port": "transfer"
             },
@@ -105,15 +105,15 @@
     {
         "type": "ibc",
         "denom": "ibc/BB672AA10BBB0A66CD8613E6286D8F11A31A4CA0B8026379BBC2484971499EFE",
-        "name" : "Dai Stablecoin (Ethereum to Gravity-Bridge)",
+        "name": "Dai Stablecoin (Ethereum to Gravity-Bridge)",
         "symbol": "DAI.grv",
         "description": "Gravity Bridge DAI",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/dai.png",
         "coinGeckoId": "dai",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "ethereum>gravity-bridge>iris",
-            "client" : {
+            "client": {
                 "channel": "channel-29",
                 "port": "transfer"
             },
@@ -128,15 +128,15 @@
     {
         "type": "ibc",
         "denom": "ibc/E244B968EE0D1EC047E7516F6ABECE7B68E9FD93B4BD8D08D13642247416BB17",
-        "name" : "Wrapped Ethereum (Ethereum to Gravity-Bridge)",
+        "name": "Wrapped Ethereum (Ethereum to Gravity-Bridge)",
         "symbol": "WETH.grv",
         "description": "Gravity Bridge WETH",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/weth.png",
         "coinGeckoId": "weth",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "ethereum>gravity-bridge>iris",
-            "client" : {
+            "client": {
                 "channel": "channel-29",
                 "port": "transfer"
             },
@@ -151,7 +151,7 @@
     {
         "type": "native",
         "denom": "uwdt",
-        "name" : "WDT",
+        "name": "WDT",
         "symbol": "WDT",
         "description": "Winner RDC",
         "decimals": 9,
@@ -160,13 +160,13 @@
     {
         "type": "bridge",
         "denom": "htltbcbnb",
-        "name" : "BNB - Deprecated",
+        "name": "BNB - Deprecated",
         "symbol": "BNB",
         "description": "BNB on IRIS - Deprecated",
         "decimals": 8,
         "image": "https://cdn.chainroot.io/images/tokens/bnb.png",
         "coinGeckoId": "binancecoin",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "bnb-beacon-chain>iris",
             "enable": false
         }
@@ -174,13 +174,13 @@
     {
         "type": "bridge",
         "denom": "htltbcbusd",
-        "name" : "BUSD - Deprecated",
+        "name": "BUSD - Deprecated",
         "symbol": "BUSD",
         "description": "BUSD on IRIS - Deprecated",
         "decimals": 8,
         "image": "https://cdn.chainroot.io/images/tokens/busd.png",
         "coinGeckoId": "binance-usd",
-        "bridge_info" : {
+        "bridge_info": {
             "path": "bnb-beacon-chain>iris",
             "enable": false
         }

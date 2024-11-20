@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "unois",
-        "name" : "Nois",
+        "name": "Nois",
         "symbol": "NOIS",
         "description": "Nois Staking Coin",
         "decimals": 6,

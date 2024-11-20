@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "usource",
-        "name" : "Source",
+        "name": "Source",
         "symbol": "SOURCE",
         "description": "SOURCE Staking Coin",
         "decimals": 6,

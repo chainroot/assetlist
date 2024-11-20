@@ -2,7 +2,7 @@
     {
         "type": "native",
         "denom": "ucore",
-        "name" : "Coreum Testnet",
+        "name": "Coreum Testnet",
         "symbol": "COREUM",
         "description": "Coreum Testnet Staking Coin",
         "decimals": 6,

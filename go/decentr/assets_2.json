@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "udec",
-        "name" : "Decentr",
+        "name": "Decentr",
         "symbol": "DEC",
         "description": "Decentr Staking Coin",
         "decimals": 6,

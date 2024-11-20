@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "ulum",
-        "name" : "Lum Network",
+        "name": "Lum Network",
         "symbol": "LUM",
         "description": "Lum Network Staking Coin",
         "decimals": 6,
@@ -13,15 +13,15 @@
     {
         "type": "ibc",
         "denom": "ibc/6CDA7F7E4DDB86FD275A986E78F13DF2FC500E3FEC2149E2215061FA51BB8C5D",
-        "name" : "Ion DAO",
+        "name": "Ion DAO",
         "symbol": "ION",
         "description": "ION is the second native token of Osmosis.",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/ion.png",
         "coinGeckoId": "ion",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "osmosis>lum",
-            "client" : {
+            "client": {
                 "channel": "channel-3",
                 "port": "transfer"
             },
@@ -36,15 +36,15 @@
     {
         "type": "ibc",
         "denom": "ibc/47BD209179859CDE4A2806763D7189B6E6FE13A17880FE2B42DE1E6C1E329E23",
-        "name" : "Osmosis",
+        "name": "Osmosis",
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
         "coinGeckoId": "osmosis",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "osmosis>lum",
-            "client" : {
+            "client": {
                 "channel": "channel-3",
                 "port": "transfer"
             },
@@ -59,15 +59,15 @@
     {
         "type": "ibc",
         "denom": "ibc/A8C2D23A1E6F95DA4E48BA349667E322BD7A6C996D8A4AAE8BA72E190F3D1477",
-        "name" : "Atom",
+        "name": "Atom",
         "symbol": "ATOM",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/atom.png",
         "coinGeckoId": "cosmos",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "cosmos>lum",
-            "client" : {
+            "client": {
                 "channel": "channel-12",
                 "port": "transfer"
             },

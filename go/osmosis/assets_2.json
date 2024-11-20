@@ -1,6 +1,6 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "uosmo",
         "name": "Osmosis",
         "symbol": "OSMO",
@@ -624,7 +624,7 @@
     {
         "type": "ibc",
         "denom": "ibc/52B1AA623B34EB78FD767CEA69E8D7FA6C9CFE1FBF49C5406268FD325E2CC2AC",
-        "name" : "Starname",
+        "name": "Starname",
         "symbol": "IOV",
         "description": "Starname Staking Coin",
         "decimals": 6,
@@ -739,7 +739,7 @@
     {
         "type": "ibc",
         "denom": "ibc/D805F1DA50D31B96E4282C1D4181EDDFB1A44A598BFF5666F4B43E4B8BEA95A5",
-        "name" : "BitCanna",
+        "name": "BitCanna",
         "symbol": "BCNA",
         "description": "BitCanna Staking Coin",
         "decimals": 6,
@@ -762,7 +762,7 @@
     {
         "type": "ibc",
         "denom": "ibc/4E5444C35610CC76FC94E7F7886B93121175C28262DDFDDE6F84E82BF2425452",
-        "name" : "BitSong",
+        "name": "BitSong",
         "symbol": "BTSG",
         "description": "BitSong Staking Coin",
         "decimals": 6,
@@ -785,7 +785,7 @@
     {
         "type": "ibc",
         "denom": "ibc/B547DC9B897E7C3AA5B824696110B8E3D2C31E3ED3F02FF363DCBAD82457E07E",
-        "name" : "KI",
+        "name": "KI",
         "symbol": "XKI",
         "description": "KI Staking Coin",
         "decimals": 6,
@@ -808,7 +808,7 @@
     {
         "type": "ibc",
         "denom": "ibc/3BCCC93AD5DF58D11A6F8A05FA8BC801CBA0BA61A981F57E91B8B598BF8061CB",
-        "name" : "Medibloc",
+        "name": "Medibloc",
         "symbol": "MED",
         "description": "Medibloc Staking Coin",
         "decimals": 6,
@@ -831,7 +831,7 @@
     {
         "type": "ibc",
         "denom": "ibc/FE2CD1E6828EC0FAB8AF39BAC45BC25B965BA67CCBC50C13A14BD610B0D1E2C4",
-        "name" : "Bostrom",
+        "name": "Bostrom",
         "symbol": "BOOT",
         "description": "Bostrom Staking Coin",
         "decimals": 0,
@@ -854,7 +854,7 @@
     {
         "type": "ibc",
         "denom": "ibc/EA3E1640F9B1532AB129A571203A0B9F789A7F14BB66E350DCBFA18E1A1931F0",
-        "name" : "Comdex",
+        "name": "Comdex",
         "symbol": "CMDX",
         "description": "Comdex Staking Coin",
         "decimals": 6,
@@ -1199,7 +1199,7 @@
     {
         "type": "ibc",
         "denom": "ibc/5D1F516200EE8C6B2354102143B78A2DEDA25EDE771AC0F8DC3C1837C8FD4447",
-        "name" : "Artificial Superintelligence Alliance",
+        "name": "Artificial Superintelligence Alliance",
         "symbol": "FET",
         "description": "Artificial Superintelligence Alliance Staking Coin",
         "decimals": 18,
@@ -2629,7 +2629,7 @@
     {
         "type": "ibc",
         "denom": "ibc/D176154B0C63D1F9C6DCFB4F70349EBF2E2B5A87A05902F57A6AE92B863E9AEC",
-        "name" : "Stride OSMO",
+        "name": "Stride OSMO",
         "symbol": "stOSMO",
         "description": "Stride Liquid Staked OSMO",
         "decimals": 6,

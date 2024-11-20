@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "ucre",
-        "name" : "Crescent",
+        "name": "Crescent",
         "symbol": "CRE",
         "description": "Crescent Staking Coin",
         "decimals": 6,
@@ -13,7 +13,7 @@
     {
         "type": "native",
         "denom": "ubcre",
-        "name" : "bCrescent",
+        "name": "bCrescent",
         "symbol": "bCRE",
         "description": "Crescent Liquidated CRE",
         "decimals": 6,

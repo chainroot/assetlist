@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "axpla",
-        "name" : "Xpla",
+        "name": "Xpla",
         "symbol": "XPLA",
         "description": "XPLA Staking Coin",
         "decimals": 18,
@@ -13,15 +13,15 @@
     {
         "type": "ibc",
         "denom": "ibc/8E27BA2D5493AF5636760E354E46004562C46AB7EC0CC4C1CA14E9E20E2545B5",
-        "name" : "USDC (Ethereum via Axelar)",
+        "name": "USDC (Ethereum via Axelar)",
         "symbol": "USDC.eth.axl",
         "description": "Circle's stablecoin on Axelar",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "axlusdc",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "ethereum>axelar>xpla",
-            "client" : {
+            "client": {
                 "channel": "channel-0",
                 "port": "transfer"
             },

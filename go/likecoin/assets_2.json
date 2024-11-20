@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "nanolike",
-        "name" : "Like Coin",
+        "name": "Like Coin",
         "symbol": "LIKE",
         "description": "Like Staking Coin",
         "decimals": 9,

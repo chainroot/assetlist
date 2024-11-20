@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "uxprt",
-        "name" : "Persistence One",
+        "name": "Persistence One",
         "symbol": "XPRT",
         "description": "Persistence Staking Coin",
         "decimals": 6,
@@ -13,7 +13,7 @@
     {
         "type": "native",
         "denom": "stk/uatom",
-        "name" : "PSTAKE staked ATOM",
+        "name": "PSTAKE staked ATOM",
         "symbol": "stkATOM",
         "description": "PSTAKE Liquid-Staked ATOM",
         "decimals": 6,
@@ -23,7 +23,7 @@
     {
         "type": "native",
         "denom": "stk/uosmo",
-        "name" : "PSTAKE staked OSMO",
+        "name": "PSTAKE staked OSMO",
         "symbol": "stkOSMO",
         "description": "PSTAKE Liquid-Staked OSMO",
         "decimals": 6,
@@ -73,15 +73,15 @@
     {
         "type": "ibc",
         "denom": "ibc/A6E3AF63B3C906416A9AF7A556C59EA4BD50E617EFFE6299B99700CCB780E444",
-        "name" : "pSTAKE Finance",
+        "name": "pSTAKE Finance",
         "symbol": "pSTAKE",
         "description": "pSTAKE Finance is a Bitcoin Yield and Liquid Staking protocol, backed by Binance Labs.",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/pstake.png",
         "coinGeckoId": "pstake-finance",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "ethereum>gravity-bridge>persistence",
-            "client" : {
+            "client": {
                 "channel": "channel-38",
                 "port": "transfer"
             },
@@ -96,15 +96,15 @@
     {
         "type": "ibc",
         "denom": "ibc/C8A74ABBE2AF892E15680D916A7C22130585CE5704F9B17A10F184A90D53BECA",
-        "name" : "Atom",
+        "name": "Atom",
         "symbol": "ATOM",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/atom.png",
         "coinGeckoId": "cosmos",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "cosmos>persistence",
-            "client" : {
+            "client": {
                 "channel": "channel-24",
                 "port": "transfer"
             },
@@ -119,15 +119,15 @@
     {
         "type": "ibc",
         "denom": "ibc/69B4810E989B56FC6CA41F395228236FA7E7F59B9A3B7AF3FB0A344361C38389",
-        "name" : "Ion DAO",
+        "name": "Ion DAO",
         "symbol": "ION",
         "description": "ION is the second native token of Osmosis.",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/ion.png",
         "coinGeckoId": "ion",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "osmosis>persistence",
-            "client" : {
+            "client": {
                 "channel": "channel-6",
                 "port": "transfer"
             },
@@ -142,15 +142,15 @@
     {
         "type": "ibc",
         "denom": "ibc/646315E3B0461F5FA4C5C8968A88FC45D4D5D04A45B98F1B8294DD82F386DD85",
-        "name" : "Osmosis",
+        "name": "Osmosis",
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
         "coinGeckoId": "osmosis",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "osmosis>persistence",
-            "client" : {
+            "client": {
                 "channel": "channel-6",
                 "port": "transfer"
             },
@@ -165,15 +165,15 @@
     {
         "type": "ibc",
         "denom": "ibc/BA51309DEEE69EF9159FADDCD9F566C372157A1F4E559076D201B255C27F484A",
-        "name" : "Sifchain",
+        "name": "Sifchain",
         "symbol": "ROWAN",
         "description": "Sifchain Staking Coin",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/rowan.png",
         "coinGeckoId": "sifchain",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "sifchain>persistence",
-            "client" : {
+            "client": {
                 "channel": "channel-26",
                 "port": "transfer"
             },
@@ -188,15 +188,15 @@
     {
         "type": "ibc",
         "denom": "ibc/CA687302422C075B26948BEC7143F6D47BACAB53421D57DF30741F91D4DFCA1F",
-        "name" : "Juno",
+        "name": "Juno",
         "symbol": "JUNO",
         "description": "Juno Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/juno.png",
         "coinGeckoId": "juno-network",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "juno>persistence",
-            "client" : {
+            "client": {
                 "channel": "channel-37",
                 "port": "transfer"
             },
@@ -211,15 +211,15 @@
     {
         "type": "ibc",
         "denom": "ibc/31D711D31CD5D83D98E76B1486EEDA1A38CD1F7D6FCBD03521FE51323115AECA",
-        "name" : "Graviton",
+        "name": "Graviton",
         "symbol": "GRAV",
         "description": "Gravity Bridge Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/grav.png",
         "coinGeckoId": "graviton",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "gravity-bridge>persistence",
-            "client" : {
+            "client": {
                 "channel": "channel-38",
                 "port": "transfer"
             },
@@ -234,15 +234,15 @@
     {
         "type": "ibc",
         "denom": "ibc/C559977F5797BDC1D74C0836A10C379C991D664166CB60D776A83029852431B4",
-        "name" : "Tether",
+        "name": "Tether",
         "symbol": "USDt.kava",
         "description": "Tether USDt",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
         "coinGeckoId": "tether",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "kava>persistence",
-            "client" : {
+            "client": {
                 "channel": "channel-129",
                 "port": "transfer"
             },
@@ -257,15 +257,15 @@
     {
         "type": "ibc",
         "denom": "ibc/B3792E4A62DF4A934EF2DF5968556DB56F5776ED25BDE11188A4F58A7DD406F0",
-        "name" : "USDC",
+        "name": "USDC",
         "symbol": "USDC",
         "description": "USD Coin - Directly minted on the Noble chain by the Circle Foundation.",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "usd-coin",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "noble>persistence",
-            "client" : {
+            "client": {
                 "channel": "channel-132",
                 "port": "transfer"
             },
@@ -280,15 +280,15 @@
     {
         "type": "ibc",
         "denom": "ibc/23DC3FF0E4CBB53A1915E4C62507CB7796956E84C68CA49707787CB8BDE90A1E",
-        "name" : "dYdX",
+        "name": "dYdX",
         "symbol": "DYDX",
         "description": "dYdX Staking Coin",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/dydx.png",
         "coinGeckoId": "dydx-chain",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "dydx>persistence",
-            "client" : {
+            "client": {
                 "channel": "channel-131",
                 "port": "transfer"
             },
@@ -303,15 +303,15 @@
     {
         "type": "ibc",
         "denom": "ibc/AD8E1D4AC4EA8FC79CC46E33319A3791477D4DEBFC30D5D874074B993422B41B",
-        "name" : "Stargaze",
+        "name": "Stargaze",
         "symbol": "STARS",
         "description": "Stargaze Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/stars.png",
         "coinGeckoId": "stargaze",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "stargaze>persistence",
-            "client" : {
+            "client": {
                 "channel": "channel-197",
                 "port": "transfer"
             },
@@ -332,9 +332,9 @@
         "decimals": 8,
         "image": "https://cdn.chainroot.io/images/tokens/shd.png",
         "coinGeckoId": "shade-protocol",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "secret>persistence",
-            "client" : {
+            "client": {
                 "channel": "channel-159",
                 "port": "transfer"
             },
@@ -349,15 +349,15 @@
     {
         "type": "ibc",
         "denom": "ibc/B597D779FCDD9021263C98A48F1AFA9D2BCCCE980F397CDE5681CCEDE7DEE1A4",
-        "name" : "Chihuahua Chain",
+        "name": "Chihuahua Chain",
         "symbol": "HUAHUA",
         "description": "Chihuahua Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/huahua.png",
         "coinGeckoId": "chihuahua-token",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "chihuahua>persistence",
-            "client" : {
+            "client": {
                 "channel": "channel-203",
                 "port": "transfer"
             },
@@ -372,15 +372,15 @@
     {
         "type": "ibc",
         "denom": "ibc/CCA9F9B22D39884C09975D45E1869B73A12B87080EE53CB44905CE2C422CA228",
-        "name" : "Wrapped Bitcoin",
+        "name": "Wrapped Bitcoin",
         "symbol": "WBTC.osmo",
         "description": "Wrapped Bitcoin (WBTC) is an ERC20 token backed 1:1 with Bitcoin. Completely transparent. 100% verifiable. Community led.",
         "decimals": 8,
         "image": "https://cdn.chainroot.io/images/tokens/wbtc.png",
         "coinGeckoId": "wrapped-bitcoin",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "osmosis>persistence",
-            "client" : {
+            "client": {
                 "channel": "channel-6",
                 "port": "transfer"
             },

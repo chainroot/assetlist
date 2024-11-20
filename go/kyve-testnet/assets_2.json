@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "tkyve",
-        "name" : "Kyve Testnet",
+        "name": "Kyve Testnet",
         "symbol": "KYVE",
         "description": "KYVE-testnet Staking Coin",
         "decimals": 6,

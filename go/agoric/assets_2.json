@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "ubld",
-        "name" : "Agoric",
+        "name": "Agoric",
         "symbol": "BLD",
         "description": "Agoric Staking Coin",
         "decimals": 6,
@@ -13,7 +13,7 @@
     {
         "type": "native",
         "denom": "uist",
-        "name" : "Inter Stable Token",
+        "name": "Inter Stable Token",
         "symbol": "IST",
         "description": "IST is the stable token used by the Agoric chain for execution fees and commerce.",
         "decimals": 6,
@@ -24,15 +24,15 @@
     {
         "type": "ibc",
         "denom": "ibc/FE98AAD68F02F03565E9FA39A5E627946699B2B07115889ED812D8BA639576A9",
-        "name" : "USDC",
+        "name": "USDC",
         "symbol": "USDC",
         "description": "USD Coin - Directly minted on the Noble chain by the Circle Foundation.",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "usd-coin",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "noble>agoric",
-            "client" : {
+            "client": {
                 "channel": "channel-62",
                 "port": "transfer"
             },
@@ -47,15 +47,15 @@
     {
         "type": "ibc",
         "denom": "ibc/295548A78785A1007F232DE286149A6FF512F180AF5657780FC89C009E2C348F",
-        "name" : "USDC (Ethereum via Axelar)",
+        "name": "USDC (Ethereum via Axelar)",
         "symbol": "USDC.eth.axl",
         "description": "Circle's stablecoin on Axelar",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "axlusdc",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "ethereum>axelar>agoric",
-            "client" : {
+            "client": {
                 "channel": "channel-9",
                 "port": "transfer"
             },

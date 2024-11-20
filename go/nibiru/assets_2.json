@@ -1,6 +1,6 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "unibi",
         "name": "Nibiru",
         "symbol": "NIBI",

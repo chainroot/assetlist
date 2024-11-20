@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "ukyve",
-        "name" : "Kyve",
+        "name": "Kyve",
         "symbol": "KYVE",
         "description": "Kyve Staking Coin",
         "decimals": 6,

@@ -1,6 +1,6 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "ustake",
         "name": "Stake",
         "symbol": "STAKE",
@@ -13,7 +13,7 @@
     {
         "type": "native",
         "denom": "uusdc",
-        "name" : "USDC",
+        "name": "USDC",
         "symbol": "USDC",
         "description": "USD Coin - Directly minted on the Noble chain by the Circle Foundation.",
         "decimals": 6,
@@ -63,15 +63,15 @@
     {
         "type": "ibc",
         "denom": "ibc/EF48E6B1A1A19F47ECAEA62F5670C37C0580E86A9E88498B7E393EB6F49F33C0",
-        "name" : "Atom",
+        "name": "Atom",
         "symbol": "ATOM",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/atom.png",
         "coinGeckoId": "cosmos",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "cosmos>noble",
-            "client" : {
+            "client": {
                 "channel": "channel-4",
                 "port": "transfer"
             },

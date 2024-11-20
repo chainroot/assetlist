@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "udhp",
-        "name" : "dHealth",
+        "name": "dHealth",
         "symbol": "DHP",
         "description": "dHealth Staking Coin",
         "decimals": 6,

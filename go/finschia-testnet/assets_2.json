@@ -2,7 +2,7 @@
     {
         "type": "native",
         "denom": "cony",
-        "name" : "Finschia Testnet",
+        "name": "Finschia Testnet",
         "symbol": "FNSA",
         "description": "Finschia Testnet Staking Coin",
         "decimals": 6,

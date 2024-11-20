@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "umntl",
-        "name" : "AssetMantle",
+        "name": "AssetMantle",
         "symbol": "MNTL",
         "description": "AssetMantle Staking Coin",
         "decimals": 6,

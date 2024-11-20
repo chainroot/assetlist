@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "aheart",
-        "name" : "HEART",
+        "name": "HEART",
         "symbol": "HEART",
         "description": "Humans Staking Coin",
         "decimals": 18,

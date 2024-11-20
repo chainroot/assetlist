@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "cony",
-        "name" : "Finschia",
+        "name": "Finschia",
         "symbol": "FNSA",
         "description": "Finschia Staking Coin",
         "decimals": 6,

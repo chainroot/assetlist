@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "uaxl",
-        "name" : "Axelar Testnet",
+        "name": "Axelar Testnet",
         "symbol": "AXL",
         "description": "Axelar Testnet Staking Coin",
         "decimals": 6,

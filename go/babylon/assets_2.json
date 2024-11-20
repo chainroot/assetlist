@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "ubbn",
-        "name" : "Babylon",
+        "name": "Babylon",
         "symbol": "BBN",
         "description": "Babylon Staking Coin",
         "decimals": 6,

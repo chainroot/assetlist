@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "uqsr",
-        "name" : "Quasar",
+        "name": "Quasar",
         "symbol": "QSR",
         "description": "Quasar-testnet Staking Coin",
         "decimals": 6,

@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "uvdl",
-        "name" : "Vidulum",
+        "name": "Vidulum",
         "symbol": "VDL",
         "description": "Vidulum Staking Coin",
         "decimals": 6,

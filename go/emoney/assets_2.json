@@ -2,7 +2,7 @@
     {
         "type": "staking",
         "denom": "ungm",
-        "name" : "e-Money",
+        "name": "e-Money",
         "symbol": "NGM",
         "description": "e-Money Staking Coin",
         "decimals": 6,
@@ -13,7 +13,7 @@
     {
         "type": "native",
         "denom": "eeur",
-        "name" : "EUR on E-Money Network",
+        "name": "EUR on E-Money Network",
         "symbol": "EEUR",
         "description": "EUR on E-Money Network",
         "decimals": 6,
@@ -23,55 +23,51 @@
     {
         "type": "native",
         "denom": "echf",
-        "name" : "CHF on E-Money Network",
+        "name": "CHF on E-Money Network",
         "symbol": "ECHF",
         "description": "CHF on E-Money Network",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/echf.png",
         "image": "emoney/asset/echf.png"
     },
     {
         "type": "native",
         "denom": "enok",
-        "name" : "NOK on E-Money Network",
+        "name": "NOK on E-Money Network",
         "symbol": "ENOK",
         "description": "NOK on E-Money Network",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/enok.png",
         "image": "emoney/asset/enok.png"
     },
     {
         "type": "native",
         "denom": "edkk",
-        "name" : "DKK on E-Money Network",
+        "name": "DKK on E-Money Network",
         "symbol": "EDKK",
         "description": "DKK on E-Money Network",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/edkk.png",
         "image": "emoney/asset/edkk.png"
     },
     {
         "type": "native",
         "denom": "esek",
-        "name" : "SEK on E-Money Network",
+        "name": "SEK on E-Money Network",
         "symbol": "ESEK",
         "description": "SEK on E-Money Network",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/esek.png",
         "image": "emoney/asset/esek.png"
     },
     {
         "type": "ibc",
         "denom": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
-        "name" : "Osmosis",
+        "name": "Osmosis",
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
         "coinGeckoId": "osmosis",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "osmosis>emoney",
-            "client" : {
+            "client": {
                 "channel": "channel-0",
                 "port": "transfer"
             },
@@ -86,15 +82,15 @@
     {
         "type": "ibc",
         "denom": "ibc/F7E92EE59B5428793F3EF5C1A4CB2494F61A9D0C9A69469D02390714A1372E16",
-        "name" : "Ion DAO",
+        "name": "Ion DAO",
         "symbol": "ION",
         "description": "ION is the second native token of Osmosis.",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/ion.png",
         "coinGeckoId": "ion",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "osmosis>emoney",
-            "client" : {
+            "client": {
                 "channel": "channel-0",
                 "port": "transfer"
             },
@@ -109,15 +105,15 @@
     {
         "type": "ibc",
         "denom": "ibc/3BEA25F3A13A9C17476C821CCF8ECCC84351DDB7B1B06B98654C3B4427F785CC",
-        "name" : "Juno",
+        "name": "Juno",
         "symbol": "JUNO",
         "description": "Juno Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/juno.png",
         "coinGeckoId": "juno-network",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "juno>emoney",
-            "client" : {
+            "client": {
                 "channel": "channel-15",
                 "port": "transfer"
             },
@@ -132,15 +128,15 @@
     {
         "type": "ibc",
         "denom": "ibc/9ABBB41787E96DFD57EB3AD4E18323F26DBEABB2C4891F23A570BE42B37C2A07",
-        "name" : "Sifchain",
+        "name": "Sifchain",
         "symbol": "ROWAN",
         "description": "Sifchain Staking Coin",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/rowan.png",
         "coinGeckoId": "sifchain",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "sifchain>emoney",
-            "client" : {
+            "client": {
                 "channel": "channel-14",
                 "port": "transfer"
             },
@@ -155,15 +151,15 @@
     {
         "type": "ibc",
         "denom": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
-        "name" : "Atom",
+        "name": "Atom",
         "symbol": "ATOM",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/atom.png",
         "coinGeckoId": "cosmos",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "cosmos>emoney",
-            "client" : {
+            "client": {
                 "channel": "channel-1",
                 "port": "transfer"
             },
@@ -178,15 +174,15 @@
     {
         "type": "ibc",
         "denom": "ibc/FA9EE003772526394268E66E81AA4874AEBF8A109D8B09EF37AC25905899F26B",
-        "name" : "Axelar",
+        "name": "Axelar",
         "symbol": "AXL",
         "description": "Axelar Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/axl.png",
         "coinGeckoId": "axelar",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "axelar>emoney",
-            "client" : {
+            "client": {
                 "channel": "channel-26",
                 "port": "transfer"
             },

@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "aevmos",
-        "name" : "Evmos",
+        "name": "Evmos",
         "symbol": "EVMOS",
         "description": "Evmos Staking Coin",
         "decimals": 18,
@@ -13,15 +13,15 @@
     {
         "type": "ibc",
         "denom": "ibc/A4DB47A9D3CF9A068D454513891B526702455D3EF08FB9EB558C561F9DC2B701",
-        "name" : "Atom",
+        "name": "Atom",
         "symbol": "ATOM",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/atom.png",
         "coinGeckoId": "cosmos",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "cosmos>evmos",
-            "client" : {
+            "client": {
                 "channel": "channel-3",
                 "port": "transfer"
             },
@@ -36,15 +36,15 @@
     {
         "type": "ibc",
         "denom": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
-        "name" : "Osmosis",
+        "name": "Osmosis",
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
         "coinGeckoId": "osmosis",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "osmosis>evmos",
-            "client" : {
+            "client": {
                 "channel": "channel-0",
                 "port": "transfer"
             },
@@ -59,15 +59,15 @@
     {
         "type": "ibc",
         "denom": "ibc/F7E92EE59B5428793F3EF5C1A4CB2494F61A9D0C9A69469D02390714A1372E16",
-        "name" : "Ion DAO",
+        "name": "Ion DAO",
         "symbol": "ION",
         "description": "ION is the second native token of Osmosis.",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/ion.png",
         "coinGeckoId": "ion",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "osmosis>evmos",
-            "client" : {
+            "client": {
                 "channel": "channel-0",
                 "port": "transfer"
             },
@@ -82,15 +82,15 @@
     {
         "type": "ibc",
         "denom": "ibc/ADF401C952ADD9EE232D52C8303B8BE17FE7953C8D420F20769AF77240BD0C58",
-        "name" : "Injective",
+        "name": "Injective",
         "symbol": "INJ",
         "description": "Injective Staking Coin",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/inj.png",
         "coinGeckoId": "injective-protocol",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "injective>evmos",
-            "client" : {
+            "client": {
                 "channel": "channel-10",
                 "port": "transfer"
             },
@@ -105,15 +105,15 @@
     {
         "type": "ibc",
         "denom": "ibc/1FA2E811AA853A2AE028D82D490B1E967312DB871C9A40B19684FACB1DDD7881",
-        "name" : "Cronos Coin",
+        "name": "Cronos Coin",
         "symbol": "CRO",
         "description": "Cronos POS Staking Coin",
         "decimals": 8,
         "image": "https://cdn.chainroot.io/images/tokens/cro.png",
         "coinGeckoId": "crypto-com-chain",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "crypto-org>evmos",
-            "client" : {
+            "client": {
                 "channel": "channel-31",
                 "port": "transfer"
             },
@@ -128,15 +128,15 @@
     {
         "type": "ibc",
         "denom": "ibc/7F0C2CB6E79CC36D29DA7592899F98E3BEFD2CF77A94340C317032A78812393D",
-        "name" : "Graviton",
+        "name": "Graviton",
         "symbol": "GRAV",
         "description": "Gravity Bridge Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/grav.png",
         "coinGeckoId": "graviton",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "gravity-bridge>evmos",
-            "client" : {
+            "client": {
                 "channel": "channel-8",
                 "port": "transfer"
             },
@@ -151,15 +151,15 @@
     {
         "type": "ibc",
         "denom": "ibc/693989F95CF3279ADC113A6EF21B02A51EC054C95A9083F2E290126668149433",
-        "name" : "USD Coin",
+        "name": "USD Coin",
         "symbol": "USDC.grv",
         "description": "Gravity Bridge USDC",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "usd-coin",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "ethereum>gravity-bridge>evmos",
-            "client" : {
+            "client": {
                 "channel": "channel-8",
                 "port": "transfer"
             },
@@ -174,15 +174,15 @@
     {
         "type": "ibc",
         "denom": "ibc/DF63978F803A2E27CA5CC9B7631654CCF0BBC788B3B7F0A10200508E37C70992",
-        "name" : "Tether USD",
+        "name": "Tether USD",
         "symbol": "USDT.grv",
         "description": "Gravity Bridge USDT.",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
         "coinGeckoId": "tether",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "ethereum>gravity-bridge>evmos",
-            "client" : {
+            "client": {
                 "channel": "channel-8",
                 "port": "transfer"
             },
@@ -197,15 +197,15 @@
     {
         "type": "ibc",
         "denom": "ibc/350B6DC0FF48E3BDB856F40A8259909E484259ED452B3F4F39A0FEF874F30F61",
-        "name" : "Wrapped Bitcoin (Ethereum to Gravity-Bridge)",
+        "name": "Wrapped Bitcoin (Ethereum to Gravity-Bridge)",
         "symbol": "WBTC.grv",
         "description": "Gravity Bridge WBTC",
         "decimals": 8,
         "image": "https://cdn.chainroot.io/images/tokens/wbtc.png",
         "coinGeckoId": "wrapped-bitcoin",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "ethereum>gravity-bridge>evmos",
-            "client" : {
+            "client": {
                 "channel": "channel-8",
                 "port": "transfer"
             },
@@ -220,15 +220,15 @@
     {
         "type": "ibc",
         "denom": "ibc/6B3FCE336C3465D3B72F7EFB4EB92FC521BC480FE9653F627A0BD0237DF213F3",
-        "name" : "Wrapped Ethereum (Ethereum to Gravity-Bridge)",
+        "name": "Wrapped Ethereum (Ethereum to Gravity-Bridge)",
         "symbol": "WETH.grv",
         "description": "Gravity Bridge WETH",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/weth.png",
         "coinGeckoId": "weth",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "ethereum>gravity-bridge>evmos",
-            "client" : {
+            "client": {
                 "channel": "channel-8",
                 "port": "transfer"
             },
@@ -243,15 +243,15 @@
     {
         "type": "ibc",
         "denom": "ibc/F96A7F81E8F82E4EE81F94D507CD257319EFB70FE46E23B4953F63B62E855603",
-        "name" : "Dai Stablecoin (Ethereum to Gravity-Bridge)",
+        "name": "Dai Stablecoin (Ethereum to Gravity-Bridge)",
         "symbol": "DAI.grv",
         "description": "Gravity Bridge DAI",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/dai.png",
         "coinGeckoId": "dai",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "ethereum>gravity-bridge>evmos",
-            "client" : {
+            "client": {
                 "channel": "channel-8",
                 "port": "transfer"
             },
@@ -266,15 +266,15 @@
     {
         "type": "ibc",
         "denom": "ibc/46AB1362B4446BCE0FD7D2F247FFCA8CC39BC6CA7AEAD03C77CABBD1CB41E5C9",
-        "name" : "T-Grade",
+        "name": "T-Grade",
         "symbol": "TGD",
         "description": "T-Grade Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/tgd.png",
         "coinGeckoId": "tgrade",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "tgrade>evmos",
-            "client" : {
+            "client": {
                 "channel": "channel-34",
                 "port": "transfer"
             },
@@ -289,15 +289,15 @@
     {
         "type": "ibc",
         "denom": "ibc/63C53CBDF471D4E867366ABE2E631197257118D1B2BEAD1946C8A408F96464C3",
-        "name" : "USDC (Ethereum via Axelar)",
+        "name": "USDC (Ethereum via Axelar)",
         "symbol": "USDC.eth.axl",
         "description": "Circle's stablecoin on Axelar",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "axlusdc",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "ethereum>axelar>evmos",
-            "client" : {
+            "client": {
                 "channel": "channel-21",
                 "port": "transfer"
             },
@@ -312,15 +312,15 @@
     {
         "type": "ibc",
         "denom": "ibc/C834CD421B4FD910BBC97E06E86B5E6F64EA2FE36D6AE0E4304C2E1FB1E7333C",
-        "name" : "Wrapped Bitcoin (Ethereum via Axelar)",
+        "name": "Wrapped Bitcoin (Ethereum via Axelar)",
         "symbol": "WBTC.eth.axl",
         "description": "Wrapped Bitcoin on Axelar",
         "decimals": 8,
         "image": "https://cdn.chainroot.io/images/tokens/wbtc.png",
         "coinGeckoId": "axlwbtc",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "ethereum>axelar>evmos",
-            "client" : {
+            "client": {
                 "channel": "channel-21",
                 "port": "transfer"
             },
@@ -335,15 +335,15 @@
     {
         "type": "ibc",
         "denom": "ibc/356EDE917394B2AEF7F915EB24FA683A0CCB8D16DD4ECCEDC2AD0CEC6B66AC81",
-        "name" : "Wrapped Ether (Ethereum via Axelar)",
+        "name": "Wrapped Ether (Ethereum via Axelar)",
         "symbol": "WETH.eth.axl",
         "description": "Wrapped Ether on Axelar",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/weth.png",
         "coinGeckoId": "axlweth",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "ethereum>axelar>evmos",
-            "client" : {
+            "client": {
                 "channel": "channel-21",
                 "port": "transfer"
             },
@@ -358,15 +358,15 @@
     {
         "type": "ibc",
         "denom": "ibc/CBA4784581AD4BEF308C536A3CD44D4A940A520E61B0D1E4FB115C539F61DEE5",
-        "name" : "Dai Stablecoin (Ethereum via Axelar)",
+        "name": "Dai Stablecoin (Ethereum via Axelar)",
         "symbol": "DAI.eth.axl",
         "description": "Dai stablecoin on Axelar",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/dai.png",
         "coinGeckoId": "dai",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "ethereum>axelar>evmos",
-            "client" : {
+            "client": {
                 "channel": "channel-21",
                 "port": "transfer"
             },
@@ -381,15 +381,15 @@
     {
         "type": "ibc",
         "denom": "ibc/7A043B7AAABF55E77C66A815F7E64B1450BAF0704FDFB16A7BD8CF4AF585687E",
-        "name" : "Acre",
+        "name": "Acre",
         "symbol": "ACRE",
         "description": "The native EVM, governance and staking token of the Acrechain",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/acre.png",
         "coinGeckoId": "arable-protocol",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "acrechain>evmos",
-            "client" : {
+            "client": {
                 "channel": "channel-14",
                 "port": "transfer"
             },
@@ -404,15 +404,15 @@
     {
         "type": "ibc",
         "denom": "ibc/F2EFEE7ABE073C133AF0541085B4AAD68C4A4BE43BEC501C342FF33FE0E3E0CE",
-        "name" : "Ciento Token",
+        "name": "Ciento Token",
         "symbol": "CNTO",
         "description": "Ciento Exchange Token",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/b4d24881cf8080c8eafff05f23137d78aa562e6505d901c413ed928fb589995f.png",
         "coinGeckoId": "",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "acrechain>evmos",
-            "client" : {
+            "client": {
                 "channel": "channel-14",
                 "port": "transfer"
             },
@@ -427,15 +427,15 @@
     {
         "type": "ibc",
         "denom": "ibc/35357FE55D81D88054E135529BB2AEB1BB20D207292775A19BD82D83F27BE9B4",
-        "name" : "USDC",
+        "name": "USDC",
         "symbol": "USDC",
         "description": "USD Coin - Directly minted on the Noble chain by the Circle Foundation.",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "usd-coin",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "noble>evmos",
-            "client" : {
+            "client": {
                 "channel": "channel-64",
                 "port": "transfer"
             },
@@ -450,7 +450,7 @@
     {
         "type": "native",
         "denom": "erc20/0x655ecB57432CC1370f65e5dc2309588b71b473A9",
-        "name" : "NEOK",
+        "name": "NEOK",
         "symbol": "NEOK",
         "description": "NEOKingdom DAO",
         "decimals": 18,
@@ -460,7 +460,7 @@
     {
         "type": "native",
         "denom": "erc20/0x1cFc8f1FE8D5668BAFF2724547EcDbd6f013a280",
-        "name" : "BERLIN",
+        "name": "BERLIN",
         "symbol": "BERLIN",
         "description": "Teledisko DAO",
         "decimals": 18,

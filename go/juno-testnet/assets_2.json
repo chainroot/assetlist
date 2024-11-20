@@ -2,7 +2,7 @@
     {
         "type": "native",
         "denom": "ujuno",
-        "name" : "Juno Testnet",
+        "name": "Juno Testnet",
         "symbol": "JUNO",
         "description": "Juno Testnet Staking Coin",
         "decimals": 6,

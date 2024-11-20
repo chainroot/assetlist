@@ -2,7 +2,7 @@
     {
         "type": "native",
         "denom": "adydx",
-        "name" : "dYdX Testnet",
+        "name": "dYdX Testnet",
         "symbol": "dYdX",
         "description": "dYdX",
         "decimals": 18,

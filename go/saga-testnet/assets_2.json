@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "utsaga",
-        "name" : "Saga Testnet",
+        "name": "Saga Testnet",
         "symbol": "TSAGA",
         "description": "Saga-testnet Staking Coin",
         "decimals": 6,

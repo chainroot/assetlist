@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "anom",
-        "name" : "Onomy Protocol Testnet",
+        "name": "Onomy Protocol Testnet",
         "symbol": "NOM",
         "description": "Onomy-testnet Staking Coin",
         "decimals": 18,

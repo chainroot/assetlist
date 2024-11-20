@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "nhash",
-        "name" : "Provenance",
+        "name": "Provenance",
         "symbol": "HASH",
         "description": "Provenance Staking Coin",
         "decimals": 9,

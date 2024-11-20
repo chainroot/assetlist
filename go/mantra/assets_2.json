@@ -1,6 +1,6 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "uom",
         "name": "Mantra",
         "symbol": "OM",

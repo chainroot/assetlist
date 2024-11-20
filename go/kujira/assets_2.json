@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "ukuji",
-        "name" : "Kujira - Deprecated",
+        "name": "Kujira - Deprecated",
         "symbol": "KUJI",
         "description": "Kujira Staking Coin - Deprecated",
         "decimals": 6,

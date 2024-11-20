@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "uosmo",
-        "name" : "Osmosis Testnet",
+        "name": "Osmosis Testnet",
         "symbol": "OSMO",
         "description": "Osmosis-testnet Staking Coin",
         "decimals": 6,
@@ -12,15 +12,15 @@
     {
         "type": "ibc",
         "denom": "ibc/01AF67CDE9EDCD2B7708CC80D9ADC00BBF5406B159E92C0AA4DB37AA65056BED",
-        "name" : "Finschia Testnet",
+        "name": "Finschia Testnet",
         "symbol": "TFNSA",
         "description": "Finschia Testnet Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/fnsa.png",
         "coinGeckoId": "",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "finschia-testnet>osmosis",
-            "client" : {
+            "client": {
                 "channel": "channel-5951",
                 "port": "transfer"
             },
@@ -41,9 +41,9 @@
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/usdy.png",
         "coinGeckoId": "",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "noble-testnet>osmosis-testnet",
-            "client" : {
+            "client": {
                 "channel": "channel-4280",
                 "port": "transfer"
             },

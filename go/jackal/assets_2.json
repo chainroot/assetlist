@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "ujkl",
-        "name" : "Jackal",
+        "name": "Jackal",
         "symbol": "JKL",
         "description": "Jackal Staking Coin",
         "decimals": 6,

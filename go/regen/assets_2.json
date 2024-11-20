@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "uregen",
-        "name" : "Regen",
+        "name": "Regen",
         "symbol": "REGEN",
         "description": "Regen Staking Coin",
         "decimals": 6,
@@ -23,15 +23,15 @@
     {
         "type": "ibc",
         "denom": "ibc/334740505537E9894A64E8561030695016481830D7B36E6A9B6D13C608B55653",
-        "name" : "USDC (Ethereum via Axelar)",
+        "name": "USDC (Ethereum via Axelar)",
         "symbol": "USDC.eth.axl",
         "description": "Circle's stablecoin on Axelar",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "axlusdc",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "ethereum>axelar>regen",
-            "client" : {
+            "client": {
                 "channel": "channel-48",
                 "port": "transfer"
             },

@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "udvpn",
-        "name" : "Sentinel",
+        "name": "Sentinel",
         "symbol": "DVPN",
         "description": "Sentinel Staking Coin",
         "decimals": 6,
@@ -13,15 +13,15 @@
     {
         "type": "ibc",
         "denom": "ibc/A8C2D23A1E6F95DA4E48BA349667E322BD7A6C996D8A4AAE8BA72E190F3D1477",
-        "name" : "Atom",
+        "name": "Atom",
         "symbol": "ATOM",
         "description": "Cosmoshub Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/atom.png",
         "coinGeckoId": "cosmos",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "cosmos>sentinel",
-            "client" : {
+            "client": {
                 "channel": "channel-12",
                 "port": "transfer"
             },
@@ -36,15 +36,15 @@
     {
         "type": "ibc",
         "denom": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
-        "name" : "Osmosis",
+        "name": "Osmosis",
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
         "coinGeckoId": "osmosis",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "osmosis>sentinel",
-            "client" : {
+            "client": {
                 "channel": "channel-0",
                 "port": "transfer"
             },
@@ -59,15 +59,15 @@
     {
         "type": "ibc",
         "denom": "ibc/F7E92EE59B5428793F3EF5C1A4CB2494F61A9D0C9A69469D02390714A1372E16",
-        "name" : "Ion DAO",
+        "name": "Ion DAO",
         "symbol": "ION",
         "description": "ION is the second native token of Osmosis.",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/ion.png",
         "coinGeckoId": "ion",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "osmosis>sentinel",
-            "client" : {
+            "client": {
                 "channel": "channel-0",
                 "port": "transfer"
             },
@@ -82,15 +82,15 @@
     {
         "type": "ibc",
         "denom": "ibc/31FEE1A2A9F9C01113F90BD0BBCCE8FD6BBB8585FAF109A2101827DD1D5B95B8",
-        "name" : "Secret",
+        "name": "Secret",
         "symbol": "SCRT",
         "description": "Secret Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/scrt.png",
         "coinGeckoId": "secret",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "secret>sentinel",
-            "client" : {
+            "client": {
                 "channel": "channel-50",
                 "port": "transfer"
             },
@@ -105,15 +105,15 @@
     {
         "type": "ibc",
         "denom": "ibc/B1C0DDB14F25279A2026BC8794E12B259F8BDA546A3C5132CCAEE4431CE36783",
-        "name" : "Decentr",
+        "name": "Decentr",
         "symbol": "DEC",
         "description": "Decentr Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/dec.png",
         "coinGeckoId": "decentr",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "decentr>sentinel",
-            "client" : {
+            "client": {
                 "channel": "channel-55",
                 "port": "transfer"
             },
@@ -128,15 +128,15 @@
     {
         "type": "ibc",
         "denom": "ibc/A85ACA68D4EBB931256F86A5360F93CAA4B9102F39FED10CC3A7C57328D4AD34",
-        "name" : "Medas Digital",
+        "name": "Medas Digital",
         "symbol": "MEDAS",
         "description": "The native token of Medas Digital Network",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/medas.png",
         "coinGeckoId": "medasdigital",
-        "ibc_info" : {
+        "ibc_info": {
             "path": "medasdigital>sentinel",
-            "client" : {
+            "client": {
                 "channel": "channel-60",
                 "port": "transfer"
             },

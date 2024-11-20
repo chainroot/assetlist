@@ -1,8 +1,8 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "ucgas",
-        "name" : "CGAS",
+        "name": "CGAS",
         "symbol": "CGAS",
         "description": "COSS Chain Staking Coin",
         "decimals": 6,
@@ -13,7 +13,7 @@
     {
         "type": "native",
         "denom": "ucoss",
-        "name" : "COSS",
+        "name": "COSS",
         "symbol": "COSS",
         "description": "The inscription token of the COSS.",
         "decimals": 6,
@@ -24,7 +24,7 @@
     {
         "type": "native",
         "denom": "ucias",
-        "name" : "CIAS",
+        "name": "CIAS",
         "symbol": "CIAS",
         "description": "The inscription token of the CIAS.",
         "decimals": 6,
