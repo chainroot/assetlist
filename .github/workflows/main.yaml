@@ -7,7 +7,7 @@ on:
 jobs:
   rclone-upload:
 
-    runs-on: blacksmith-4vcpu-ubuntu-2204
+    runs-on: blacksmith-2vcpu-ubuntu-2204
 
     steps:
     - uses: actions/checkout@v4
@@ -24,10 +24,6 @@ jobs:
       with:
         node-version: "20"
         cache: "pnpm"
-        registry-url: "https://npm.pkg.github.com"
-        scope: "@chainroot"
-      env:
-        NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Install dependencies with pnpm
       run: pnpm install --frozen-lockfile
@@ -37,7 +33,7 @@ jobs:
       with:
         rclone_config: ${{ secrets.RCLONE_CONFIG }}
 
-    - run: rm -rf go/
+    - run: rm -rf go/*
 
     - run: make update-chainlist && make update-chain-data
 
@@ -59,11 +55,10 @@ jobs:
       id: cpr
       uses: peter-evans/create-pull-request@v7
       with:
-        token: ${{ secrets.PAT }}
-        commit-message: Update assetlist
+        token: ${{ secrets.GITHUB_TOKEN }}
+        commit-message: 'chore: Update assetlist'
         committer: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
         author: ${{ github.actor }} <${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com>
-        signoff: false
-        branch: chainlist-patches
+        branch: chore-update-dependencies
         delete-branch: true
         title: 'Update assets'
