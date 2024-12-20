@@ -1,6 +1,5 @@
 .DS_Store
 go/.DS_Store
-images
 retry
 404_retries.log
 assetlist.json
