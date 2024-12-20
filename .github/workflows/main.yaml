@@ -7,7 +7,7 @@ on:
 jobs:
   rclone-upload:
 
-    runs-on: blacksmith-2vcpu-ubuntu-2204
+    runs-on: blacksmith
 
     steps:
     - uses: actions/checkout@v4
