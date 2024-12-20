@@ -6,7 +6,7 @@
         "symbol": "OP",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/op.png",
+        "image": "https://cdn.chainroot.io/images/tokens/f2a62015188ad2976b0bb0c9eb157ad25b6fb0d568bdcb90d47076d802241d7e.png",
         "coinGeckoId": "optimism",
         "wallet_preload": true
     },
@@ -17,7 +17,7 @@
         "symbol": "USDT",
         "description": "",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8d812a3786178f6dbc556b3cb21411112b7c3a7ac893bf4b70c85e3c2db5a520.png",
         "coinGeckoId": "tether",
         "wallet_preload": true
     },
@@ -28,7 +28,7 @@
         "symbol": "USDC",
         "description": "",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "usd-coin",
         "wallet_preload": true
     },
@@ -39,7 +39,7 @@
         "symbol": "USDC.e",
         "description": "",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "usd-coin",
         "wallet_preload": true
     },
@@ -50,7 +50,7 @@
         "symbol": "LINK",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/link.png",
+        "image": "https://cdn.chainroot.io/images/tokens/b896fca670b77b72b44a8036bb07207ef840e25a3249965f0798d50d10c213d5.png",
         "coinGeckoId": "chainlink",
         "wallet_preload": true
     },
@@ -61,7 +61,7 @@
         "symbol": "WBTC",
         "description": "",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/wbtc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/347e4b450cbbf16ce16b53366a98a4571a507e5d461fff90efee028abbf76dd0.png",
         "coinGeckoId": "wrapped-bitcoin",
         "wallet_preload": true
     },
@@ -83,7 +83,7 @@
         "symbol": "LDO",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/ldo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/542eaf82b41c19debc8138c01e39a356c76b465c728860b41bbffebe64e03c72.png",
         "coinGeckoId": "lido-dao",
         "wallet_preload": true
     },
@@ -94,7 +94,7 @@
         "symbol": "PYTH",
         "description": "",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/pyth.png",
+        "image": "https://cdn.chainroot.io/images/tokens/d5f1fb80a26251f4173e7f8b7b849333f979d39af96c9d64ea377d88d4482b83.png",
         "coinGeckoId": "pyth-network",
         "wallet_preload": true
     },
@@ -105,7 +105,7 @@
         "symbol": "WLD",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/wld.png",
+        "image": "https://cdn.chainroot.io/images/tokens/29d0264f8810da1a738358dcdf5f1f66bab8bd87f7a7311dc1b84e25c0c841ce.png",
         "coinGeckoId": "worldcoin-wld",
         "wallet_preload": true
     },
@@ -376,7 +376,7 @@
         "symbol": "UNIDX",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/e6a263f3af0c7e2baadc9f4c6119489352edc53adcdea323cd4a1ddb9d807118.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/logo.svg",
         "coinGeckoId": "unidex"
     },
     {
@@ -446,7 +446,7 @@
         "symbol": "axlWMAI",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/15264/small/mimatic-red.png?1620281018",
+        "image": "https://cdn.chainroot.io/images/tokens/8081e9f8570bc3e85788318ab693317a644c994c013de3b4e078ee346e483e83.png?1620281018",
         "coinGeckoId": "mimatic"
     },
     {
@@ -456,7 +456,7 @@
         "symbol": "axlLqdr",
         "description": "",
         "decimals": 18,
-        "image": "https://2302794922-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MYQICp07j-iq-GK2MHc%2Fuploads%2F9E0dn7eOs8PLq9hq26Gv%2FIcon-PNG.png?alt=media&token=53c999ea-e4a0-43a3-9ae8-2f2d4c83f132",
+        "image": "https://cdn.chainroot.io/images/tokens/0668230f26855c9f983c3ddc63290f0951e9c917a57a8170320076b2271dbc78.png?alt=media&token=53c999ea-e4a0-43a3-9ae8-2f2d4c83f132",
         "coinGeckoId": "liquiddriver"
     },
     {
@@ -476,7 +476,7 @@
         "symbol": "stERN",
         "description": "",
         "decimals": 18,
-        "image": "https://github.com/0xsquid/assets/blob/main/images/tokens/stERN.svg?raw=true",
+        "image": "https://cdn.chainroot.io/images/tokens/stERN.svg?raw=true",
         "coinGeckoId": "staked-ethos-reserve-note"
     },
     {
@@ -656,7 +656,7 @@
         "symbol": "milkTIA",
         "description": "",
         "decimals": 6,
-        "image": "https://assets.coingecko.com/coins/images/33795/standard/milktia.png?1702989842",
+        "image": "https://cdn.chainroot.io/images/tokens/836f68501571eeef872c986f8f8a9b3a0d520b8d33d7eb267da348dcad580631.png?1702989842",
         "coinGeckoId": "milkyway-staked-tia"
     },
     {

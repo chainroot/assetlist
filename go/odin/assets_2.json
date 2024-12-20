@@ -6,7 +6,7 @@
         "symbol": "ODIN",
         "description": "ODIN Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/odin.png",
+        "image": "https://cdn.chainroot.io/images/tokens/6e37b023f964c52228f77a44286dad7bc194ab9677f06a7018f32b894477db4b.png",
         "coinGeckoId": "odin-protocol"
     },
     {
@@ -16,7 +16,7 @@
         "symbol": "GEO",
         "description": "Native Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/geo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/2e1f73d3ea8568b69210508c29801a06b7233756c23ff921851be4d88ed2e1f5.png",
         "coinGeckoId": "geodb"
     },
     {
@@ -26,7 +26,7 @@
         "symbol": "O9W",
         "description": "Native Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/o9w.png",
+        "image": "https://cdn.chainroot.io/images/tokens/12aabfd644d986dced3c56f7e9bc60119af4af893a15b712f9086e1ba996d02f.png",
         "coinGeckoId": ""
     },
     {
@@ -36,7 +36,7 @@
         "symbol": "DOKI",
         "description": "Native Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/doki.png",
+        "image": "https://cdn.chainroot.io/images/tokens/40e1a6509aae82fce06d0d9f7aa21dcc0e9427527c01e43c4d4a986cd61d1307.png",
         "coinGeckoId": "doki"
     }
 ]

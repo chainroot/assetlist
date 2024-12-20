@@ -6,7 +6,7 @@
         "symbol": "HUAHUA",
         "description": "Chihuahua Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/huahua.png",
+        "image": "https://cdn.chainroot.io/images/tokens/5a3b8afa75a2496ed6cb989eb834735acff452a64ede07bd32aa3c5040d234cc.png",
         "coinGeckoId": "chihuahua-token",
         "color": "#F4B330"
     },
@@ -17,7 +17,7 @@
         "symbol": "MASTER",
         "description": "Master your doggos.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/master.png",
+        "image": "https://cdn.chainroot.io/images/tokens/5b5fd2d7ce45b5bdc01f50c811e07592fb0405d1bfb9d7edd54cacd7e879702c.png",
         "coinGeckoId": ""
     },
     {
@@ -27,7 +27,7 @@
         "symbol": "WOOF",
         "description": "The first tokenfactory.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/woof.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7dc2c88ec84a082a1f9ddce7cc5cfa7de0d51cbba16b2dc92ce11c0d2481f1c0.png",
         "coinGeckoId": ""
     },
     {
@@ -37,7 +37,7 @@
         "symbol": "BADDOG",
         "description": "has a hat.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/baddog.png",
+        "image": "https://cdn.chainroot.io/images/tokens/2c97b75f54cb7183f97edb514934afeb2b747b9f74c0c0d65101e94fba651851.png",
         "coinGeckoId": ""
     },
     {
@@ -47,7 +47,7 @@
         "symbol": "TACOS",
         "description": "Want a tacos?",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/tacos.png",
+        "image": "https://cdn.chainroot.io/images/tokens/0d39d60171a1f9116b3d624ffbe45d233b22e481e4859e4bec2ffac04c181c1a.png",
         "coinGeckoId": ""
     },
     {
@@ -57,7 +57,7 @@
         "symbol": "WEED",
         "description": "420 token",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/weed.png",
+        "image": "https://cdn.chainroot.io/images/tokens/426fd5bc8dab4c2314f9a720d20e136c05c9d560183f515ad486d772a1867417.png",
         "coinGeckoId": ""
     },
     {
@@ -67,7 +67,7 @@
         "symbol": "BDOG",
         "description": "The Bulldog token",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/bdog.png",
+        "image": "https://cdn.chainroot.io/images/tokens/475172dbfa45a5044d77cfbb6f34b805f245c54df03858123a3a6d5565dc332f.png",
         "coinGeckoId": ""
     },
     {
@@ -77,7 +77,7 @@
         "symbol": "CORSO",
         "description": "The can corso token",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/corso.png",
+        "image": "https://cdn.chainroot.io/images/tokens/d63bcb181bf29051546942630dea834c69d5851a73ca4cab32db95af3aa8b46b.png",
         "coinGeckoId": ""
     },
     {
@@ -87,7 +87,7 @@
         "symbol": "SPITZ",
         "description": "The Spitz token",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/spitz.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ab80fb63e345728729766f20db2d2f5e3389e7d16b7c59851b7d68dadf2f35bc.png",
         "coinGeckoId": ""
     },
     {
@@ -107,7 +107,17 @@
         "symbol": "ashHUAHUA",
         "description": "HUAHUA burn derivative",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/ashHUAHUA.png",
+        "image": "https://cdn.chainroot.io/images/tokens/0c26c98b1c6f1851d3df2b8bd322b14ae4e82cb4dd1e97435b57923e6bca3d29.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/Chihuahua",
+        "name": "CHIHUAHUA",
+        "symbol": "CHIHUAHUA",
+        "description": "Chihuahua coin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/9651f0b646e8ccf235e7614305d0770f9072b54b29809b47811d30a63acb1779.png",
         "coinGeckoId": ""
     }
 ]

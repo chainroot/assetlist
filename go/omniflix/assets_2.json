@@ -40,7 +40,7 @@
         "symbol": "JUNO",
         "description": "Juno Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/juno.png",
+        "image": "https://cdn.chainroot.io/images/tokens/a68afd5f8ab6feac6f7b422daaf5d5da26391ca98cc4596226dcd89366941ea7.png",
         "coinGeckoId": "juno-network",
         "ibc_info": {
             "path": "juno>omniflix",
@@ -63,7 +63,7 @@
         "symbol": "ION",
         "description": "ION is the second native token of Osmosis.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/ion.png",
+        "image": "https://cdn.chainroot.io/images/tokens/c0a4f991f92b153c221907f9a9b1b555ae16b6310aebf3f0c53444d2b134e00a.png",
         "coinGeckoId": "ion",
         "ibc_info": {
             "path": "osmosis>omniflix",
@@ -86,7 +86,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7eec0e7b17cfe55e8fdfd8138458d26c83298dc2a12f85f9261af2a5fd9b3f46.png",
         "coinGeckoId": "osmosis",
         "ibc_info": {
             "path": "osmosis>omniflix",
@@ -109,7 +109,7 @@
         "symbol": "HUAHUA",
         "description": "Chihuahua Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/huahua.png",
+        "image": "https://cdn.chainroot.io/images/tokens/5a3b8afa75a2496ed6cb989eb834735acff452a64ede07bd32aa3c5040d234cc.png",
         "coinGeckoId": "chihuahua-token",
         "ibc_info": {
             "path": "chihuahua>omniflix",

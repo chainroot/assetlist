@@ -6,7 +6,7 @@
         "symbol": "KAVA",
         "description": "Kava Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/kava.png",
+        "image": "https://cdn.chainroot.io/images/tokens/a46273005a34ab2209dec91202490e01024b231a043ef473bfaa4fc3529f362c.png",
         "coinGeckoId": "kava",
         "color": "#FF564F"
     },
@@ -40,7 +40,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7eec0e7b17cfe55e8fdfd8138458d26c83298dc2a12f85f9261af2a5fd9b3f46.png",
         "coinGeckoId": "osmosis",
         "ibc_info": {
             "path": "osmosis>kava",
@@ -63,7 +63,7 @@
         "symbol": "ION",
         "description": "ION is the second native token of Osmosis.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/ion.png",
+        "image": "https://cdn.chainroot.io/images/tokens/c0a4f991f92b153c221907f9a9b1b555ae16b6310aebf3f0c53444d2b134e00a.png",
         "coinGeckoId": "ion",
         "ibc_info": {
             "path": "osmosis>kava",
@@ -86,7 +86,7 @@
         "symbol": "AKT",
         "description": "Akash Network Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/akt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/6ca4a22af51e4b2b0035437686f67392ea2f2844f9a20f9f07e8605de96479e2.png",
         "coinGeckoId": "akash-network",
         "ibc_info": {
             "path": "akash>kava",
@@ -109,7 +109,7 @@
         "symbol": "USDt",
         "description": "USDt - directly minted on the Kava chain by the Tether Foundation.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8d812a3786178f6dbc556b3cb21411112b7c3a7ac893bf4b70c85e3c2db5a520.png",
         "coinGeckoId": "tether",
         "color": "#009393"
     },
@@ -120,7 +120,7 @@
         "symbol": "USDX",
         "description": "The native stablecoin of Kava.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdx.png",
+        "image": "https://cdn.chainroot.io/images/tokens/971982f1f8b6980f5c3e902c5f778b1d3b5c14339ee1c381cdf1fec1dc37a4c8.png",
         "coinGeckoId": "usdx",
         "color": "#04d4a3"
     },
@@ -131,7 +131,7 @@
         "symbol": "SWP",
         "description": "Governance token of Kava Swap Protocol.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/swp.png",
+        "image": "https://cdn.chainroot.io/images/tokens/aaf2df370974abdbe501b4aa7fa3e175900c1de2d953aacfa1656a916700c18d.png",
         "coinGeckoId": "kava-swap",
         "color": "#544cfc"
     },
@@ -142,7 +142,7 @@
         "symbol": "HARD",
         "description": "Governance token of Kava Lend Protocol.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/hard.png",
+        "image": "https://cdn.chainroot.io/images/tokens/9e3e3dbd20c49ee72357f265904f2a86c73c7316eba60af6d03d848418597cd7.png",
         "coinGeckoId": "kava-lend",
         "color": "#7b34ac"
     },
@@ -153,7 +153,7 @@
         "symbol": "DEBT",
         "description": "This asset represents the overall debt in the Kava De-Fi system.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/debt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/a3f288a2d1b2f70d831be3717cf5452c2a3cd89f1cdd231fa76f50038956b153.png",
         "coinGeckoId": "",
         "color": "#FFFFFF"
     },
@@ -175,7 +175,7 @@
         "symbol": "axlWBTC",
         "description": "Axelar Wrapped WBTC on Kava",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/wbtc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/347e4b450cbbf16ce16b53366a98a4571a507e5d461fff90efee028abbf76dd0.png",
         "coinGeckoId": "axlwbtc",
         "color": "#FFFFFF"
     },
@@ -186,7 +186,7 @@
         "symbol": "wBTC",
         "description": "Wrapped Bitcoin on Kava via Bitgo",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/wbtc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/347e4b450cbbf16ce16b53366a98a4571a507e5d461fff90efee028abbf76dd0.png",
         "coinGeckoId": "wrapped-bitcoin",
         "color": "#FFFFFF"
     },
@@ -197,7 +197,7 @@
         "symbol": "M-BTC",
         "description": "Merlin's Seal Bitcoin on Kava",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/mbtc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/25c371d3eaf810fc002f982f6a5e92a9b29f7206680f22ae0d934bd98c67a076.png",
         "coinGeckoId": "merlin-s-seal-btc",
         "color": "#FFFFFF"
     },
@@ -208,7 +208,7 @@
         "symbol": "HBTC",
         "description": "HBTC on Kava",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/hbtc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/99725c192ac25f9616bb190ed8f28e1c81ce490e962e7ed53b33e0b27f8b5f7e.png",
         "coinGeckoId": "huobi-btc",
         "bridge_info": {
             "path": "huobi>kava"
@@ -235,8 +235,7 @@
         "symbol": "BTCB",
         "description": "BTCB on Kava - Deprecated",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/btcb.png",
-        "coinGeckoId": "bitcoin-bep2",
+        "image": "https://cdn.chainroot.io/images/tokens/dc74d7791b1c1c723fbeb892deb90331e729399618953006720eac2dffba4a27.png",
         "bridge_info": {
             "path": "bnb-beacon-chain>kava",
             "enable": false
@@ -263,7 +262,7 @@
         "symbol": "XRPB",
         "description": "XRPB on Kava - Deprecated",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/xrpb.png",
+        "image": "https://cdn.chainroot.io/images/tokens/52b18e4695a0d08301463afe5665290d0ec16b6c298d5f7ce793011334ef0938.png",
         "coinGeckoId": "ripple",
         "bridge_info": {
             "path": "bnb-beacon-chain>kava",
@@ -277,7 +276,7 @@
         "symbol": "bDAI",
         "description": "Multichain Wrapped Dai on Kava  - Deprecated",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/bdai.png",
+        "image": "https://cdn.chainroot.io/images/tokens/590d1afaa6b293e85a59c75606297db9178c1ea7040d97ca62a1d9181ea87ec6.png",
         "coinGeckoId": "",
         "color": "#FFFFFF"
     },
@@ -288,7 +287,7 @@
         "symbol": "bUSDC",
         "description": "Multichain Wrapped USDC on Kava  - Deprecated",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/busdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/12876f3205bac01b8471ef4bf6d3b09d89fd79a52bd44df65d718caf10d6e3e8.png",
         "coinGeckoId": "",
         "color": "#FFFFFF"
     },
@@ -299,7 +298,7 @@
         "symbol": "bUSDT",
         "description": "Multichain Wrapped USDT on Kava - Deprecated",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/busdt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/98cb979fb6b16fffaed8c66d132fa9c9cb6db29d73309a70be34bfe2775141aa.png",
         "coinGeckoId": "",
         "color": "#FFFFFF"
     },
@@ -313,5 +312,28 @@
         "image": "https://cdn.chainroot.io/images/tokens/multiwbtc.png",
         "coinGeckoId": "",
         "color": "#FFFFFF"
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/D4F1F74C6B90168E05B974F2EBB5938D18704B73DE273CAACF7E96F7821B2C3D",
+        "name": "Crowdpunk DAO",
+        "symbol": "CROWDP",
+        "description": "The token of Crowdpunk DAO",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/bf442e75e19409efa10042eecd049939d09ba5bd6bda27e9360277c20e77e2c5.svg",
+        "color": "#04fbfb",
+        "ibc_info": {
+            "path": "evmos>kava",
+            "client": {
+                "channel": "channel-117",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-83",
+                "port": "transfer",
+                "chain": "evmos",
+                "denom": "erc20/0xfbF4318d24a93753F11d365A6dcF8b830e98Ab0F"
+            }
+        }
     }
 ]

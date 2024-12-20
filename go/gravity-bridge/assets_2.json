@@ -17,7 +17,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7eec0e7b17cfe55e8fdfd8138458d26c83298dc2a12f85f9261af2a5fd9b3f46.png",
         "coinGeckoId": "osmosis",
         "ibc_info": {
             "path": "osmosis>gravity-bridge",
@@ -63,7 +63,7 @@
         "symbol": "NYM",
         "description": "NYM Token (NYM) is the Nym Network's native utility token, used as the primary means to incentivize mixnet node operators.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/nym.png",
+        "image": "https://cdn.chainroot.io/images/tokens/269e91095a3281215503c639136b27ca25b4aa8769cb337508dccea2f00a5e6c.png",
         "coinGeckoId": "nym",
         "ibc_info": {
             "path": "nyx>gravity-bridge",
@@ -86,7 +86,7 @@
         "symbol": "HUAHUA",
         "description": "Chihuahua Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/huahua.png",
+        "image": "https://cdn.chainroot.io/images/tokens/5a3b8afa75a2496ed6cb989eb834735acff452a64ede07bd32aa3c5040d234cc.png",
         "coinGeckoId": "chihuahua-token",
         "ibc_info": {
             "path": "chihuahua>gravity-bridge",
@@ -109,7 +109,7 @@
         "symbol": "CHEQ",
         "description": "Cheqd Staking Coin",
         "decimals": 9,
-        "image": "https://cdn.chainroot.io/images/tokens/cheq.png",
+        "image": "https://cdn.chainroot.io/images/tokens/1281f6bf1be9d3a38a7d07a874e1f337250da297300ee7859f59d20176ab4ba5.png",
         "coinGeckoId": "cheqd-network",
         "ibc_info": {
             "path": "cheqd>gravity-bridge",
@@ -132,7 +132,7 @@
         "symbol": "STARS",
         "description": "Stargaze Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/stars.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7f33a57ac37457517a235c8f48ab63b3e5dd75e5a869cae79346a460a50daedb.png",
         "coinGeckoId": "stargaze",
         "ibc_info": {
             "path": "stargaze>gravity-bridge",
@@ -178,7 +178,7 @@
         "symbol": "FUND",
         "description": "Unification Staking Coin",
         "decimals": 9,
-        "image": "https://cdn.chainroot.io/images/tokens/fund.png",
+        "image": "https://cdn.chainroot.io/images/tokens/3b3c9fbd7692a1fd3ebad6294e9e3482af6dc213bfb4f10f09d3e30bda5346ce.png",
         "coinGeckoId": "unification",
         "ibc_info": {
             "path": "unification>gravity-bridge",
@@ -201,7 +201,7 @@
         "symbol": "WBTC.grv",
         "description": "Gravity Bridge WBTC",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/wbtc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/347e4b450cbbf16ce16b53366a98a4571a507e5d461fff90efee028abbf76dd0.png",
         "coinGeckoId": "wrapped-bitcoin",
         "color": "#f39444",
         "bridge_info": {
@@ -236,7 +236,7 @@
         "symbol": "USDC.grv",
         "description": "Gravity Bridge USDC",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "usd-coin",
         "color": "#2775CA",
         "bridge_info": {
@@ -271,7 +271,7 @@
         "symbol": "UNI.grv",
         "description": "Gravity Bridge UNI",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/uni.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ee886d9bf0f65179e57a349bd14307b655e42743a1588cf314db8aeee0be6f9c.png",
         "coinGeckoId": "uniswap",
         "bridge_info": {
             "path": "ethereum>gravity-bridge",
@@ -288,7 +288,7 @@
         "symbol": "PAXG.grv",
         "description": "Gravity Bridge Paxos Gold",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/paxg.png",
+        "image": "https://cdn.chainroot.io/images/tokens/555842e88677432479f74d29f361f7a34cb525ad667c540ebda28db44c1302af.png",
         "coinGeckoId": "pax-gold",
         "bridge_info": {
             "path": "ethereum>gravity-bridge",
@@ -305,7 +305,7 @@
         "symbol": "STORJ.grv",
         "description": "Gravity Bridge Storj",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/storj.png",
+        "image": "https://cdn.chainroot.io/images/tokens/d951ac8cf6bcea7f86089267b537535cdc291702d97f92289114dbb5073cc825.png",
         "coinGeckoId": "storj",
         "bridge_info": {
             "path": "ethereum>gravity-bridge",
@@ -356,7 +356,7 @@
         "symbol": "USDT.grv",
         "description": "Gravity Bridge USDT.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8d812a3786178f6dbc556b3cb21411112b7c3a7ac893bf4b70c85e3c2db5a520.png",
         "coinGeckoId": "tether",
         "bridge_info": {
             "path": "ethereum>gravity-bridge",
@@ -373,7 +373,7 @@
         "symbol": "stkETH.grv",
         "description": "Gravity Bridge stkETH.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/stketh.png",
+        "image": "https://cdn.chainroot.io/images/tokens/de60e90490d78f2da4b703429299d1869fdd7aa409aa7323d260b41cb2ff5854.png",
         "coinGeckoId": "pstake-staked-eth",
         "bridge_info": {
             "path": "ethereum>gravity-bridge",
@@ -390,7 +390,7 @@
         "symbol": "SD.grv",
         "description": "Gravity Bridge SD.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/sd.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ebf02e27fdf5cf5bcac9a9fd4ba218f73b6405a6ec0a23f851c92a6649b24768.png",
         "coinGeckoId": "stader",
         "bridge_info": {
             "path": "ethereum>gravity-bridge",
@@ -407,7 +407,7 @@
         "symbol": "PAGE.grv",
         "description": "The PAGE token is used for actions in the PageDAO NFT literary ecosystem and for DAO governance.",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/page.png",
+        "image": "https://cdn.chainroot.io/images/tokens/61c11e1383ac6cf2734b3059afdf1bc356b09058de2525526121f29880a8c0e3.png",
         "coinGeckoId": "page",
         "bridge_info": {
             "path": "ethereum>gravity-bridge",
@@ -424,7 +424,7 @@
         "symbol": "FRAX.grv",
         "description": "Gravity Bridge Frax.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/frax.png",
+        "image": "https://cdn.chainroot.io/images/tokens/990a54a3a8ef2a6037493fcb3f376d97359474d8076dd81d95acc5229bbef50f.png",
         "coinGeckoId": "frax",
         "bridge_info": {
             "path": "ethereum>gravity-bridge",

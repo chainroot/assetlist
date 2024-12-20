@@ -2,7 +2,7 @@
 
 # Define the base directory paths
 CHAINLIST_DIR="src/chainlist/chain"
-GO_DIR="go"
+TARGET_DIR="go"
 
 # Iterate over each chain folder in src/chainlist/chain/*/assets.json
 for chain_path in $CHAINLIST_DIR/*/assets.json; do
@@ -20,7 +20,7 @@ for chain_path in $CHAINLIST_DIR/*/assets.json; do
       echo "Found staking denom: $denom"
 
       # Define the path to the assets_2.json file
-      assets_2_path="$GO_DIR/$chain_name/assets_2.json"
+      assets_2_path="$TARGET_DIR/$chain_name/assets_2.json"
 
       # Check if the assets_2.json exists
       if [ -f "$assets_2_path" ]; then
@@ -52,4 +52,4 @@ for chain_path in $CHAINLIST_DIR/*/assets.json; do
   fi
 done
 
-echo "Script completed."
+echo "Staking Denom change completed."

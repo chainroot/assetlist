@@ -59,7 +59,7 @@
         "symbol": "wstETH.wh",
         "description": "Wrapped liquid staked Ether 2.0 (Wormhole)",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/wsteth.png",
+        "image": "https://cdn.chainroot.io/images/tokens/74a1607af0c169e9aef9328defc72ce6b12291d1bd22a1c53322666516b41f5c.png",
         "coinGeckoId": "wrapped-steth",
         "bridge_info" : {
             "path": "ethereum>gateway",
@@ -93,7 +93,7 @@
         "symbol": "USDT.wh",
         "description": "Tether USD (Wormhole)",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8d812a3786178f6dbc556b3cb21411112b7c3a7ac893bf4b70c85e3c2db5a520.png",
         "coinGeckoId": "tether",
         "bridge_info" : {
             "path": "ethereum>gateway",
@@ -110,7 +110,7 @@
         "symbol": "SOL.wh",
         "description": "Wrapped SOL (Wormhole)",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/solana.png",
+        "image": "https://cdn.chainroot.io/images/tokens/96ca67bb9412dd1ef806da784c84a8e32e380420555e18a442018df58e79dfd7.png",
         "coinGeckoId": "solana",
         "bridge_info" : {
             "path": "solana>gateway",
@@ -127,7 +127,7 @@
         "symbol": "BONK.wh",
         "description": "Bonk (Wormhole)",
         "decimals": 5,
-        "image": "https://cdn.chainroot.io/images/tokens/bonk.png",
+        "image": "https://cdn.chainroot.io/images/tokens/56f3670a93730ca12d74fa354352a092e48331d20378af76c871fac31f784303.png",
         "coinGeckoId": "bonk",
         "bridge_info" : {
             "path": "solana>gateway",
@@ -144,7 +144,7 @@
         "symbol": "WBTC.wh",
         "description": "Wrapped BTC (Wormhole)",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/wbtc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/347e4b450cbbf16ce16b53366a98a4571a507e5d461fff90efee028abbf76dd0.png",
         "coinGeckoId": "wrapped-bitcoin",
         "bridge_info" : {
             "path": "ethereum>gateway",
@@ -161,7 +161,7 @@
         "symbol": "tBTC.wh",
         "description": "tBTC v2 (Wormhole)",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/tbtc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/288daa3b9bda8137d20b568fa77d14d4f664f2067884a54c1ebea65e73a51ee3.png",
         "coinGeckoId": "tbtc",
         "bridge_info" : {
             "path": "ethereum>gateway",
@@ -195,7 +195,7 @@
         "symbol": "USDC.wh",
         "description": "USD Coin (Wormhole)",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "usd-coin",
         "bridge_info" : {
             "path": "ethereum>gateway",
@@ -212,7 +212,7 @@
         "symbol": "USDC.aval.wh",
         "description": "Avalanche USD Coin (Wormhole)",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "usd-coin",
         "bridge_info" : {
             "path": "avalanche>gateway",
@@ -229,7 +229,7 @@
         "symbol": "PYTH.wh",
         "description": "PYTH (Wormhole)",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/pyth.png",
+        "image": "https://cdn.chainroot.io/images/tokens/d5f1fb80a26251f4173e7f8b7b849333f979d39af96c9d64ea377d88d4482b83.png",
         "coinGeckoId": "pyth-network",
         "bridge_info" : {
             "path": "solana>gateway",
@@ -246,7 +246,7 @@
         "symbol": "USDC.sol.wh",
         "description": "Solana USD Coin (Wormhole)",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "usd-coin",
         "bridge_info" : {
             "path": "solana>gateway",

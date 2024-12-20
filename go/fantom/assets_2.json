@@ -1,0 +1,13 @@
+[
+    {
+        "type": "native",
+        "denom": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name" : "Fantom",
+        "symbol": "FTM",
+        "description": "Fantom Native Coin",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/5de33c36ccb0d657865cd4f07f96fb6827344b356261daae4e575c49c309d717.png",
+        "coinGeckoId": "fantom"
+    }
+]
+

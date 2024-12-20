@@ -6,7 +6,7 @@
         "symbol": "SOMM",
         "description": "Sommelier Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/somm.png",
+        "image": "https://cdn.chainroot.io/images/tokens/53e50f807a6a19470ddb608f07d5017c3a137f72d11f8d26be667c018125bcbc.png",
         "coinGeckoId": "sommelier",
         "color": "#A22B70"
     },
@@ -17,7 +17,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7eec0e7b17cfe55e8fdfd8138458d26c83298dc2a12f85f9261af2a5fd9b3f46.png",
         "coinGeckoId": "osmosis",
         "ibc_info": {
             "path": "osmosis>sommelier",

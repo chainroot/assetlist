@@ -6,7 +6,7 @@
         "symbol": "EVMOS",
         "description": "Evmos Staking Coin",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/evmos.png",
+        "image": "https://cdn.chainroot.io/images/tokens/d5afb4bf339a789d256aef1690b5a89e1249ba0fefdf882daa9e47696dac0cac.png",
         "coinGeckoId": "evmos",
         "color": "#ED4E33"
     },
@@ -40,7 +40,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7eec0e7b17cfe55e8fdfd8138458d26c83298dc2a12f85f9261af2a5fd9b3f46.png",
         "coinGeckoId": "osmosis",
         "ibc_info": {
             "path": "osmosis>evmos",
@@ -63,7 +63,7 @@
         "symbol": "ION",
         "description": "ION is the second native token of Osmosis.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/ion.png",
+        "image": "https://cdn.chainroot.io/images/tokens/c0a4f991f92b153c221907f9a9b1b555ae16b6310aebf3f0c53444d2b134e00a.png",
         "coinGeckoId": "ion",
         "ibc_info": {
             "path": "osmosis>evmos",
@@ -86,7 +86,7 @@
         "symbol": "INJ",
         "description": "Injective Staking Coin",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/inj.png",
+        "image": "https://cdn.chainroot.io/images/tokens/339d9960d0f3efdff233fb03b481817db33f70b48bc9b53db7720d0791492dc9.png",
         "coinGeckoId": "injective-protocol",
         "ibc_info": {
             "path": "injective>evmos",
@@ -155,7 +155,7 @@
         "symbol": "USDC.grv",
         "description": "Gravity Bridge USDC",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "usd-coin",
         "ibc_info": {
             "path": "ethereum>gravity-bridge>evmos",
@@ -178,7 +178,7 @@
         "symbol": "USDT.grv",
         "description": "Gravity Bridge USDT.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8d812a3786178f6dbc556b3cb21411112b7c3a7ac893bf4b70c85e3c2db5a520.png",
         "coinGeckoId": "tether",
         "ibc_info": {
             "path": "ethereum>gravity-bridge>evmos",
@@ -201,7 +201,7 @@
         "symbol": "WBTC.grv",
         "description": "Gravity Bridge WBTC",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/wbtc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/347e4b450cbbf16ce16b53366a98a4571a507e5d461fff90efee028abbf76dd0.png",
         "coinGeckoId": "wrapped-bitcoin",
         "ibc_info": {
             "path": "ethereum>gravity-bridge>evmos",
@@ -293,7 +293,7 @@
         "symbol": "USDC.eth.axl",
         "description": "Circle's stablecoin on Axelar",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "axlusdc",
         "ibc_info": {
             "path": "ethereum>axelar>evmos",
@@ -316,7 +316,7 @@
         "symbol": "WBTC.eth.axl",
         "description": "Wrapped Bitcoin on Axelar",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/wbtc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/347e4b450cbbf16ce16b53366a98a4571a507e5d461fff90efee028abbf76dd0.png",
         "coinGeckoId": "axlwbtc",
         "ibc_info": {
             "path": "ethereum>axelar>evmos",
@@ -385,7 +385,7 @@
         "symbol": "ACRE",
         "description": "The native EVM, governance and staking token of the Acrechain",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/acre.png",
+        "image": "https://cdn.chainroot.io/images/tokens/2ddaaa6e5c646244d62ad9c3a0bd26217710909489395f10adbe6932a1d17dc3.png",
         "coinGeckoId": "arable-protocol",
         "ibc_info": {
             "path": "acrechain>evmos",
@@ -454,7 +454,7 @@
         "symbol": "NEOK",
         "description": "NEOKingdom DAO",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/neok.png",
+        "image": "https://cdn.chainroot.io/images/tokens/46e088906c6e70a74cf17ac23836fb9f2e5e7bf6eae8cb10faed2567788e534e.png",
         "coinGeckoId": ""
     },
     {
@@ -464,7 +464,17 @@
         "symbol": "BERLIN",
         "description": "Teledisko DAO",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/berlin.png",
+        "image": "https://cdn.chainroot.io/images/tokens/eecd2a070e92df6152dccbb17595f3eeab1dbce5d734e96a11f98e2bf7992b0c.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "erc20/0xfbF4318d24a93753F11d365A6dcF8b830e98Ab0F",
+        "name": "CROWDP",
+        "symbol": "CROWDP",
+        "description": "Crowdpunk DAO",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/877b93e818767e6b9fc9f465f3cdcba6809c69af73e2d356b1c6925f87ab3a33.png",
         "coinGeckoId": ""
     }
 ]

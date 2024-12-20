@@ -1,0 +1,13 @@
+[
+    {
+        "type": "native",
+        "denom": "ufct",
+        "name": "Firmachain",
+        "symbol": "FCT",
+        "description": "Firmachain native staking coin.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/1a81315f76338c8ecc8e2add38b49e9ec7af89d932159521dc25218e46e3ed94.png",
+        "coinGeckoId": "firmachain"
+    }
+]
+ 

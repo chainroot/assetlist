@@ -6,7 +6,7 @@
         "symbol": "WZETA",
         "description": "Wrapped Zeta",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/wzeta.png",
+        "image": "https://cdn.chainroot.io/images/tokens/2ed96c10b543ba4ddeda8f6650f9dad40e869617d3bdc946f66ca912d9c5976d.png",
         "coinGeckoId": "wrapped-zetachain",
         "wallet_preload": true
     },
@@ -17,7 +17,7 @@
         "symbol": "stZETA",
         "description": "ZetaEarn Staked ZETA (ZRC20)",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/zetaearn-stzeta.png",
+        "image": "https://cdn.chainroot.io/images/tokens/9924b04ca188b8effdb8f0c53e138ed90876fa5bd4329f27e069cc57bc0a10e2.png",
         "coinGeckoId": "zetaearn-staked-zeta"
     },
     {
@@ -27,7 +27,7 @@
         "symbol": "BTC.BTC",
         "description": "ZetaChain Bridged BTC.BTC (ZRC20)",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/btc-btc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/6f6e39409492538e0530792fa29ecebd2dedcad9a90b1f72e4dd39aa97eaadad.png",
         "coinGeckoId": "zetachain-bridged-btc-btc-zetachain"
     },
     {
@@ -37,7 +37,7 @@
         "symbol": "ETH.ETH",
         "description": "ZetaChain Bridged ETH.ETH (ZRC20)",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/eth-eth.png",
+        "image": "https://cdn.chainroot.io/images/tokens/cd8b1c5b43b9ddb04713b09b7a32bdc563ca5c23bfd67835190ddc30352d5133.png",
         "coinGeckoId": "zetachain-eth-eth"
     },
     {
@@ -47,7 +47,7 @@
         "symbol": "USDT.ETH",
         "description": "ZetaChain Bridged USDT.ETH (ZRC20)",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdt-eth.png",
+        "image": "https://cdn.chainroot.io/images/tokens/c2f62332435af19e3a37165f315d6227a5d7f3dedb97377b1915b99dd3ac252a.png",
         "coinGeckoId": "zetachain-bridged-usdt-eth-zetachain",
         "wallet_preload": true
     },
@@ -58,7 +58,7 @@
         "symbol": "USDC.ETH",
         "description": "ZetaChain Bridged USDC.ETH (ZRC20)",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc-eth.png",
+        "image": "https://cdn.chainroot.io/images/tokens/767dcd2c05c5161e7dc92436ef7dcc1c398f64c917a9e7c8ead38665b11cdc75.png",
         "coinGeckoId": "zetachain-bridged-usdc-eth-zetachain",
         "wallet_preload": true
     },
@@ -69,7 +69,7 @@
         "symbol": "PEPE.ETH",
         "description": "ZetaChain Bridged PEPE.ETH (ZRC20)",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/pepe-eth.png",
+        "image": "https://cdn.chainroot.io/images/tokens/e54a684f28bf89f7f6f445dc43f0b15486b6c547506c16bfb900194366b9bb12.png",
         "coinGeckoId": "pepe",
         "wallet_preload": true
     },
@@ -80,7 +80,7 @@
         "symbol": "SHIB.ETH",
         "description": "ZetaChain Bridged SHIB.ETH (ZRC20)",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/shib-eth.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7bc2fa8d8408e216bd4c0e61acba5ae44a2b6bd1fa0fb676f574e986c2cce843.png",
         "coinGeckoId": "shiba-inu",
         "wallet_preload": true
     },
@@ -91,7 +91,7 @@
         "symbol": "BNB.ETH",
         "description": "ZetaChain Bridged BNB.ETH (ZRC20)",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/bnb-bsc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/cdac8bb62201c914317ff0b33d185eca1be3e13203a423c1b195bd3df539846f.png",
         "coinGeckoId": "zetachain-bridged-bnb-bsc-zetachain",
         "wallet_preload": true
     },
@@ -102,7 +102,7 @@
         "symbol": "USDT.BSC",
         "description": "ZetaChain Bridged USDT.BSC (ZRC20)",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/usdt-bsc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/0fae6a1498f7e004f939b00571a18e56348204b59fd5ea7b7d4760e24c4e5a13.png",
         "coinGeckoId": "zetachain-bridged-usdt-bsc-zetachain",
         "wallet_preload": true
     },
@@ -113,7 +113,7 @@
         "symbol": "USDC.BSC",
         "description": "ZetaChain Bridged USDC.BSC (ZRC20)",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc-bsc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7bfadec86c33b3d53548b603ecaed07c440bd5859aa532517a434e8ad4838920.png",
         "coinGeckoId": "zetachain-bridged-usdc-bsc-zetachain",
         "wallet_preload": true
     },
@@ -124,7 +124,7 @@
         "symbol": "POL.POLYGON",
         "description": "ZetaChain Bridged POL.POLYGON (ZRC20)",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/pol-pol.png",
+        "image": "https://cdn.chainroot.io/images/tokens/632ba2b63db04b008e1c91ca57b48e027fba775d6ab0d94f4661caad0206a7e7.png",
         "coinGeckoId": "polygon-ecosystem-token"
     },
     {
@@ -134,7 +134,7 @@
         "symbol": "USDC.POL",
         "description": "ZetaChain Bridged USDC.POL (ZRC20)",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc-pol.png",
+        "image": "https://cdn.chainroot.io/images/tokens/88bba6ab1274400667d4db61e97c0c14c963855392947f179e4f5f9728fcbf56.png",
         "coinGeckoId": "usd-coin"
     },
     {
@@ -144,7 +144,7 @@
         "symbol": "USDT.POLYGON",
         "description": "ZetaChain Bridged USDT.POLYGON (ZRC20)",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdt-pol.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8449b78ae5954fa57ae8d730c9e8673ea04498eae8cc75a9b9f784803797e82f.png",
         "coinGeckoId": "tether"
     }
 ]

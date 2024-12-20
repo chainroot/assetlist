@@ -6,7 +6,7 @@
         "symbol": "CRE",
         "description": "Crescent Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/cre.png",
+        "image": "https://cdn.chainroot.io/images/tokens/232b9d13f9b70276b4ac61b149c5e80fb4a84eb63a9457ba1d33d22a1b8f5e92.png",
         "coinGeckoId": "crescent-network",
         "color": "#F4BC76"
     },
@@ -17,7 +17,7 @@
         "symbol": "bCRE",
         "description": "Crescent Liquidated CRE",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/bcre.png",
-        "coinGeckoId": "liquid-staking-crescent"
+        "image": "https://cdn.chainroot.io/images/tokens/377ce97bf161528f862fe8856e01183ac39e27a9f95c334c4d997595fb1476c0.png",
+        "coinGeckoId": ""
     }
 ]

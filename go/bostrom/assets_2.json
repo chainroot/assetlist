@@ -6,7 +6,7 @@
         "symbol": "BOOT",
         "description": "Bostrom Staking Coin",
         "decimals": 0,
-        "image": "https://cdn.chainroot.io/images/tokens/boot.png",
+        "image": "https://cdn.chainroot.io/images/tokens/fdd3f5f010ecda24f836cd506fb85438f8712be00ba3cc155c565f75d11d8010.png",
         "coinGeckoId": "bostrom",
         "color": "#4cea4e"
     },
@@ -17,7 +17,7 @@
         "symbol": "HYDROGEN",
         "description": "The liquid staking token of Bostrom",
         "decimals": 0,
-        "image": "https://cdn.chainroot.io/images/tokens/https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bostrom/asset/hydrogen.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/hydrogen.svg",
         "coinGeckoId": "",
         "color": "#ffffff"
     },
@@ -28,7 +28,7 @@
         "symbol": "AMPERE",
         "description": "The resource token of Bostrom",
         "decimals": 3,
-        "image": "https://cdn.chainroot.io/images/tokens/ampere.png",
+        "image": "https://cdn.chainroot.io/images/tokens/c338c9783a7f0110af704765d1435752ebb867dae5eb32171a8fae3f1ee041de.png",
         "coinGeckoId": "",
         "color": "#f4ecce"
     },
@@ -39,7 +39,7 @@
         "symbol": "VOLT",
         "description": "The resource token of Bostrom",
         "decimals": 3,
-        "image": "https://cdn.chainroot.io/images/tokens/volt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/027bb6927af1cd94cfab0fa7eaf55738fbdf78785c979e1d95c0688815f32def.png",
         "coinGeckoId": "",
         "color": "#fba809"
     },
@@ -50,7 +50,7 @@
         "symbol": "JUNO",
         "description": "Juno Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/juno.png",
+        "image": "https://cdn.chainroot.io/images/tokens/a68afd5f8ab6feac6f7b422daaf5d5da26391ca98cc4596226dcd89366941ea7.png",
         "coinGeckoId": "juno-network",
         "ibc_info": {
             "path": "juno>bostrom",
@@ -73,7 +73,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7eec0e7b17cfe55e8fdfd8138458d26c83298dc2a12f85f9261af2a5fd9b3f46.png",
         "coinGeckoId": "osmosis",
         "ibc_info": {
             "path": "osmosis>bostrom",

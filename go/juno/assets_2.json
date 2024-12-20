@@ -6,7 +6,7 @@
         "symbol": "JUNO",
         "description": "Juno Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/juno.png",
+        "image": "https://cdn.chainroot.io/images/tokens/a68afd5f8ab6feac6f7b422daaf5d5da26391ca98cc4596226dcd89366941ea7.png",
         "coinGeckoId": "juno-network",
         "color": "#F0827D"
     },
@@ -17,7 +17,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7eec0e7b17cfe55e8fdfd8138458d26c83298dc2a12f85f9261af2a5fd9b3f46.png",
         "coinGeckoId": "osmosis",
         "ibc_info": {
             "path": "osmosis>juno",
@@ -40,7 +40,7 @@
         "symbol": "BTSG",
         "description": "BitSong Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/btsg.png",
+        "image": "https://cdn.chainroot.io/images/tokens/43fd0fe35864c835cd7f663a0fcbd283559f5207d07d8fe758b0c93b400bb016.png",
         "coinGeckoId": "bitsong",
         "ibc_info": {
             "path": "bitsong>juno",
@@ -63,7 +63,7 @@
         "symbol": "STARS",
         "description": "Stargaze Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/stars.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7f33a57ac37457517a235c8f48ab63b3e5dd75e5a869cae79346a460a50daedb.png",
         "coinGeckoId": "stargaze",
         "ibc_info": {
             "path": "stargaze>juno",
@@ -86,7 +86,7 @@
         "symbol": "HUAHUA",
         "description": "Chihuahua Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/huahua.png",
+        "image": "https://cdn.chainroot.io/images/tokens/5a3b8afa75a2496ed6cb989eb834735acff452a64ede07bd32aa3c5040d234cc.png",
         "coinGeckoId": "chihuahua-token",
         "ibc_info": {
             "path": "chihuahua>juno",
@@ -109,7 +109,7 @@
         "symbol": "DIG",
         "description": "Dig Chain Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/dig.png",
+        "image": "https://cdn.chainroot.io/images/tokens/a512c1646504e53220430cbf2bdf4f65a42516aafaf4703e646f9bd2044b47aa.png",
         "coinGeckoId": "dig-chain",
         "ibc_info": {
             "path": "dig-chain>juno",
@@ -132,7 +132,7 @@
         "symbol": "XPRT",
         "description": "Persistence Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/xprt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/597fb533f8ee928d8c56096cbd147c7ef464eee7fd3ef82d9dbd32eb384fb593.png",
         "coinGeckoId": "persistence",
         "ibc_info": {
             "path": "persistence>juno",
@@ -155,7 +155,7 @@
         "symbol": "CMDX",
         "description": "Comdex Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/cmdx.png",
+        "image": "https://cdn.chainroot.io/images/tokens/38f6d3460645bbe40f5b5cd1c75141c2699fd323e977c65fd65a46f744a943e5.png",
         "coinGeckoId": "comdex",
         "ibc_info": {
             "path": "comdex>juno",
@@ -178,7 +178,7 @@
         "symbol": "AKT",
         "description": "Akash Network Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/akt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/6ca4a22af51e4b2b0035437686f67392ea2f2844f9a20f9f07e8605de96479e2.png",
         "coinGeckoId": "akash-network",
         "ibc_info": {
             "path": "akash>juno",
@@ -247,7 +247,7 @@
         "symbol": "USDC.eth.axl",
         "description": "Circle's stablecoin on Axelar",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "axlusdc",
         "ibc_info": {
             "path": "ethereum>axelar>juno",
@@ -339,7 +339,7 @@
         "symbol": "ampWHALE",
         "description": "ampWHALE",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/ampwhale.png",
+        "image": "https://cdn.chainroot.io/images/tokens/570edd169ffcb6b405b32d049c6ce07a2eda682bdecc46f1e2f8483a721a74a4.png",
         "coinGeckoId": "",
         "ibc_info": {
             "path": "migaloo>juno",
@@ -362,7 +362,7 @@
         "symbol": "bWHALE",
         "description": "BackBoneLabs Liquid Staked WHALE",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/bwhale.png",
+        "image": "https://cdn.chainroot.io/images/tokens/64ed1b0cca9f5f5ae4b5cb9bc9dc174d4da174cc534018faab58b1f800eefee3.png",
         "coinGeckoId": "backbone-labs-staked-whale",
         "ibc_info": {
             "path": "migaloo>juno",
@@ -408,7 +408,7 @@
         "symbol": "CUB",
         "description": "Lion Cub DAO is a useless meme community DAO on Terra.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/cub.png",
+        "image": "https://cdn.chainroot.io/images/tokens/b1f05f98210c636896a8790843ea0e62e3c8cc6a82d9b4c631aeeea224375162.png",
         "coinGeckoId": "",
         "ibc_info": {
             "path": "terra>juno",
@@ -420,7 +420,7 @@
                 "channel": "channel-153",
                 "port": "wasm.terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au",
                 "chain": "terra",
-                "denom": "cw20:terra1lalvk0r6nhruel7fvzdppk3tup3mh5j4d4eadrqzfhle4zrf52as58hh9t"
+                "denom": "terra1lalvk0r6nhruel7fvzdppk3tup3mh5j4d4eadrqzfhle4zrf52as58hh9t"
             }
         }
     },
@@ -431,7 +431,7 @@
         "symbol": "BLUE",
         "description": "BLUE CUB DAO is a community DAO on Terra.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/blue.png",
+        "image": "https://cdn.chainroot.io/images/tokens/cbcc5c4874b5e4501925013b7dd8e6c8a21305ce565232435d7dbf73f302a300.png",
         "coinGeckoId": "",
         "ibc_info": {
             "path": "terra>juno",
@@ -443,7 +443,7 @@
                 "channel": "channel-153",
                 "port": "wasm.terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au",
                 "chain": "terra",
-                "denom": "cw20:terra1gwrz9xzhqsygyr5asrgyq3pu0ewpn00mv2zenu86yvx2nlwpe8lqppv584"
+                "denom": "terra1gwrz9xzhqsygyr5asrgyq3pu0ewpn00mv2zenu86yvx2nlwpe8lqppv584"
             }
         }
     },
@@ -454,7 +454,7 @@
         "symbol": "NOIS",
         "description": "Nois Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/nois.png",
+        "image": "https://cdn.chainroot.io/images/tokens/5cb3d6afe7e58db93fd9d74a473b8ffa4d9e6a67df3f88ecf1ac33b0e439ee66.png",
         "coinGeckoId": "nois",
         "ibc_info": {
             "path": "nois>juno",
@@ -500,7 +500,7 @@
         "symbol": "WIND",
         "description": "Wind Token",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/wind.png",
+        "image": "https://cdn.chainroot.io/images/tokens/af3d51e4dfac3741ad3dbb914837d7ac0164b591b99b8db24edde0dafbd077bc.png",
         "coinGeckoId": "",
         "color": "#122b4d"
     },
@@ -511,7 +511,7 @@
         "symbol": "ARENA",
         "description": "The token for the Arena DAO",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/a01f03a24d52a149b18e5818663795b27799e413a648349dd02ac20bf8ce14ba.png",
+        "image": "https://cdn.chainroot.io/images/tokens/arena.png",
         "coinGeckoId": "",
         "color": "#dc6c24"
     },
@@ -544,5 +544,28 @@
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/054d7ef399f5c9e96fbc18510558143123489cb5085bac4afce6279d0004fefa.png",
         "coinGeckoId": "040405"
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/B4B81727559DC69159ED8BECD4452D555235CA0D11FADD3ADE121395A7E2833E",
+        "name": "Crowdpunk DAO",
+        "symbol": "CROWDP",
+        "description": "The token of Crowdpunk DAO",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/bf442e75e19409efa10042eecd049939d09ba5bd6bda27e9360277c20e77e2c5.svg",
+        "color": "#04fbfb",
+        "ibc_info": {
+            "path": "evmos>juno",
+            "client": {
+                "channel": "channel-70",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-5",
+                "port": "transfer",
+                "chain": "evmos",
+                "denom": "erc20/0xfbF4318d24a93753F11d365A6dcF8b830e98Ab0F"
+            }
+        }
     }
 ]

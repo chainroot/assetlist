@@ -6,7 +6,7 @@
         "symbol": "ARCH",
         "description": "Archway Staking Coin",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/arch.png",
+        "image": "https://cdn.chainroot.io/images/tokens/5ed385776a5767175c4ac5bbbc441a2fa03e34632bcf72eb419b7c7ddded009d.png",
         "coinGeckoId": "archway",
         "color": "#FF8F69"
     },
@@ -17,7 +17,7 @@
         "symbol": "AXL",
         "description": "Axelar Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/axl.png",
+        "image": "https://cdn.chainroot.io/images/tokens/f76a0d5ddd92b16207551e3131d36155d4cdd231a00fdd81d704db3ca2506a23.png",
         "coinGeckoId": "axelar",
         "ibc_info": {
             "path": "axelar>archway",
@@ -63,7 +63,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7eec0e7b17cfe55e8fdfd8138458d26c83298dc2a12f85f9261af2a5fd9b3f46.png",
         "coinGeckoId": "osmosis",
         "ibc_info": {
             "path": "osmosis>archway",
@@ -86,7 +86,7 @@
         "symbol": "USDC.eth.axl",
         "description": "Circle's stablecoin on Axelar",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "axlusdc",
         "ibc_info": {
             "path": "ethereum>axelar>archway",

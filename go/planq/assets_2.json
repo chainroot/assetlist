@@ -6,7 +6,7 @@
         "symbol": "PLQ",
         "description": "Planq Staking Coin",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/planq.png",
+        "image": "https://cdn.chainroot.io/images/tokens/a18c2a8033504f6f0ac6c4140377387b7c6d00d6131168624265508ea2eea11e.png",
         "coinGeckoId": "planq"
     },
     {
@@ -16,7 +16,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7eec0e7b17cfe55e8fdfd8138458d26c83298dc2a12f85f9261af2a5fd9b3f46.png",
         "coinGeckoId": "osmosis",
         "ibc_info": {
             "path": "osmosis>planq",
@@ -37,9 +37,9 @@
         "denom": "ibc/26B4B4BBF3C8D5DB1ADE993CCD865A7CC608B2BAEF20E0166F18B84E32184F63",
         "name": "nRide Token",
         "symbol": "NRIDE",
-        "description": "nRide is developing a uber-like ride-hailing protocol, leveraging cosmwasm smart-contracts for payment, driver registration and text-messaging between the rider and the driver, to create a trustless public transportation environment for any cab or taxi company to use.",
+        "description": "nRide is developing an uber-like ride-hailing protocol, leveraging cosmwasm smart-contracts for payment, driver registration and text-messaging between the rider and the driver, to create a trustless public transportation environment for any cab or taxi company to use.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/nride.png",
+        "image": "https://cdn.chainroot.io/images/tokens/49fc1b6d27119a771c60ab32bb26f291613dcd10697d0fdc2f45332b2c960e60.png",
         "coinGeckoId": "",
         "ibc_info": {
             "path": "osmosis>planq",

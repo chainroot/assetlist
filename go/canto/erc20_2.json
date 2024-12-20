@@ -6,7 +6,7 @@
         "symbol": "WCANTO",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/wcanto.png",
+        "image": "https://cdn.chainroot.io/images/tokens/64e74d720b845e7c15ef792c650346a0424d52fbfbbf88db79bb345eb1f713d6.png",
         "coinGeckoId": "canto",
         "wallet_preload": true
     },
@@ -28,7 +28,7 @@
         "symbol": "NOTE",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/note.png",
+        "image": "https://cdn.chainroot.io/images/tokens/9c9aa95c044f57b5aa744426be26162a3681a100cf458eaf584fcd32727fb5aa.png",
         "coinGeckoId": "note"
     },
     {
@@ -38,7 +38,7 @@
         "symbol": "USDC",
         "description": "",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "usd-coin",
         "wallet_preload": true
     },
@@ -49,7 +49,7 @@
         "symbol": "USDT",
         "description": "",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8d812a3786178f6dbc556b3cb21411112b7c3a7ac893bf4b70c85e3c2db5a520.png",
         "coinGeckoId": "tether",
         "wallet_preload": true
     },

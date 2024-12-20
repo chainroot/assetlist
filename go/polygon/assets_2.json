@@ -6,7 +6,7 @@
         "symbol": "MATIC",
         "description": "Polygon Native Coin",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/matic.png",
+        "image": "https://cdn.chainroot.io/images/tokens/80ff4b6815a4fc627a865ab1601203a81c29ee3786474b45cadeb9e38eb9b69b.png",
         "coinGeckoId": "tokenMatic"
     }
 ]

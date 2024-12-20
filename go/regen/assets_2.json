@@ -6,7 +6,7 @@
         "symbol": "REGEN",
         "description": "Regen Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/regen.png",
+        "image": "https://cdn.chainroot.io/images/tokens/d13d8fecb8ca62dbaa2aa83d8d4aa42b4d33692cb9a8162b9bd4d73897be5ff7.png",
         "coinGeckoId": "regen",
         "color": "#43AD6B"
     },
@@ -17,7 +17,7 @@
         "symbol": "NCT",
         "description": "Nature Carbon Ton (NCT) is a carbon token standard backed 1:1 by carbon credits issued by Verra, a global leader in the voluntary carbon market. NCT credits on Regen Network have been tokenized by Toucan.earth.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/nct.png",
+        "image": "https://cdn.chainroot.io/images/tokens/26dc2373b4b986d12c2692e8ccbb6a2dfe233441745c87612823451d564e56b0.png",
         "coinGeckoId": "toucan-protocol-nature-carbon-tonne"
     },
     {
@@ -27,7 +27,7 @@
         "symbol": "USDC.eth.axl",
         "description": "Circle's stablecoin on Axelar",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "axlusdc",
         "ibc_info": {
             "path": "ethereum>axelar>regen",

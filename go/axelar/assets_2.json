@@ -6,7 +6,7 @@
         "symbol": "AXL",
         "description": "Axelar Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/axl.png",
+        "image": "https://cdn.chainroot.io/images/tokens/f76a0d5ddd92b16207551e3131d36155d4cdd231a00fdd81d704db3ca2506a23.png",
         "coinGeckoId": "axelar",
         "color": "#A1A1A1"
     },
@@ -40,7 +40,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7eec0e7b17cfe55e8fdfd8138458d26c83298dc2a12f85f9261af2a5fd9b3f46.png",
         "coinGeckoId": "osmosis",
         "ibc_info": {
             "path": "osmosis>axelar",
@@ -63,7 +63,7 @@
         "symbol": "INJ",
         "description": "Injective Staking Coin",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/inj.png",
+        "image": "https://cdn.chainroot.io/images/tokens/339d9960d0f3efdff233fb03b481817db33f70b48bc9b53db7720d0791492dc9.png",
         "coinGeckoId": "injective-protocol",
         "ibc_info": {
             "path": "injective>axelar",
@@ -109,7 +109,7 @@
         "symbol": "KUJI",
         "description": "KUJI Staking Coin - Legacy",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/kuji.png",
+        "image": "https://cdn.chainroot.io/images/tokens/a108c4c0a120eba4ee56a8bc7d19628d083db2322d22cb7ff754ca6f858dc5c8.png",
         "coinGeckoId": "kujira",
         "ibc_info": {
             "path": "kujira>axelar",
@@ -133,7 +133,7 @@
         "symbol": "STARS",
         "description": "Stargaze Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/stars.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7f33a57ac37457517a235c8f48ab63b3e5dd75e5a869cae79346a460a50daedb.png",
         "coinGeckoId": "stargaze",
         "ibc_info": {
             "path": "stargaze>axelar",
@@ -179,7 +179,7 @@
         "symbol": "EVMOS",
         "description": "Evmos Staking Coin",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/evmos.png",
+        "image": "https://cdn.chainroot.io/images/tokens/d5afb4bf339a789d256aef1690b5a89e1249ba0fefdf882daa9e47696dac0cac.png",
         "coinGeckoId": "evmos",
         "ibc_info": {
             "path": "evmos>axelar",
@@ -202,7 +202,7 @@
         "symbol": "REGEN",
         "description": "Regen Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/regen.png",
+        "image": "https://cdn.chainroot.io/images/tokens/d13d8fecb8ca62dbaa2aa83d8d4aa42b4d33692cb9a8162b9bd4d73897be5ff7.png",
         "coinGeckoId": "regen",
         "ibc_info": {
             "path": "regen>axelar",
@@ -225,7 +225,7 @@
         "symbol": "LUNA",
         "description": "Terra Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/luna.png",
+        "image": "https://cdn.chainroot.io/images/tokens/303d5b8f8c3f24d5afd1a74714674fac9655c72071ac1ddc515e4f4e65b5f312.png",
         "coinGeckoId": "terra-luna-2",
         "ibc_info": {
             "path": "terra>axelar",
@@ -248,7 +248,7 @@
         "symbol": "USDC.axl",
         "description": "Circle's stablecoin on Axelar",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "axlusdc",
         "color": "#2474cc",
         "bridge_info": {
@@ -266,7 +266,7 @@
         "symbol": "USDT.axl",
         "description": "Tether's USD stablecoin on Axelar",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8d812a3786178f6dbc556b3cb21411112b7c3a7ac893bf4b70c85e3c2db5a520.png",
         "coinGeckoId": "axelar-usdt",
         "color": "#54ac94",
         "bridge_info": {
@@ -284,7 +284,7 @@
         "symbol": "WBTC.axl",
         "description": "Wrapped Bitcoin on Axelar",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/wbtc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/347e4b450cbbf16ce16b53366a98a4571a507e5d461fff90efee028abbf76dd0.png",
         "coinGeckoId": "axlwbtc",
         "color": "#41394d",
         "bridge_info": {
@@ -302,7 +302,7 @@
         "symbol": "WBTC.axl",
         "description": "ApeCoin on Axelar",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/ape.png",
+        "image": "https://cdn.chainroot.io/images/tokens/5b69d3b346176d5d51549a903bc9057c548cfb3b3f7c5916231565ab1b8b65a4.png",
         "coinGeckoId": "apecoin",
         "bridge_info": {
             "path": "ethereum>axelar",
@@ -319,7 +319,7 @@
         "symbol": "AAVE.axl",
         "description": "Aave on Axelar",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/aave.png",
+        "image": "https://cdn.chainroot.io/images/tokens/eb6ce5ea81656e875a44e3df724c469fad1659f9aa61bc2d015cbf0e59a17b7f.png",
         "coinGeckoId": "aave",
         "bridge_info": {
             "path": "ethereum>axelar",
@@ -354,7 +354,7 @@
         "symbol": "FRAX.axl",
         "description": "Frax's fractional-algorithmic stablecoin on Axelar",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/frax.png",
+        "image": "https://cdn.chainroot.io/images/tokens/990a54a3a8ef2a6037493fcb3f376d97359474d8076dd81d95acc5229bbef50f.png",
         "coinGeckoId": "frax",
         "bridge_info": {
             "path": "ethereum>axelar",
@@ -389,7 +389,7 @@
         "symbol": "LINK.axl",
         "description": "Chainlink on Axelar",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/link.png",
+        "image": "https://cdn.chainroot.io/images/tokens/b896fca670b77b72b44a8036bb07207ef840e25a3249965f0798d50d10c213d5.png",
         "coinGeckoId": "chainlink",
         "color": "#2c5cdc",
         "bridge_info": {
@@ -407,7 +407,7 @@
         "symbol": "MKR.axl",
         "description": "Maker on Axelar",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/mkr.png",
+        "image": "https://cdn.chainroot.io/images/tokens/79f08a8832f8f6c0cb9686bb7bd25e098d2ca23ff48a9b5e46a6305eb3735dc7.png",
         "coinGeckoId": "maker",
         "bridge_info": {
             "path": "ethereum>axelar",
@@ -424,7 +424,7 @@
         "symbol": "RAI.axl",
         "description": "Rai Reflex Index on Axelar",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/rai.png",
+        "image": "https://cdn.chainroot.io/images/tokens/330ee6327288c29689c3ad6166c4ecf8abde3615a94168bf43255ad63f7623e0.png",
         "coinGeckoId": "rai",
         "bridge_info": {
             "path": "ethereum>axelar",
@@ -441,7 +441,7 @@
         "symbol": "SHIB.axl",
         "description": "Shiba Inu on Axelar",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/shib.png",
+        "image": "https://cdn.chainroot.io/images/tokens/25738b0616366ea1f5b72e321d11949002755f4b78c4ad7f928d43587bfe00ef.png",
         "coinGeckoId": "shiba-inu",
         "color": "#FFA409",
         "bridge_info": {
@@ -476,7 +476,7 @@
         "symbol": "UNI.axl",
         "description": "Uniswap on Axelar",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/uni.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ee886d9bf0f65179e57a349bd14307b655e42743a1588cf314db8aeee0be6f9c.png",
         "coinGeckoId": "uniswap",
         "bridge_info": {
             "path": "ethereum>axelar",
@@ -493,7 +493,7 @@
         "symbol": "WMATIC.axl",
         "description": "Wrapped Matic on Axelar",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/wmatic.png",
+        "image": "https://cdn.chainroot.io/images/tokens/e4f54b5ba49187e2392a3466ab68c1a95255ff8a32da1090c6592251bd0811f2.png",
         "coinGeckoId": "wmatic",
         "color": "#8444e4",
         "bridge_info": {
@@ -511,7 +511,7 @@
         "symbol": "WGLMR.axl",
         "description": "Wrapped Moonbeam on Axelar",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/wglmr.png",
+        "image": "https://cdn.chainroot.io/images/tokens/41f899dbddd03cce659c1e127f65d9181dc1d5ed727b9454d5017b4dc375b3c2.png",
         "coinGeckoId": "wrapped-moonbeam",
         "color": "#e4147c",
         "bridge_info": {
@@ -529,7 +529,7 @@
         "symbol": "DOT.axl",
         "description": "Wrapped Polkadot on Axelar",
         "decimals": 10,
-        "image": "https://cdn.chainroot.io/images/tokens/xcdot.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7e46dc1b3a2ee236919adb8723ca74b1b2a92de3689017d531355f1e877fe91a.png",
         "coinGeckoId": "xcdot",
         "color": "#e4047c",
         "bridge_info": {
@@ -547,7 +547,7 @@
         "symbol": "WFTM.axl",
         "description": "Wrapped FTM on Axelar.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/wftm.png",
+        "image": "https://cdn.chainroot.io/images/tokens/d7923b85c428658bd5dc2dff1d8bc3885aca7f9351f84a225b7de72f2b0379f6.png",
         "coinGeckoId": "wrapped-fantom",
         "color": "#1c6cfc",
         "bridge_info": {
@@ -565,7 +565,7 @@
         "symbol": "WAVAX.axl",
         "description": "Wrapped AVAX on Axelar.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/wavax.png",
+        "image": "https://cdn.chainroot.io/images/tokens/52fc753294aa9212bab427f38d9f1739d0607750e877d8086cda782ea61edf58.png",
         "coinGeckoId": "wrapped-avax",
         "bridge_info": {
             "path": "avalanche>axelar",
@@ -582,7 +582,7 @@
         "symbol": "WBNB.axl",
         "description": "Wrapped BNB on Axelar.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/wbnb.png",
+        "image": "https://cdn.chainroot.io/images/tokens/1c7fa1ff639cac48aeaff1f98aed516c2068236657e61e11be496e6eff0c81b0.png",
         "coinGeckoId": "wbnb",
         "color": "#f3bb0c",
         "bridge_info": {
@@ -618,7 +618,7 @@
         "symbol": "wstETH.axl",
         "description": "Wrapped Lido Staked Ether on Axelar",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/wsteth.png",
+        "image": "https://cdn.chainroot.io/images/tokens/74a1607af0c169e9aef9328defc72ce6b12291d1bd22a1c53322666516b41f5c.png",
         "coinGeckoId": "wrapped-steth",
         "bridge_info": {
             "path": "ethereum>axelar",
@@ -635,7 +635,7 @@
         "symbol": "sfrxETH.axl",
         "description": "Staked Frax Ether on Axelar",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/sfrxeth.png",
+        "image": "https://cdn.chainroot.io/images/tokens/f721657eef135a69d602ae12673d96108d0622a82a376c239938cbe28521e1d4.png",
         "coinGeckoId": "staked-frax-ether",
         "bridge_info": {
             "path": "ethereum>axelar",
@@ -652,7 +652,7 @@
         "symbol": "rETH.axl",
         "description": "Rocket Pool Ether on Axelar",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/reth.png",
+        "image": "https://cdn.chainroot.io/images/tokens/161c19c5da6d2f52d33692c08504c62e95bb90a35a83e30557e093a0f86c9900.png",
         "coinGeckoId": "rocket-pool-eth",
         "color": "#fba487",
         "bridge_info": {
@@ -688,7 +688,7 @@
         "symbol": "PEPE.axl",
         "description": "Pepe on Axelar",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/pepe.png",
+        "image": "https://cdn.chainroot.io/images/tokens/41f6050d95f0f6cd0717965c84206d292cbe1bc1bce881acf7ef2f33ff548b2a.png",
         "coinGeckoId": "pepe",
         "color": "#cc3233",
         "bridge_info": {
@@ -706,7 +706,7 @@
         "symbol": "cUSD.axl",
         "description": "cUSD on Axelar",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/cusd.png",
+        "image": "https://cdn.chainroot.io/images/tokens/b5b00c5a0551b8be1393f98b7ba8ab00a8060549e120a8aa2ff8549a31a6b64a.png",
         "coinGeckoId": "celo-dollar",
         "bridge_info": {
             "path": "ethereum>axelar",
@@ -723,7 +723,7 @@
         "symbol": "MPX.axl",
         "description": "MPX on Axelar",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/mpx.png",
+        "image": "https://cdn.chainroot.io/images/tokens/19986703b59881895daadcea5a90956bb029d3f176e351b4e138a6a9178d3215.png",
         "coinGeckoId": "mpx",
         "bridge_info": {
             "path": "fantom>axelar",
@@ -740,7 +740,7 @@
         "symbol": "FIL.axl",
         "description": "Wrapped FIL on Axelar",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/fil.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ac0cf0232a07a8b3178c91ee8aec23334259d540f65decd1eec68b01dc82aefd.png",
         "coinGeckoId": "filecoin",
         "color": "#0694fc",
         "bridge_info": {
@@ -758,7 +758,7 @@
         "symbol": "ARB.axl",
         "description": "Arbitrum on Axelar",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/arb.png",
+        "image": "https://cdn.chainroot.io/images/tokens/39cb5ec3be88bf44cb6bdbd0a827e59f1932424705b59b7aa49285c428800d21.png",
         "coinGeckoId": "arbitrum",
         "color": "#253545",
         "bridge_info": {
@@ -766,6 +766,29 @@
             "counterparty": {
                 "chain": "arbitrum",
                 "contract": "0x912ce59144191c1204e64559fe8253a0e49e6548"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/53046FFF6CAD109D8F9B2C7C9913853AD241928CD05CDDE419343D176025DA74",
+        "name": "Crowdpunk DAO",
+        "symbol": "CROWDP",
+        "description": "The token of Crowdpunk DAO",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/bf442e75e19409efa10042eecd049939d09ba5bd6bda27e9360277c20e77e2c5.svg",
+        "color": "#04fbfb",
+        "ibc_info": {
+            "path": "evmos>axelar",
+            "client": {
+                "channel": "channel-22",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-21",
+                "port": "transfer",
+                "chain": "evmos",
+                "denom": "erc20/0xfbF4318d24a93753F11d365A6dcF8b830e98Ab0F"
             }
         }
     }

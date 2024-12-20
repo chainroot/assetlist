@@ -1,32 +1,32 @@
 [
     {
-        "type": "staking",
+        "type": "native",
         "denom": "umedas",
-        "name": "Medas Digital",
+        "name" : "Medas Digital",
         "symbol": "MEDAS",
         "description": "The native token of Medas Digital Network",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/medas.png",
-        "coinGeckoId": "medasdigital",
+        "image": "https://cdn.chainroot.io/images/tokens/d1fb524f6677c17838a3a70ffe62bbf9a0cdc850aca0d9d38d7aaeb033f1f252.png",
+        "coinGeckoId": "",
         "color": "#0A4ED2"
     },
     {
         "type": "ibc",
-        "denom": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
-        "name": "Osmosis",
+        "denom": "ibc/FBBC35295AA037DC0A77796B08DC3003EC918E18E75D61D675A0EEAC0643F36C",
+        "name" : "Osmosis",
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7eec0e7b17cfe55e8fdfd8138458d26c83298dc2a12f85f9261af2a5fd9b3f46.png",
         "coinGeckoId": "osmosis",
-        "ibc_info": {
+        "ibc_info" : {
             "path": "osmosis>medasdigital",
-            "client": {
+            "client" : {
                 "channel": "channel-0",
                 "port": "transfer"
             },
             "counterparty": {
-                "channel": "channel-519",
+                "channel": "channel-87042",
                 "port": "transfer",
                 "chain": "osmosis",
                 "denom": "uosmo"
@@ -36,15 +36,15 @@
     {
         "type": "ibc",
         "denom": "ibc/B4C138B6F08A5BC826ABEFD56CAE828D2CF0A3B62A73B74AECC46D257371B125",
-        "name": "Sentinel",
+        "name" : "Sentinel",
         "symbol": "DVPN",
         "description": "Sentinel Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/dvpn.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ab186a6cad2c485ed2727da2f677ee7172dfbc22eb0a01cca1ff472ac0c5abb8.png",
         "coinGeckoId": "sentinel",
-        "ibc_info": {
+        "ibc_info" : {
             "path": "sentinel>medasdigital",
-            "client": {
+            "client" : {
                 "channel": "channel-4",
                 "port": "transfer"
             },
@@ -53,29 +53,6 @@
                 "port": "transfer",
                 "chain": "sentinel",
                 "denom": "udvpn"
-            }
-        }
-    },
-    {
-        "type": "ibc",
-        "denom": "ibc/92E4AB82E3B2AF2D5181AC69C74F9F6D890442C7B7B02CC8634B9D3ED7CF936D",
-        "name": "Sifchain",
-        "symbol": "ROWAN",
-        "description": "Sifchain Staking Coin",
-        "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/rowan.png",
-        "coinGeckoId": "sifchain",
-        "ibc_info": {
-            "path": "sifchain>medasdigital",
-            "client": {
-                "channel": "channel-5",
-                "port": "transfer"
-            },
-            "counterparty": {
-                "channel": "channel-89",
-                "port": "transfer",
-                "chain": "sifchain",
-                "denom": "rowan"
             }
         }
     }

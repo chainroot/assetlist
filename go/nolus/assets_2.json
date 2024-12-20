@@ -6,7 +6,53 @@
         "symbol": "NLS",
         "description": "Nolus Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/tia.png",
-        "coingecko_id": "nolus"
+        "image": "https://cdn.chainroot.io/images/tokens/bc2d74354c55df4484eedb9d982d94609a692ea686a3c9ec2008cfd21a1ce4cc.png",
+        "coinGeckoId": "nolus"
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
+        "name": "Osmosis",
+        "symbol": "OSMO",
+        "description": "Osmosis Staking Coin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/7eec0e7b17cfe55e8fdfd8138458d26c83298dc2a12f85f9261af2a5fd9b3f46.png",
+        "coinGeckoId": "osmosis",
+        "ibc_info": {
+            "path": "osmosis>nolus",
+            "client": {
+                "channel": "channel-0",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-783",
+                "port": "transfer",
+                "chain": "osmosis",
+                "denom": "uosmo"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/3D6BC6E049CAEB905AC97031A42800588C58FB471EBDC7A3530FFCD0C3DC9E09",
+        "name": "Neutron",
+        "symbol": "NTRN",
+        "description": "The native token of Neutron chain.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/49cd09acc9cd57f149b95eb89cdf93800719e571b45d3bbd8195e1c25ba5ffb9.png",
+        "coinGeckoId": "neutron-3",
+        "ibc_info": {
+            "path": "neutron>nolus",
+            "client": {
+                "channel": "channel-3839",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-44",
+                "port": "transfer",
+                "chain": "neutron",
+                "denom": "untrn"
+            }
+        }
     }
 ]

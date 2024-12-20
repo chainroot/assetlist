@@ -6,7 +6,7 @@
         "symbol": "BLD",
         "description": "Agoric Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/bld.png",
+        "image": "https://cdn.chainroot.io/images/tokens/f6a3e4c1363794f9194a7343657c1854161ebb28a87dcc68c1d53966edba9eab.png",
         "coinGeckoId": "agoric",
         "color": "#c42b44"
     },
@@ -17,7 +17,7 @@
         "symbol": "IST",
         "description": "IST is the stable token used by the Agoric chain for execution fees and commerce.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/ist.png",
+        "image": "https://cdn.chainroot.io/images/tokens/dccb417ade9a3f5a9f7be3ffd9f32808c02d5dc02a6b6794ffa78bd8b006da36.png",
         "coinGeckoId": "inter-stable-token",
         "color": "#d485e2"
     },
@@ -51,7 +51,7 @@
         "symbol": "USDC.eth.axl",
         "description": "Circle's stablecoin on Axelar",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "axlusdc",
         "ibc_info": {
             "path": "ethereum>axelar>agoric",

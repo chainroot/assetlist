@@ -6,7 +6,7 @@
         "symbol": "UMEE",
         "description": "Umee Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/umee.png",
+        "image": "https://cdn.chainroot.io/images/tokens/89526384ab0c3ed299b470c409cc5c57a407a42dc9b58f1afbfbafc70b328c7c.png",
         "coinGeckoId": "umee",
         "color": "#BB90F8"
     },
@@ -17,7 +17,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7eec0e7b17cfe55e8fdfd8138458d26c83298dc2a12f85f9261af2a5fd9b3f46.png",
         "coinGeckoId": "osmosis",
         "ibc_info": {
             "path": "osmosis>umee",
@@ -40,7 +40,7 @@
         "symbol": "ION",
         "description": "ION is the second native token of Osmosis.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/ion.png",
+        "image": "https://cdn.chainroot.io/images/tokens/c0a4f991f92b153c221907f9a9b1b555ae16b6310aebf3f0c53444d2b134e00a.png",
         "coinGeckoId": "ion",
         "ibc_info": {
             "path": "osmosis>umee",
@@ -109,7 +109,7 @@
         "symbol": "WBTC.eth.axl",
         "description": "Wrapped Bitcoin on Axelar",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/wbtc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/347e4b450cbbf16ce16b53366a98a4571a507e5d461fff90efee028abbf76dd0.png",
         "coinGeckoId": "axlwbtc",
         "ibc_info": {
             "path": "ethereum>axelar>umee",
@@ -132,7 +132,7 @@
         "symbol": "USDC.eth.axl",
         "description": "Circle's stablecoin on Axelar",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "axlusdc",
         "ibc_info": {
             "path": "ethereum>axelar>umee",
@@ -155,7 +155,7 @@
         "symbol": "stOSMO",
         "description": "Stride Liquid Staked OSMO",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/stosmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/c013b7733082ad0da759ac1cc54d6e96d79616433f99c04adf2bf47a2f515905.png",
         "coinGeckoId": "stride-staked-osmo",
         "ibc_info": {
             "path": "stride>umee",
@@ -178,7 +178,7 @@
         "symbol": "WBNB.axl",
         "description": "Wrapped BNB on Axelar.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/wbnb.png",
+        "image": "https://cdn.chainroot.io/images/tokens/1c7fa1ff639cac48aeaff1f98aed516c2068236657e61e11be496e6eff0c81b0.png",
         "coinGeckoId": "binancecoin",
         "ibc_info": {
             "path": "bnb-smart-chain>axelar>umee",
@@ -201,7 +201,7 @@
         "symbol": "DOT.axl",
         "description": "Wrapped Polkadot on Axelar",
         "decimals": 10,
-        "image": "https://cdn.chainroot.io/images/tokens/xcdot.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7e46dc1b3a2ee236919adb8723ca74b1b2a92de3689017d531355f1e877fe91a.png",
         "coinGeckoId": "xcdot",
         "ibc_info": {
             "path": "moonbeam>axelar>umee",
@@ -224,7 +224,7 @@
         "symbol": "IST",
         "description": "IST is the stable token used by the Agoric chain for execution fees and commerce.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/ist.png",
+        "image": "https://cdn.chainroot.io/images/tokens/dccb417ade9a3f5a9f7be3ffd9f32808c02d5dc02a6b6794ffa78bd8b006da36.png",
         "coinGeckoId": "inter-stable-token",
         "ibc_info": {
             "path": "agoric>umee",
@@ -270,7 +270,7 @@
         "symbol": "stATOM",
         "description": "Stride Liquid Staked ATOM",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/statom.png",
+        "image": "https://cdn.chainroot.io/images/tokens/5655c6da00f6891b2655207d2773ac979059a470051270ca1fd2e88726b34ac5.png",
         "coinGeckoId": "stride-staked-atom",
         "ibc_info": {
             "path": "stride>umee",
@@ -293,7 +293,7 @@
         "symbol": "AXL",
         "description": "Axelar Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/axl.png",
+        "image": "https://cdn.chainroot.io/images/tokens/f76a0d5ddd92b16207551e3131d36155d4cdd231a00fdd81d704db3ca2506a23.png",
         "coinGeckoId": "axelar",
         "ibc_info": {
             "path": "axelar>umee",
@@ -316,7 +316,7 @@
         "symbol": "JUNO",
         "description": "Juno Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/juno.png",
+        "image": "https://cdn.chainroot.io/images/tokens/a68afd5f8ab6feac6f7b422daaf5d5da26391ca98cc4596226dcd89366941ea7.png",
         "coinGeckoId": "juno-network",
         "ibc_info": {
             "path": "juno>umee",
@@ -339,7 +339,7 @@
         "symbol": "AKT",
         "description": "Akash Network Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/akt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/6ca4a22af51e4b2b0035437686f67392ea2f2844f9a20f9f07e8605de96479e2.png",
         "coinGeckoId": "akash-network",
         "ibc_info": {
             "path": "akash>umee",
@@ -362,7 +362,7 @@
         "symbol": "WMATIC.pol.axl",
         "description": "Wrapped Matic on Axelar",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/wmatic.png",
+        "image": "https://cdn.chainroot.io/images/tokens/e4f54b5ba49187e2392a3466ab68c1a95255ff8a32da1090c6592251bd0811f2.png",
         "coinGeckoId": "wmatic",
         "ibc_info": {
             "path": "polygon>axelar>umee",
@@ -385,7 +385,7 @@
         "symbol": "USDT.eth.axl",
         "description": "Tether's USD stablecoin on Axelar",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8d812a3786178f6dbc556b3cb21411112b7c3a7ac893bf4b70c85e3c2db5a520.png",
         "coinGeckoId": "axelar-usdt",
         "ibc_info": {
             "path": "ethereum>axelar>umee",

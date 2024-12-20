@@ -6,7 +6,7 @@
         "symbol": "BADGE",
         "description": "$BADGE is the native in-app credits token for BitBadges.",
         "decimals": 9,
-        "image": "https://cdn.chainroot.io/images/tokens/bitbadgeslogo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/e48b984956a480b3a75c479868eaebb8449b9e666017e56fd4294bca09cb7d54.png",
         "coinGeckoId": ""
     },
     {
@@ -16,7 +16,7 @@
         "symbol": "STAKE",
         "description": "The native staking denom for the BitBadges blockchain.",
         "decimals": 9,
-        "image": "https://cdn.chainroot.io/images/tokens/bitbadgeslogo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/e48b984956a480b3a75c479868eaebb8449b9e666017e56fd4294bca09cb7d54.png",
         "coinGeckoId": ""
     }
 ]

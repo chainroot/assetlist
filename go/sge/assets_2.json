@@ -1,0 +1,13 @@
+[
+    {
+        "type": "native",
+        "denom": "usge",
+        "name": "SGE",
+        "symbol": "SGE",
+        "description": "The native token of SGE Network.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/411545fe9d4bd48f67bcb2945d4a55a9fb57c0da806cd4b2ffafdf0766d1d2ea.png",
+        "coinGeckoId": "six-sigma"
+    }
+]
+ 

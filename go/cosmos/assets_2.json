@@ -17,7 +17,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7eec0e7b17cfe55e8fdfd8138458d26c83298dc2a12f85f9261af2a5fd9b3f46.png",
         "coinGeckoId": "osmosis",
         "ibc_info": {
             "path": "osmosis>cosmos",
@@ -40,7 +40,7 @@
         "symbol": "ION",
         "description": "ION is the second native token of Osmosis.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/ion.png",
+        "image": "https://cdn.chainroot.io/images/tokens/c0a4f991f92b153c221907f9a9b1b555ae16b6310aebf3f0c53444d2b134e00a.png",
         "coinGeckoId": "ion",
         "ibc_info": {
             "path": "osmosis>cosmos",
@@ -63,7 +63,7 @@
         "symbol": "IOV",
         "description": "Starname Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/iov.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8259ff88e246cbd894d772d1f3161cc4dd29c4e7102678797da0782defa68a71.png",
         "coinGeckoId": "starname",
         "ibc_info": {
             "path": "starname>cosmos",
@@ -109,7 +109,7 @@
         "symbol": "AKT",
         "description": "Akash Network Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/akt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/6ca4a22af51e4b2b0035437686f67392ea2f2844f9a20f9f07e8605de96479e2.png",
         "coinGeckoId": "akash-network",
         "ibc_info": {
             "path": "akash>cosmos",
@@ -132,7 +132,7 @@
         "symbol": "REGEN",
         "description": "Regen Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/regen.png",
+        "image": "https://cdn.chainroot.io/images/tokens/d13d8fecb8ca62dbaa2aa83d8d4aa42b4d33692cb9a8162b9bd4d73897be5ff7.png",
         "coinGeckoId": "regen",
         "ibc_info": {
             "path": "regen>cosmos",
@@ -155,7 +155,7 @@
         "symbol": "DVPN",
         "description": "Sentinel Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/dvpn.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ab186a6cad2c485ed2727da2f677ee7172dfbc22eb0a01cca1ff472ac0c5abb8.png",
         "coinGeckoId": "sentinel",
         "ibc_info": {
             "path": "sentinel>cosmos",
@@ -201,7 +201,7 @@
         "symbol": "XPRT",
         "description": "Persistence Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/xprt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/597fb533f8ee928d8c56096cbd147c7ef464eee7fd3ef82d9dbd32eb384fb593.png",
         "coinGeckoId": "persistence",
         "ibc_info": {
             "path": "persistence>cosmos",
@@ -224,7 +224,7 @@
         "symbol": "JUNO",
         "description": "Juno Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/juno.png",
+        "image": "https://cdn.chainroot.io/images/tokens/a68afd5f8ab6feac6f7b422daaf5d5da26391ca98cc4596226dcd89366941ea7.png",
         "coinGeckoId": "juno-network",
         "ibc_info": {
             "path": "juno>cosmos",
@@ -247,7 +247,7 @@
         "symbol": "LIKE",
         "description": "Like Staking Coin",
         "decimals": 9,
-        "image": "https://cdn.chainroot.io/images/tokens/like.png",
+        "image": "https://cdn.chainroot.io/images/tokens/1134ba0324985dcd58075510bcf7651f81823272a159caafc27aa2d599308c93.png",
         "coinGeckoId": "likecoin",
         "ibc_info": {
             "path": "likecoin>cosmos",
@@ -270,7 +270,7 @@
         "symbol": "INJ",
         "description": "Injective Staking Coin",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/inj.png",
+        "image": "https://cdn.chainroot.io/images/tokens/339d9960d0f3efdff233fb03b481817db33f70b48bc9b53db7720d0791492dc9.png",
         "coinGeckoId": "injective-protocol",
         "ibc_info": {
             "path": "injective>cosmos",
@@ -316,7 +316,7 @@
         "symbol": "BTSG",
         "description": "BitSong Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/btsg.png",
+        "image": "https://cdn.chainroot.io/images/tokens/43fd0fe35864c835cd7f663a0fcbd283559f5207d07d8fe758b0c93b400bb016.png",
         "coinGeckoId": "bitsong",
         "ibc_info": {
             "path": "bitsong>cosmos",
@@ -339,7 +339,7 @@
         "symbol": "BCNA",
         "description": "BitCanna Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/bcna.png",
+        "image": "https://cdn.chainroot.io/images/tokens/16fed07ceed8b0a1e7422fe4ea08e6bc53ea46fd5b57fd9ece897c24c51024be.png",
         "coinGeckoId": "bitcanna",
         "ibc_info": {
             "path": "bitcanna>cosmos",
@@ -362,7 +362,7 @@
         "symbol": "KAVA",
         "description": "Kava Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/kava.png",
+        "image": "https://cdn.chainroot.io/images/tokens/a46273005a34ab2209dec91202490e01024b231a043ef473bfaa4fc3529f362c.png",
         "coinGeckoId": "kava",
         "ibc_info": {
             "path": "kava>cosmos",
@@ -385,7 +385,7 @@
         "symbol": "UMEE",
         "description": "UX Chain Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/umee.png",
+        "image": "https://cdn.chainroot.io/images/tokens/89526384ab0c3ed299b470c409cc5c57a407a42dc9b58f1afbfbafc70b328c7c.png",
         "coinGeckoId": "umee",
         "ibc_info": {
             "path": "umee>cosmos",
@@ -431,7 +431,7 @@
         "symbol": "EVMOS",
         "description": "Evmos Staking Coin",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/evmos.png",
+        "image": "https://cdn.chainroot.io/images/tokens/d5afb4bf339a789d256aef1690b5a89e1249ba0fefdf882daa9e47696dac0cac.png",
         "coinGeckoId": "evmos",
         "ibc_info": {
             "path": "evmos>cosmos",
@@ -454,7 +454,7 @@
         "symbol": "AIOZ",
         "description": "Aioz Staking Coin",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/aioz.png",
+        "image": "https://cdn.chainroot.io/images/tokens/50213d761afd602940cad87622d1287077011a2b66508c7af84d096e4a14f7b1.png",
         "coinGeckoId": "aioz-network",
         "ibc_info": {
             "path": "aioz>cosmos",
@@ -477,7 +477,7 @@
         "symbol": "NTRN",
         "description": "The native token of Neutron chain.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/ntrn.png",
+        "image": "https://cdn.chainroot.io/images/tokens/49cd09acc9cd57f149b95eb89cdf93800719e571b45d3bbd8195e1c25ba5ffb9.png",
         "coinGeckoId": "neutron-3",
         "ibc_info": {
             "path": "neutron>cosmos",
@@ -500,7 +500,7 @@
         "symbol": "STRD",
         "description": "Stride Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/strd.png",
+        "image": "https://cdn.chainroot.io/images/tokens/e322bee0d934d0425b875ac8eeee7eb81429ff46d77b3eaaf60487ab1badb026.png",
         "coinGeckoId": "stride",
         "ibc_info": {
             "path": "stride>cosmos",
@@ -523,7 +523,7 @@
         "symbol": "stATOM",
         "description": "Stride Liquid Staked ATOM",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/statom.png",
+        "image": "https://cdn.chainroot.io/images/tokens/5655c6da00f6891b2655207d2773ac979059a470051270ca1fd2e88726b34ac5.png",
         "coinGeckoId": "stride-staked-atom",
         "ibc_info": {
             "path": "stride>cosmos",
@@ -546,7 +546,7 @@
         "symbol": "stOSMO",
         "description": "Stride Liquid Staked OSMO",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/stosmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/c013b7733082ad0da759ac1cc54d6e96d79616433f99c04adf2bf47a2f515905.png",
         "coinGeckoId": "stride-staked-osmo",
         "ibc_info": {
             "path": "stride>cosmos",
@@ -569,7 +569,7 @@
         "symbol": "stSTARS",
         "description": "Stride Staked STARS",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/ststars.png",
+        "image": "https://cdn.chainroot.io/images/tokens/5d1484041bfb217158f6602a0a1756b6da4fea399d5d6e4847111c040eeeb9a0.png",
         "coinGeckoId": "stride-staked-stars",
         "ibc_info": {
             "path": "stride>cosmos",
@@ -592,7 +592,7 @@
         "symbol": "stJUNO",
         "description": "Stride Staked JUNO",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/stjuno.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4880a340651ffa201420cc7b436f1796f45f7a1a47eeed92e38a592d9b28d58b.png",
         "coinGeckoId": "stride-staked-juno",
         "ibc_info": {
             "path": "stride>cosmos",
@@ -615,7 +615,7 @@
         "symbol": "stEVMOS",
         "description": "Stride Staked EVMOS",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/stevmos.png",
+        "image": "https://cdn.chainroot.io/images/tokens/afad015ce88ff6c68c7a96480fde907690029a0788b9e63f2d5363d7b9afe78e.png",
         "coinGeckoId": "stride-staked-evmos",
         "ibc_info": {
             "path": "stride>cosmos",
@@ -638,7 +638,7 @@
         "symbol": "stINJ",
         "description": "Stride Staked INJ",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/stinj.png",
+        "image": "https://cdn.chainroot.io/images/tokens/0d741e8a514904db4bd7f9c48bc97d8bf9d1f8f29f9d973bc7ab5ab45650a78d.png",
         "coinGeckoId": "stride-staked-injective",
         "ibc_info": {
             "path": "stride>cosmos",
@@ -661,7 +661,7 @@
         "symbol": "stUMEE",
         "description": "Stride Staked UMEE",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/stumee.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4fe6248080aff0beb063b11143e6174be7459bf567c32c4907e3ca537d0ca709.png",
         "coinGeckoId": "stride-staked-umee",
         "ibc_info": {
             "path": "stride>cosmos",
@@ -684,7 +684,7 @@
         "symbol": "stCMDX",
         "description": "Stride Staked CMDX",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/stcmdx.png",
+        "image": "https://cdn.chainroot.io/images/tokens/2e437c494e3dfddbad6fa6dd2f336c2427928792360f19d630b3a2ff71317dad.png",
         "coinGeckoId": "",
         "ibc_info": {
             "path": "stride>cosmos",
@@ -707,7 +707,7 @@
         "symbol": "stLUNA",
         "description": "Stride Staked LUNA",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/stluna.png",
+        "image": "https://cdn.chainroot.io/images/tokens/6935bd030169f2b9ce8c2d1647b54bb8d04ddafba0ed96dd64b68b843c8a91de.png",
         "coinGeckoId": "stride-staked-luna",
         "ibc_info": {
             "path": "stride>cosmos",
@@ -730,7 +730,7 @@
         "symbol": "stSOMM",
         "description": "Stride Staked SOMM",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/stsomm.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7eef5ccb8091ca27e16bdb6e05dd3db0b054d9afa235425e6c46d0a6743bcb73.png",
         "coinGeckoId": "",
         "ibc_info": {
             "path": "stride>cosmos",
@@ -776,7 +776,7 @@
         "symbol": "CIF",
         "description": "Cifer Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/cif.png",
+        "image": "https://cdn.chainroot.io/images/tokens/77beadd0075aacf3a001900e015512e27d20ed20236240829b33677840f39005.png",
         "coinGeckoId": "",
         "ibc_info": {
             "path": "cifer>cosmos",
@@ -789,6 +789,29 @@
                 "port": "transfer",
                 "chain": "cifer",
                 "denom": "ucif"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/74C4FE1EC3BDD66B02C691496371DDBB86DDE512C5BC072D76262C6C9B4B20D1",
+        "name": "Crowdpunk DAO",
+        "symbol": "CROWDP",
+        "description": "The token of Crowdpunk DAO",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/bf442e75e19409efa10042eecd049939d09ba5bd6bda27e9360277c20e77e2c5.svg",
+        "color": "#04fbfb",
+        "ibc_info": {
+            "path": "evmos>cosmos",
+            "client": {
+                "channel": "channel-292",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-3",
+                "port": "transfer",
+                "chain": "evmos",
+                "denom": "erc20/0xfbF4318d24a93753F11d365A6dcF8b830e98Ab0F"
             }
         }
     }

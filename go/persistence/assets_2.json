@@ -6,7 +6,7 @@
         "symbol": "XPRT",
         "description": "Persistence Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/xprt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/597fb533f8ee928d8c56096cbd147c7ef464eee7fd3ef82d9dbd32eb384fb593.png",
         "coinGeckoId": "persistence",
         "color": "#E50A13"
     },
@@ -17,7 +17,7 @@
         "symbol": "stkATOM",
         "description": "PSTAKE Liquid-Staked ATOM",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/stkatom.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7cb22589d8f76c0b0fe39ed103a235aef2150a2b30de06dcc462413ba4e92222.png",
         "coinGeckoId": "stkatom"
     },
     {
@@ -27,7 +27,7 @@
         "symbol": "stkOSMO",
         "description": "PSTAKE Liquid-Staked OSMO",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/stkosmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/d475a452d38cfde6fcb1afd7dd86935b767d8b333ed95c0d06fd0db16b25642f.png",
         "coinGeckoId": "stkosmo"
     },
     {
@@ -37,7 +37,7 @@
         "symbol": "stkDYDX",
         "description": "PSTAKE Liquid-Staked DYDX",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/stkdydx.png",
+        "image": "https://cdn.chainroot.io/images/tokens/3512d92d949113c67178aa23e24e8ed75683f40e056ce37dcb408eb5e1a419f9.png",
         "coinGeckoId": "stkdydx"
     },
     {
@@ -47,7 +47,7 @@
         "symbol": "stkSTARS",
         "description": "PSTAKE Liquid-Staked STARS",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/stkstars.png",
+        "image": "https://cdn.chainroot.io/images/tokens/9c91944fdfa83b8b926dd592132601c63d07f8d5147ef756b829307f0ee88aad.png",
         "coinGeckoId": "stkstars"
     },
     {
@@ -57,7 +57,7 @@
         "symbol": "stkHUAHUA",
         "description": "PSTAKE Liquid-Staked HUAHUA",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/stkhuahua.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4df45071b28e1df4ecf77130a01d8c93f5cbd84b5a43f9739cba29c140519c66.png",
         "coinGeckoId": "stkhuahua"
     },
     {
@@ -67,7 +67,7 @@
         "symbol": "stkXPRT",
         "description": "PSTAKE Liquid-Staked XPRT",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/stkxprt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/5e2a0fcc9b632d0aa0b865c05032bf2bfc0e928bc2438de67d713164874ec3e3.png",
         "coinGeckoId": "stkxprt"
     },
     {
@@ -123,7 +123,7 @@
         "symbol": "ION",
         "description": "ION is the second native token of Osmosis.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/ion.png",
+        "image": "https://cdn.chainroot.io/images/tokens/c0a4f991f92b153c221907f9a9b1b555ae16b6310aebf3f0c53444d2b134e00a.png",
         "coinGeckoId": "ion",
         "ibc_info": {
             "path": "osmosis>persistence",
@@ -146,7 +146,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7eec0e7b17cfe55e8fdfd8138458d26c83298dc2a12f85f9261af2a5fd9b3f46.png",
         "coinGeckoId": "osmosis",
         "ibc_info": {
             "path": "osmosis>persistence",
@@ -169,7 +169,7 @@
         "symbol": "ROWAN",
         "description": "Sifchain Staking Coin",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/rowan.png",
+        "image": "https://cdn.chainroot.io/images/tokens/950892d73be33edc255820595a00c5925dd3faf9175c90fa73f83b199452736a.png",
         "coinGeckoId": "sifchain",
         "ibc_info": {
             "path": "sifchain>persistence",
@@ -192,7 +192,7 @@
         "symbol": "JUNO",
         "description": "Juno Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/juno.png",
+        "image": "https://cdn.chainroot.io/images/tokens/a68afd5f8ab6feac6f7b422daaf5d5da26391ca98cc4596226dcd89366941ea7.png",
         "coinGeckoId": "juno-network",
         "ibc_info": {
             "path": "juno>persistence",
@@ -238,7 +238,7 @@
         "symbol": "USDt.kava",
         "description": "Tether USDt",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8d812a3786178f6dbc556b3cb21411112b7c3a7ac893bf4b70c85e3c2db5a520.png",
         "coinGeckoId": "tether",
         "ibc_info": {
             "path": "kava>persistence",
@@ -284,7 +284,7 @@
         "symbol": "DYDX",
         "description": "dYdX Staking Coin",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/dydx.png",
+        "image": "https://cdn.chainroot.io/images/tokens/677cade7b259aeee5fa1fc0de4192d85b896a2275d20f1997fadcac34c45abad.png",
         "coinGeckoId": "dydx-chain",
         "ibc_info": {
             "path": "dydx>persistence",
@@ -307,7 +307,7 @@
         "symbol": "STARS",
         "description": "Stargaze Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/stars.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7f33a57ac37457517a235c8f48ab63b3e5dd75e5a869cae79346a460a50daedb.png",
         "coinGeckoId": "stargaze",
         "ibc_info": {
             "path": "stargaze>persistence",
@@ -330,7 +330,7 @@
         "symbol": "SHD",
         "description": "The native token cw20 for Shade on Secret Network",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/shd.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7c445d3c5d47e5856ab6565108e55d318a9ef86ac6124eb6367a868a5c7cf644.png",
         "coinGeckoId": "shade-protocol",
         "ibc_info": {
             "path": "secret>persistence",
@@ -342,7 +342,7 @@
                 "channel": "channel-132",
                 "port": "wasm.secret1tqmms5awftpuhalcv5h5mg76fa0tkdz4jv9ex4",
                 "chain": "secret",
-                "denom": "cw20:secret153wu605vvp934xhd4k9dtd640zsep5jkesstdm"
+                "denom": "secret153wu605vvp934xhd4k9dtd640zsep5jkesstdm"
             }
         }
     },
@@ -353,7 +353,7 @@
         "symbol": "HUAHUA",
         "description": "Chihuahua Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/huahua.png",
+        "image": "https://cdn.chainroot.io/images/tokens/5a3b8afa75a2496ed6cb989eb834735acff452a64ede07bd32aa3c5040d234cc.png",
         "coinGeckoId": "chihuahua-token",
         "ibc_info": {
             "path": "chihuahua>persistence",
@@ -376,7 +376,7 @@
         "symbol": "WBTC.osmo",
         "description": "Wrapped Bitcoin (WBTC) is an ERC20 token backed 1:1 with Bitcoin. Completely transparent. 100% verifiable. Community led.",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/wbtc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/347e4b450cbbf16ce16b53366a98a4571a507e5d461fff90efee028abbf76dd0.png",
         "coinGeckoId": "wrapped-bitcoin",
         "ibc_info": {
             "path": "osmosis>persistence",

@@ -40,7 +40,7 @@
         "symbol": "USDC.eth.axl",
         "description": "Circle's stablecoin on Axelar",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "usd-coin",
         "ibc_info": {
             "path": "ethereum>axelar>osmosis>mars-protocol",
@@ -63,7 +63,7 @@
         "symbol": "CRE",
         "description": "Crescent Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/cre.png",
+        "image": "https://cdn.chainroot.io/images/tokens/232b9d13f9b70276b4ac61b149c5e80fb4a84eb63a9457ba1d33d22a1b8f5e92.png",
         "coinGeckoId": "crescent-network",
         "ibc_info": {
             "path": "crescent>mars-protocol",
@@ -87,7 +87,7 @@
         "symbol": "JUNO",
         "description": "Juno Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/juno.png",
+        "image": "https://cdn.chainroot.io/images/tokens/a68afd5f8ab6feac6f7b422daaf5d5da26391ca98cc4596226dcd89366941ea7.png",
         "coinGeckoId": "juno-network",
         "ibc_info": {
             "path": "juno>mars-protocol",
@@ -110,7 +110,7 @@
         "symbol": "KUJI",
         "description": "KUJI Staking Coin - Legacy",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/kuji.png",
+        "image": "https://cdn.chainroot.io/images/tokens/a108c4c0a120eba4ee56a8bc7d19628d083db2322d22cb7ff754ca6f858dc5c8.png",
         "coinGeckoId": "kujira",
         "ibc_info": {
             "path": "kujira>mars-protocol",
@@ -134,7 +134,7 @@
         "symbol": "LUNA",
         "description": "Terra Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/luna.png",
+        "image": "https://cdn.chainroot.io/images/tokens/303d5b8f8c3f24d5afd1a74714674fac9655c72071ac1ddc515e4f4e65b5f312.png",
         "coinGeckoId": "terra",
         "ibc_info": {
             "path": "terra>mars-protocol",
@@ -157,7 +157,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7eec0e7b17cfe55e8fdfd8138458d26c83298dc2a12f85f9261af2a5fd9b3f46.png",
         "coinGeckoId": "osmosis",
         "ibc_info": {
             "path": "osmosis>mars-protocol",

@@ -1,0 +1,12 @@
+[
+    {
+        "type": "native",
+        "denom": "ario",
+        "name" : "Rio",
+        "symbol": "RIO",
+        "description": "The native token of Realio Network",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/1b4522c2a7769a317527d935d24e7922926cdf1149911a7f439234999e659ece.png",
+        "coinGeckoId": "realio-network"
+    }
+]

@@ -1,0 +1,1536 @@
+[
+  {
+    "type": "erc20",
+    "contract": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
+    "coinGeckoId": "usd-coin",
+    "wallet_preload": true
+  },
+  {
+    "type": "erc20",
+    "contract": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+    "name": "Wrapped Fantom",
+    "symbol": "WFTM",
+    "description": "",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/6326825c069c33e2f38cd4d7222f05fd8a0765ccff3b9ebf6a4e1e140f9d4150.svg",
+    "coinGeckoId": "wrapped-fantom",
+    "wallet_preload": true
+  },
+  {
+    "type": "erc20",
+    "contract": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "description": "",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/weth.png",
+    "coinGeckoId": "weth",
+    "wallet_preload": true
+  },
+  {
+    "type": "erc20",
+    "contract": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "description": "",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/dai.png",
+    "coinGeckoId": "dai",
+    "wallet_preload": true
+  },
+  {
+    "type": "erc20",
+    "contract": "0x1B6382DBDEa11d97f24495C9A90b7c88469134a4",
+    "name": "Axelar USDC",
+    "symbol": "axlUSDC",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f0cab078fb678fe422c126abd96de37cc7c8e41baca25514702c8926aa2b5008.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "erc20",
+    "contract": "0x66eed5ff1701e6ed8470dc391f05e27b1d0657eb",
+    "name": "Morphex",
+    "symbol": "MPX",
+    "description": "",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/d6110c4b61017f382b9443e687b1c912f6b48b3a7381f1983ad334e7cb82d015.svg",
+    "coinGeckoId": "mpx"
+  },
+  {
+    "type": "erc20",
+    "contract": "0xD5d5350F42CB484036A1C1aF5F2DF77eAFadcAFF",
+    "name": "Axelar DAI",
+    "symbol": "axlDAI",
+    "description": "",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/ed5c6f69f06efa49e41b244dc871784954caeaae46975e7e7d5f1b0337c8dff8.svg",
+    "coinGeckoId": "dai"
+  },
+  {
+    "type": "erc20",
+    "contract": "0xd226392C23fb3476274ED6759D4a478db3197d82",
+    "name": "Axelar USDT",
+    "symbol": "axlUSDT",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/0d5043127c389dff314d8f6b47513f387761e89dcb3ecbcdd3363c402061abb2.svg",
+    "coinGeckoId": "tether"
+  },
+  {
+    "type": "erc20",
+    "contract": "0x448d59B4302aB5d2dadf9611bED9457491926c8e",
+    "name": "Axelar Wrapped BTC",
+    "symbol": "axlWBTC",
+    "description": "",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/d7ef19e45e45a9df241a108337916882f5c47391a840e22c5427d1b8d2cd5d13.png",
+    "coinGeckoId": "wrapped-bitcoin"
+  },
+  {
+    "type": "erc20",
+    "contract": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+    "name": "StargateToken",
+    "symbol": "STG",
+    "description": "",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/8f7a92ed725ec21aae31aeb4f70aae60277c4ba951cfc6d2ef9b4a92465bfda2.png",
+    "coinGeckoId": "stargate-finance"
+  },
+  {
+    "type": "erc20",
+    "contract": "0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8",
+    "name": "ChainLink",
+    "symbol": "LINK",
+    "description": "LINK",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/975a51f397ad1cb89c9640350cbc6554db3a90edc12192ce867082265d128aa6.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B",
+    "name": "Aave",
+    "symbol": "AAVE",
+    "description": "AAVE",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/7ecb128335a3233ef9c25a8c93d265fd5a9e08b3850f29035d54b92f2d0fa847.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x1E4F97b9f9F913c46F1632781732927B9019C68b",
+    "name": "Curve DAO",
+    "symbol": "CRV",
+    "description": "CRV",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/854e15d0fcac8ec29d73fa34a27545b64b2ea95eb78a4cdd1f78c668e5ed199f.png/type=default_350_0?v=1730910891782",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x9879aBDea01a879644185341F7aF7d8343556B7a",
+    "name": "TrueUSD",
+    "symbol": "TUSD",
+    "description": "TUSD",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/6aea2c484e259359a030609e560022f4079c6048dbb0d05259a90bff979d66fc.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xae75A438b2E0cB8Bb01Ec1E1e376De11D44477CC",
+    "name": "Sushi",
+    "symbol": "SUSHI",
+    "description": "SUSHI",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/c76921d8257908c446b632b4d9e8ff3bb5e0738d54eeb60d636c973daefdde8d.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc",
+    "name": "Synthetix Network",
+    "symbol": "SNX",
+    "description": "SNX",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/ccd04adb12a55412d845d60faf024528b6be9f1b13c46454e8b29c45c06fd355.png/type=png_350_0",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x29b0Da86e484E1C0029B56e817912d778aC0EC69",
+    "name": "yearn.finance",
+    "symbol": "YFI",
+    "description": "YFI",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/188c7efb435b73a457ece85c8d2e19ab4d37d7f8b4953426a55158ece4ddfd89.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xdDcb3fFD12750B45d32E084887fdf1aABAb34239",
+    "name": "Anyswap",
+    "symbol": "ANY",
+    "description": "ANY",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/e6c5d2d47165618e86bb69a2dfff62f856e301680d10aafda4a3f999d2dabc16.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x46E7628E8b4350b2716ab470eE0bA1fa9e76c6C5",
+    "name": "Band",
+    "symbol": "BAND",
+    "description": "BAND",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/c8fc9f7f1a02deb426284c688814e24076b56e2277ab1cccf385f87334417cb2.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xaD996A45fd2373ed0B10Efa4A8eCB9de445A4302",
+    "name": "AlpacaToken",
+    "symbol": "ALPACA",
+    "description": "ALPACA",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/6f73f4ff7558c02631cb9bf4ad16c3ccd2f7a9467df83bfb2586e3251c079610.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xd6070ae98b8069de6B494332d1A1a81B6179D960",
+    "name": "Beefy.Finance",
+    "symbol": "BIFI",
+    "description": "BIFI",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/6f49e52c3888fd1c95607a45aa0ed507eeb4d60b001004426218dd5cf5298ab1.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x841FAD6EAe12c286d1Fd18d1d525DFfA75C7EFFE",
+    "name": "SpookyToken",
+    "symbol": "BOO",
+    "description": "BOO",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/d40a0a194fa1783f17500914896e20f86ec7fbfd051cb1dd43ce00c3b1ccbad7.png/type=default_350_0?v=1730910900184",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x4cdF39285D7Ca8eB3f090fDA0C069ba5F4145B37",
+    "name": "TSHARE",
+    "symbol": "TSHARE",
+    "description": "TSHARE",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/b4dd306976cade788f7e39eca3f9058ce92e002a88ababe5c1468cc7996ebd81.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x10b620b2dbAC4Faa7D7FFD71Da486f5D44cd86f9",
+    "name": "Liquid Driver",
+    "symbol": "LQDR",
+    "description": "LQDR",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/a6db88d08ba3cd2ea19fdac2fd53c6934ec9ae1399670b25b0807efbb92fdb90.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x82f0B8B456c1A451378467398982d4834b6829c1",
+    "name": "Magic Internet Money",
+    "symbol": "MIM",
+    "description": "MIM",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/b5d136c1fffc65570c57d5fa30c51842e5296f36b82ad5a9deda368536153c3b.png/type=default_350_0?v=1731085236449",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x468003B688943977e6130F4F68F23aad939a1040",
+    "name": "Spell Token",
+    "symbol": "SPELL",
+    "description": "SPELL",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/0830cd03e8f77827101755ab5d3a88a3dce095e6f93b40b47187ffa8b008bd4a.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xF24Bcf4d1e507740041C9cFd2DddB29585aDCe1e",
+    "name": "BeethovenxToken",
+    "symbol": "BEETS",
+    "description": "BEETS",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/d8711faf44bfbe8d8cd60386b6ffb7896808a717dbb057144a0864f8b94b61c6.png/type=default_350_0?v=1730910915207",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xD3b71117E6C1558c1553305b44988cd944e97300",
+    "name": "YEL Token",
+    "symbol": "YEL",
+    "description": "YEL",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/9931fdde59b66018ab63130037b4a98fd1a2a204df8c72653e4bd87dac677693.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x667c856f1A624BAeFE89fC4909C8701296C86c98",
+    "name": "Onino",
+    "symbol": "ONI",
+    "description": "ONI",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/0848c11dd23125e7072545da6b5ddf08262045f81ed5c1969817521172306032.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x3E01B7E242D5AF8064cB9A8F9468aC0f8683617c",
+    "name": "Orbs",
+    "symbol": "ORBS",
+    "description": "ORBS",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/cc12df754eeed24e26ae42e8bc57f301a182ad79116fc7064005847a5fd5646a.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x85dec8c4b2680793661bca91a8f129607571863d",
+    "name": "PaintSwap Token",
+    "symbol": "BRUSH",
+    "description": "BRUSH",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/8f499ecbce33661ed3a73f2d217d5eeb812709662dee0f9b743ccefc03bab51e.png/type=default_350_0?v=1730910905983",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x6c021ae822bea943b2e66552bde1d2696a53fbb7",
+    "name": "TOMB",
+    "symbol": "TOMB",
+    "description": "TOMB",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/c7af484a283b790a016cc3f4bab412bb16b8d84428a5b34f21cde4257e957890.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xea38f1ccf77bf43f352636241b05dd8f6f5f52b2",
+    "name": "Impermax",
+    "symbol": "IMX",
+    "description": "IMX",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/9b4c8225b1dab728b4ae5b2a18c578ff6850e16d3badda86fd8af90f4028fb26.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x049d68029688eabf473097a2fc38ef61633a3c7a",
+    "name": "Frapped USDT",
+    "symbol": "fUSDT",
+    "description": "fUSDT",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/335b99f6cd658b77250fb4443ef39f67ff91cf7f8399a8b3c0cf5d6446ebfd70.png/type=default_350_0?v=1731083805367",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x6626c47c00f1d87902fc13eecfac3ed06d5e8d8a",
+    "name": "Wootrade Network",
+    "symbol": "WOO",
+    "description": "WOO",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/d3d201a6da87c3e22b0c3701a77ce72e4a5c6741121aff963fe2a192215be8b3.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x321162cd933e2be498cd2267a90534a804051b11",
+    "name": "Bitcoin",
+    "symbol": "WBTC",
+    "description": "WBTC",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/47d78cc5420d034a7c00aa3ce379a86e9a65035a1a6f4dbdd0b24e7c7401c2db.png/type=default_350_0?v=1730910891671",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x33333ee26a7d02e41c33828b42fb1e0889143477",
+    "name": "LIQR",
+    "symbol": "LIQR",
+    "description": "LIQR",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/ed758f7522fec2c0c441014567d81618d35bdcbad2b21c12bbb93f3213f77af7.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xf8acf86194443dcde55fc5b9e448e183c290d8cb",
+    "name": "STASIS EURS Token",
+    "symbol": "EURS",
+    "description": "EURS",
+    "decimals": 2,
+    "image": "https://cdn.chainroot.io/images/tokens/8715a56f7082ed6bc269bc1f87679fdceaa3b764ef27296a1bed409237bc11f6.png/type=default_350_0",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x82f8cb20c14f134fe6ebf7ac3b903b2117aafa62",
+    "name": "Frax Share",
+    "symbol": "FXS",
+    "description": "FXS",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/fcddbc73f0805ed58ef4b2ff61d12d3418d4445b6d864c951e0c95e99f016913.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xf0c918b2a27746afc863d32a9a07b5cad3a0ef42",
+    "name": "GBOND",
+    "symbol": "GBOND",
+    "description": "GBOND",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/6de27ec851ffcc8442304c5eb4be4c7d97eb71394820e739059021fd60064a9e.png/type=default_350_0",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x76ce14947f74a2664700e68452fe9166174af9ab",
+    "name": "Coinary Token",
+    "symbol": "CYT",
+    "description": "CYT",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/e1e04101ccb8190e6d774c78c0cc771b4e1106186c2ea9d0a52b7b98e7d4b5f4.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xf887906e130349a624ffa3cf1fa5b56f48b11c08",
+    "name": "Official Crypto Cowboy Token",
+    "symbol": "OCCT",
+    "description": "OCCT",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/94cbac033031715bbd6dc67dac4e007dc41cf398d75743c9a61bdf8be96e67c1.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x5fdf0b736b0eb0564b50baf0d15a1a8ae6c6c1d9",
+    "name": "Mainstream For The Underground",
+    "symbol": "MFTU",
+    "description": "MFTU",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/bc3549997bd827c543f256a8958574d9899acd4321552138976e028afec7f804.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x7dd7eaf5872e260f35dc60a54e0f25193128c765",
+    "name": "Grape Finance",
+    "symbol": "GRAPE",
+    "description": "GRAPE",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/9318c28b9253b0cb5fbc248daea7cd0e9e4a82dd005444d9ff7df4e33fadde88.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x71604bc2766b8045a47b905ffea2038f7cdd43e9",
+    "name": "Time",
+    "symbol": "TIME",
+    "description": "TIME",
+    "decimals": 9,
+    "image": "https://cdn.chainroot.io/images/tokens/d687a64915ded0e1ee5c94bcb623f2a96f455c5d574857351660c20f9cd9f4b8.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x2ad402655243203fcfa7dcb62f8a08cc2ba88ae0",
+    "name": "CRE8R DAO",
+    "symbol": "CRE8R",
+    "description": "CRE8R",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/6df6021553de6dd2ba1cd5525ba9d91ab912b0517cd0af2c291597d7d3ec046b.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xef393310b708761e3b6b59813ef41fe45d853cec",
+    "name": "DefiLaunch Token",
+    "symbol": "fDLAUNCH",
+    "description": "fDLAUNCH",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/84f948e7b025a7bb60dd58445b6c67a21a65d9287415cedddaee6b9da54943ed.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x89346b51a54263cf2e92da79b1863759efa68692",
+    "name": "Wrapped sSPA",
+    "symbol": "wsSPA",
+    "description": "wsSPA",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/358dbe6153d0c23a23db089508f198e572671f78870f862dc06bfb8aa3888995.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x4792c1ecb969b036eb51330c63bd27899a13d84e",
+    "name": "Bat True Dollar",
+    "symbol": "BTD",
+    "description": "BTD",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/5a1beabfcbd61d2bc64c7f72c3f61b38ca0184ddc3e04cd76f7283b9f1391129.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x7f352fa977713019c484c58e9bdfb04910016871",
+    "name": "DAPPSY",
+    "symbol": "APP",
+    "description": "APP",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/319688ed7a88745bcc1c128e9fcc1633af8fc547a5a5e2572c64dd7b8ff5a62e.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xe64b9fd040d1f9d4715c645e0d567ef69958d3d9",
+    "name": "Modefi",
+    "symbol": "MOD",
+    "description": "MOD",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/d4bab1935c7f2adedea2c7ef5d4747840d395022f5e74e2b7cc70146112c22bf.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x278e3e675f673db344ef14a4dc2f12218967a313",
+    "name": "Moo Boo USDC-MAI",
+    "symbol": "mooBooUSDC-MAI",
+    "description": "mooBooUSDC-MAI",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/eaf186bbaeb047fe50a99637982137cdc4f58f64fc9da723f2552bb66b929146.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x75e0eb8e6d92ab832bb11e46c041d06a89ac5f0d",
+    "name": "BIOS",
+    "symbol": "BIOS",
+    "description": "BIOS",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/38fe7127af9156eadfb44f17a46a2c82b42eb27d0766fbf7f0b64e9a02171897.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xa9cad0165c155f3998b0001b3ef30bca0aa6b591",
+    "name": "WalletNow",
+    "symbol": "WNOW",
+    "description": "WNOW",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/ab8b62446673556f2cd53edfebd094c69c6192d974ab4c27ec146a694cb2c427.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xaf319e5789945197e365e7f7fbfc56b130523b33",
+    "name": "Frax",
+    "symbol": "FRAX",
+    "description": "FRAX",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/d89b9a76594b530c9c08cb1cc9757ad86f61024b716e7a56cbed8ad90437bc20.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xa5dece54840587b267633dcad1359ce54c8958f0",
+    "name": "Creaticles",
+    "symbol": "CRE8",
+    "description": "CRE8",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/619ff2e65de22b77ca761cce233fcedf44ca93538a0749b0d5a74afa30bc90bb.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x0615dbba33fe61a31c7ed131bda6655ed76748b1",
+    "name": "Ankr",
+    "symbol": "ANKR",
+    "description": "ANKR",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/855d1e40c9d723b89d5fdf87fa751becd5f49576e1fecc68ee2d770883dafda6.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x799f44d26e0c51205fe61e3fb0fa6a097bbf933f",
+    "name": "IceCream Finance",
+    "symbol": "CREAM",
+    "description": "CREAM",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/e21e96c3f766220b82808ec61767d0175e19327a2ffffb620be09fe695a01abb.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xf710d90a1bd702daea619eebbe876e7085c2a1df",
+    "name": "Moo Curve g3CRV",
+    "symbol": "mooCurveG3CRV",
+    "description": "mooCurveG3CRV",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/004a17444c9136d44d5a38e803eea65a696380134913cd6fffbf80eda03fa739.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x68f7880f7af43a81bef25e2ae83802eb6c2ddbfd",
+    "name": "Hertz Token",
+    "symbol": "HTZ",
+    "description": "HTZ",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/5bf1f05195f16287ed668173bcaade84a6b0259a29539b0174d1704f3a34bc0a.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x3dc57b391262e3aae37a08d91241f9ba9d58b570",
+    "name": "Yoshi.exchange",
+    "symbol": "YOSHI",
+    "description": "YOSHI",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/e246513170d861328f3721c1a6a4e4c68b95875a81396d3747d00c46d16fb3ce.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x5dd3411c533ab5a1d416e47756e261bd733dc103",
+    "name": "Staked Premia",
+    "symbol": "xPREMIA",
+    "description": "xPREMIA",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/b4c2f5a8f7ef8de5b1f1e283c0463ef8abda6ebea1e54c5f12feeb3be9780dee.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x8dfdc61c7c7551d0deec950a2822eb59cddb8f59",
+    "name": "DEAPCOIN",
+    "symbol": "DEP",
+    "description": "DEP",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/0f022090eec15d1df3bd636cb49da69706db292bc84d63f8a0fdcb3bb97cd171.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x96b14e64b53b9950d2a4d2292f8dc7d51a4f467a",
+    "name": "Strudel Finance",
+    "symbol": "$TRDL",
+    "description": "$TRDL",
+    "decimals": 18,
+    "image": "https://static.okx.com/cdn/wallet/icon/76885_$TRDL-20220826.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x8fbf3759cde693b19493663a4ef5853728cb71f8",
+    "name": "Marlin POND",
+    "symbol": "POND",
+    "description": "POND",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/87b6b3ca14b869b293d84fceb96200288b355b1eb3ab4a71ecfcc97e0809bb84.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x74e23df9110aa9ea0b6ff2faee01e740ca1c642e",
+    "name": "TOR",
+    "symbol": "TOR",
+    "description": "TOR",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/4d0205915b93bb13c40665804825f1c6eeb109303d6fcf539513575fc78c1031.png/type=default_350_0?v=1730910904335",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x666a3776b3e82f171cb1dff7428b6808d2cd7d02",
+    "name": "Aladdin cvxCRV",
+    "symbol": "aCRV",
+    "description": "aCRV",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/83c94a8c1488ecb020bfff8ebbdaa99d4711eab3d46fedc9b7404458919bdc4c.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xf6134e74b7a4ee23a888436e53e77f83e62e8df8",
+    "name": "dYEL Index Token",
+    "symbol": "dYel",
+    "description": "dYel",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9414461eb3f73b99f8fe5377ef7de7e3d26952bbca96dc22cf7ed8b5e180e73a.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xf7554d17d1c3f09899dcc8b404becae6dfa584fa",
+    "name": "Moonpot",
+    "symbol": "POTS",
+    "description": "POTS",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/b2a9594deb49eae5a26e3ea5f44937bfe22355d1285bcaed736596002f874821.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x10010078a54396f62c96df8532dc2b4847d47ed3",
+    "name": "Hundred Finance",
+    "symbol": "HND",
+    "description": "HND",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/0ec4a71535910e262d21ceb958cac554249b523915a49f00621decd45c9b76a0.png/type=default_350_0?v=1730910892335",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x4a13a2cf881f5378def61e430139ed26d843df9a",
+    "name": "BelugaToken",
+    "symbol": "BELUGA",
+    "description": "BELUGA",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/4ab6d4f5e9799f1c65fa25b70bf3f9dd8e6044c8334d6938ca27ca5d411f40b6.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xbfaf328fe059c53d936876141f38089df0d1503d",
+    "name": "MMToken",
+    "symbol": "MM",
+    "description": "MM",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/27c5abf1ba29cbd92f2add9e063bdc2cc06262fbcaed79f129abd96f00133c60.jpg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xbb29d2a58d880af8aa5859e30470134deaf84f2b",
+    "name": "Staked Spell Tokens",
+    "symbol": "sSPELL",
+    "description": "sSPELL",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/0aaafdf361e9b0271b1ab5c02ded21794facac39288a7add9d02d419bd45dbdb.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xdfed31e640b7280f76f046a97179e5e369d209b5",
+    "name": "OmniWhirl",
+    "symbol": "WHIRL",
+    "description": "WHIRL",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/d0da93df083ebac9b5472a24a5dc3c725bd2107e55fe4f2bd120fc832ba2fed0.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x4cba8902ce48ab1d5eea1920d65faedb934b9916",
+    "name": "governanceALCX",
+    "symbol": "gALCX",
+    "description": "gALCX",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/a9e31efec667ab6d3325f1c10f3820fd54e5ebf170dd1b299d56c0c41904254f.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x5c4fdfc5233f935f20d2adba572f770c2e377ab0",
+    "name": "Hector",
+    "symbol": "HEC",
+    "description": "HEC",
+    "decimals": 9,
+    "image": "https://cdn.chainroot.io/images/tokens/de9920fa15b396c8bb4ec1c70a04c38e8b55197439ecf7a1bf66d733fa41abba.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xfc74d58550485e54dc3a001f6f371741dceea094",
+    "name": "Atmosphere CCG",
+    "symbol": "ATMSSFT",
+    "description": "ATMSSFT",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/dec43ea555096354ee4633a16b96d14cb0a3923ad993a15765c83b94029f9082.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xc5e2b037d30a390e62180970b3aa4e91868764cd",
+    "name": "Tarot",
+    "symbol": "TAROT",
+    "description": "TAROT",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/b98474cd3211d66effef7b8af9983907b42da9a484edb99c8d892681dd46dabc.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x8a41f13a4fae75ca88b1ee726ee9d52b148b0498",
+    "name": "Ripae",
+    "symbol": "PAE",
+    "description": "PAE",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/384a8196c2e439bc704f4a67620ebd027f50bc8ccfbd76d030aedecb63208daa.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x161de8f0b9a59c8197e152da422b9031d3eaf338",
+    "name": "E-RADIX",
+    "symbol": "eXRD",
+    "description": "eXRD",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/c667a8f00bb6107a85b097dccd78df6101a9bd4b462290539fb2e53c3a870f8c.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x14d6111dbfd64ceb9676a494bf86aa9f7dd54acc",
+    "name": "5table Token",
+    "symbol": "5TABLE",
+    "description": "5TABLE",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/e6fb02b7c112f2ab5b46c5b956d642bab44bc164be3a717851df2fe312d69b7e.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xc8ca9026ad0882133ef126824f6852567c571a4e",
+    "name": "MSHARE",
+    "symbol": "MSHARE",
+    "description": "MSHARE",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/811e3282c64797c07e8e4845a6be58f73d94a8ea0a5ce1b82baffbaced51608e.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x65def5029a0e7591e46b38742bfedd1fb7b24436",
+    "name": "Kanpeki",
+    "symbol": "KAE",
+    "description": "KAE",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/30c0eef6de0557a48e4d3c6d43e4775ece8da91252683bec2f46f21758085f06.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x260b3e40c714ce8196465ec824cd8bb915081812",
+    "name": "Iron Finance ICE Token",
+    "symbol": "IronICE",
+    "description": "IronICE",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/715cda81aade83667055df8c4f94cdfa33cc43c75a2e3d633fd9f0fa0d46b246.jpg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x323d0dba53ee9a6f0faa464fb099ec562b591fc7",
+    "name": "BetSwirl Token",
+    "symbol": "BETS",
+    "description": "BETS",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/e2eec483030c589cdd52b71ce52c984432fc9d3e2842c3cdf715acde7a867794.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x87d57f92852d7357cf32ac4f6952204f2b0c1a27",
+    "name": "Random",
+    "symbol": "RNDM",
+    "description": "RNDM",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/e0d13df94e4d9fd7b9d0faa59d85032fbb0d902897b1caf1831fa5e6f3baf516.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x48844ddba89799dc40ec31728dac629802d407f3",
+    "name": "Rabbit Coin",
+    "symbol": "RABBIT",
+    "description": "RABBIT",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/62216bc9cd5e1284363a14ddd2c0810d767a64d3d827d5da866ca0bd20f26a5d.png/type=default_350_0",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x9833c643f387ecfb76aa8114546ad524703c66fb",
+    "name": "Teneo",
+    "symbol": "TEN",
+    "description": "TEN",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/0e464b7a33d408f95d933e2789751ffb11c7de65fc93295012ada4bd69139b21.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x27749e79ad796c4251e0a0564aef45235493a0b6",
+    "name": "OnX.finance",
+    "symbol": "ONX",
+    "description": "ONX",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/4be44fe96654daeaa70f11881adc0cf72d9685e783be0dcee5841b1d121fca68.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x7db1b41e7a3a54b89272973189aee6548dd9c199",
+    "name": "ExzoCoin 2.0",
+    "symbol": "EXZO",
+    "description": "EXZO",
+    "decimals": 9,
+    "image": "https://cdn.chainroot.io/images/tokens/b1489bf3df0ea963217bf52ebf466c8ff457b23350e398001d2ee74665ad1098.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xa71353bb71dda105d383b02fc2dd172c4d39ef8b",
+    "name": "Rai Reflex Index",
+    "symbol": "RAI",
+    "description": "RAI",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/54c060b63298895c4b921e0959795ed3fb0ebdd48d540f7f4177d1c82c6486bf.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x5d5530eb3147152fe78d5c4bfeede054c8d1442a",
+    "name": "Feeder.finance",
+    "symbol": "FEED",
+    "description": "FEED",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/7c6009ae86d4fae0c12216ce798a6dec9e89f13e25945d8e0258e5138d0f590e.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xddc0385169797937066bbd8ef409b5b3c0dfeb52",
+    "name": "Wrapped MEMO",
+    "symbol": "wMEMO",
+    "description": "wMEMO",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/125384b907c2798252ad81a796fb710ba5f6e90e2920e2fe247daf4dfc8e521c.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x77d97b782f2aee174aad81eb17583438f95be5ea",
+    "name": "ZooDAO",
+    "symbol": "ZOO",
+    "description": "ZOO",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/501117ae3ebb65de8823569f227f8ba8475a9f8fc6eaf2f860191492f91391d7.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x00a35fd824c717879bf370e70ac6868b95870dfb",
+    "name": "IronBank",
+    "symbol": "IB",
+    "description": "IB",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/c401d345116d82841b8ca5a606582255998f9a7aba9210804b428f2c86e77ca5.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x623332a33ae3a8fc9b121322c72550decc0ed81c",
+    "name": "Gami Token",
+    "symbol": "GAMI",
+    "description": "GAMI",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/29e2742f152193b10394576f68a2d4625d58567a640a6c1a202c27bea98118b0.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x3028b4395f98777123c7da327010c40f3c7cc4ef",
+    "name": "Premia",
+    "symbol": "PREMIA",
+    "description": "PREMIA",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/fe2cf1c7e545a7a387defcbf202e5d8ffd9aba0751914767695606f4f504f887.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x8cc97b50fe87f31770bcdcd6bc8603bc1558380b",
+    "name": "SINGLE Token",
+    "symbol": "SINGLE",
+    "description": "SINGLE",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/92ca5bcfb584768e896f6f94d62ab3884d87dc2d0eb0769d5793b6a045541d90.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x02a2b736f9150d36c0919f3acee8ba2a92fbbb40",
+    "name": "agEUR",
+    "symbol": "agEUR",
+    "description": "agEUR",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/2241bcb41a31dbec0512439fd5183b6404a682380999dd1773c5c2f47654be77.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x5d85dd95bccc40b8e24d10808b5bcc5accf36597",
+    "name": "xDollar Interverse Money",
+    "symbol": "XIM",
+    "description": "XIM",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/416b81dd9d3df835059759bdcabe44a7d4472648cff4836eb5d426d48b559f9a.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xe5130d3dbfac6ae7d73a24d719762df74d8e4c27",
+    "name": "Alchemix USD",
+    "symbol": "alUSD",
+    "description": "alUSD",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/b9e6de8bb6843a562c3d5c3097156ff791dddc19455aa430f233587ca64f124a.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xafaeb84415c1cd2bc99cd1f5f0b3090bae1beb6c",
+    "name": "BIG Token",
+    "symbol": "BIG",
+    "description": "BIG",
+    "decimals": 9,
+    "image": "https://cdn.chainroot.io/images/tokens/311b77f53510faa37d0a6fa186cec1daf5007fc60d048842f33fd4b29521a74a.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x9f47f313acfd4bdc52f4373b493eae7d5ac5b765",
+    "name": "JoeToken",
+    "symbol": "JOE",
+    "description": "JOE",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/434ad181896a6dc1c585e9b36e45fb46b8fc52c8420207593cd0d5134675e4a9.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x57976c467608983513c9355238dc6de1b1abbcca",
+    "name": "MiniVerse Dollar",
+    "symbol": "MvDOLLAR",
+    "description": "MvDOLLAR",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/abc794d2c54be372d971a72b90dc0a257b45e118ef98528a25c5384c23dff6d1.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x5cc61a78f164885776aa610fb0fe1257df78e59b",
+    "name": "SpiritSwap Token",
+    "symbol": "SPIRIT",
+    "description": "SPIRIT",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/2300ec54ae1b58ff2cf6aba79359b9259d1b663546db54d5afe937c4f6cb4070.png/type=default_350_0?v=1731004370845",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x14418c22165553251b002b289f8abe4d1ed41d76",
+    "name": "Fear NFTs [via ChainPort.io]",
+    "symbol": "FEAR",
+    "description": "FEAR",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/27b0f1ce00d1858134093eb5a121e2d80a5cf8c08c505ec3e5b7fc9c2a5016bc.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x32f1200bfb876fbb8f6e6a2dea8f07f279146422",
+    "name": "Aurum",
+    "symbol": "AUR",
+    "description": "AUR",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/2478e2aa5cfcb70d22f8821804a52817c229c597bccb5c1fa2a023bcd2e51523.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xc60d7067dfbc6f2caf30523a064f416a5af52963",
+    "name": "Treeb",
+    "symbol": "TREEB",
+    "description": "TREEB",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/53be28849b96ddce560d868b35666630b52484c99316cba223d7b74d907a16bf.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x27de370fe0498307e91047c9a60051d53b92114a",
+    "name": "GEM",
+    "symbol": "GEM",
+    "description": "GEM",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/66fa752fd85b424949c5a98ef28dff42b8b488343bbf8689f4cdbcd7195aa962.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xfb98b335551a418cd0737375a2ea0ded62ea213b",
+    "name": "miMATIC",
+    "symbol": "miMATIC",
+    "description": "miMATIC",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/68284e4d2bf5562538280953b5225f06657c297a90f87b2e1fd8b06176221e10.png/type=default_350_0?v=1731006580885",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x4f851750a3e6f80f1e1f89c67b56960bfc29a934",
+    "name": "Kalmar Token",
+    "symbol": "KALM",
+    "description": "KALM",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/9c096b869b17a8f88234d4af4be3cfeb2074c5f2aad3642ae052d1a382cc0bf5.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x11eb3aa66fe1f2b75cb353d3e874e96968182bda",
+    "name": "AlphaToken",
+    "symbol": "ALPHA",
+    "description": "ALPHA",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/5febeab4b987551e46ae637d0b153806690c3a3997dd9d3f866136bcce2308c7.png/type=default_350_0",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x22a6ac883b2f5007486c0d0ebc520747c0702ad5",
+    "name": "Mor Stablecoin",
+    "symbol": "MOR",
+    "description": "MOR",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/d2d6f197ecde3d273f9a8b60ed41b3e69eca8b3dba8e5963121378aa94b86624.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x7fc5670b2041d34414b0b2178fc660b1e1faf801",
+    "name": "Trusted Node",
+    "symbol": "TNODE",
+    "description": "TNODE",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/074b80b3ccca7f82dd37c00c0b6e5df9a257c5c62db0e52e199c9dfaeea84c70.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xa9dd96d15cadf566cb39e5c3c327c991e6ed1f4e",
+    "name": "Unbanked",
+    "symbol": "UNBNK",
+    "description": "UNBNK",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/c98a653a76735d56900570550f84ecf38204732d829a1f8d243cba4f089f099c.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xd8321aa83fb0a4ecd6348d4577431310a6e0814d",
+    "name": "Geist.Finance Protocol Token",
+    "symbol": "GEIST",
+    "description": "GEIST",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/baa4c4b39bb5e1a5e80b7a21c5609a33b24f6761d2f9047cf3991413469cffd0.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x06ebc9c542357e2129d16717cd02c02fbc835d33",
+    "name": "Coinage",
+    "symbol": "CAGE",
+    "description": "CAGE",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/edd6f834b084e3642644181296483a8e264b8cc8da5f49e8afa761bb3c08d301.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x68aa691a8819b07988b18923f712f3f4c8d36346",
+    "name": "Qi Dao Protocol",
+    "symbol": "QI",
+    "description": "QI",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/3f733d31c2d69dd877ce63120601cb4bd6ccacb801dacc627a04b2e148a20f28.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x1e1085efaa63edfe74aad7c05a28eae4ef917c3f",
+    "name": "Kyber Network Crystal v2",
+    "symbol": "KNC",
+    "description": "KNC",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/dd14218b5d2d5dcdbd75a171cc7810384fd4738d0fe554ade635a3b04554efed.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xe74621a75c6ada86148b62eef0894e05444eae69",
+    "name": "Charge",
+    "symbol": "Charge",
+    "description": "Charge",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/53b0adf63587a09a83a98fe01e4221358aab206816c77fe5221ce669fcad9d58.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x3ff1af9e583d3790ec51e1407c9e94d8d1133dc3",
+    "name": "Wine Shares",
+    "symbol": "WINE",
+    "description": "WINE",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/ecdee213f20770d5f420f024067dc27c918adc611a3dfdcc3947067ce9c8bb9c.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x79068bc529e109dc50b2bedaebd63de6f986d900",
+    "name": "UNI",
+    "symbol": "UNI",
+    "description": "UNI",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/69a00949cb71cae2c1e9f13e7572cf01333d27869bba0af81fbcaed9b7e65018.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x7f620d7d0b3479b1655cefb1b0bc67fb0ef4e443",
+    "name": "Staked Ice Tokens",
+    "symbol": "nICE",
+    "description": "nICE",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/4288b2e0aeef1a26a32b3e9cbac2019fab1add253d4039f34b727b9b71b7ef98.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x87a5c9b60a3aaf1064006fe64285018e50e0d020",
+    "name": "MAGIK",
+    "symbol": "MAGIK",
+    "description": "MAGIK",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/47b070524ee6804730b3b605ff4818ee300899f31febe831754ad37f1f84cf6d.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x34324e1598bf02ccd3dea93f4e332b5507097473",
+    "name": "Multiverse Capital (MVC.finance)",
+    "symbol": "MVC",
+    "description": "MVC",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/0533bcafd9439081262dad0241b53c7098ea41dc98aafd148aa510a42035d9dc.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xb280458b3cf0facc33671d52fb0e894447c2539a",
+    "name": "Wrapped sSQUID",
+    "symbol": "wsSQUID",
+    "description": "wsSQUID",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/ba52f0896136063b106526b364a87fb89e8dfcdf40bf997e124119c4b1f1f828.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xc758295cd1a564cdb020a78a681a838cf8e0627d",
+    "name": "FantomStarter",
+    "symbol": "FS",
+    "description": "FS",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/35b5334b2880b1be5c0e6fd6c4a44d9bafe442329ecf87491f62ed24302030ac.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x301de15579c37d1e1cc8b46d74324b885a77291b",
+    "name": "Wrapped sHUMP",
+    "symbol": "wsHUMP",
+    "description": "wsHUMP",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/f3b10bac53be90cb289535169fef9c9270413f533164c913c85272d7a10d61ef.png/type=default_350_0",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xab41861399eb56896b24fbaabaa8bce45e4a626b",
+    "name": "0xMonero",
+    "symbol": "0xMR",
+    "description": "0xMR",
+    "decimals": 18,
+    "image": "https://static.okx.com/cdn/wallet/logo/0xmr-7f703a7574284858b25d965c4395f8e5-20220719.PNG",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xbe08caee66d2c1dff3ff79b89aa05d647b51d219",
+    "name": "CroArmy",
+    "symbol": "Army",
+    "description": "Army",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/54b47396b5509ac971515bf38a4561f9cfc59a895ac1d3d8ebfc9facf00ec8c8.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x65c9d9d080714cda7b5d58989dc27f897f165179",
+    "name": "TETU Reward Token",
+    "symbol": "TETU",
+    "description": "TETU",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/6e697e406fa60aa056651114dc439689150ca06c36fccc4e24021cb22f0e96e4.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x6e209329a33a63c463dbb65ae2d6655fe5c98411",
+    "name": "DSHARE",
+    "symbol": "DSHARE",
+    "description": "DSHARE",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/113f70ea1f3a5c86d9b33f99f48488de687bcca8db551647629772d7d2fa565c.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xfbfae0dd49882e503982f8eb4b8b1e464eca0b91",
+    "name": "Timechain Swap Token",
+    "symbol": "TCS",
+    "description": "TCS",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/050a1f9e835eb53ff83412ad400bc4b1afc7e43b2bffa8b77168472251ef997c.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x5a33869045db8a6a16c9f351293501cfd92cf7ed",
+    "name": "Betswap.gg",
+    "symbol": "BSGG",
+    "description": "BSGG",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/5bcfe3ede142124cab33c6595fd7d2e30c1e9d6252d7386771e8ae7a7badcdca.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x461d52769884ca6235b685ef2040f47d30c94eb5",
+    "name": "VesperToken",
+    "symbol": "VSP",
+    "description": "VSP",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/bfc0f944166b65b7cd21cedc21fcee07a1ead9d7edcda942a72d8d22a21e4a23.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x2d72a97a31dc920db03330780d30074626e39c8a",
+    "name": "ApeCoin",
+    "symbol": "APE",
+    "description": "APE",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/f5239eb7e1bc38623a68c8ece6ad37bb39ab266a0e42df1510641f80869fe034.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x58a547ed09684ac2a688610d5caf8e8968b51908",
+    "name": "Balancer",
+    "symbol": "BAL",
+    "description": "BAL",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/78bff4362241ff3c02710d851fce65f8cd29a2026a429af949b4a2c28da7cdef.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xf792f5fd59679eda6f3a9b0443dc4c1338a95df1",
+    "name": "Arable Protocol",
+    "symbol": "ACRE",
+    "description": "ACRE",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/889ba585bb96b886f24b6579935788da3921dc498ae035b9ef37fe52b43d1540.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xf6036dd216b6b97482510cb647c5d1feb83ce910",
+    "name": "PSHARE",
+    "symbol": "PSHARE",
+    "description": "PSHARE",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/9b032b6d0cecd17a20c9999305f43fbbab47d646e2f873301f1d83dbd020cd5b.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xd97f9674e2597e7a252de4875985f4385b9608fb",
+    "name": "Jewels",
+    "symbol": "JEWEL",
+    "description": "JEWEL",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/f9c8b41e7ea393822624700f570895aee92245c85f8e28f70ac91c494ff3a00b.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xa6d8d321ab1ec5349fa2a628e8649681822119b4",
+    "name": "Wraith Protocol",
+    "symbol": "WRAITH",
+    "description": "WRAITH",
+    "decimals": 9,
+    "image": "https://cdn.chainroot.io/images/tokens/6bfc67b551b1461b1aabe11a6a4bbb61a9189ce6a25cd5c3bfe208c8c2115067.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x5f7f94a1dd7b15594d17543beb8b30b111dd464c",
+    "name": "Space Token",
+    "symbol": "SPACE",
+    "description": "SPACE",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/98be7e1f36fa8cd9b070afc273306b729a25f6ee63e4054b7c1f3660da6afb05.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xe705af5f63fcabdcdf5016aa838eaaac35d12890",
+    "name": "MagicCraft",
+    "symbol": "MCRT",
+    "description": "MCRT",
+    "decimals": 9,
+    "image": "https://cdn.chainroot.io/images/tokens/b8ebb4d0201ba79fbd1d47d9067db0bcdd114c95ec27b13b4105154867210150.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xf61d81d623d9c4a45ff5766eda5af224c3dde1a5",
+    "name": "Degen Finance",
+    "symbol": "DEGEN",
+    "description": "DEGEN",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/2c2572fa418159c8ad63a92e9c18df49eaa96c6c728c2f423e4e39effd187f08.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xc9e8c581d67fe5cc6217b2fa1b2d4d9cecb60fb2",
+    "name": "SGEM",
+    "symbol": "SGEM",
+    "description": "SGEM",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/ec9a75d4abb8bea4d8fe8deaf7980549934601b9b140ee3aaf88044339aa4765.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x1d1764f04de29da6b90ffbef372d1a45596c4855",
+    "name": "MIMO Parallel Governance Token",
+    "symbol": "MIMO",
+    "description": "MIMO",
+    "decimals": 18,
+    "image": "https://static.okx.com/cdn/wallet/logo/mimo-be3190cd5fd14f2088cccc48b98ad499-20220721.PNG",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xb8930bd2dd53d449f83466705827f3dbf90ea7fc",
+    "name": "Oh! Finance",
+    "symbol": "OH",
+    "description": "OH",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/f0aff74dcca35e64a2ba446134913f1526a9f6086f3b74ee4e5b52fda6d419e4.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x2130d2a1e51112d349ccf78d2a1ee65843ba36e0",
+    "name": "UniDex",
+    "symbol": "UNIDX",
+    "description": "UNIDX",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/1e765b4f007146fcb49928eb29054d7c00c0b000f987932b7dac7476721363f9.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xcfc785741dc0e98ad4c9f6394bb9d43cd1ef5179",
+    "name": "Ankr Staked FTM",
+    "symbol": "ankrFTM",
+    "description": "ankrFTM",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/a31d4fa54f9fc8c02c55a1d276c0972db905b0305d7d76170f578ee64d4f3fd7.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0xeF4B763385838FfFc708000f884026B8c0434275",
+    "name": "XEN Crypto",
+    "symbol": "fmXEN",
+    "description": "fmXEN",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/5255da6b59469449b548e8a0c32eb322ce55727f5d911eb258028825db098300.png/type=default_350_0?v=1730912381090",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x444444443b0fcb2733b93f23c910580fba52fffa",
+    "name": "XY Token",
+    "symbol": "XY",
+    "description": "XY",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/b84fc3cb5a86a7d98519b8b19df41fbd684853e77dc0db83310f54546fdb57af.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x9b06f3c5de42d4623d7a2bd940ec735103c68a76",
+    "name": "Volta Club",
+    "symbol": "Volta",
+    "description": "Volta",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/9b06ae4b5bd5e459e5d2f80f7235b747188f16dd9df73e097483af785fd028c0.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "erc20",
+    "contract": "0x0ce12ae7c899ebf2bcda7aa570c5af98b6688c95",
+    "name": "Speedy",
+    "symbol": "SPEEDY",
+    "description": "SPEEDY",
+    "decimals": 9,
+    "image": "https://cdn.chainroot.io/images/tokens/8c8870998bb9aca85afa714f28c0733659d50673c270f438fa46db136cba7d7f.png/type=default_350_0?v=1730921369302",
+    "coinGeckoId": ""
+  }
+]

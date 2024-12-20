@@ -1,0 +1,13 @@
+[
+    {
+        "type": "erc20",
+        "contract": "0x4FEBDDe47Ab9a76200e57eFcC80b212a07b3e6cE",
+        "name" : "Deenar",
+        "symbol": "DEEN",
+        "description": "Deenar gold-backed stablecoin",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/03562030f8a44ac24ef507482019fea8201135502953ee025de38c068f6d7d6f.png",
+        "coinGeckoId": "deenar-gold",
+        "wallet_preload": true
+    }
+]

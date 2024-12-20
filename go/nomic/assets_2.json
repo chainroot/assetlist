@@ -1,0 +1,26 @@
+[
+    {
+        "type": "native",
+        "denom": "unom",
+        "name": "Nomic",
+        "symbol": "NOM",
+        "description": "Nomic's native token.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/69bbd4d9a8f140193655ddab67f9f96155bf6d7b5fa942c820f06f2494608b05.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "bridge",
+        "denom": "usat",
+        "name": "Nomic Bitcoin",
+        "symbol": "nBTC",
+        "description": "Bitcoin. On Cosmos.",
+        "decimals": 14,
+        "image": "https://cdn.chainroot.io/images/tokens/e74f40d5ec5d369d28976bdfdeaca7250dbd95a80a5b8d0fdffeef297c51b54f.png",
+        "coinGeckoId": "",
+        "bridge_info" : {
+            "path": "bitcoin>nomic"
+        }
+    }
+]
+ 

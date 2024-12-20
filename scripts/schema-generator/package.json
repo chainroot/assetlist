@@ -1,0 +1,53 @@
+{
+  "name": "schema-generator",
+  "version": "1.1.0",
+  "description": "A library that exports JSON data as JavaScript modules",
+  "type": "module",
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsc && node dist/generator.js",
+    "build:image": "tsc && node dist/image-getter.js",
+    "prepare": "npm run build",
+    "clean": "rimraf dist",
+    "prebuild": "npm run clean",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "data",
+    "library",
+    "js",
+    "module"
+  ],
+  "author": "Chainroot",
+  "license": "MIT",
+  "devDependencies": {
+    "@chain-registry/v2-types": "^0.53.14",
+    "@types/node": "^20.11.19",
+    "mkdirp": "^3.0.1",
+    "rimraf": "^5.0.10",
+    "shx": "^0.3.4",
+    "typescript": "^5.6.3"
+  },
+  "engines": {
+    "node": ">=14.16"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "packageManager": "pnpm@9.7.1",
+  "dependencies": {
+    "@chain-registry/v2": "^1.71.36",
+    "@cosmjs/stargate": "^0.32.4",
+    "@cosmjs/tendermint-rpc": "^0.32.4",
+    "exiftool": "^0.0.3",
+    "graphql": "^16.9.0",
+    "graphql-request": "^7.1.2",
+    "node-exiftool": "^2.3.0",
+    "node-fetch": "^3.3.2",
+    "zod": "^3.24.1"
+  }
+}

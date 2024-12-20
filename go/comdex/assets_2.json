@@ -6,7 +6,7 @@
         "symbol": "CMDX",
         "description": "Comdex Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/cmdx.png",
+        "image": "https://cdn.chainroot.io/images/tokens/38f6d3460645bbe40f5b5cd1c75141c2699fd323e977c65fd65a46f744a943e5.png",
         "coinGeckoId": "comdex",
         "color": "#FE4350"
     },
@@ -17,7 +17,7 @@
         "symbol": "HARBOR",
         "description": "Governance Token of Harbor protocol on Comdex network",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/harbor.png",
+        "image": "https://cdn.chainroot.io/images/tokens/5c0875a37f2b1b1cdb4cd0ab5435dca68b5050d6d70eeb5e29dc75295fa781be.png",
         "coinGeckoId": "harbor-2",
         "color": "#645ca4"
     },
@@ -28,7 +28,7 @@
         "symbol": "CMST",
         "description": "Stable Token of Harbor protocol on Comdex network",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/cmst.png",
+        "image": "https://cdn.chainroot.io/images/tokens/0875b7120f234574f60a15204da8cde293c1e613cccaff197d0bcb138a912ddf.png",
         "coinGeckoId": "composite",
         "color": "#040404"
     },
@@ -39,7 +39,7 @@
         "symbol": "JUNO",
         "description": "Juno Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/juno.png",
+        "image": "https://cdn.chainroot.io/images/tokens/a68afd5f8ab6feac6f7b422daaf5d5da26391ca98cc4596226dcd89366941ea7.png",
         "coinGeckoId": "juno-network",
         "ibc_info": {
             "path": "juno>comdex",
@@ -62,7 +62,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7eec0e7b17cfe55e8fdfd8138458d26c83298dc2a12f85f9261af2a5fd9b3f46.png",
         "coinGeckoId": "osmosis",
         "ibc_info": {
             "path": "osmosis>comdex",
@@ -108,7 +108,7 @@
         "symbol": "USDC.eth.axl",
         "description": "Circle's stablecoin on Axelar",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "axlusdc",
         "ibc_info": {
             "path": "ethereum>axelar>comdex",

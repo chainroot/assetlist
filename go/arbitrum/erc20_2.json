@@ -17,7 +17,7 @@
         "symbol": "ARB",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/arb.png",
+        "image": "https://cdn.chainroot.io/images/tokens/39cb5ec3be88bf44cb6bdbd0a827e59f1932424705b59b7aa49285c428800d21.png",
         "coinGeckoId": "arbitrum",
         "wallet_preload": true
     },
@@ -28,7 +28,7 @@
         "symbol": "USDT",
         "description": "",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8d812a3786178f6dbc556b3cb21411112b7c3a7ac893bf4b70c85e3c2db5a520.png",
         "coinGeckoId": "tether",
         "wallet_preload": true
     },
@@ -39,7 +39,7 @@
         "symbol": "USDC",
         "description": "",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "usd-coin",
         "wallet_preload": true
     },
@@ -50,7 +50,7 @@
         "symbol": "USDC.e",
         "description": "",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "usd-coin-ethereum-bridged",
         "wallet_preload": true
     },
@@ -61,7 +61,7 @@
         "symbol": "LINK",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/link.png",
+        "image": "https://cdn.chainroot.io/images/tokens/b896fca670b77b72b44a8036bb07207ef840e25a3249965f0798d50d10c213d5.png",
         "coinGeckoId": "chainlink",
         "wallet_preload": true
     },
@@ -72,7 +72,7 @@
         "symbol": "WBTC",
         "description": "",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/wbtc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/347e4b450cbbf16ce16b53366a98a4571a507e5d461fff90efee028abbf76dd0.png",
         "coinGeckoId": "wbtc",
         "wallet_preload": true
     },
@@ -83,7 +83,7 @@
         "symbol": "UNI",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/uni.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ee886d9bf0f65179e57a349bd14307b655e42743a1588cf314db8aeee0be6f9c.png",
         "coinGeckoId": "uni",
         "wallet_preload": true
     },
@@ -115,7 +115,7 @@
         "symbol": "axlWMAI",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/15264/small/mimatic-red.png?1620281018",
+        "image": "https://cdn.chainroot.io/images/tokens/8081e9f8570bc3e85788318ab693317a644c994c013de3b4e078ee346e483e83.png?1620281018",
         "coinGeckoId": "mimatic"
     },
     {
@@ -145,7 +145,7 @@
         "symbol": "AXL",
         "description": "",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/axl.png",
+        "image": "https://cdn.chainroot.io/images/tokens/f76a0d5ddd92b16207551e3131d36155d4cdd231a00fdd81d704db3ca2506a23.png",
         "coinGeckoId": "axelar"
     },
     {
@@ -445,7 +445,7 @@
         "symbol": "ZYB",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/28943/small/logo_with_bg.png?1675569328",
+        "image": "https://cdn.chainroot.io/images/tokens/2c1aa8812b72608ef71f41f8abef4b7e81db3bf8b03d61abf92b2f24d5520f6b.png?1675569328",
         "coinGeckoId": "zyberswap"
     },
     {
@@ -455,7 +455,7 @@
         "symbol": "GMX",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/18323/small/arbit.png?1631532468",
+        "image": "https://cdn.chainroot.io/images/tokens/e3cc80d96c520c23316385ffa1bc488f85066d360c588f581ff0adcd31c52077.png?1631532468",
         "coinGeckoId": "gmx"
     },
     {
@@ -465,7 +465,7 @@
         "symbol": "sGLP",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/18323/small/arbit.png?1631532468",
+        "image": "https://cdn.chainroot.io/images/tokens/e3cc80d96c520c23316385ffa1bc488f85066d360c588f581ff0adcd31c52077.png?1631532468",
         "coinGeckoId": "GLP"
     },
     {
@@ -505,7 +505,7 @@
         "symbol": "Lqdr",
         "description": "",
         "decimals": 18,
-        "image": "https://2302794922-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MYQICp07j-iq-GK2MHc%2Fuploads%2F9E0dn7eOs8PLq9hq26Gv%2FIcon-PNG.png?alt=media&token=53c999ea-e4a0-43a3-9ae8-2f2d4c83f132",
+        "image": "https://cdn.chainroot.io/images/tokens/0668230f26855c9f983c3ddc63290f0951e9c917a57a8170320076b2271dbc78.png?alt=media&token=53c999ea-e4a0-43a3-9ae8-2f2d4c83f132",
         "coinGeckoId": "liquiddriver"
     },
     {
@@ -745,7 +745,7 @@
         "symbol": "milkTIA",
         "description": "",
         "decimals": 6,
-        "image": "https://assets.coingecko.com/coins/images/33795/standard/milktia.png?1702989842",
+        "image": "https://cdn.chainroot.io/images/tokens/836f68501571eeef872c986f8f8a9b3a0d520b8d33d7eb267da348dcad580631.png?1702989842",
         "coinGeckoId": "milkyway-staked-tia"
     },
     {

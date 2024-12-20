@@ -6,7 +6,7 @@
         "symbol": "INJ",
         "description": "Injective Staking Coin",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/inj.png",
+        "image": "https://cdn.chainroot.io/images/tokens/339d9960d0f3efdff233fb03b481817db33f70b48bc9b53db7720d0791492dc9.png",
         "coinGeckoId": "injective-protocol",
         "color": "#00BBDD"
     },
@@ -17,7 +17,7 @@
         "symbol": "stINJ",
         "description": "Stride Staked INJ",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/stinj.png",
+        "image": "https://cdn.chainroot.io/images/tokens/0d741e8a514904db4bd7f9c48bc97d8bf9d1f8f29f9d973bc7ab5ab45650a78d.png",
         "coinGeckoId": "stride-staked-injective",
         "ibc_info": {
             "path": "stride>injective",
@@ -40,7 +40,7 @@
         "symbol": "STRD",
         "description": "Stride Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/strd.png",
+        "image": "https://cdn.chainroot.io/images/tokens/e322bee0d934d0425b875ac8eeee7eb81429ff46d77b3eaaf60487ab1badb026.png",
         "coinGeckoId": "stride",
         "ibc_info": {
             "path": "stride>injective",
@@ -63,7 +63,7 @@
         "symbol": "KAVA",
         "description": "Kava Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/kava.png",
+        "image": "https://cdn.chainroot.io/images/tokens/a46273005a34ab2209dec91202490e01024b231a043ef473bfaa4fc3529f362c.png",
         "coinGeckoId": "kava",
         "ibc_info": {
             "path": "kava>injective",
@@ -86,7 +86,7 @@
         "symbol": "USDt.kava",
         "description": "USDt - directly minted on the Kava chain by the Tether Foundation.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8d812a3786178f6dbc556b3cb21411112b7c3a7ac893bf4b70c85e3c2db5a520.png",
         "coinGeckoId": "tether",
         "ibc_info": {
             "path": "kava>injective",
@@ -132,7 +132,7 @@
         "symbol": "EVMOS",
         "description": "Evmos Staking Coin",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/evmos.png",
+        "image": "https://cdn.chainroot.io/images/tokens/d5afb4bf339a789d256aef1690b5a89e1249ba0fefdf882daa9e47696dac0cac.png",
         "coinGeckoId": "evmos",
         "ibc_info": {
             "path": "evmos>injective",
@@ -155,7 +155,7 @@
         "symbol": "NEOK",
         "description": "The token of Neokingdom DAO.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/neok.png",
+        "image": "https://cdn.chainroot.io/images/tokens/46e088906c6e70a74cf17ac23836fb9f2e5e7bf6eae8cb10faed2567788e534e.png",
         "coinGeckoId": "",
         "ibc_info": {
             "path": "evmos>injective",
@@ -178,7 +178,7 @@
         "symbol": "XPRT",
         "description": "Persistence Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/xprt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/597fb533f8ee928d8c56096cbd147c7ef464eee7fd3ef82d9dbd32eb384fb593.png",
         "coinGeckoId": "persistence",
         "ibc_info": {
             "path": "persistence>injective",
@@ -201,7 +201,7 @@
         "symbol": "AXL",
         "description": "Axelar Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/axl.png",
+        "image": "https://cdn.chainroot.io/images/tokens/f76a0d5ddd92b16207551e3131d36155d4cdd231a00fdd81d704db3ca2506a23.png",
         "coinGeckoId": "axelar",
         "ibc_info": {
             "path": "axelar>injective",
@@ -224,7 +224,7 @@
         "symbol": "USDC.eth.axl",
         "description": "Circle's stablecoin on Axelar",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "axlusdc",
         "ibc_info": {
             "path": "ethereum>axelar>injective",
@@ -247,7 +247,7 @@
         "symbol": "DOT.glmr.axl",
         "description": "Wrapped Polkadot on Axelar",
         "decimals": 10,
-        "image": "https://cdn.chainroot.io/images/tokens/xcdot.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7e46dc1b3a2ee236919adb8723ca74b1b2a92de3689017d531355f1e877fe91a.png",
         "coinGeckoId": "xcdot",
         "ibc_info": {
             "path": "moonbeam>axelar>injective",
@@ -270,7 +270,7 @@
         "symbol": "NOIS",
         "description": "Nois Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/nois.png",
+        "image": "https://cdn.chainroot.io/images/tokens/5cb3d6afe7e58db93fd9d74a473b8ffa4d9e6a67df3f88ecf1ac33b0e439ee66.png",
         "coinGeckoId": "nois",
         "ibc_info": {
             "path": "nois>injective",
@@ -293,7 +293,7 @@
         "symbol": "ASTRO.cw20",
         "description": "Astroport is a neutral marketplace where anyone, from anywhere in the galaxy, can dock to trade their wares.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/astro.png",
+        "image": "https://cdn.chainroot.io/images/tokens/57d8651df1c518e517dc53d4a5ed987e40adb70b507bfd65231a3fdd3ce3ee3c.png",
         "coinGeckoId": "astroport-fi",
         "ibc_info": {
             "path": "terra>injective",
@@ -339,7 +339,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7eec0e7b17cfe55e8fdfd8138458d26c83298dc2a12f85f9261af2a5fd9b3f46.png",
         "coinGeckoId": "osmosis",
         "ibc_info": {
             "path": "osmosis>injective",
@@ -385,7 +385,7 @@
         "symbol": "SOMM",
         "description": "Sommelier Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/somm.png",
+        "image": "https://cdn.chainroot.io/images/tokens/53e50f807a6a19470ddb608f07d5017c3a137f72d11f8d26be667c018125bcbc.png",
         "coinGeckoId": "sommelier",
         "ibc_info": {
             "path": "sommelier>injective",
@@ -408,7 +408,7 @@
         "symbol": "CRE",
         "description": "Crescent Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/cre.png",
+        "image": "https://cdn.chainroot.io/images/tokens/232b9d13f9b70276b4ac61b149c5e80fb4a84eb63a9457ba1d33d22a1b8f5e92.png",
         "coinGeckoId": "crescent-network",
         "ibc_info": {
             "path": "crescent>injective",
@@ -432,7 +432,7 @@
         "symbol": "CANTO",
         "description": "Canto Staking Coin",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/canto.png",
+        "image": "https://cdn.chainroot.io/images/tokens/d7eeb39c1a2e82010063d8b306bb98db3f01df3b2651c661946d608ec1389501.png",
         "coinGeckoId": "canto",
         "ibc_info": {
             "path": "canto>injective",
@@ -478,7 +478,7 @@
         "symbol": "CRBRUS",
         "description": "Cerberus Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/crbrus.png",
+        "image": "https://cdn.chainroot.io/images/tokens/64539ff0ac5daf6bcd55b75f7890e4827767f83b6b6f0afbf02f2c8749d98bf2.png",
         "coinGeckoId": "cerberus-2",
         "ibc_info": {
             "path": "cerberus>osmosis>injective",
@@ -501,7 +501,7 @@
         "symbol": "KUJI",
         "description": "KUJI Staking Coin - Legacy",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/kuji.png",
+        "image": "https://cdn.chainroot.io/images/tokens/a108c4c0a120eba4ee56a8bc7d19628d083db2322d22cb7ff754ca6f858dc5c8.png",
         "coinGeckoId": "kujira",
         "ibc_info": {
             "path": "kujira>injective",
@@ -571,7 +571,7 @@
         "symbol": "PYTH.wh",
         "description": "PYTH (Wormhole)",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/pyth.png",
+        "image": "https://cdn.chainroot.io/images/tokens/d5f1fb80a26251f4173e7f8b7b849333f979d39af96c9d64ea377d88d4482b83.png",
         "coinGeckoId": "pyth-network",
         "ibc_info": {
             "path": "solana>gateway>injective",
@@ -594,7 +594,7 @@
         "symbol": "SOL.wh",
         "description": "Wrapped SOL (Wormhole)",
         "decimals": 9,
-        "image": "https://cdn.chainroot.io/images/tokens/solana.png",
+        "image": "https://cdn.chainroot.io/images/tokens/96ca67bb9412dd1ef806da784c84a8e32e380420555e18a442018df58e79dfd7.png",
         "coinGeckoId": "solana",
         "ibc_info": {
             "path": "solana>gateway>injective",
@@ -617,7 +617,7 @@
         "symbol": "ARB.wh",
         "description": "ARB (Wormhole)",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/arb.png",
+        "image": "https://cdn.chainroot.io/images/tokens/39cb5ec3be88bf44cb6bdbd0a827e59f1932424705b59b7aa49285c428800d21.png",
         "coinGeckoId": "arbitrum",
         "ibc_info": {
             "path": "arbitrum>gateway>injective",
@@ -640,7 +640,7 @@
         "symbol": "WMATIC.wh",
         "description": "Wrapped MATIC  (Wormhole)",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/wmatic.png",
+        "image": "https://cdn.chainroot.io/images/tokens/e4f54b5ba49187e2392a3466ab68c1a95255ff8a32da1090c6592251bd0811f2.png",
         "coinGeckoId": "wmatic",
         "ibc_info": {
             "path": "polygon>gateway>injective",
@@ -663,7 +663,7 @@
         "symbol": "NBZ",
         "description": "Ninja Blaze Token",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/nbz.png",
+        "image": "https://cdn.chainroot.io/images/tokens/884e9bbdd709b8291da5bb210845771cd8f258362f68928d2a938b309e57b8da.png",
         "coinGeckoId": "",
         "ibc_info": {
             "path": "neutron>injective",
@@ -709,7 +709,7 @@
         "symbol": "UST",
         "description": "TerraUSD",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/ustc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/0971c30976498df2309c642521bb7f8e91d43a9053675908b33721f556b8ce4b.png",
         "coinGeckoId": "terrausd",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -726,7 +726,7 @@
         "symbol": "CEL",
         "description": "Celsius",
         "decimals": 4,
-        "image": "https://cdn.chainroot.io/images/tokens/cel.png",
+        "image": "https://cdn.chainroot.io/images/tokens/6c64e1244697d9fa5d19610f724b72f41910eecff499c8270ad4df5817e2f0ba.png",
         "coinGeckoId": "celsius-degree-token",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -743,7 +743,7 @@
         "symbol": "USDT",
         "description": "Tether",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8d812a3786178f6dbc556b3cb21411112b7c3a7ac893bf4b70c85e3c2db5a520.png",
         "coinGeckoId": "tether",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -760,7 +760,7 @@
         "symbol": "USDClegacy",
         "description": "USD Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "usd-coin",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -777,7 +777,7 @@
         "symbol": "DEFI5",
         "description": "DEFI Top 5 Tokens Index",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/defi5.png",
+        "image": "https://cdn.chainroot.io/images/tokens/b0ae9a69a9ded8b341cbda89d9cddb883838c0ac9ae2abccbc9ca23b80d4b1af.png",
         "coinGeckoId": "",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -794,7 +794,7 @@
         "symbol": "UTK",
         "description": "Utrust",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/utk.png",
+        "image": "https://cdn.chainroot.io/images/tokens/c6a89b6074280c836f773cbb92dc1d6b04a6ea3a7282cf243cbe58854c0d6584.png",
         "coinGeckoId": "utrust",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -828,7 +828,7 @@
         "symbol": "STARS",
         "description": "Mogul Productions",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/stars.png",
+        "image": "https://cdn.chainroot.io/images/tokens/d1103fac6f11e69f0c173f4a43031607187832cadfd116c6fbd8dce3c6dc95e4.png",
         "coinGeckoId": "mogul-productions",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -845,7 +845,7 @@
         "symbol": "STT",
         "description": "Scatter.cx",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/stt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/861e11bd17a1e9f048a548d0b6f5c4f06af2a798fb1a36ff375d08a97dd1edbf.png",
         "coinGeckoId": "",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -862,8 +862,8 @@
         "symbol": "NOIA",
         "description": "Syntropy",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/noia.png",
-        "coinGeckoId": "noia-network",
+        "image": "https://cdn.chainroot.io/images/tokens/756b36e7e0322f82c92639f5fdfc2c722c015a670118fea011aa0186b1a1cef8.png",
+        "coinGeckoId": "",
         "bridge_info": {
             "path": "ethereum>injective",
             "counterparty": {
@@ -879,7 +879,7 @@
         "symbol": "ENJ",
         "description": "Enjin Coin",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/enj.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7d1c8f832d4c5d6da0119b16f48aa9ef2d5f1a7f3209edcc80e533af2b5bf155.png",
         "coinGeckoId": "enjincoin",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -896,7 +896,7 @@
         "symbol": "ZRX",
         "description": "0x",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/zrx.png",
+        "image": "https://cdn.chainroot.io/images/tokens/51b8d4896209601f3a7d5339c7ad7f09cbd02ece2361147220d08f23320a8980.png",
         "coinGeckoId": "0x",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -913,7 +913,7 @@
         "symbol": "SWAP",
         "description": "TrustSwap",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/swap.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8c01c8da5c97156ae892e3fa951ced728a957b9cb6453a96238afeed5c3dc3db.png",
         "coinGeckoId": "trustswap",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -947,7 +947,7 @@
         "symbol": "SNX",
         "description": "Synthetix Network Token",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/snx.png",
+        "image": "https://cdn.chainroot.io/images/tokens/03230d939d74308b077e74de7bbbadf3feba794f1b0caedbc439a182c0541178.png",
         "coinGeckoId": "havven",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -964,7 +964,7 @@
         "symbol": "AXS",
         "description": "Axie Infinity",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/axs.png",
+        "image": "https://cdn.chainroot.io/images/tokens/80c7117411e7c6e84c5b911233d4e79b62340a271e9467eef2960eeac1f416d1.png",
         "coinGeckoId": "axie-infinity",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -981,7 +981,7 @@
         "symbol": "NEXO",
         "description": "Nexo",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/nexo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/21b2cbada4d7b9f96f8a9998a08069a7bf81e46d1368c7d9fb82ec52f48a6e78.png",
         "coinGeckoId": "nexo",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -998,7 +998,7 @@
         "symbol": "GF",
         "description": "GuildFi",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/gf.png",
+        "image": "https://cdn.chainroot.io/images/tokens/5733e4bdc4fac0af9fb38eee13b369eca5e2542e14430781d2069c3e663a03b0.png",
         "coinGeckoId": "guildfi",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -1015,7 +1015,7 @@
         "symbol": "OCEAN",
         "description": "Ocean Protocol",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/ocean.png",
+        "image": "https://cdn.chainroot.io/images/tokens/efcea46913618a8944bb3d2aa401f04d5fb5eef261c1ef9d627ee2060de05281.png",
         "coinGeckoId": "ocean-protocol",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -1032,7 +1032,7 @@
         "symbol": "SHIB",
         "description": "SHIBA INU",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/shib.png",
+        "image": "https://cdn.chainroot.io/images/tokens/25738b0616366ea1f5b72e321d11949002755f4b78c4ad7f928d43587bfe00ef.png",
         "coinGeckoId": "shiba-inu",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -1049,7 +1049,7 @@
         "symbol": "AAVE",
         "description": "Aave",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/aave.png",
+        "image": "https://cdn.chainroot.io/images/tokens/eb6ce5ea81656e875a44e3df724c469fad1659f9aa61bc2d015cbf0e59a17b7f.png",
         "coinGeckoId": "aave",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -1066,7 +1066,7 @@
         "symbol": "MATIC",
         "description": "Polygon",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/matic.png",
+        "image": "https://cdn.chainroot.io/images/tokens/a8e02db1c7f13033fcc15c161303a3df364629337210903afa13a25225e7daca.png",
         "coinGeckoId": "matic-network",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -1083,7 +1083,7 @@
         "symbol": "HT",
         "description": "Huobi Token",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/ht.png",
+        "image": "https://cdn.chainroot.io/images/tokens/5738cda9cb6f9b4a947d0903181fc101e24eae66bde06e710f32b5ca7af194a4.png",
         "coinGeckoId": "huobi-token",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -1100,7 +1100,7 @@
         "symbol": "SUSHI",
         "description": "SushiSwap",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/sushi.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ec0b280df2e665cfdaa906763461c655e30ef81c44fe2d37cddb7674b42b650e.png",
         "coinGeckoId": "sushi",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -1134,7 +1134,7 @@
         "symbol": "LINK",
         "description": "Chainlink",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/link.png",
+        "image": "https://cdn.chainroot.io/images/tokens/b896fca670b77b72b44a8036bb07207ef840e25a3249965f0798d50d10c213d5.png",
         "coinGeckoId": "chainlink",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -1151,8 +1151,8 @@
         "symbol": "EVAI",
         "description": "Evai.io",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/evai.png",
-        "coinGeckoId": "evai",
+        "image": "https://cdn.chainroot.io/images/tokens/5da0c986d8b1b141dceb977978b291b91fd316bbff560a5ccf31856633e43650.png",
+        "coinGeckoId": "",
         "bridge_info": {
             "path": "ethereum>injective",
             "counterparty": {
@@ -1168,7 +1168,7 @@
         "symbol": "QNT",
         "description": "Quant",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/qnt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/d8e29cbec5ce1280c492b0306d741b419a07b3cdd1eeffd040a957dfe6c33b9b.png",
         "coinGeckoId": "quant-network",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -1185,7 +1185,7 @@
         "symbol": "BUSD",
         "description": "Binance USD",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/busd.png",
+        "image": "https://cdn.chainroot.io/images/tokens/304bee14e327b57855b799029ad7ab042cd28b971bf6d53b32bf50f5c17d9dbc.png",
         "coinGeckoId": "binance-usd",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -1202,7 +1202,7 @@
         "symbol": "FTM",
         "description": "Fantom",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/ftm.png",
+        "image": "https://cdn.chainroot.io/images/tokens/08d6fe368183b29e6d3609bca6ae08a60729927620d8c479d636cbb22ebc7433.png",
         "coinGeckoId": "fantom",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -1219,7 +1219,7 @@
         "symbol": "PAXG",
         "description": "PAX Gold",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/paxg.png",
+        "image": "https://cdn.chainroot.io/images/tokens/555842e88677432479f74d29f361f7a34cb525ad667c540ebda28db44c1302af.png",
         "coinGeckoId": "pax-gold",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -1236,7 +1236,7 @@
         "symbol": "CHZ",
         "description": "Chiliz",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/chz.png",
+        "image": "https://cdn.chainroot.io/images/tokens/553355e5af9f0c271b897038e2d1306cf728371d7b14267f7d0e9871c061d5e9.png",
         "coinGeckoId": "chiliz",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -1253,8 +1253,8 @@
         "symbol": "RUNE",
         "description": "THORChain (ERC20)",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/chz.png",
-        "coinGeckoId": "thorchain-erc20",
+        "image": "https://cdn.chainroot.io/images/tokens/553355e5af9f0c271b897038e2d1306cf728371d7b14267f7d0e9871c061d5e9.png",
+        "coinGeckoId": "",
         "bridge_info": {
             "path": "ethereum>injective",
             "counterparty": {
@@ -1270,7 +1270,7 @@
         "symbol": "wBTC",
         "description": "Wrapped Bitcoin",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/wbtc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/347e4b450cbbf16ce16b53366a98a4571a507e5d461fff90efee028abbf76dd0.png",
         "coinGeckoId": "wrapped-bitcoin",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -1287,7 +1287,7 @@
         "symbol": "UNI",
         "description": "Uniswap",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/uni.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ee886d9bf0f65179e57a349bd14307b655e42743a1588cf314db8aeee0be6f9c.png",
         "coinGeckoId": "uniswap",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -1304,7 +1304,7 @@
         "symbol": "UMA",
         "description": "UMA",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/uma.png",
+        "image": "https://cdn.chainroot.io/images/tokens/710288ed2bc14ca27076ff89d4558a52f891cdc4580dddb1c08c1d407e3c3cb2.png",
         "coinGeckoId": "uma",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -1321,7 +1321,7 @@
         "symbol": "BAT",
         "description": "Basic Attention Token",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/bat.png",
+        "image": "https://cdn.chainroot.io/images/tokens/c45733c9505c98da9c98b5414829ebdfe20b66a8a4b5bb574cd32a8d2ce1d06c.png",
         "coinGeckoId": "basic-attention-token",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -1338,7 +1338,7 @@
         "symbol": "POOL",
         "description": "PoolTogether",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/pool.png",
+        "image": "https://cdn.chainroot.io/images/tokens/eeea0d6dbb34e26d0dfa0440723389972a2e8791c31131562c33898dc31bd00e.png",
         "coinGeckoId": "pooltogether",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -1355,7 +1355,7 @@
         "symbol": "1INCH",
         "description": "1inch",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/1inch.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8d7d48184c650691b117b86310df18b5a885701cd75ddb497aa786c49bca1b2e.png",
         "coinGeckoId": "1inch",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -1372,7 +1372,7 @@
         "symbol": "XBX",
         "description": "BurnX",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/xbx.png",
+        "image": "https://cdn.chainroot.io/images/tokens/19cae02052eb6ee6977d2f9c227ebad13590b5d79ad54662045fe0eb96839f81.png",
         "coinGeckoId": "",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -1389,7 +1389,7 @@
         "symbol": "dYdX",
         "description": "dYdX",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/dydx.png",
+        "image": "https://cdn.chainroot.io/images/tokens/16bd6b9f410d9748a6e3d17d557955b5dcac42a8c7fbd8e129ef3580f990d302.png",
         "coinGeckoId": "dydx",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -1406,7 +1406,7 @@
         "symbol": "APE",
         "description": "Ape Coin",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/ape.png",
+        "image": "https://cdn.chainroot.io/images/tokens/5b69d3b346176d5d51549a903bc9057c548cfb3b3f7c5916231565ab1b8b65a4.png",
         "coinGeckoId": "apecoin",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -1440,7 +1440,7 @@
         "symbol": "LYM",
         "description": "Lympo",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/lym.png",
+        "image": "https://cdn.chainroot.io/images/tokens/6d748c0d211afa9cf1186f72e48ade77014c481cbf9a806d1e89c7a4e7279ccd.png",
         "coinGeckoId": "lympo",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -1474,7 +1474,7 @@
         "symbol": "WSTETH",
         "description": "Lido wstETH",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/wsteth.png",
+        "image": "https://cdn.chainroot.io/images/tokens/74a1607af0c169e9aef9328defc72ce6b12291d1bd22a1c53322666516b41f5c.png",
         "coinGeckoId": "wrapped-steth",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -1542,7 +1542,7 @@
         "symbol": "SOMM (Erc20)",
         "description": "Sommelier",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/somm.png",
+        "image": "https://cdn.chainroot.io/images/tokens/53e50f807a6a19470ddb608f07d5017c3a137f72d11f8d26be667c018125bcbc.png",
         "coinGeckoId": "sommelier",
         "bridge_info": {
             "path": "sommelier>ethereum>injective",
@@ -1559,7 +1559,7 @@
         "symbol": "APP",
         "description": "Moon App",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/app.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ce9913fe6c11d143fe949dd8989b2c11716ed1192be73420a3d56eb03babd95a.png",
         "coinGeckoId": "moon-app",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -1576,7 +1576,7 @@
         "symbol": "ZIG",
         "description": "ZigCoin",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/zig.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7b073479708ee298f9acd2c00a09d78ef61064adcef681f4252223dad6d2dd66.png",
         "coinGeckoId": "zignaly",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -1610,7 +1610,7 @@
         "symbol": "USDe",
         "description": "Ethena USDe",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/usde.png",
+        "image": "https://cdn.chainroot.io/images/tokens/1f3e818607700ece4e0a6aa7bb3c730d5dc3ce5e01077dfba68a38ed78839089.png",
         "coinGeckoId": "ethena-usde",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -1627,7 +1627,7 @@
         "symbol": "GYEN",
         "description": "GMO JPY",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/gyen.png",
+        "image": "https://cdn.chainroot.io/images/tokens/435fea60e25f065c1bf26910412b84ce74ef7d014bf1ba067e524095a79032d8.png",
         "coinGeckoId": "gyen",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -1644,7 +1644,7 @@
         "symbol": "USDCet",
         "description": "USD Coin (legacy)",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "usd-coin-wormhole-from-ethereum"
     },
     {
@@ -1654,7 +1654,7 @@
         "symbol": "USDCso",
         "description": "USD Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "usd-coin"
     },
     {
@@ -1664,7 +1664,7 @@
         "symbol": "SOLlegacy",
         "description": "Solana (legacy)",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/sol.png",
+        "image": "https://cdn.chainroot.io/images/tokens/6c0b0ffebc3179d49d5e2d1979ff8aff80c4f8cde653bb8199170b3041c24653.png",
         "coinGeckoId": "solana"
     },
     {
@@ -1674,7 +1674,7 @@
         "symbol": "WMATIClegacy",
         "description": "Wrapped Matic (legacy)",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/wmatic.png",
+        "image": "https://cdn.chainroot.io/images/tokens/e4f54b5ba49187e2392a3466ab68c1a95255ff8a32da1090c6592251bd0811f2.png",
         "coinGeckoId": "wmatic"
     },
     {
@@ -1684,7 +1684,7 @@
         "symbol": "CHZlegacy",
         "description": "Chiliz (legacy)",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/chz.png",
+        "image": "https://cdn.chainroot.io/images/tokens/553355e5af9f0c271b897038e2d1306cf728371d7b14267f7d0e9871c061d5e9.png",
         "coinGeckoId": "chiliz"
     },
     {
@@ -1694,7 +1694,7 @@
         "symbol": "ARBlegacy",
         "description": "Arbitrum (legacy)",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/arb.png",
+        "image": "https://cdn.chainroot.io/images/tokens/39cb5ec3be88bf44cb6bdbd0a827e59f1932424705b59b7aa49285c428800d21.png",
         "coinGeckoId": "arbitrum"
     },
     {
@@ -1704,7 +1704,7 @@
         "symbol": "TALIS",
         "description": "talis-protocol",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/talis.png",
+        "image": "https://cdn.chainroot.io/images/tokens/b3a0e1431b9b3b827658d0606ceb779463e7a082090e2a577d7c453f98f20399.png",
         "coinGeckoId": "talis-protocol"
     },
     {
@@ -1714,7 +1714,7 @@
         "symbol": "PYTHlegacy",
         "description": "Pyth Network (legacy)",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/pyth.png",
+        "image": "https://cdn.chainroot.io/images/tokens/d5f1fb80a26251f4173e7f8b7b849333f979d39af96c9d64ea377d88d4482b83.png",
         "coinGeckoId": "pyth-network"
     },
     {
@@ -1724,7 +1724,7 @@
         "symbol": "GINGER",
         "description": "GINGER",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/ginger.png",
+        "image": "https://cdn.chainroot.io/images/tokens/034c4d14fe498a0062d8c5f5495fbf3baadc377daf7c0676aa652185d719e6ba.png",
         "coinGeckoId": "ginger"
     },
     {
@@ -1734,7 +1734,7 @@
         "symbol": "AUTISM",
         "description": "AUTISM",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/autism.png",
+        "image": "https://cdn.chainroot.io/images/tokens/c82f0862385bc81e47a095f799ce4ed75be4ed553e4c5212b5000bcbb11744a5.png",
         "coinGeckoId": "autism"
     },
     {
@@ -1744,7 +1744,7 @@
         "symbol": "KIRA",
         "description": "KIRA",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/kira.png",
+        "image": "https://cdn.chainroot.io/images/tokens/eae7f3b7734bbcdf3d0f1bbb8a7813eba72acd858dbc9e07e773e108f158ab72.png",
         "coinGeckoId": "kira-the-injective-cat"
     },
     {
@@ -1754,7 +1754,7 @@
         "symbol": "NINJA",
         "description": "Dog Wif Nunchucks",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/ninja.png",
+        "image": "https://cdn.chainroot.io/images/tokens/2ca86dc6d75b51175dcbfe91a0229b186f4f13092db3562b1c44340de9d6da21.png",
         "coinGeckoId": "dog-wif-nuchucks"
     },
     {
@@ -1764,7 +1764,7 @@
         "symbol": "KATANA",
         "description": "Dog Wif Katana",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/katana.png",
+        "image": "https://cdn.chainroot.io/images/tokens/9418af5963c39a432aead4fb35b514992a36ed9b902a2fc047274cb8c2da386c.png",
         "coinGeckoId": "dogwifkatana"
     },
     {
@@ -1774,7 +1774,7 @@
         "symbol": "HAVA",
         "description": "Hava Coin is the lifeblood of the Cosmos & Injective networks, rewarding builders and welcoming supporters. https://havacoin.xyz/",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/hava.png",
+        "image": "https://cdn.chainroot.io/images/tokens/47979464f6534666efe05e0b095415389ff499db49b56145e547f633fdb2d046.png",
         "coinGeckoId": ""
     },
     {
@@ -1784,7 +1784,7 @@
         "symbol": "QUNT",
         "description": "QUNT",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/qunt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/84d894d0546cc172c9502cf770224b2db18d8b4f27b1a65ea3710eb4c9a91aee.png",
         "coinGeckoId": ""
     },
     {
@@ -1794,7 +1794,7 @@
         "symbol": "HDRO",
         "description": "Hydro",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/hdro.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ae1f225d868aef3607b6e2c4617b869d191978ea7d38f38b74e393ceb6c61976.png",
         "coinGeckoId": ""
     },
     {
@@ -1804,7 +1804,7 @@
         "symbol": "DOJO",
         "description": "Dojo Token",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/dojo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/c448ad06383072a020b93e60f2ea087e978fb3c14d46f4bc29ee2b05f35322a8.png",
         "coinGeckoId": ""
     },
     {
@@ -1814,7 +1814,7 @@
         "symbol": "bINJ",
         "description": "BackBone Labs LST",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/bINJ.png",
+        "image": "https://cdn.chainroot.io/images/tokens/334e428099534af0e90359dd4dc321d726b5df73cf16e98ba79f3215dd95ba5c.png",
         "coinGeckoId": ""
     },
     {
@@ -1824,7 +1824,7 @@
         "symbol": "SYN",
         "description": "Galactic Syndicate",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/syn.png",
+        "image": "https://cdn.chainroot.io/images/tokens/aec43da72589d7e22d6411a5a7134a13052d82c8eeaf8804a8f63d46326d074b.png",
         "coinGeckoId": ""
     },
     {
@@ -1834,7 +1834,7 @@
         "symbol": "ashSYN",
         "description": "SYN burn derivative",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/syn.ash.png",
+        "image": "https://cdn.chainroot.io/images/tokens/928a6405ef310ec88e6a13ee9a33b11bd28617ab2182195e587ef224e6a7432d.png",
         "coinGeckoId": ""
     },
     {
@@ -1844,7 +1844,7 @@
         "symbol": "DRUGS",
         "description": "DRUGS",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/drugsoninj.png",
+        "image": "https://cdn.chainroot.io/images/tokens/6e1e3affcba84667291f6e745fd3d1c092d9020977be10869ce6cd1223e023ac.png",
         "coinGeckoId": ""
     },
     {
@@ -1894,7 +1894,17 @@
         "symbol": "INJX",
         "description": "Injex Finance",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/injx.png",
+        "image": "https://cdn.chainroot.io/images/tokens/08199f53bd368a54ae6ade107134d396542687c8ae287b71d697abef4caf625c.png",
         "coinGeckoId": "injex-finance"
+    },
+    {
+        "type": "native",
+        "denom": "factory/inj1v3a4zznudwpukpr8y987pu5gnh4xuf7v36jhva/nept",
+        "name": "Neptune Finance",
+        "symbol": "NEPT",
+        "description": "The native token of Neptune Finance",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/27b7c46411c99932131380f1d4a9858ef2a241808c9b6ad40bb6d98a21044b77.png",
+        "coinGeckoId": ""
     }
 ]
