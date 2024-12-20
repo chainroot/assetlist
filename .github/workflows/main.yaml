@@ -75,7 +75,7 @@ jobs:
         branch: chore-update-dependencies
         delete-branch: true
         title: 'Update assets'
-        base: add-workflow
+        base: main
 
     - name: Check outputs
       if: ${{ steps.cpr.outputs.pull-request-number }}
