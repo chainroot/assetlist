@@ -173,7 +173,7 @@
         "symbol": "USDD",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/25380/small/UUSD.jpg?1651823371",
+        "image": "https://cdn.chainroot.io/images/tokens/716bafcbcbdc86b129ba5231522a84d396b263a9198098f0d81c07ecbcf19667.jpg?1651823371",
         "coinGeckoId": "usdd"
     },
     {
@@ -953,7 +953,7 @@
         "symbol": "bXEN",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/27713/small/Xen.jpeg?1665453190",
+        "image": "https://cdn.chainroot.io/images/tokens/a657dc2c136e7842250dfa340d8a27cf45830f2adace788bd73bc5cc566b0152.jpeg?1665453190",
         "coinGeckoId": "xen-crypto-bsc"
     },
     {
@@ -963,7 +963,7 @@
         "symbol": "axlWMAI",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/15264/small/mimatic-red.png?1620281018",
+        "image": "https://cdn.chainroot.io/images/tokens/8081e9f8570bc3e85788318ab693317a644c994c013de3b4e078ee346e483e83.png?1620281018",
         "coinGeckoId": "mimatic"
     },
     {
@@ -993,7 +993,7 @@
         "symbol": "axlLqdr",
         "description": "",
         "decimals": 18,
-        "image": "https://2302794922-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MYQICp07j-iq-GK2MHc%2Fuploads%2F9E0dn7eOs8PLq9hq26Gv%2FIcon-PNG.png?alt=media&token=53c999ea-e4a0-43a3-9ae8-2f2d4c83f132",
+        "image": "https://cdn.chainroot.io/images/tokens/0668230f26855c9f983c3ddc63290f0951e9c917a57a8170320076b2271dbc78.png?alt=media&token=53c999ea-e4a0-43a3-9ae8-2f2d4c83f132",
         "coinGeckoId": "liquiddriver"
     },
     {
@@ -1203,7 +1203,7 @@
         "symbol": "TUSD",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/3449/standard/tusd.png?1696504140",
+        "image": "https://cdn.chainroot.io/images/tokens/025e641d147a4f59d710abf862df985ffba95a512abfd6c9dce34b908662643a.png?1696504140",
         "coinGeckoId": "true-usd"
     },
     {
@@ -1213,7 +1213,7 @@
         "symbol": "milkTIA",
         "description": "",
         "decimals": 6,
-        "image": "https://assets.coingecko.com/coins/images/33795/standard/milktia.png?1702989842",
+        "image": "https://cdn.chainroot.io/images/tokens/836f68501571eeef872c986f8f8a9b3a0d520b8d33d7eb267da348dcad580631.png?1702989842",
         "coinGeckoId": "milkyway-staked-tia"
     },
     {
@@ -1233,7 +1233,7 @@
         "symbol": "MINU",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/29151/standard/Minu_Logo.jpg?1696528111",
+        "image": "https://cdn.chainroot.io/images/tokens/a6c750d9441fa9225a8f1b8baab8420f4f8e22a013dc9ddf9968203110092613.jpg?1696528111",
         "coinGeckoId": "minu"
     },
     {

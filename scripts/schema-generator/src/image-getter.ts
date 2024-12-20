@@ -1,22 +1,54 @@
-import fs from 'fs';
-import path from 'path';
-import crypto from 'crypto';
-import fetch from 'node-fetch';
+import fs from "fs";
+import path from "path";
+import crypto from "crypto";
+import fetch from "node-fetch";
 // @ts-ignore
-import exiftool from 'node-exiftool';
+import exiftool from "node-exiftool";
 
-const RAW_IMAGE_PATH = 'images';
-const DST_IMAGE_PATH = 'final';
-const RETRY_IMAGE_PATH = 'chainlist';
-const RETRY_LIST = 'retry';
-const BASE_URL = 'https://cdn.chainroot.io/images/tokens';
+const RAW_IMAGE_PATH = "images";
+const DST_IMAGE_PATH = "final";
+const RETRY_IMAGE_PATH = "chainlist";
+const RETRY_LIST = "retry";
+const BASE_URL = "https://cdn.chainroot.io/images/tokens";
 
 const NON_COSMOS_CHAINS = [
-  "0l", "aptos", "arbitrum", "avail", "avalanche", "base", "binancesmartchain", "bitcoin",
-  "bitcoincash", "comex", "composablepolkadot", "dogecoin", "ethereum", "fantom", "filecoin",
-  "forex", "internetcomputer", "kusama", "litecoin", "mantle", "moonbeam", "neo", "optimism",
-  "penumbra", "picasso", "polkadot", "polygon", "rootstock", "solana", "stellar", "statemine",
-  "sui", "tinkernet", "ton", "tron", "xrpl", "zilliqa"
+  "0l",
+  "aptos",
+  "arbitrum",
+  "avail",
+  "avalanche",
+  "base",
+  "binancesmartchain",
+  "bitcoin",
+  "bitcoincash",
+  "comex",
+  "composablepolkadot",
+  "dogecoin",
+  "ethereum",
+  "fantom",
+  "filecoin",
+  "forex",
+  "internetcomputer",
+  "kusama",
+  "litecoin",
+  "mantle",
+  "moonbeam",
+  "neo",
+  "optimism",
+  "penumbra",
+  "picasso",
+  "polkadot",
+  "polygon",
+  "rootstock",
+  "solana",
+  "stellar",
+  "statemine",
+  "sui",
+  "tinkernet",
+  "ton",
+  "tron",
+  "xrpl",
+  "zilliqa",
 ];
 
 // Ensure directories exist
@@ -28,7 +60,7 @@ const NON_COSMOS_CHAINS = [
 
 // Hash a URL
 const hashUrl = (url: string): string => {
-  return crypto.createHash('sha256').update(url).digest('hex');
+  return crypto.createHash("sha256").update(url).digest("hex");
 };
 
 // Download a file
@@ -51,8 +83,10 @@ const downloadFile = async (url: string, dest: string): Promise<boolean> => {
 const processJsonFiles = async (files: string[], directory: string) => {
   for (const file of files) {
     const filePath = path.join(directory, file);
-    const content = fs.readFileSync(filePath, 'utf8');
-    const urls = Array.from(content.matchAll(/https?:\/\/[^"\s]+\.(png|svg|jpg|jpeg|gif)/g));
+    const content = fs.readFileSync(filePath, "utf8");
+    const urls = Array.from(
+      content.matchAll(/https?:\/\/[^"\s]+\.(png|svg|jpg|jpeg|gif)/g)
+    );
 
     for (const match of urls) {
       const url = match[0];
@@ -64,23 +98,32 @@ const processJsonFiles = async (files: string[], directory: string) => {
 
       const success = await downloadFile(url, destPath);
 
-      console.log(success)
-      if (success && url.includes('https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/')) {
+      console.log(success);
+      if (
+        success &&
+        url.includes(
+          "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/"
+        )
+      ) {
         const ep = new exiftool.ExiftoolProcess();
         await ep.open();
 
         try {
-        const metadata = await ep.readMetadata(destPath, ['Gamma', 'ImageSize', 'Megapixels']);
-        const { Gamma, ImageSize, Megapixels } = metadata.data[0] ?? {};
+          const metadata = await ep.readMetadata(destPath, [
+            "Gamma",
+            "ImageSize",
+            "Megapixels",
+          ]);
+          const { ImageSize, Megapixels } = metadata.data[0] ?? {};
 
-        if (ImageSize === '192x192' && Megapixels === 0.037) {
-          console.log(`File edited: ${url}, removing and retrying.`);
-          fs.unlinkSync(destPath);
-          fs.appendFileSync(RETRY_LIST, `${url}\n`);
-        }
+          if (ImageSize === "192x192" && Megapixels === 0.037) {
+            console.log(`File edited: ${url}, removing and retrying.`);
+            fs.unlinkSync(destPath);
+            fs.appendFileSync(RETRY_LIST, `${url}\n`);
+          }
 
-        await ep.close();
-        }catch (error){
+          await ep.close();
+        } catch (error) {
           continue;
         }
       }
@@ -93,10 +136,12 @@ const traverseDirectories = async (directory: string, replace: boolean) => {
   fs.readdirSync(directory).forEach(async (folder) => {
     const folderPath = path.join(directory, folder);
     if (fs.lstatSync(folderPath).isDirectory()) {
-      const jsonFiles = fs.readdirSync(folderPath).filter((file) => file.endsWith('.json'));
+      const jsonFiles = fs
+        .readdirSync(folderPath)
+        .filter((file) => file.endsWith(".json"));
       if (replace === true) {
         await replaceUrlsInJson(jsonFiles, folderPath);
-      }else {
+      } else {
         await processJsonFiles(jsonFiles, folderPath);
       }
     }
@@ -110,7 +155,10 @@ const retryDownloads = async () => {
     return;
   }
 
-  const retryUrls = fs.readFileSync(RETRY_LIST, 'utf8').split('\n').filter(Boolean);
+  const retryUrls = fs
+    .readFileSync(RETRY_LIST, "utf8")
+    .split("\n")
+    .filter(Boolean);
 
   for (const oldUrl of retryUrls) {
     const chain = oldUrl.match(/\/chain\/([^\/]+)\/asset\//)?.[1];
@@ -121,29 +169,44 @@ const retryDownloads = async () => {
       continue;
     }
 
-    const hash = hashUrl(oldUrl)
-    const extension = path.extname(oldUrl)
+    const hash = hashUrl(oldUrl);
+    const extension = path.extname(oldUrl);
 
     if (NON_COSMOS_CHAINS.includes(chain)) {
       const nonCosmosUrl = `https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/${chain}/images/${asset}`;
-//      const nonCosmosBackupUrl = asset.endsWith('.png')
-//        ? `https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/${chain}/images/${asset.replace(/\.png$/, '.svg')}`
-//        : `https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/${chain}/images/${asset.replace(/\.svg$/, '.png')}`;
+      //      const nonCosmosBackupUrl = asset.endsWith('.png')
+      //        ? `https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/${chain}/images/${asset.replace(/\.png$/, '.svg')}`
+      //        : `https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/${chain}/images/${asset.replace(/\.svg$/, '.png')}`;
 
-      if (await downloadFile(nonCosmosUrl, path.join(RAW_IMAGE_PATH, `${hash}${extension}`))) continue;
-//      if (await downloadFile(nonCosmosBackupUrl, path.join(RAW_IMAGE_PATH, ))) continue;
+      if (
+        await downloadFile(
+          nonCosmosUrl,
+          path.join(RAW_IMAGE_PATH, `${hash}${extension}`)
+        )
+      )
+        continue;
+      //      if (await downloadFile(nonCosmosBackupUrl, path.join(RAW_IMAGE_PATH, ))) continue;
     }
 
     const cosmosUrl = `https://raw.githubusercontent.com/cosmos/chain-registry/master/${chain}/images/${asset}`;
- //   const cosmosBackupUrl = asset.endsWith('.png')
- //     ? `https://raw.githubusercontent.com/cosmos/chain-registry/master/${chain}/images/${asset.replace(/\.png$/, '.svg')}`
- //     : `https://raw.githubusercontent.com/cosmos/chain-registry/master/${chain}/images/${asset.replace(/\.svg$/, '.png')}`;
+    //   const cosmosBackupUrl = asset.endsWith('.png')
+    //     ? `https://raw.githubusercontent.com/cosmos/chain-registry/master/${chain}/images/${asset.replace(/\.png$/, '.svg')}`
+    //     : `https://raw.githubusercontent.com/cosmos/chain-registry/master/${chain}/images/${asset.replace(/\.svg$/, '.png')}`;
 
-    if (await downloadFile(cosmosUrl, path.join(RAW_IMAGE_PATH, `${hash}${extension}`))) continue;
-//    if (await downloadFile(cosmosBackupUrl, path.join(RAW_IMAGE_PATH, asset.endsWith('.png') ? asset.replace(/\.png$/, '.svg') : asset.replace(/\.svg$/, '.png')))) continue;
+    if (
+      await downloadFile(
+        cosmosUrl,
+        path.join(RAW_IMAGE_PATH, `${hash}${extension}`)
+      )
+    )
+      continue;
+    //    if (await downloadFile(cosmosBackupUrl, path.join(RAW_IMAGE_PATH, asset.endsWith('.png') ? asset.replace(/\.png$/, '.svg') : asset.replace(/\.svg$/, '.png')))) continue;
 
     console.log(`Still not found: ${oldUrl}`);
-    fs.appendFileSync(path.join(RETRY_IMAGE_PATH, '404_retries.log'), `${oldUrl}\n`);
+    fs.appendFileSync(
+      path.join(RETRY_IMAGE_PATH, "404_retries.log"),
+      `${oldUrl}\n`
+    );
   }
 };
 
@@ -151,15 +214,19 @@ const retryDownloads = async () => {
 const replaceUrlsInJson = async (files: string[], directory: string) => {
   for (const file of files) {
     const filePath = path.join(directory, file);
-    let content = fs.readFileSync(filePath, 'utf8');
-    const urls = Array.from(content.matchAll(/https?:\/\/(?!cdn\.chainroot\.io\/)[^"\s]+\.(png|svg|jpg|jpeg|gif)/g));
+    let content = fs.readFileSync(filePath, "utf8");
+    const urls = Array.from(
+      content.matchAll(
+        /https?:\/\/(?!cdn\.chainroot\.io\/)[^"\s]+\.(png|svg|jpg|jpeg|gif)/g
+      )
+    );
 
     for (const match of urls) {
       const url = match[0];
       const extension = path.extname(url);
       const hash = hashUrl(url);
       const newUrl = `${BASE_URL}/${hash}${extension}`;
-      content = content.replace(new RegExp(url, 'g'), newUrl);
+      content = content.replace(new RegExp(url, "g"), newUrl);
       console.log(`Replaced: ${url} -> ${newUrl}`);
     }
 
@@ -167,9 +234,12 @@ const replaceUrlsInJson = async (files: string[], directory: string) => {
   }
 };
 
-(async () => {
-  traverseDirectories('go', false);
+async function main() {
+  traverseDirectories("go", false);
+  console.log("DONE TRAVERSE");
   await retryDownloads();
-  traverseDirectories('go', true);
-})();
+  console.log("DONE RETRY DOWNLOADS");
+  traverseDirectories("go", true);
+}
 
+main();

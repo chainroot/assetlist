@@ -2913,7 +2913,7 @@
         "symbol": "WMAI",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/15264/small/mimatic-red.png?1620281018",
+        "image": "https://cdn.chainroot.io/images/tokens/8081e9f8570bc3e85788318ab693317a644c994c013de3b4e078ee346e483e83.png?1620281018",
         "coinGeckoId": "mimatic"
     },
     {
@@ -2953,7 +2953,7 @@
         "symbol": "FIDU",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/25944/small/GFI-asset-icon.png?1654827482",
+        "image": "https://cdn.chainroot.io/images/tokens/9634efe79e13a3398803e76e3c750bc6c612ed27ea05b88c73203a2d8c2ce48e.png?1654827482",
         "coinGeckoId": "fidu"
     },
     {
@@ -2973,7 +2973,7 @@
         "symbol": "MLN",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/605/thumb/melon.png?1547034295",
+        "image": "https://cdn.chainroot.io/images/tokens/a7bc602037bf7d065b739ad17af9945dfb945ebdf48e394e18ab88173328da96.png?1547034295",
         "coinGeckoId": "melon"
     },
     {
@@ -2983,7 +2983,7 @@
         "symbol": "BLZ",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/2848/thumb/ColorIcon_3x.png?1622516510",
+        "image": "https://cdn.chainroot.io/images/tokens/6c7009471cbe1fec39c385d22309f5ff1bf09884b189d04a415afd1e5ff90172.png?1622516510",
         "coinGeckoId": "bluzelle"
     },
     {
@@ -3003,7 +3003,7 @@
         "symbol": "TOKE",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/17495/thumb/tokemak-avatar-200px-black.png?1628131614",
+        "image": "https://cdn.chainroot.io/images/tokens/201bbc316c78fbb41747cc188d79e64c5f0e5ab446ea74be3e368a10b066c88c.png?1628131614",
         "coinGeckoId": "non-fungible-toke"
     },
     {
@@ -3023,7 +3023,7 @@
         "symbol": "GLM",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/542/thumb/Golem_Submark_Positive_RGB.png?1606392013",
+        "image": "https://cdn.chainroot.io/images/tokens/4ac9ba64d758fa64b33c4e2cb5c8c29cdfc96f7d316f9c77d01055d85bdcda5e.png?1606392013",
         "coinGeckoId": "golem"
     },
     {
@@ -3033,7 +3033,7 @@
         "symbol": "HIGH",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/18973/thumb/logosq200200Coingecko.png?1634090470",
+        "image": "https://cdn.chainroot.io/images/tokens/468f0f62e2b4d5a126196bdd06d7ba6e636b9d19fcf6317f070387c9d0012ad6.png?1634090470",
         "coinGeckoId": "highstreet"
     },
     {
@@ -3043,7 +3043,7 @@
         "symbol": "INV",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/14205/thumb/inverse_finance.jpg?1614921871",
+        "image": "https://cdn.chainroot.io/images/tokens/d9ddcad796b8dc3c51625d8ebe4a3b6ca95ce0a07bfff9689f3eae6e6dc3adac.jpg?1614921871",
         "coinGeckoId": "inverse-finance"
     },
     {
@@ -3053,7 +3053,7 @@
         "symbol": "RBN",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/15823/thumb/RBN_64x64.png?1633529723",
+        "image": "https://cdn.chainroot.io/images/tokens/a1a53bb09e860eba9356d4ae134b961404687bcf5fb44ba63555be257462dc36.png?1633529723",
         "coinGeckoId": "ribbon-finance"
     },
     {
@@ -3063,7 +3063,7 @@
         "symbol": "FOX",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/9988/thumb/FOX.png?1574330622",
+        "image": "https://cdn.chainroot.io/images/tokens/35c8907849f54f0baa9c7dfcf1f918273f0df96173064d156d2b25c20fac156e.png?1574330622",
         "coinGeckoId": "farmers-only"
     },
     {
@@ -3103,7 +3103,7 @@
         "symbol": "MC",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/19304/thumb/Db4XqML.png?1634972154",
+        "image": "https://cdn.chainroot.io/images/tokens/9e32976822d075a294a133a8ca39628151d515ffc2d0c3d58d9378611aec4d9b.png?1634972154",
         "coinGeckoId": "mechaverse"
     },
     {
@@ -3113,7 +3113,7 @@
         "symbol": "CUBE",
         "description": "",
         "decimals": 8,
-        "image": "https://assets.coingecko.com/coins/images/10687/thumb/CUBE_icon.png?1617026861",
+        "image": "https://cdn.chainroot.io/images/tokens/e55f17322952ca2d212a3f21ca52b831b5bef616659819f57353707e3b8f9cf9.png?1617026861",
         "coinGeckoId": "cube-network"
     },
     {
@@ -3123,7 +3123,7 @@
         "symbol": "DEXT",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/11603/thumb/dext.png?1605790188",
+        "image": "https://cdn.chainroot.io/images/tokens/6da2d41f1172222e82fb526d70119f5f8899104408e2c6208e226f8a7e892f5b.png?1605790188",
         "coinGeckoId": "dextools"
     },
     {
@@ -3133,7 +3133,7 @@
         "symbol": "MONA",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/13298/thumb/monavale_logo.jpg?1607232721",
+        "image": "https://cdn.chainroot.io/images/tokens/dba6a510a4b99cd9869499d37e70d872b5a26d540b848d4e45cfaad38f120227.jpg?1607232721",
         "coinGeckoId": "mona"
     },
     {
@@ -3143,7 +3143,7 @@
         "symbol": "MUSE",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/13230/thumb/muse_logo.png?1606460453",
+        "image": "https://cdn.chainroot.io/images/tokens/efa5c3d88e2fc831359ba1645caad2957efa0f97ea530d0849e9e61217b14008.png?1606460453",
         "coinGeckoId": "muse-2"
     },
     {
@@ -3153,7 +3153,7 @@
         "symbol": "ROOK",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/13005/thumb/keeper_dao_logo.jpg?1604316506",
+        "image": "https://cdn.chainroot.io/images/tokens/83a1252d99078bdae94da93dc54f31b454bc1edf3133c27665b0ea1320917a23.jpg?1604316506",
         "coinGeckoId": "rook"
     },
     {
@@ -3163,7 +3163,7 @@
         "symbol": "SYLO",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/6430/thumb/SYLO.svg?1589527756",
+        "image": "https://cdn.chainroot.io/images/tokens/93f7a960d3582f77fb6c4914b3a646027121907eae1c8cc2fbe74f3fb7e97b40.svg?1589527756",
         "coinGeckoId": "sylo"
     },
     {
@@ -3173,7 +3173,7 @@
         "symbol": "XCN",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/24210/thumb/Chain_icon_200x200.png?1646895054",
+        "image": "https://cdn.chainroot.io/images/tokens/791561d8d4e4f27fca4eea9efcfae7c3758addc2fb5f0b34f9d4f548e6981f58.png?1646895054",
         "coinGeckoId": "chain-2"
     },
     {
@@ -3893,7 +3893,7 @@
         "symbol": "XEN",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/27713/small/Xen.jpeg?1665453190",
+        "image": "https://cdn.chainroot.io/images/tokens/a657dc2c136e7842250dfa340d8a27cf45830f2adace788bd73bc5cc566b0152.jpeg?1665453190",
         "coinGeckoId": "xen-crypto"
     },
     {
@@ -3913,7 +3913,7 @@
         "symbol": "WLD",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/31069/small/worldcoin.jpeg?1690182386",
+        "image": "https://cdn.chainroot.io/images/tokens/8fd48b0d1f64562dfb9d85fc659721e8ae840d55c50624c7581ced420f09a1a0.jpeg?1690182386",
         "coinGeckoId": "worldcoin"
     },
     {
@@ -3923,7 +3923,7 @@
         "symbol": "BABYDOGE",
         "description": "",
         "decimals": 9,
-        "image": "https://assets.coingecko.com/coins/images/16125/small/babydoge.jpg?1676303229",
+        "image": "https://cdn.chainroot.io/images/tokens/c2ef4f97ba8d87e9bd0fb01cdaede43869b17ed0301acbf0403a27fbdf99bd09.jpg?1676303229",
         "coinGeckoId": "baby-doge-coin"
     },
     {
@@ -3943,7 +3943,7 @@
         "symbol": "stERN",
         "description": "",
         "decimals": 18,
-        "image": "https://github.com/0xsquid/assets/blob/main/images/tokens/stERN.svg?raw=true",
+        "image": "https://cdn.chainroot.io/images/tokens/2d9d09bae0dea82fb565b4e7976be6b8022256613632a692673b96460a4160d0.svg?raw=true",
         "coinGeckoId": "staked-ethos-reserve-note"
     },
     {
@@ -3983,7 +3983,7 @@
         "symbol": "axlLqdr",
         "description": "",
         "decimals": 18,
-        "image": "https://2302794922-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MYQICp07j-iq-GK2MHc%2Fuploads%2F9E0dn7eOs8PLq9hq26Gv%2FIcon-PNG.png?alt=media&token=53c999ea-e4a0-43a3-9ae8-2f2d4c83f132",
+        "image": "https://cdn.chainroot.io/images/tokens/0668230f26855c9f983c3ddc63290f0951e9c917a57a8170320076b2271dbc78.png?alt=media&token=53c999ea-e4a0-43a3-9ae8-2f2d4c83f132",
         "coinGeckoId": "liquiddriver"
     },
     {
@@ -4033,7 +4033,7 @@
         "symbol": "wUSDM",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/31719/standard/usdm.png?1696530540",
+        "image": "https://cdn.chainroot.io/images/tokens/17e192cdc38fb2d5d1dd2cd924d5460e4075fd7d9719adbb3484d762f0326f74.png?1696530540",
         "coinGeckoId": "mountain-protocol-usdm"
     },
     {
@@ -4133,7 +4133,7 @@
         "symbol": "milkTIA",
         "description": "",
         "decimals": 6,
-        "image": "https://assets.coingecko.com/coins/images/33795/standard/milktia.png?1702989842",
+        "image": "https://cdn.chainroot.io/images/tokens/836f68501571eeef872c986f8f8a9b3a0d520b8d33d7eb267da348dcad580631.png?1702989842",
         "coinGeckoId": "milkyway-staked-tia"
     },
     {
@@ -4153,7 +4153,7 @@
         "symbol": "MNT",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/30980/small/token-logo.png?1689320029",
+        "image": "https://cdn.chainroot.io/images/tokens/97bae185824b5e9c1b8432ddbeecd71173ee2efa2434b166cd8af0101c3b5d36.png?1689320029",
         "coinGeckoId": "mantle"
     },
     {

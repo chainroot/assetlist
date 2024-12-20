@@ -99,7 +99,7 @@
     "symbol": "WETH",
     "description": "WETH",
     "decimals": 18,
-    "image": "https://static.okx.com/cdn/web3/currency/token/25-0xe44fd7fcb2b1581822d0c862b68222998a0c299a-97.png/type=default_350_0",
+    "image": "https://cdn.chainroot.io/images/tokens/eb2a2f9e264712638ef67fa26d1a25af13628ba20a7e3c739bb6d89d075ad3e4.png/type=default_350_0",
     "coinGeckoId": "weth"
   },
   {

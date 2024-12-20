@@ -533,7 +533,7 @@
         "symbol": "HZN",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/31156/small/Circle_logo_black_%281%29.png?1691040942",
+        "image": "https://cdn.chainroot.io/images/tokens/05533db598d15114530b16cc76f6dad9ee810a8b88ae222bb7517c255933eaa3.png?1691040942",
         "coinGeckoId": "horizon-2"
     },
     {
@@ -653,7 +653,7 @@
         "symbol": "BVM",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/31336/standard/bvm_%281%29.png?1696530154",
+        "image": "https://cdn.chainroot.io/images/tokens/55592294c08b1e6e069b749775698290c644ba5094e362b0144711f28eb625af.png?1696530154",
         "coinGeckoId": "base-velocimeter"
     },
     {
@@ -743,7 +743,7 @@
         "symbol": "milkTIA",
         "description": "",
         "decimals": 6,
-        "image": "https://assets.coingecko.com/coins/images/33795/standard/milktia.png?1702989842",
+        "image": "https://cdn.chainroot.io/images/tokens/836f68501571eeef872c986f8f8a9b3a0d520b8d33d7eb267da348dcad580631.png?1702989842",
         "coinGeckoId": "milkyway-staked-tia"
     },
     {

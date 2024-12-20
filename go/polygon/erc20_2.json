@@ -146,7 +146,7 @@
         "symbol": "MAI",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/15264/small/mimatic-red.png?1620281018",
+        "image": "https://cdn.chainroot.io/images/tokens/8081e9f8570bc3e85788318ab693317a644c994c013de3b4e078ee346e483e83.png?1620281018",
         "coinGeckoId": "mimatic"
     },
     {
@@ -156,7 +156,7 @@
         "symbol": "DG",
         "description": "",
         "decimals": 18,
-        "image": "https://polygonscan.com/token/images/decentralgame_32.png?v=5",
+        "image": "https://cdn.chainroot.io/images/tokens/7bc6e7a6f03fe6a1168a82051b3f964588d3512c41daf7ce90535cb18db3d316.png?v=5",
         "coinGeckoId": "decentral-games"
     },
     {
@@ -196,7 +196,7 @@
         "symbol": "IXT",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/20927/small/IXT_SYMBOL_SVG_RGB_BLACK.png?1637934555",
+        "image": "https://cdn.chainroot.io/images/tokens/640100895491909f6756958b9464e76ac587de32309d7d2ebe005a5fd9daa30c.png?1637934555",
         "coinGeckoId": "insurex"
     },
     {
@@ -206,7 +206,7 @@
         "symbol": "LCD",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/23693/small/lcd-icon-color-200px.png?1645450706",
+        "image": "https://cdn.chainroot.io/images/tokens/6f9aeb5957ed14e3d77e6f5956f60f42b8404c829dad92bce63e6342f0d9067e.png?1645450706",
         "coinGeckoId": "lucidao"
     },
     {
@@ -216,7 +216,7 @@
         "symbol": "MASQ",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/13699/small/MASQ_Logo_Blue_Solo_Transparent.png?1616661801",
+        "image": "https://cdn.chainroot.io/images/tokens/df136236d65ce9ab6606d946226aac6bae792cbe67c48f196a6f52344bb4bc78.png?1616661801",
         "coinGeckoId": "masq"
     },
     {
@@ -236,7 +236,7 @@
         "symbol": "MCHC",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/15399/small/MCHC.jpg?1620721307",
+        "image": "https://cdn.chainroot.io/images/tokens/897bade2e99bb7ab4d2a725239f22e28da7821ef1de52ed9c56ba383a659af18.jpg?1620721307",
         "coinGeckoId": "mch-coin"
     },
     {
@@ -256,7 +256,7 @@
         "symbol": "NITRO",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/21668/small/_X6vYBDM_400x400.jpg?1639705848",
+        "image": "https://cdn.chainroot.io/images/tokens/cfc4d3212b14d875e300e3344b3bf41eb915e6a2f803902287604db5ef9a84bc.jpg?1639705848",
         "coinGeckoId": "nitro-league"
     },
     {
@@ -296,7 +296,7 @@
         "symbol": "SAND",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/12129/small/sandbox_logo.jpg?1597397942",
+        "image": "https://cdn.chainroot.io/images/tokens/c6f23588089e385cfa96d04b8ada081aaf19ed55e501a3db84c890ae671b93cd.jpg?1597397942",
         "coinGeckoId": "the-sandbox"
     },
     {
@@ -306,7 +306,7 @@
         "symbol": "MANA",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/878/small/decentraland-mana.png?1550108745",
+        "image": "https://cdn.chainroot.io/images/tokens/34273718052748381bc1d5954ecf196f35309ef8805f4e2a13e10a90a7b0bfde.png?1550108745",
         "coinGeckoId": "decentraland"
     },
     {
@@ -326,7 +326,7 @@
         "symbol": "SFL",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/25514/small/download.png?1652164203",
+        "image": "https://cdn.chainroot.io/images/tokens/32a253e370c4b92eebb9e42572ee729089060f4d302c648775673c65bbacbe2f.png?1652164203",
         "coinGeckoId": "sunflower-land"
     },
     {
@@ -336,7 +336,7 @@
         "symbol": "stMATIC",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/24185/small/stMATIC.png?1646789287",
+        "image": "https://cdn.chainroot.io/images/tokens/220e1eb2974566a24e1766054f4bee31b6afcb4066884e512d5273e1cdb003da.png?1646789287",
         "coinGeckoId": "lido-staked-matic"
     },
     {
@@ -346,7 +346,7 @@
         "symbol": "TEL",
         "description": "",
         "decimals": 2,
-        "image": "https://assets.coingecko.com/coins/images/1899/small/tel.png?1547036203",
+        "image": "https://cdn.chainroot.io/images/tokens/9bed1cb8a04d7a093a47cf9f6b0d4ab0d5ef615b29e0b9cf04e30a81440dd6a0.png?1547036203",
         "coinGeckoId": "telcoin"
     },
     {
@@ -356,7 +356,7 @@
         "symbol": "VOXEL",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/21260/small/voxies.png?1638789903",
+        "image": "https://cdn.chainroot.io/images/tokens/e895c67ca3744b3ad56bd805d2397993153a331a049e2191789037894973459f.png?1638789903",
         "coinGeckoId": "voxies"
     },
     {
@@ -366,7 +366,7 @@
         "symbol": "XGEM",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/22535/small/17200.png?1642023748",
+        "image": "https://cdn.chainroot.io/images/tokens/1d981f75f001e888a88eea50f1ed80f3d596607d0c9ae06ea69d862e06815e4b.png?1642023748",
         "coinGeckoId": "exchange-genesis-ethlas-medium"
     },
     {
@@ -466,7 +466,7 @@
         "symbol": "LINK",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png?1547034700",
+        "image": "https://cdn.chainroot.io/images/tokens/e364ab4511d3a32372c76fac136dc95d1fadeea330d578c3717b05c3980b85a8.png?1547034700",
         "coinGeckoId": "chainlink"
     },
     {
@@ -476,7 +476,7 @@
         "symbol": "mXEN",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/27713/small/Xen.jpeg?1665453190",
+        "image": "https://cdn.chainroot.io/images/tokens/a657dc2c136e7842250dfa340d8a27cf45830f2adace788bd73bc5cc566b0152.jpeg?1665453190",
         "coinGeckoId": "xen-crypto-bsc"
     },
     {
@@ -506,7 +506,7 @@
         "symbol": "axlWMAI",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/15264/small/mimatic-red.png?1620281018",
+        "image": "https://cdn.chainroot.io/images/tokens/8081e9f8570bc3e85788318ab693317a644c994c013de3b4e078ee346e483e83.png?1620281018",
         "coinGeckoId": "mimatic"
     },
     {
@@ -526,7 +526,7 @@
         "symbol": "axlLqdr",
         "description": "",
         "decimals": 18,
-        "image": "https://2302794922-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MYQICp07j-iq-GK2MHc%2Fuploads%2F9E0dn7eOs8PLq9hq26Gv%2FIcon-PNG.png?alt=media&token=53c999ea-e4a0-43a3-9ae8-2f2d4c83f132",
+        "image": "https://cdn.chainroot.io/images/tokens/0668230f26855c9f983c3ddc63290f0951e9c917a57a8170320076b2271dbc78.png?alt=media&token=53c999ea-e4a0-43a3-9ae8-2f2d4c83f132",
         "coinGeckoId": "liquiddriver"
     },
     {
@@ -676,7 +676,7 @@
         "symbol": "POLDO",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/34537/standard/Poldo.png?1705324970",
+        "image": "https://cdn.chainroot.io/images/tokens/4779dc8bdcd530f4396c1bb5a1a41b646e06018d51b491f8de38ed6836aa6744.png?1705324970",
         "coinGeckoId": "poldo"
     },
     {
@@ -686,7 +686,7 @@
         "symbol": "milkTIA",
         "description": "",
         "decimals": 6,
-        "image": "https://assets.coingecko.com/coins/images/33795/standard/milktia.png?1702989842",
+        "image": "https://cdn.chainroot.io/images/tokens/836f68501571eeef872c986f8f8a9b3a0d520b8d33d7eb267da348dcad580631.png?1702989842",
         "coinGeckoId": "milkyway-staked-tia"
     },
     {
@@ -696,7 +696,7 @@
         "symbol": "MOON",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/34862/standard/coin_big_white_logo_%281%29.png?1706354814",
+        "image": "https://cdn.chainroot.io/images/tokens/e43b7cf29bc92ff393be60a40a359fee08263a9d71952019d970b6fdb8fe551d.png?1706354814",
         "coinGeckoId": "moonflow"
     },
     {
@@ -706,7 +706,7 @@
         "symbol": "AMKT",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/28496/standard/22999.png?1696527488",
+        "image": "https://cdn.chainroot.io/images/tokens/7391e1bd1794de9161a80a5518a05dc0d877330740e78e8bef05fb291c6a70b7.png?1696527488",
         "coinGeckoId": "alongside-crypto-market-index"
     },
     {

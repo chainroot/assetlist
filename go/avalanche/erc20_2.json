@@ -345,7 +345,7 @@
         "symbol": "axlWMAI",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/15264/small/mimatic-red.png?1620281018",
+        "image": "https://cdn.chainroot.io/images/tokens/8081e9f8570bc3e85788318ab693317a644c994c013de3b4e078ee346e483e83.png?1620281018",
         "coinGeckoId": "mimatic"
     },
     {
@@ -725,7 +725,7 @@
         "symbol": "sGLP",
         "description": "",
         "decimals": 18,
-        "image": "https://assets.coingecko.com/coins/images/18323/small/arbit.png?1631532468",
+        "image": "https://cdn.chainroot.io/images/tokens/e3cc80d96c520c23316385ffa1bc488f85066d360c588f581ff0adcd31c52077.png?1631532468",
         "coinGeckoId": "GLP"
     },
     {
@@ -755,7 +755,7 @@
         "symbol": "axlLqdr",
         "description": "",
         "decimals": 18,
-        "image": "https://2302794922-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MYQICp07j-iq-GK2MHc%2Fuploads%2F9E0dn7eOs8PLq9hq26Gv%2FIcon-PNG.png?alt=media&token=53c999ea-e4a0-43a3-9ae8-2f2d4c83f132",
+        "image": "https://cdn.chainroot.io/images/tokens/0668230f26855c9f983c3ddc63290f0951e9c917a57a8170320076b2271dbc78.png?alt=media&token=53c999ea-e4a0-43a3-9ae8-2f2d4c83f132",
         "coinGeckoId": "liquiddriver"
     },
     {
@@ -905,7 +905,7 @@
         "symbol": "milkTIA",
         "description": "",
         "decimals": 6,
-        "image": "https://assets.coingecko.com/coins/images/33795/standard/milktia.png?1702989842",
+        "image": "https://cdn.chainroot.io/images/tokens/836f68501571eeef872c986f8f8a9b3a0d520b8d33d7eb267da348dcad580631.png?1702989842",
         "coinGeckoId": "milkyway-staked-tia"
     },
     {

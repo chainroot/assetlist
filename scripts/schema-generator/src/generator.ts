@@ -1,5 +1,6 @@
 import fs from "fs";
-import path from "path";
+import { dirname, join } from "path";
+import { fileURLToPath } from "url";
 
 import { request } from "graphql-request";
 import { ALL_CHAINS, GET_CHAIN_ASSETS } from "./gql/queries.js";
@@ -8,17 +9,14 @@ import { QueryClient, setupIbcExtension } from "@cosmjs/stargate";
 import { Tendermint34Client } from "@cosmjs/tendermint-rpc";
 import { getDenomsInfo } from "./utils/chain.js";
 
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
+
 async function main() {
   const { chains } = await request<ChainReturn>(
     "https://gql.chainroot.io",
     ALL_CHAINS
   );
-
-  const generatedDir = path.resolve("generated");
-
-  if (!fs.existsSync(generatedDir)) {
-    fs.mkdirSync(generatedDir, { recursive: true });
-  }
 
   for (const chain of chains) {
     console.log("GENERATING", chain);
@@ -44,8 +42,16 @@ async function main() {
         client
       );
 
+      const networkName =
+        chain.networkName.toLowerCase() === "ux" ? "umee" : chain.networkName;
+
+      const generatedDir = join(__dirname, `../../../go/${networkName}`);
+      if (!fs.existsSync(generatedDir)) {
+        fs.mkdirSync(generatedDir, { recursive: true });
+      }
+
       await fs.promises.writeFile(
-        `generated/${chain.networkName}.json`,
+        `${generatedDir}/custom_2.json`,
         JSON.stringify(denomInfos, null, 2)
       );
     } catch (err) {
