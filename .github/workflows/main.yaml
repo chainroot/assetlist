@@ -12,7 +12,7 @@ jobs:
     steps:
     - uses: actions/checkout@v4
 
-    - run: apt install exiftool -y
+    - run: sudo apt update && sudo apt install exiftool -y
 
     - name: Install pnpm
       uses: pnpm/action-setup@v4
