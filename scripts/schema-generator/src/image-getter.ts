@@ -6,8 +6,6 @@ import fetch from "node-fetch";
 import exiftool from "node-exiftool";
 
 const RAW_IMAGE_PATH = "images";
-const DST_IMAGE_PATH = "final";
-const RETRY_IMAGE_PATH = "chainlist";
 const RETRY_LIST = "retry";
 const BASE_URL = "https://cdn.chainroot.io/images/tokens";
 
@@ -52,7 +50,7 @@ const NON_COSMOS_CHAINS = [
 ];
 
 // Ensure directories exist
-[RAW_IMAGE_PATH, DST_IMAGE_PATH, RETRY_IMAGE_PATH].forEach((dir) => {
+[RAW_IMAGE_PATH].forEach((dir) => {
   if (!fs.existsSync(dir)) {
     fs.mkdirSync(dir, { recursive: true });
   }
@@ -98,7 +96,6 @@ const processJsonFiles = async (files: string[], directory: string) => {
 
       const success = await downloadFile(url, destPath);
 
-      console.log(success);
       if (
         success &&
         url.includes(
@@ -133,7 +130,8 @@ const processJsonFiles = async (files: string[], directory: string) => {
 
 // Traverse directories and process JSON files
 const traverseDirectories = async (directory: string, replace: boolean) => {
-  fs.readdirSync(directory).forEach(async (folder) => {
+ // fs.readdirSync(directory).forEach(async (folder) => {
+  for (const folder of fs.readdirSync(directory)) {
     const folderPath = path.join(directory, folder);
     if (fs.lstatSync(folderPath).isDirectory()) {
       const jsonFiles = fs
@@ -145,7 +143,7 @@ const traverseDirectories = async (directory: string, replace: boolean) => {
         await processJsonFiles(jsonFiles, folderPath);
       }
     }
-  });
+  };
 };
 
 // Retry downloading from the retry list
@@ -203,8 +201,7 @@ const retryDownloads = async () => {
     //    if (await downloadFile(cosmosBackupUrl, path.join(RAW_IMAGE_PATH, asset.endsWith('.png') ? asset.replace(/\.png$/, '.svg') : asset.replace(/\.svg$/, '.png')))) continue;
 
     console.log(`Still not found: ${oldUrl}`);
-    fs.appendFileSync(
-      path.join(RETRY_IMAGE_PATH, "404_retries.log"),
+    fs.appendFileSync("404_retries.log",
       `${oldUrl}\n`
     );
   }
@@ -225,21 +222,44 @@ const replaceUrlsInJson = async (files: string[], directory: string) => {
       const url = match[0];
       const extension = path.extname(url);
       const hash = hashUrl(url);
-      const newUrl = `${BASE_URL}/${hash}${extension}`;
+      const hashedUrl = `${BASE_URL}/${hash}${extension}`;
+    
+      // Check if the hashed file exists in the images directory
+      const filePath = path.join('images', `${hash}${extension}`);
+      
+      let newUrl;
+    
+      // If the hashed file does not exist, use the last part of the URL (filename with extension)
+      if (!fs.existsSync(filePath)) {
+        const lastPart = path.basename(url); // Get the last part of the URL (e.g., name.png)
+        newUrl = `${BASE_URL}/${lastPart}`;
+      } else {
+        newUrl = hashedUrl;
+      }
+    
       content = content.replace(new RegExp(url, "g"), newUrl);
       console.log(`Replaced: ${url} -> ${newUrl}`);
     }
+
+//    for (const match of urls) {
+//      const url = match[0];
+//      const extension = path.extname(url);
+//      const hash = hashUrl(url);
+//      const newUrl = `${BASE_URL}/${hash}${extension}`;
+//      content = content.replace(new RegExp(url, "g"), newUrl);
+//      console.log(`Replaced: ${url} -> ${newUrl}`);
+//    }
 
     fs.writeFileSync(filePath, content);
   }
 };
 
 async function main() {
-  traverseDirectories("go", false);
+  await traverseDirectories("go", false);
   console.log("DONE TRAVERSE");
   await retryDownloads();
   console.log("DONE RETRY DOWNLOADS");
-  traverseDirectories("go", true);
+  await traverseDirectories("go", true);
 }
 
 main();
