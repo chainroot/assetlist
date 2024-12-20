@@ -27,7 +27,7 @@ jobs:
         cache-dependency-path: scripts/schema-generator/pnpm-lock.yaml
 
     - name: Install dependencies with pnpm
-      run: pnpm install --frozen-lockfile
+      run: pnpm install --frozen-lockfile --prefix scripts/schema-generator
 
     - name: Setup Rclone
       uses: AnimMouse/setup-rclone@v1
