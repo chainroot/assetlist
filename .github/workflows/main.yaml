@@ -1,6 +1,6 @@
 on:
   push:
-    branches: *
+    branches: '*'
   # schedule:
   #   - cron: "*/5 * * * *" # Runs every 5 minutes
 
