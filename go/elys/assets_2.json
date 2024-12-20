@@ -1,0 +1,22 @@
+[
+    {
+        "type": "native",
+        "denom": "uelys",
+        "name" : "Elys",
+        "symbol": "ELYS",
+        "description": "Elys Staking Coin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/888e3365135e9c1425cc3648d6eeb04f8c58248670d1035cfb883f2da74dca35.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "ueden",
+        "name" : "Eden",
+        "symbol": "EDEN",
+        "description": "",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/5d9d8f65c05f668671fecfb13d6b62aa7b30a038a51cceaad58eaa21da200651.png",
+        "coinGeckoId": ""
+    }
+]

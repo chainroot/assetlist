@@ -6,7 +6,7 @@
         "symbol": "AKT",
         "description": "Akash Network Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/akt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/6ca4a22af51e4b2b0035437686f67392ea2f2844f9a20f9f07e8605de96479e2.png",
         "coinGeckoId": "akash-network",
         "color": "#C71E10"
     },
@@ -40,7 +40,7 @@
         "symbol": "JUNO",
         "description": "Juno Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/juno.png",
+        "image": "https://cdn.chainroot.io/images/tokens/a68afd5f8ab6feac6f7b422daaf5d5da26391ca98cc4596226dcd89366941ea7.png",
         "coinGeckoId": "juno-network",
         "ibc_info": {
             "path": "juno>akash",
@@ -63,7 +63,7 @@
         "symbol": "KAVA",
         "description": "Kava Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/kava.png",
+        "image": "https://cdn.chainroot.io/images/tokens/a46273005a34ab2209dec91202490e01024b231a043ef473bfaa4fc3529f362c.png",
         "coinGeckoId": "kava",
         "ibc_info": {
             "path": "kava>akash",
@@ -86,7 +86,7 @@
         "symbol": "SWP",
         "description": "Governance token of Kava Swap Protocol.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/swp.png",
+        "image": "https://cdn.chainroot.io/images/tokens/aaf2df370974abdbe501b4aa7fa3e175900c1de2d953aacfa1656a916700c18d.png",
         "coinGeckoId": "kava-swap",
         "ibc_info": {
             "path": "kava>akash",
@@ -109,7 +109,7 @@
         "symbol": "HARD",
         "description": "Governance token of Kava Lend Protocol.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/hard.png",
+        "image": "https://cdn.chainroot.io/images/tokens/9e3e3dbd20c49ee72357f265904f2a86c73c7316eba60af6d03d848418597cd7.png",
         "coinGeckoId": "kava-lend",
         "ibc_info": {
             "path": "kava>akash",
@@ -132,7 +132,7 @@
         "symbol": "USDX",
         "description": "The native stablecoin of Kava.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdx.png",
+        "image": "https://cdn.chainroot.io/images/tokens/971982f1f8b6980f5c3e902c5f778b1d3b5c14339ee1c381cdf1fec1dc37a4c8.png",
         "coinGeckoId": "usdx",
         "ibc_info": {
             "path": "kava>akash",
@@ -155,7 +155,7 @@
         "symbol": "ION",
         "description": "ION is the second native token of Osmosis.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/ion.png",
+        "image": "https://cdn.chainroot.io/images/tokens/c0a4f991f92b153c221907f9a9b1b555ae16b6310aebf3f0c53444d2b134e00a.png",
         "coinGeckoId": "ion",
         "ibc_info": {
             "path": "osmosis>akash",
@@ -178,7 +178,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7eec0e7b17cfe55e8fdfd8138458d26c83298dc2a12f85f9261af2a5fd9b3f46.png",
         "coinGeckoId": "osmosis",
         "ibc_info": {
             "path": "osmosis>akash",
@@ -201,7 +201,7 @@
         "symbol": "ROWAN",
         "description": "Sifchain Staking Coin",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/rowan.png",
+        "image": "https://cdn.chainroot.io/images/tokens/950892d73be33edc255820595a00c5925dd3faf9175c90fa73f83b199452736a.png",
         "coinGeckoId": "sifchain",
         "ibc_info": {
             "path": "sifchain>akash",
@@ -214,6 +214,30 @@
                 "port": "transfer",
                 "chain": "sifchain",
                 "denom": "rowan"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/170C677610AC31DF0904FFE09CD3B5C657492170E7E52372E48756B71E56F2F1",
+        "name": "USDC (Ethereum via Axelar)",
+        "symbol": "USDC.eth.axl",
+        "description": "Circle's stablecoin on Axelar",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/c9f0ab2b9269b3bb57cf07aa2509702f92992cd86797b321d06b57eb690e004e.svg",
+        "color": "#2474cb",
+        "coinGeckoId": "axlusdc",
+        "ibc_info": {
+            "path": "ethereum>axelar>osmosis>akash",
+            "client": {
+                "channel": "channel-9",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-1",
+                "port": "transfer",
+                "chain": "osmosis",
+                "denom": "ibc/D189335C6E4A68B513C10AB227BF1C1D38C746766278BA3EEB4FB14124F1D858"
             }
         }
     }

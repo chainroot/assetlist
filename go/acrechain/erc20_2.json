@@ -6,7 +6,7 @@
         "symbol": "CNTO",
         "description": "Ciento Exchange Token",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/cnto.png"
+        "image": "https://cdn.chainroot.io/images/tokens/4624b02b82047b7aa66172b4859cc5c378389cfe9d11c4ea141f3100651b5d37.png"
     },
     {
         "type": "erc20",

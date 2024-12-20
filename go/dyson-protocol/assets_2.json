@@ -17,7 +17,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7eec0e7b17cfe55e8fdfd8138458d26c83298dc2a12f85f9261af2a5fd9b3f46.png",
         "coinGeckoId": "osmosis",
         "ibc_info": {
             "path": "osmosis>dyson-protocol",

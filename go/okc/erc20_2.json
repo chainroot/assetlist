@@ -6,7 +6,7 @@
         "symbol": "OKB",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/okb.png",
+        "image": "https://cdn.chainroot.io/images/tokens/e9c7738f55f20855ac025c64449cbd34a6db19f60d0cade6029d683233756200.png",
         "coinGeckoId": "okb",
         "wallet_preload": true
     },
@@ -17,7 +17,7 @@
         "symbol": "WOKT",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/wokt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/b5ce46273e937a6db216fac445dde5a98e10456e51cda7fcb669ad29cd3e9e69.png",
         "coinGeckoId": "wrapped-okt"
     },
     {
@@ -27,7 +27,7 @@
         "symbol": "USDT",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8d812a3786178f6dbc556b3cb21411112b7c3a7ac893bf4b70c85e3c2db5a520.png",
         "coinGeckoId": "tether"
     },
     {
@@ -37,7 +37,7 @@
         "symbol": "USDC",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "usd-coin"
     },
     {
@@ -47,7 +47,7 @@
         "symbol": "BTCK",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/btck.png",
+        "image": "https://cdn.chainroot.io/images/tokens/2e951627935ab55c0276580ed7ce782cf2d018b0d898b411082024940e1d6507.png",
         "coinGeckoId": "oec-btc"
     },
     {
@@ -57,8 +57,8 @@
         "symbol": "ETHK",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/ethk.png",
-        "coinGeckoId": "oec-eth"
+        "image": "https://cdn.chainroot.io/images/tokens/6a2eeff062bee53f8eec030083b9856ea9d83b1a80587560fccaed34331cef88.png",
+        "coinGeckoId": ""
     },
     {
         "type": "erc20",
@@ -67,7 +67,7 @@
         "symbol": "DAIK",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/daik.png",
-        "coinGeckoId": "oec-dai"
+        "image": "https://cdn.chainroot.io/images/tokens/ddbbec2b02ab3993748428a1fa9dce8c69f779b9e5f2c8412b682e77bc2f6706.png",
+        "coinGeckoId": ""
     }
 ]

@@ -6,7 +6,7 @@
         "symbol": "ATOLO",
         "description": "Rizon Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/atolo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7d2685a39297743b60d5ae2a1c5ebc267cef77c7eb22180caf6a37870c280e00.png",
         "coinGeckoId": "rizon",
         "color": "#8C8AF2"
     },
@@ -17,7 +17,7 @@
         "symbol": "RCHF",
         "description": "RIZON stable coin of Switzerland CHF",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/rchf.png",
+        "image": "https://cdn.chainroot.io/images/tokens/f356c075b2933d7b59e71a6813d7e9c5c9cc8c6724007d9bbba640aa6f433309.png",
         "coinGeckoId": ""
     },
     {
@@ -50,7 +50,7 @@
         "symbol": "ION",
         "description": "ION is the second native token of Osmosis.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/ion.png",
+        "image": "https://cdn.chainroot.io/images/tokens/c0a4f991f92b153c221907f9a9b1b555ae16b6310aebf3f0c53444d2b134e00a.png",
         "coinGeckoId": "ion",
         "ibc_info": {
             "path": "osmosis>rizon",
@@ -73,7 +73,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7eec0e7b17cfe55e8fdfd8138458d26c83298dc2a12f85f9261af2a5fd9b3f46.png",
         "coinGeckoId": "osmosis",
         "ibc_info": {
             "path": "osmosis>rizon",

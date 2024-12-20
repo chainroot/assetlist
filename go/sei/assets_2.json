@@ -6,7 +6,7 @@
         "symbol": "SEI",
         "description": "Sei Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/sei.png",
+        "image": "https://cdn.chainroot.io/images/tokens/f01050d2d7bdc7c262a4e9f85137446f9cc76c26dc0fa50db239f3b52b3e535d.png",
         "coinGeckoId": "sei-network",
         "color": "#BA364D"
     },
@@ -17,7 +17,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7eec0e7b17cfe55e8fdfd8138458d26c83298dc2a12f85f9261af2a5fd9b3f46.png",
         "coinGeckoId": "osmosis",
         "ibc_info": {
             "path": "osmosis>sei",
@@ -86,7 +86,7 @@
         "symbol": "axlUSDC",
         "description": "Circle's stablecoin on Axelar",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "axlusdc",
         "ibc_info": {
             "path": "ethereum>axelar>sei",
@@ -126,7 +126,7 @@
         "symbol": "USDCet",
         "description": "Wrapped USDC from Ethereum (Wormhole)",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "usd-coin-wormhole-from-ethereum",
         "bridge_info": {
             "path": "ethereum>sei",
@@ -143,7 +143,7 @@
         "symbol": "USDTet",
         "description": "Wrapped Tether USD from Ethereum (Wormhole)",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8d812a3786178f6dbc556b3cb21411112b7c3a7ac893bf4b70c85e3c2db5a520.png",
         "coinGeckoId": "tether-usd-wormhole-from-ethereum",
         "bridge_info": {
             "path": "ethereum>sei",
@@ -160,7 +160,7 @@
         "symbol": "WBTC",
         "description": "Wrapped Bitcoin from Ethereum (Wormhole)",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/wbtc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/347e4b450cbbf16ce16b53366a98a4571a507e5d461fff90efee028abbf76dd0.png",
         "coinGeckoId": "wrapped-btc-wormhole",
         "bridge_info": {
             "path": "ethereum>sei",
@@ -177,7 +177,7 @@
         "symbol": "USDCar",
         "description": "Wrapped USDC from Arbitrum (Wormhole)",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "usd-coin-wormhole-arb",
         "bridge_info": {
             "path": "ethereum>sei",
@@ -211,8 +211,8 @@
         "symbol": "USDCpo",
         "description": "Wrapped USDC from Polygon (Wormhole)",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
-        "coinGeckoId": "usd-coin-pos-wormhole",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
+        "coinGeckoId": "",
         "bridge_info": {
             "path": "ethereum>sei",
             "counterparty": {
@@ -228,7 +228,7 @@
         "symbol": "USDCop",
         "description": "Wrapped USDC from Optimism (Wormhole)",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "usd-coin",
         "bridge_info": {
             "path": "ethereum>sei",
@@ -245,7 +245,7 @@
         "symbol": "USDCso",
         "description": "Wrapped USDC from Solana (Wormhole)",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "usd-coin",
         "bridge_info": {
             "path": "ethereum>sei",
@@ -262,7 +262,7 @@
         "symbol": "USDCbs",
         "description": "Wrapped USDC from BSC (Wormhole)",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "usd-coin",
         "bridge_info": {
             "path": "ethereum>sei",
@@ -296,7 +296,7 @@
         "symbol": "USDTbs",
         "description": "Binance-Peg BSC-USD from BSC (Wormhole)",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8d812a3786178f6dbc556b3cb21411112b7c3a7ac893bf4b70c85e3c2db5a520.png",
         "coinGeckoId": "tether",
         "bridge_info": {
             "path": "ethereum>sei",
@@ -313,7 +313,7 @@
         "symbol": "CRBRUS",
         "description": "Cerberus Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/crbrus.png",
+        "image": "https://cdn.chainroot.io/images/tokens/64539ff0ac5daf6bcd55b75f7890e4827767f83b6b6f0afbf02f2c8749d98bf2.png",
         "coinGeckoId": "cerberus-2",
         "ibc_info": {
             "path": "cerberus>osmosis>sei",
@@ -336,7 +336,7 @@
         "symbol": "USDt.kava",
         "description": "Tether USDt",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8d812a3786178f6dbc556b3cb21411112b7c3a7ac893bf4b70c85e3c2db5a520.png",
         "coinGeckoId": "tether",
         "ibc_info": {
             "path": "kava>sei",
@@ -393,7 +393,7 @@
         "symbol": "ampSEI",
         "description": "ERIS liquid staked SEI.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/ampsei.png",
+        "image": "https://cdn.chainroot.io/images/tokens/fe1160cc6b166d1e932dcaec538c978f8c8284c504058e8af6dfdcb411715f9d.png",
         "coinGeckoId": ""
     },
     {

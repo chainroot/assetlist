@@ -6,7 +6,7 @@
         "symbol": "STAKE",
         "description": "Noble Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/stake.png",
+        "image": "https://cdn.chainroot.io/images/tokens/eba76526d5b1c44ecc7cd16aefb04fc54f53361d1d31d783f7e85d5e1d068faa.png",
         "coinGeckoId": "",
         "color": "#6A8AF8"
     },
@@ -27,7 +27,7 @@
         "symbol": "USDY",
         "description": "Ondo US Dollar Yield",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/usdy.png",
+        "image": "https://cdn.chainroot.io/images/tokens/30311d0b53877b6ee0b4b0cc5196dbeacddfe9391a3eff03832a664eca5c77c0.png",
         "coinGeckoId": "ondo-us-dollar-yield"
     },
     {
@@ -57,7 +57,7 @@
         "symbol": "FRNZ",
         "description": "Frienzies are an IBC token redeemable exclusively for a physical asset issued by the Noble entity.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/frnz.png",
+        "image": "https://cdn.chainroot.io/images/tokens/c02d0350b6849abe6c81b6c71de8c5d5e85e47657b64b80f5bb5199ecd2fbfe5.png",
         "coinGeckoId": ""
     },
     {
@@ -80,6 +80,29 @@
                 "port": "transfer",
                 "chain": "cosmos",
                 "denom": "uatom"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/9BE17980291443F276406CFE7368A720676FC06D5805C1A23AE52C2534E705F1",
+        "name": "Crowdpunk DAO",
+        "symbol": "CROWDP",
+        "description": "The token of Crowdpunk DAO",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/bf442e75e19409efa10042eecd049939d09ba5bd6bda27e9360277c20e77e2c5.svg",
+        "color": "#04fbfb",
+        "ibc_info": {
+            "path": "evmos>noble",
+            "client": {
+                "channel": "channel-7",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-64",
+                "port": "transfer",
+                "chain": "evmos",
+                "denom": "erc20/0xfbF4318d24a93753F11d365A6dcF8b830e98Ab0F"
             }
         }
     }

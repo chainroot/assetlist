@@ -6,7 +6,7 @@
         "symbol": "GUU",
         "description": "UnUniFi Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/guu.png",
+        "image": "https://cdn.chainroot.io/images/tokens/cab57b968f550163c5c491e106ef1e77bdbc6d38eabcd98b2b733b5f9da644e0.png",
         "coinGeckoId": "",
         "color": "#3A4D8F"
     },
@@ -17,7 +17,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7eec0e7b17cfe55e8fdfd8138458d26c83298dc2a12f85f9261af2a5fd9b3f46.png",
         "coinGeckoId": "osmosis",
         "ibc_info": {
             "path": "osmosis>ununifi",
@@ -63,7 +63,7 @@
         "symbol": "USDC.eth.axl",
         "description": "Circle's stablecoin on Axelar",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "axlusdc",
         "ibc_info": {
             "path": "ethereum>axelar>osmosis>ununifi",

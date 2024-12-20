@@ -6,7 +6,7 @@
         "symbol": "CGAS",
         "description": "COSS Chain Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/coss.png",
+        "image": "https://cdn.chainroot.io/images/tokens/17280e4b20091559853fd0d7f5abef8a34e50f3300c4fb0d1aee9cfd77a5cc0a.png",
         "coinGeckoId": "",
         "color": "#9248DB"
     },
@@ -17,7 +17,7 @@
         "symbol": "COSS",
         "description": "The inscription token of the COSS.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/coss.png",
+        "image": "https://cdn.chainroot.io/images/tokens/17280e4b20091559853fd0d7f5abef8a34e50f3300c4fb0d1aee9cfd77a5cc0a.png",
         "coinGeckoId": "coss-2",
         "color": "#876317"
     },
@@ -28,7 +28,7 @@
         "symbol": "CIAS",
         "description": "The inscription token of the CIAS.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/cias.png",
+        "image": "https://cdn.chainroot.io/images/tokens/c31cf1b2ff753696f7c1aa23878485cf676f81c23690bbd5a53c8ea08c8a4402.png",
         "coinGeckoId": "cias",
         "color": "#4f3280"
     }

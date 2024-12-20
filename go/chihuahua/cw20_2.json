@@ -6,7 +6,7 @@
         "symbol": "PUPPY",
         "description": "The 21m Bitcoins of Chihuahua",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/puppy.png",
+        "image": "https://cdn.chainroot.io/images/tokens/d8b6928ac201cca7926522baf6ee08c64f4e9c08fee0fab5dd78e0039cf3f9cb.png",
         "coinGeckoId": "puppy",
         "color": "#100e0d",
         "wallet_preload": true
@@ -18,7 +18,7 @@
         "symbol": "bHUAHUA",
         "description": "BackBone Labs Liquid Staked HUAHUA",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/bhuahua.png",
+        "image": "https://cdn.chainroot.io/images/tokens/aeb21abdc78fb500658127da8879f8bf0c99312ca96ea09692d29288c1267251.png",
         "coinGeckoId": "backbone-labs-staked-huahua",
         "color": "#f2bd3a",
         "wallet_preload": true

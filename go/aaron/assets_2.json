@@ -1,0 +1,12 @@
+[
+    {
+        "type": "native",
+        "denom": "uaaron",
+        "name" : "Aaron Network",
+        "symbol": "AARON",
+        "description": "Aaron Network Staking Coin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/aaron.png",
+        "coinGeckoId": ""
+    }
+]

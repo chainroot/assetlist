@@ -17,7 +17,7 @@
         "symbol": "ARB",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/arb.png",
+        "image": "https://cdn.chainroot.io/images/tokens/39cb5ec3be88bf44cb6bdbd0a827e59f1932424705b59b7aa49285c428800d21.png",
         "coinGeckoId": "arbitrum",
         "wallet_preload": true
     },
@@ -28,7 +28,7 @@
         "symbol": "USDT",
         "description": "",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8d812a3786178f6dbc556b3cb21411112b7c3a7ac893bf4b70c85e3c2db5a520.png",
         "coinGeckoId": "tether",
         "wallet_preload": true
     },
@@ -39,7 +39,7 @@
         "symbol": "USDC",
         "description": "",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "usd-coin",
         "wallet_preload": true
     },
@@ -50,7 +50,7 @@
         "symbol": "USDC.e",
         "description": "",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "usd-coin-ethereum-bridged",
         "wallet_preload": true
     },
@@ -61,7 +61,7 @@
         "symbol": "LINK",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/link.png",
+        "image": "https://cdn.chainroot.io/images/tokens/b896fca670b77b72b44a8036bb07207ef840e25a3249965f0798d50d10c213d5.png",
         "coinGeckoId": "chainlink",
         "wallet_preload": true
     },
@@ -72,7 +72,7 @@
         "symbol": "WBTC",
         "description": "",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/wbtc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/347e4b450cbbf16ce16b53366a98a4571a507e5d461fff90efee028abbf76dd0.png",
         "coinGeckoId": "wbtc",
         "wallet_preload": true
     },
@@ -83,7 +83,7 @@
         "symbol": "UNI",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/uni.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ee886d9bf0f65179e57a349bd14307b655e42743a1588cf314db8aeee0be6f9c.png",
         "coinGeckoId": "uni",
         "wallet_preload": true
     },
@@ -145,7 +145,7 @@
         "symbol": "AXL",
         "description": "",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/axl.png",
+        "image": "https://cdn.chainroot.io/images/tokens/f76a0d5ddd92b16207551e3131d36155d4cdd231a00fdd81d704db3ca2506a23.png",
         "coinGeckoId": "axelar"
     },
     {

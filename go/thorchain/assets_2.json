@@ -1,0 +1,12 @@
+[
+    {
+        "type": "native",
+        "denom": "rune",
+        "name" : "Rune",
+        "symbol": "RUNE",
+        "description": "The native token of THORChain",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/775b9aad33e5bd1d96fee35ec3a319eb8823d23b73b157191564654830f8a48e.png",
+        "coinGeckoId": "thorchain"
+    }
+]

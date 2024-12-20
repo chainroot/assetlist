@@ -6,7 +6,7 @@
     "symbol": "WCRO",
     "description": "",
     "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/wcro.png",
+    "image": "https://cdn.chainroot.io/images/tokens/40470f217497917078efffc6e26f10d785e37c7d19c48d51b912e8f0042a6149.png",
     "coinGeckoId": "wrapped-cro",
     "wallet_preload": true
   },
@@ -17,7 +17,7 @@
     "symbol": "USDT",
     "description": "",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
+    "image": "https://cdn.chainroot.io/images/tokens/8d812a3786178f6dbc556b3cb21411112b7c3a7ac893bf4b70c85e3c2db5a520.png",
     "coinGeckoId": "tether",
     "wallet_preload": true
   },
@@ -28,7 +28,7 @@
     "symbol": "USDC",
     "description": "",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+    "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
     "coinGeckoId": "usd-coin",
     "wallet_preload": true
   },
@@ -39,7 +39,7 @@
     "symbol": "WBTC",
     "description": "",
     "decimals": 8,
-    "image": "https://cdn.chainroot.io/images/tokens/wbtc.png",
+    "image": "https://cdn.chainroot.io/images/tokens/347e4b450cbbf16ce16b53366a98a4571a507e5d461fff90efee028abbf76dd0.png",
     "coinGeckoId": "wrapped-bitcoin"
   },
   {
@@ -59,7 +59,7 @@
     "symbol": "DOGE",
     "description": "",
     "decimals": 8,
-    "image": "https://cdn.chainroot.io/images/tokens/doge.png",
+    "image": "https://cdn.chainroot.io/images/tokens/d1794a617db6765fa6c8a3db388cbf48b1ba337befcbd7b9bd18e2e3df27b058.png",
     "coinGeckoId": "dogecoin"
   },
   {
@@ -69,7 +69,7 @@
     "symbol": "SHIB",
     "description": "",
     "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/shib.png",
+    "image": "https://cdn.chainroot.io/images/tokens/25738b0616366ea1f5b72e321d11949002755f4b78c4ad7f928d43587bfe00ef.png",
     "coinGeckoId": "shiba-inu"
   },
   {

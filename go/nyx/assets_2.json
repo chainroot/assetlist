@@ -6,7 +6,7 @@
         "symbol": "NYX",
         "description": "Nyx Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/nyx.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7f783c8687048f4e665aa2b6bf227ed04dfdc6105473a495b93a8fe09e300a28.png",
         "coinGeckoId": "",
         "color": "#FF6C5A"
     },
@@ -17,7 +17,7 @@
         "symbol": "NYM",
         "description": "NYM Token (NYM) is the Nym Network's native utility token, used as the primary means to incentivize mixnet node operators.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/nym.png",
+        "image": "https://cdn.chainroot.io/images/tokens/269e91095a3281215503c639136b27ca25b4aa8769cb337508dccea2f00a5e6c.png",
         "coinGeckoId": "nym"
     },
     {

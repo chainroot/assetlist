@@ -40,7 +40,7 @@
         "symbol": "USDt.kava",
         "description": "Tether USDt",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8d812a3786178f6dbc556b3cb21411112b7c3a7ac893bf4b70c85e3c2db5a520.png",
         "coinGeckoId": "tether",
         "ibc_info": {
             "path": "kava>dymension",
@@ -109,7 +109,7 @@
         "symbol": "NTRN",
         "description": "The native token of Neutron chain.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/ntrn.png",
+        "image": "https://cdn.chainroot.io/images/tokens/49cd09acc9cd57f149b95eb89cdf93800719e571b45d3bbd8195e1c25ba5ffb9.png",
         "coinGeckoId": "neutron-3",
         "ibc_info": {
             "path": "neutron>dymension",

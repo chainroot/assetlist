@@ -6,7 +6,7 @@
         "symbol": "STRD",
         "description": "Stride Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/strd.png",
+        "image": "https://cdn.chainroot.io/images/tokens/e322bee0d934d0425b875ac8eeee7eb81429ff46d77b3eaaf60487ab1badb026.png",
         "coinGeckoId": "stride",
         "color": "#E91179"
     },
@@ -17,7 +17,7 @@
         "symbol": "stATOM",
         "description": "Stride Liquid Staked ATOM",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/statom.png",
+        "image": "https://cdn.chainroot.io/images/tokens/5655c6da00f6891b2655207d2773ac979059a470051270ca1fd2e88726b34ac5.png",
         "coinGeckoId": "stride-staked-atom"
     },
     {
@@ -27,7 +27,7 @@
         "symbol": "stSTARS",
         "description": "Stride Staked STARS",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/ststars.png",
+        "image": "https://cdn.chainroot.io/images/tokens/5d1484041bfb217158f6602a0a1756b6da4fea399d5d6e4847111c040eeeb9a0.png",
         "coinGeckoId": "stride-staked-stars"
     },
     {
@@ -37,7 +37,7 @@
         "symbol": "stJUNO",
         "description": "Stride Staked JUNO",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/stjuno.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4880a340651ffa201420cc7b436f1796f45f7a1a47eeed92e38a592d9b28d58b.png",
         "coinGeckoId": "stride-staked-juno"
     },
     {
@@ -47,7 +47,7 @@
         "symbol": "stOSMO",
         "description": "Stride Liquid Staked OSMO",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/stosmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/c013b7733082ad0da759ac1cc54d6e96d79616433f99c04adf2bf47a2f515905.png",
         "coinGeckoId": "stride-staked-osmo"
     },
     {
@@ -57,7 +57,7 @@
         "symbol": "stLUNA",
         "description": "Stride Staked LUNA",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/stluna.png",
+        "image": "https://cdn.chainroot.io/images/tokens/6935bd030169f2b9ce8c2d1647b54bb8d04ddafba0ed96dd64b68b843c8a91de.png",
         "coinGeckoId": "stride-staked-luna"
     },
     {
@@ -67,7 +67,7 @@
         "symbol": "stEVMOS",
         "description": "Stride Staked EVMOS",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/stevmos.png",
+        "image": "https://cdn.chainroot.io/images/tokens/afad015ce88ff6c68c7a96480fde907690029a0788b9e63f2d5363d7b9afe78e.png",
         "coinGeckoId": "stride-staked-evmos"
     },
     {
@@ -77,7 +77,7 @@
         "symbol": "stINJ",
         "description": "Stride Staked INJ",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/stinj.png",
+        "image": "https://cdn.chainroot.io/images/tokens/0d741e8a514904db4bd7f9c48bc97d8bf9d1f8f29f9d973bc7ab5ab45650a78d.png",
         "coinGeckoId": "stride-staked-injective"
     },
     {
@@ -87,7 +87,7 @@
         "symbol": "stUMEE",
         "description": "Stride Staked UMEE",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/stumee.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4fe6248080aff0beb063b11143e6174be7459bf567c32c4907e3ca537d0ca709.png",
         "coinGeckoId": ""
     },
     {
@@ -97,7 +97,7 @@
         "symbol": "stCMDX",
         "description": "Stride Staked CMDX",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/stcmdx.png",
+        "image": "https://cdn.chainroot.io/images/tokens/2e437c494e3dfddbad6fa6dd2f336c2427928792360f19d630b3a2ff71317dad.png",
         "coinGeckoId": ""
     },
     {
@@ -107,7 +107,7 @@
         "symbol": "stSOMM",
         "description": "Stride Staked SOMM",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/stsomm.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7eef5ccb8091ca27e16bdb6e05dd3db0b054d9afa235425e6c46d0a6743bcb73.png",
         "coinGeckoId": ""
     },
     {
@@ -137,7 +137,7 @@
         "symbol": "stSAGA",
         "description": "Stride Staked SAGA",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/stsaga.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ff03381604023175dd57b8051e7024e0f53eb6f2db929e4002266b9a2192bf8e.png",
         "coinGeckoId": "stride-staked-saga"
     },
     {
@@ -147,7 +147,7 @@
         "symbol": "stDYM",
         "description": "Stride Staked DYM",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/stdym.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ee213c95a4b7f39cdeeab5032a27ea112dae3c28a5b89acbce344eeaa011de70.png",
         "coinGeckoId": "stride-staked-dym"
     },
     {
@@ -157,7 +157,7 @@
         "symbol": "stISLM",
         "description": "Stride Staked ISLM",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/stislm.png",
+        "image": "https://cdn.chainroot.io/images/tokens/dd5ff4068072c033377d69842d1af5645caed64d759093b62baa4de346b174af.png",
         "coinGeckoId": "stride-staked-islm"
     },
     {
@@ -167,7 +167,7 @@
         "symbol": "stBAND",
         "description": "Stride Staked BAND",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/stband.png",
+        "image": "https://cdn.chainroot.io/images/tokens/2e308ad22fca2e37ee5b12eebef8bf1d42ca05b9e9003faa83b52d76e587e9da.png",
         "coinGeckoId": "stride-staked-band"
     },
     {
@@ -200,7 +200,7 @@
         "symbol": "ISLM",
         "description": "The native EVM, governance and staking token of the Haqq Network",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/islm.png",
+        "image": "https://cdn.chainroot.io/images/tokens/01069ec6416ca6c2aaed1ad4c09a0636202c44444a6d40f7bccba412c90d73ce.png",
         "coinGeckoId": "islamic-coin",
         "ibc_info": {
             "path": "haqq>stride",
@@ -246,7 +246,7 @@
         "symbol": "STARS",
         "description": "Stargaze Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/stars.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7f33a57ac37457517a235c8f48ab63b3e5dd75e5a869cae79346a460a50daedb.png",
         "coinGeckoId": "stargaze",
         "ibc_info": {
             "path": "stargaze>stride",
@@ -269,7 +269,7 @@
         "symbol": "JUNO",
         "description": "Juno Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/juno.png",
+        "image": "https://cdn.chainroot.io/images/tokens/a68afd5f8ab6feac6f7b422daaf5d5da26391ca98cc4596226dcd89366941ea7.png",
         "coinGeckoId": "juno-network",
         "ibc_info": {
             "path": "juno>stride",
@@ -292,7 +292,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7eec0e7b17cfe55e8fdfd8138458d26c83298dc2a12f85f9261af2a5fd9b3f46.png",
         "coinGeckoId": "osmosis",
         "ibc_info": {
             "path": "osmosis>stride",
@@ -338,7 +338,7 @@
         "symbol": "ACRE",
         "description": "The native EVM, governance and staking token of the Acrechain",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/acre.png",
+        "image": "https://cdn.chainroot.io/images/tokens/2ddaaa6e5c646244d62ad9c3a0bd26217710909489395f10adbe6932a1d17dc3.png",
         "coinGeckoId": "arable-protocol",
         "ibc_info": {
             "path": "acrechain>stride",
@@ -361,7 +361,7 @@
         "symbol": "CNTO",
         "description": "Ciento Exchange Token",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/cnto.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4624b02b82047b7aa66172b4859cc5c378389cfe9d11c4ea141f3100651b5d37.png",
         "coinGeckoId": "",
         "ibc_info": {
             "path": "acrechain>stride",
@@ -384,7 +384,7 @@
         "symbol": "EVMOS",
         "description": "Evmos Staking Coin",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/evmos.png",
+        "image": "https://cdn.chainroot.io/images/tokens/d5afb4bf339a789d256aef1690b5a89e1249ba0fefdf882daa9e47696dac0cac.png",
         "coinGeckoId": "evmos",
         "ibc_info": {
             "path": "evmos>stride",
@@ -407,7 +407,7 @@
         "symbol": "LUNA",
         "description": "Terra Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/luna.png",
+        "image": "https://cdn.chainroot.io/images/tokens/303d5b8f8c3f24d5afd1a74714674fac9655c72071ac1ddc515e4f4e65b5f312.png",
         "coinGeckoId": "terra-luna-2",
         "ibc_info": {
             "path": "terra>stride",
@@ -430,7 +430,7 @@
         "symbol": "INJ",
         "description": "Injective Staking Coin",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/inj.png",
+        "image": "https://cdn.chainroot.io/images/tokens/339d9960d0f3efdff233fb03b481817db33f70b48bc9b53db7720d0791492dc9.png",
         "coinGeckoId": "injective-protocol",
         "ibc_info": {
             "path": "injective>stride",
@@ -453,7 +453,7 @@
         "symbol": "UMEE",
         "description": "UX Chain Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/umee.png",
+        "image": "https://cdn.chainroot.io/images/tokens/89526384ab0c3ed299b470c409cc5c57a407a42dc9b58f1afbfbafc70b328c7c.png",
         "coinGeckoId": "umee",
         "ibc_info": {
             "path": "umee>stride",
@@ -476,7 +476,7 @@
         "symbol": "CMDX",
         "description": "Comdex Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/cmdx.png",
+        "image": "https://cdn.chainroot.io/images/tokens/38f6d3460645bbe40f5b5cd1c75141c2699fd323e977c65fd65a46f744a943e5.png",
         "coinGeckoId": "comdex",
         "ibc_info": {
             "path": "comdex>stride",
@@ -499,7 +499,7 @@
         "symbol": "SOMM",
         "description": "Sommelier Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/somm.png",
+        "image": "https://cdn.chainroot.io/images/tokens/53e50f807a6a19470ddb608f07d5017c3a137f72d11f8d26be667c018125bcbc.png",
         "coinGeckoId": "sommelier",
         "ibc_info": {
             "path": "sommelier>stride",
@@ -545,7 +545,7 @@
         "symbol": "SAGA",
         "description": "Saga Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/saga.png",
+        "image": "https://cdn.chainroot.io/images/tokens/0eabc6906fc79b65e3ba608b9e74ae997e3cf1c39012db9bcfaf43de334dbacb.png",
         "coinGeckoId": "saga-2",
         "ibc_info": {
             "path": "saga>stride",
@@ -591,7 +591,7 @@
         "symbol": "DYDX",
         "description": "dYdX Staking Coin",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/dydx.png",
+        "image": "https://cdn.chainroot.io/images/tokens/677cade7b259aeee5fa1fc0de4192d85b896a2275d20f1997fadcac34c45abad.png",
         "coinGeckoId": "dydx-chain",
         "ibc_info": {
             "path": "dydx>stride",

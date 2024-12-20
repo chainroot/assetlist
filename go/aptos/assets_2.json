@@ -16,7 +16,7 @@
         "symbol": "USDC",
         "description": "USD Coin (Wormhole)",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "usd-coin",
         "bridge_info" : {
             "path": "ethereum>sui"
@@ -29,7 +29,7 @@
         "symbol": "USDCso",
         "description": "USD Coin (Wormhole Solana)",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "usd-coin",
         "bridge_info" : {
             "path": "solana>sui"
@@ -42,7 +42,7 @@
         "symbol": "zUSDC",
         "description": "USD Coin (LayerZero)",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "usd-coin",
         "bridge_info" : {
             "path": "layerzero>sui"

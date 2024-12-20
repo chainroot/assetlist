@@ -16,7 +16,7 @@
         "symbol": "CUB",
         "description": "Lion Cub DAO is a useless meme community DAO on Terra.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/cub.png",
+        "image": "https://cdn.chainroot.io/images/tokens/b1f05f98210c636896a8790843ea0e62e3c8cc6a82d9b4c631aeeea224375162.png",
         "coinGeckoId": "",
         "ibc_info": {
             "path": "terra>migaloo",
@@ -28,7 +28,7 @@
                 "channel": "channel-87",
                 "port": "wasm.terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au",
                 "chain": "terra",
-                "denom": "cw20:terra1lalvk0r6nhruel7fvzdppk3tup3mh5j4d4eadrqzfhle4zrf52as58hh9t"
+                "denom": "terra1lalvk0r6nhruel7fvzdppk3tup3mh5j4d4eadrqzfhle4zrf52as58hh9t"
             }
         }
     },
@@ -39,7 +39,7 @@
         "symbol": "BLUE",
         "description": "BLUE CUB DAO is a community DAO on Terra.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/blue.png",
+        "image": "https://cdn.chainroot.io/images/tokens/cbcc5c4874b5e4501925013b7dd8e6c8a21305ce565232435d7dbf73f302a300.png",
         "coinGeckoId": "",
         "ibc_info": {
             "path": "terra>migaloo",
@@ -51,7 +51,7 @@
                 "channel": "channel-87",
                 "port": "wasm.terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au",
                 "chain": "terra",
-                "denom": "cw20:terra1gwrz9xzhqsygyr5asrgyq3pu0ewpn00mv2zenu86yvx2nlwpe8lqppv584"
+                "denom": "terra1gwrz9xzhqsygyr5asrgyq3pu0ewpn00mv2zenu86yvx2nlwpe8lqppv584"
             }
         }
     },
@@ -62,7 +62,7 @@
         "symbol": "RAC",
         "description": "RAC",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/rac.png",
+        "image": "https://cdn.chainroot.io/images/tokens/038a664a43aad7da92878402b74f5125fe85f202bab9d3a982a358295a38d590.png",
         "coinGeckoId": "",
         "color": "#2b2434"
     },
@@ -73,7 +73,7 @@
         "symbol": "ampGASH",
         "description": "ERIS Liquid Alliance Staked GASH",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/ampGASH.png",
+        "image": "https://cdn.chainroot.io/images/tokens/064649991d5a8da9f635f285ebcbea81ade7d882c6683659b805066f6d20215c.png",
         "coinGeckoId": "",
         "color": "#374455"
     },
@@ -84,7 +84,7 @@
         "symbol": "bWHALE",
         "description": "BackBoneLabs Liquid Staked WHALE",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/bwhale.png",
+        "image": "https://cdn.chainroot.io/images/tokens/64ed1b0cca9f5f5ae4b5cb9bc9dc174d4da174cc534018faab58b1f800eefee3.png",
         "coinGeckoId": "backbone-labs-staked-whale",
         "color": "#d8d8d8"
     },
@@ -95,7 +95,7 @@
         "symbol": "ampWHALE",
         "description": "ampWHALE",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/ampwhale.png",
+        "image": "https://cdn.chainroot.io/images/tokens/570edd169ffcb6b405b32d049c6ce07a2eda682bdecc46f1e2f8483a721a74a4.png",
         "coinGeckoId": ""
     },
     {

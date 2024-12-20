@@ -6,7 +6,7 @@
         "symbol": "BTC",
         "description": "BitCoin",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/btc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/191d098a687efaf61e3166795e7824fd3b5840831cd15782c5b8544c7d65573f.png",
         "coinGeckoId": "bitcoin",
         "color": "#FFB333"
     }

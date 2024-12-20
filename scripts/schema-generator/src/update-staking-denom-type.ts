@@ -6,30 +6,37 @@ const CHAINLIST_DIR = 'src/chainlist/chain';
 const TARGET_DIR = 'go';
 
 // Get all chain folders ending with /assets.json
-const chainPaths = fs.readdirSync(CHAINLIST_DIR)
-    .map((chain) => path.join(CHAINLIST_DIR, chain, 'assets.json'))
-    .filter((chainPath) => fs.existsSync(chainPath));
+//const chainPaths = fs.readdirSync(CHAINLIST_DIR)
+ //   .map((chain) => path.join(CHAINLIST_DIR, chain, 'assets.json'))
+//    .filter((chainPath) => fs.existsSync(chainPath));
+//
 
-for (const chainPath of chainPaths) {
+const chainsFile = fs.readFileSync("stake.list", 'utf-8')
+  
+
+const chains = JSON.parse(chainsFile)
+console.log(chainsFile)
+for (const [chainName, denom] of Object.entries(chains)) {
     // Extract the chain name from the path (e.g., "juno" from "src/chainlist/chain/juno/assets.json")
-    const chainName = path.basename(path.dirname(chainPath));
+//    const chainName = path.basename(path.dirname(chainPath));
 
     console.log(`Processing ${chainName}...`);
 
     // Check if the file exists
-    if (!fs.existsSync(chainPath)) {
-        console.warn(`Warning: ${chainPath} not found`);
-        continue;
-    }
+ //   if (!fs.existsSync(chainPath)) {
+ //       console.warn(`Warning: ${chainPath} not found`);
+ //       continue;
+ //   }
 
     // Parse the JSON file to find all entries with "type": "staking" and extract the denom
-    const chainData = JSON.parse(fs.readFileSync(chainPath, 'utf-8'));
-    const denoms = chainData
-        .filter((entry: any) => entry.type === 'staking')
-        .map((entry: any) => entry.denom);
+ //   const chainData = JSON.parse(fs.readFileSync(chainPath, 'utf-8'));
+  //  const denoms = chainData
+  //      .filter((entry: any) => entry?.description && entry.description.includes('Staking') && entry.type === 'native')
+  //      .map((entry: any) => entry.denom);
 
-    for (const denom of denoms) {
-        console.log(`Found staking denom: ${denom}`);
+    
+   // for (const denom of denoms) {
+   //     console.log(`Found staking denom: ${denom}`);
 
         // Define the path to the assets_2.json file
         const assets2Path = path.join(TARGET_DIR, chainName, 'assets_2.json');
@@ -59,7 +66,7 @@ for (const chainPath of chainPaths) {
         } catch (error) {
             console.error(`Error updating ${denom} in ${assets2Path}:`, error);
         }
-    }
+   // }
 }
 
 console.log('Staking Denom change completed.');

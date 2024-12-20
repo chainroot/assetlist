@@ -40,7 +40,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7eec0e7b17cfe55e8fdfd8138458d26c83298dc2a12f85f9261af2a5fd9b3f46.png",
         "coinGeckoId": "osmosis",
         "ibc_info": {
             "path": "osmosis>iris",
@@ -63,7 +63,7 @@
         "symbol": "ION",
         "description": "ION is the second native token of Osmosis.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/ion.png",
+        "image": "https://cdn.chainroot.io/images/tokens/c0a4f991f92b153c221907f9a9b1b555ae16b6310aebf3f0c53444d2b134e00a.png",
         "coinGeckoId": "ion",
         "ibc_info": {
             "path": "osmosis>iris",
@@ -86,7 +86,7 @@
         "symbol": "USDC.grv",
         "description": "Gravity Bridge USDC",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "usd-coin",
         "ibc_info": {
             "path": "ethereum>gravity-bridge>iris",
@@ -155,7 +155,7 @@
         "symbol": "WDT",
         "description": "Winner RDC",
         "decimals": 9,
-        "image": "https://cdn.chainroot.io/images/tokens/wdt.png"
+        "image": "https://cdn.chainroot.io/images/tokens/49a306ad7c5d5bf6b072d525b77730e052976729bd2a1efdb23e91895fee4a58.png"
     },
     {
         "type": "bridge",

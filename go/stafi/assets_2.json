@@ -17,8 +17,8 @@
         "symbol": "rATOM",
         "description": "StaFi Staked ATOM",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/ratom.png",
-        "coinGeckoId": "stafi-staked-atom"
+        "image": "https://cdn.chainroot.io/images/tokens/2738f09c36745dd0280a2d56df059741cd9bf6e38b96040f52d9a8af6eeaad86.png",
+        "coinGeckoId": ""
     },
     {
         "type": "native",
@@ -27,7 +27,7 @@
         "symbol": "rIRIS",
         "description": "StaFi Staked IRIS",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/riris.png",
+        "image": "https://cdn.chainroot.io/images/tokens/89de77cae7a1fc47399c12478f6e6761cbaad24020405d44f7fa50956ab2daeb.png",
         "coinGeckoId": ""
     },
     {
@@ -37,7 +37,7 @@
         "symbol": "rHUAHUA",
         "description": "StaFi Staked HUAHUA",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/rhuahua.png",
+        "image": "https://cdn.chainroot.io/images/tokens/5a072e9e9012253437f08fe920d62015b00451dde21c42c5c61aeacea779cfd3.png",
         "coinGeckoId": ""
     },
     {
@@ -47,7 +47,7 @@
         "symbol": "rSWTH",
         "description": "StaFi Staked SWTH",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/rswth.png",
+        "image": "https://cdn.chainroot.io/images/tokens/41d1d0eff76e76f17ee7be9fe3399a5ffd694e319795362003eb669daa911759.png",
         "coinGeckoId": ""
     },
     {
@@ -103,7 +103,7 @@
         "symbol": "HUAHUA",
         "description": "Chihuahua Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/huahua.png",
+        "image": "https://cdn.chainroot.io/images/tokens/5a3b8afa75a2496ed6cb989eb834735acff452a64ede07bd32aa3c5040d234cc.png",
         "coinGeckoId": "chihuahua-token",
         "ibc_info": {
             "path": "chihuahua>stafi",

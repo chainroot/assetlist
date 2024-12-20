@@ -17,7 +17,7 @@
         "symbol": "XRP",
         "description": "XRP bridged from XRPL",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/xrp.png",
+        "image": "https://cdn.chainroot.io/images/tokens/9d6b6652a81e3afbd068cbba63994c90486fd7c4c3f0bb66bb4bdda5bf70638b.png",
         "coinGeckoId": "ripple",
         "color": "#040404"
     },
@@ -28,7 +28,7 @@
         "symbol": "SARA",
         "description": "Pulsara Ecosystem Token",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/sara.png",
+        "image": "https://cdn.chainroot.io/images/tokens/83a58c67c1c08f87f17471fae2ceba3d7244c0986ddeec0c66a26b0501b5275f.png",
         "coinGeckoId": "pulsara",
         "color": "#1739ff"
     },
@@ -39,7 +39,7 @@
         "symbol": "liCORE",
         "description": "Liquid staking asset for COREUM, by Pulsara",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/licore.png",
+        "image": "https://cdn.chainroot.io/images/tokens/f65ba10755b3b78b0848e2daee402d6a13f47a406bd3b9473ed9c47a567ec17d.png",
         "coinGeckoId": "",
         "color": "#FF03CB"
     },
@@ -50,7 +50,7 @@
         "symbol": "SOLO",
         "description": "Sologenic",
         "decimals": 15,
-        "image": "https://cdn.chainroot.io/images/tokens/solo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/19ae76ff19a2c882726065506e87e0d5f5a93ceee09cc7a936b77b577956eeeb.png",
         "coinGeckoId": "solo-coin"
     },
     {

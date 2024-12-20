@@ -6,7 +6,7 @@
         "symbol": "NTRN",
         "description": "The Native Main Dao Asset on Neutron Chain",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/ntrn.png",
+        "image": "https://cdn.chainroot.io/images/tokens/49cd09acc9cd57f149b95eb89cdf93800719e571b45d3bbd8195e1c25ba5ffb9.png",
         "coinGeckoId": "neutron-3",
         "color": "#2DCB92"
     },
@@ -40,7 +40,7 @@
         "symbol": "AXL",
         "description": "Axelar Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/axl.png",
+        "image": "https://cdn.chainroot.io/images/tokens/f76a0d5ddd92b16207551e3131d36155d4cdd231a00fdd81d704db3ca2506a23.png",
         "coinGeckoId": "axelar",
         "ibc_info": {
             "path": "axelar>neutron",
@@ -63,7 +63,7 @@
         "symbol": "USDC.eth.axl",
         "description": "Circle's stablecoin on Axelar",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "axlusdc",
         "ibc_info": {
             "path": "ethereum>axelar>neutron",
@@ -86,7 +86,7 @@
         "symbol": "USDT.eth.axl",
         "description": "Tether's USD stablecoin on Axelar",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8d812a3786178f6dbc556b3cb21411112b7c3a7ac893bf4b70c85e3c2db5a520.png",
         "coinGeckoId": "axelar-usdt",
         "ibc_info": {
             "path": "ethereum>axelar>neutron",
@@ -132,7 +132,7 @@
         "symbol": "ASTRO.cw20",
         "description": "Astroport is a neutral marketplace where anyone, from anywhere in the galaxy, can dock to trade their wares.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/astro.png",
+        "image": "https://cdn.chainroot.io/images/tokens/57d8651df1c518e517dc53d4a5ed987e40adb70b507bfd65231a3fdd3ce3ee3c.png",
         "coinGeckoId": "astroport-fi",
         "ibc_info": {
             "path": "terra>neutron",
@@ -201,7 +201,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7eec0e7b17cfe55e8fdfd8138458d26c83298dc2a12f85f9261af2a5fd9b3f46.png",
         "coinGeckoId": "osmosis",
         "ibc_info": {
             "path": "osmosis>neutron",
@@ -224,7 +224,7 @@
         "symbol": "BADKID",
         "description": "A clan of 11y bad kids crafting chaos on the Cosmos eco. One bad memecoin to rule them all  $BADKID. Airdropped to Badkids NFT holders and $STARS stakers. It's so bad, your wallet's throwing a tantrum for it.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/badkid.png",
+        "image": "https://cdn.chainroot.io/images/tokens/f1983c07b533d1fdea8246bbebe77ecf06b10f3824826c73bae3e7aa9d70bf85.png",
         "coinGeckoId": "",
         "ibc_info": {
             "path": "osmosis>neutron",
@@ -247,7 +247,7 @@
         "symbol": "WOSMO",
         "description": "The first native memecoin on Osmosis. Crafted by the deftest of hands in the lab of lunacy. It's scientifically anarchic, professionally foolish, and your ticket to the madhouse.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/wosmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/d73210ce9c4039b3c48d7830894e1b126e02ded294d61b1b50631249a8622e4e.png",
         "coinGeckoId": "",
         "ibc_info": {
             "path": "osmosis>neutron",
@@ -270,7 +270,7 @@
         "symbol": "STRD",
         "description": "Stride Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/strd.png",
+        "image": "https://cdn.chainroot.io/images/tokens/e322bee0d934d0425b875ac8eeee7eb81429ff46d77b3eaaf60487ab1badb026.png",
         "coinGeckoId": "stride",
         "ibc_info": {
             "path": "stride>neutron",
@@ -293,7 +293,7 @@
         "symbol": "stATOM",
         "description": "Stride Liquid Staked ATOM",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/statom.png",
+        "image": "https://cdn.chainroot.io/images/tokens/5655c6da00f6891b2655207d2773ac979059a470051270ca1fd2e88726b34ac5.png",
         "coinGeckoId": "stride-staked-atom",
         "ibc_info": {
             "path": "stride>neutron",
@@ -316,7 +316,7 @@
         "symbol": "stOSMO",
         "description": "Stride Liquid Staked OSMO",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/stosmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/c013b7733082ad0da759ac1cc54d6e96d79616433f99c04adf2bf47a2f515905.png",
         "coinGeckoId": "stride-staked-osmo",
         "ibc_info": {
             "path": "stride>neutron",
@@ -362,7 +362,7 @@
         "symbol": "stDYM",
         "description": "Stride Staked DYM",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/stdym.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ee213c95a4b7f39cdeeab5032a27ea112dae3c28a5b89acbce344eeaa011de70.png",
         "coinGeckoId": "stride-staked-dym",
         "ibc_info": {
             "path": "stride>neutron",
@@ -408,7 +408,7 @@
         "symbol": "DYDX",
         "description": "dYdX Staking Coin",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/dydx.png",
+        "image": "https://cdn.chainroot.io/images/tokens/677cade7b259aeee5fa1fc0de4192d85b896a2275d20f1997fadcac34c45abad.png",
         "coinGeckoId": "dydx-chain",
         "ibc_info": {
             "path": "dydx>neutron",
@@ -431,7 +431,7 @@
         "symbol": "stkATOM",
         "description": "PSTAKE Liquid Staked ATOM",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/stkatom.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7cb22589d8f76c0b0fe39ed103a235aef2150a2b30de06dcc462413ba4e92222.png",
         "coinGeckoId": "stkatom",
         "ibc_info": {
             "path": "persistence>neutron",
@@ -454,7 +454,7 @@
         "symbol": "CRBRUS",
         "description": "Cerberus Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/crbrus.png",
+        "image": "https://cdn.chainroot.io/images/tokens/64539ff0ac5daf6bcd55b75f7890e4827767f83b6b6f0afbf02f2c8749d98bf2.png",
         "coinGeckoId": "cerberus-2",
         "ibc_info": {
             "path": "cerberus>osmosis>neutron",
@@ -500,7 +500,7 @@
         "symbol": "NLS",
         "description": "Nolus Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/nolus.png",
+        "image": "https://cdn.chainroot.io/images/tokens/bc2d74354c55df4484eedb9d982d94609a692ea686a3c9ec2008cfd21a1ce4cc.png",
         "coinGeckoId": "nolus",
         "ibc_info": {
             "path": "nolus>neutron",
@@ -546,7 +546,7 @@
         "symbol": "STARS",
         "description": "Stargaze Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/stars.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7f33a57ac37457517a235c8f48ab63b3e5dd75e5a869cae79346a460a50daedb.png",
         "coinGeckoId": "stargaze",
         "ibc_info": {
             "path": "stargaze>neutron",
@@ -569,7 +569,7 @@
         "symbol": "SAGA",
         "description": "Saga Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/saga.png",
+        "image": "https://cdn.chainroot.io/images/tokens/0eabc6906fc79b65e3ba608b9e74ae997e3cf1c39012db9bcfaf43de334dbacb.png",
         "coinGeckoId": "saga-2",
         "ibc_info": {
             "path": "saga>neutron",
@@ -615,7 +615,7 @@
         "symbol": "HUAHUA",
         "description": "Chihuahua Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/huahua.png",
+        "image": "https://cdn.chainroot.io/images/tokens/5a3b8afa75a2496ed6cb989eb834735acff452a64ede07bd32aa3c5040d234cc.png",
         "coinGeckoId": "chihuahua-token",
         "ibc_info": {
             "path": "chihuahua>neutron",
@@ -649,7 +649,7 @@
         "symbol": "ASTRO",
         "description": "Astroport is a neutral marketplace where anyone, from anywhere in the galaxy, can dock to trade their wares.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/astro.png",
+        "image": "https://cdn.chainroot.io/images/tokens/57d8651df1c518e517dc53d4a5ed987e40adb70b507bfd65231a3fdd3ce3ee3c.png",
         "coinGeckoId": "astroport-fi",
         "color": "#4056e9"
     },
@@ -660,7 +660,7 @@
         "symbol": "NEWT",
         "description": "The cutest NEWT token on Neutron chain.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/newt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/fdec358ed71d1ea216a54acd11013d742a778610cee931abfecb0e7178f88629.png",
         "coinGeckoId": "newt",
         "color": "#16233d"
     },
@@ -671,7 +671,7 @@
         "symbol": "ECLIP",
         "description": "A revolutionary hub for interchain token launches, bringing the value back into the hands of early communities.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/eclipse.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ab58b82d5b463501969693cdfa9b937ac11ce19b8b78dfc485046530579b7503.png",
         "coinGeckoId": "eclipse-fi"
     },
     {
@@ -681,7 +681,7 @@
         "symbol": "GODRD",
         "description": "A Mechanical Canine.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/goddardntrn.png",
+        "image": "https://cdn.chainroot.io/images/tokens/3f56efdf17c0b7a818280d9fbf01c497f7a143bcaaf96c82441403dd6cd41bc2.png",
         "coinGeckoId": "",
         "color": "#516b80"
     },
@@ -692,7 +692,7 @@
         "symbol": "GODDARD",
         "description": "THE FIRST NATIVE GODDARD MEMECOIN ON NEUTRON",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/goddard.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7fcc9d9426dd96915b050ab7714f7c5ca5cdbd44ddb467632ffcb251290d5943.png",
         "coinGeckoId": ""
     },
     {
@@ -702,7 +702,7 @@
         "symbol": "DINOSAUR",
         "description": "Dinosaur",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/dsrlol.png",
+        "image": "https://cdn.chainroot.io/images/tokens/72e86dfbc17942672800e53544c7833936913bf62004d3351daceb4cb15d546f.png",
         "coinGeckoId": ""
     },
     {
@@ -712,7 +712,7 @@
         "symbol": "NTRL",
         "description": "NEWTROLL",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/ntrl.png",
+        "image": "https://cdn.chainroot.io/images/tokens/969a930416cec681fb54e436c6c1ce06bcf12bddee9d210a3e67e1eed7463785.png",
         "coinGeckoId": ""
     },
     {
@@ -722,7 +722,7 @@
         "symbol": "JIMMY",
         "description": "Jimmy Neutron Finance",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/jimmy.png",
+        "image": "https://cdn.chainroot.io/images/tokens/935f5128a780f55b04e8519db0f6cd2b50c30028f460747514e380e20ca7f214.png",
         "coinGeckoId": "",
         "color": "#7d3c20"
     },
@@ -733,7 +733,7 @@
         "symbol": "CARTEL",
         "description": "Reflections of cartel activity on Cosmos.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/cartel.png",
+        "image": "https://cdn.chainroot.io/images/tokens/313587672d7ac4db9006c7a3dce82d30ed4569c283c885bdc495d3ddfc26615e.png",
         "coinGeckoId": "",
         "color": "#8c9098"
     },
@@ -744,7 +744,7 @@
         "symbol": "ATOM1KLFG",
         "description": "$ATOM to $1,000 LFG!!",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/ATOM1KLFGc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/293f28000c326e6ce162f143df2e7180479537e411e59ea777589e57f29d73a5.png",
         "coinGeckoId": "",
         "color": "#040404"
     },
@@ -755,7 +755,7 @@
         "symbol": "NBZ",
         "description": "Ninja Blaze Token",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/nbz.png",
+        "image": "https://cdn.chainroot.io/images/tokens/884e9bbdd709b8291da5bb210845771cd8f258362f68928d2a938b309e57b8da.png",
         "coinGeckoId": "",
         "color": "#9890f9"
     },
@@ -766,7 +766,7 @@
         "symbol": "APOLLO",
         "description": "The deflationary utility token of the Apollo DAO project",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/apollo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7f78a1cb918750fe65964e502c481a14f903aab309262f12b7f57057320f5a57.png",
         "coinGeckoId": "apollo-2"
     },
     {
@@ -776,7 +776,7 @@
         "symbol": "ANGRY-BABY.cft20",
         "description": "Angry Baby",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/angry-babycft.png",
+        "image": "https://cdn.chainroot.io/images/tokens/5933520ce3a9f77e9a0d075bcc49cbe48bc28226a6ea28956ff141d94f5650ae.png",
         "coinGeckoId": ""
     },
     {
@@ -786,7 +786,7 @@
         "symbol": "BABYROIDS.cft20",
         "description": "BABY ROIDS",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/babyroidscft.png",
+        "image": "https://cdn.chainroot.io/images/tokens/736e68a31e2aa76441bcdf3af15c6be431d05d5c358fa5935bf2ff4ad9ff3713.png",
         "coinGeckoId": ""
     },
     {
@@ -796,7 +796,7 @@
         "symbol": "DANZA",
         "description": "Whos the Boss?",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/danza.png",
+        "image": "https://cdn.chainroot.io/images/tokens/362a6dccd1abb117fe96ee60a0d855b4e969fb25da0b4e7f3cd66a09c7bc6bfe.png",
         "coinGeckoId": ""
     },
     {
@@ -806,7 +806,7 @@
         "symbol": "GAY",
         "description": "Gay Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/gay.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8863e1c9c043a528416a9420ea601b2900c2154c96a8737ff4143a64c0e5960d.png",
         "coinGeckoId": ""
     },
     {
@@ -816,7 +816,7 @@
         "symbol": "NELSON",
         "description": "Nelson on Neutron",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/nelson.png",
+        "image": "https://cdn.chainroot.io/images/tokens/695eb44aa5f5991ed9ee7a2182d178d23640744194599ba9eb5a3d2446481a80.png",
         "coinGeckoId": ""
     },
     {
@@ -826,7 +826,7 @@
         "symbol": "WOOF",
         "description": "woof",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/woof.png",
+        "image": "https://cdn.chainroot.io/images/tokens/5eebf6e0dbb74d687d7ef67d6f22c0b47fd8bf7f36533357063b28d4a5e8f74a.png",
         "coinGeckoId": ""
     },
     {
@@ -836,7 +836,7 @@
         "symbol": "SCRAP",
         "description": "SCRAP",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/scrap.png",
+        "image": "https://cdn.chainroot.io/images/tokens/1508cc4e8d1e53331ed4641ee5ff8342d393dc475f41c9ea1f1e30a057418ca3.png",
         "coinGeckoId": ""
     },
     {
@@ -846,7 +846,7 @@
         "symbol": "(stTIA/TIA)VT",
         "description": "Apollo DAO",
         "decimals": 12,
-        "image": "https://cdn.chainroot.io/images/tokens/(sttia-tia)vt.png",
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/neutron/asset/(sttia-tia)vt.png",
         "coinGeckoId": ""
     },
     {
@@ -856,7 +856,7 @@
         "symbol": "CORGI",
         "description": "Baby Corgi is the real doggo of Neutron!",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/babycorgi.png",
+        "image": "https://cdn.chainroot.io/images/tokens/e0ee1df4ee3b0999f2759b344583f20cb7bb788c4a815c746b18f3fb6e0d3493.png",
         "coinGeckoId": "",
         "color": "#fab442"
     },
@@ -867,7 +867,7 @@
         "symbol": "BAD",
         "description": "Baddest coin on Cosmos",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/bad.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4f1639034dcf60a597b73172a3542b583f4e2d699de04ef3dfa242a66537e0ec.png",
         "coinGeckoId": "",
         "color": "#211a0d"
     },
@@ -878,7 +878,7 @@
         "symbol": "ASTROPEPE",
         "description": "Astropepe meme coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/astropepe.png",
+        "image": "https://cdn.chainroot.io/images/tokens/cad89f7bf87ae747cb3b92f624360caa486ed8c7650191501e18bb57381d113e.png",
         "coinGeckoId": "",
         "color": "#47391d"
     },
@@ -891,6 +891,16 @@
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/datom.png",
         "coinGeckoId": "drop-staked-atom"
+    },
+    {
+        "type": "native",
+        "denom": "factory/neutron1ut4c6pv4u6vyu97yw48y8g7mle0cat54848v6m97k977022lzxtsaqsgmq/udtia",
+        "name": "dTIA",
+        "symbol": "dTIA",
+        "description": "Drop staked TIA",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/dtia.png",
+        "coinGeckoId": "drop-staked-tia"
     },
     {
         "type": "native",
@@ -932,7 +942,7 @@
         "symbol": "TAKUMI",
         "description": "Takumi Asano",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/8641da3ab7f2aae7558ac40649af3904691437932c0bb116ffe5ffb3530b77e2.png",
+        "image": "https://cdn.chainroot.io/images/tokens/TAKUMI.png",
         "coinGeckoId": "",
         "color": "#556867"
     },
@@ -954,7 +964,7 @@
         "symbol": "RETRO",
         "description": "Retro Game",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/retro.png",
+        "image": "https://cdn.chainroot.io/images/tokens/16840d43478ff5acf25ea4d1986e514eab95dcf90e89c3716eead042fc40d3a3.png",
         "coinGeckoId": ""
     },
     {
@@ -975,7 +985,7 @@
         "symbol": "xASTRO",
         "description": "Astroport is a neutral marketplace where anyone, from anywhere in the galaxy, can dock to trade their wares.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/xAstro.png",
+        "image": "https://cdn.chainroot.io/images/tokens/fbe216aba6af498d6571706dde2cce6975ca2d1c7292a4fbde4ffcd3250b0f6e.png",
         "coinGeckoId": ""
     },
     {
@@ -985,7 +995,7 @@
         "symbol": "wstETH",
         "description": "wstETH on Neutron.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/wsteth.png",
+        "image": "https://cdn.chainroot.io/images/tokens/74a1607af0c169e9aef9328defc72ce6b12291d1bd22a1c53322666516b41f5c.png",
         "coinGeckoId": "wrapped-steth",
         "bridge_info": {
             "path": "ethereum>neutron",

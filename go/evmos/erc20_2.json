@@ -6,7 +6,7 @@
         "symbol": "WEVMOS",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/wevmos.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a10aa354231c2d7a51656722fbb660b17ac01001dae73ed9724db71b5940fe9.png",
         "coinGeckoId": "evmos",
         "wallet_preload": true
     },
@@ -17,7 +17,7 @@
         "symbol": "stEVMOS",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/stevmos.png",
+        "image": "https://cdn.chainroot.io/images/tokens/afad015ce88ff6c68c7a96480fde907690029a0788b9e63f2d5363d7b9afe78e.png",
         "coinGeckoId": "",
         "wallet_preload": true
     },
@@ -38,7 +38,7 @@
         "symbol": "stATOM",
         "description": "",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/statom.png",
+        "image": "https://cdn.chainroot.io/images/tokens/5655c6da00f6891b2655207d2773ac979059a470051270ca1fd2e88726b34ac5.png",
         "coinGeckoId": "stride-staked-atom"
     },
     {
@@ -48,7 +48,7 @@
         "symbol": "OSMO",
         "description": "",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7eec0e7b17cfe55e8fdfd8138458d26c83298dc2a12f85f9261af2a5fd9b3f46.png",
         "coinGeckoId": "osmosis"
     },
     {
@@ -58,7 +58,7 @@
         "symbol": "stOSMO",
         "description": "",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/stosmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/c013b7733082ad0da759ac1cc54d6e96d79616433f99c04adf2bf47a2f515905.png",
         "coinGeckoId": "stride-staked-osmo"
     },
     {
@@ -68,7 +68,7 @@
         "symbol": "JUNO",
         "description": "",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/juno.png",
+        "image": "https://cdn.chainroot.io/images/tokens/a68afd5f8ab6feac6f7b422daaf5d5da26391ca98cc4596226dcd89366941ea7.png",
         "coinGeckoId": "juno-network"
     },
     {
@@ -78,7 +78,7 @@
         "symbol": "stJUNO",
         "description": "",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/stjuno.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4880a340651ffa201420cc7b436f1796f45f7a1a47eeed92e38a592d9b28d58b.png",
         "coinGeckoId": ""
     },
     {
@@ -88,7 +88,7 @@
         "symbol": "axlUSDC",
         "description": "",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "usd-coin"
     },
     {
@@ -98,7 +98,7 @@
         "symbol": "axlUSDT",
         "description": "",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8d812a3786178f6dbc556b3cb21411112b7c3a7ac893bf4b70c85e3c2db5a520.png",
         "coinGeckoId": "tether"
     },
     {
@@ -118,7 +118,7 @@
         "symbol": "axlWBTC",
         "description": "",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/wbtc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/347e4b450cbbf16ce16b53366a98a4571a507e5d461fff90efee028abbf76dd0.png",
         "coinGeckoId": "wrapped-bitcoin"
     },
     {
@@ -138,7 +138,7 @@
         "symbol": "gUSDC",
         "description": "",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "usd-coin"
     },
     {
@@ -148,7 +148,7 @@
         "symbol": "gUSDT",
         "description": "",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8d812a3786178f6dbc556b3cb21411112b7c3a7ac893bf4b70c85e3c2db5a520.png",
         "coinGeckoId": "tether"
     },
     {
@@ -168,7 +168,7 @@
         "symbol": "gWBTC",
         "description": "",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/wbtc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/347e4b450cbbf16ce16b53366a98a4571a507e5d461fff90efee028abbf76dd0.png",
         "coinGeckoId": "wrapped-bitcoin"
     },
     {
@@ -188,7 +188,7 @@
         "symbol": "STRD",
         "description": "",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/strd.png",
+        "image": "https://cdn.chainroot.io/images/tokens/e322bee0d934d0425b875ac8eeee7eb81429ff46d77b3eaaf60487ab1badb026.png",
         "coinGeckoId": "stride"
     },
     {
@@ -198,7 +198,7 @@
         "symbol": "STARS",
         "description": "",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/stars.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7f33a57ac37457517a235c8f48ab63b3e5dd75e5a869cae79346a460a50daedb.png",
         "coinGeckoId": "stargaze"
     },
     {
@@ -208,7 +208,7 @@
         "symbol": "stSTARS",
         "description": "",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/ststars.png",
+        "image": "https://cdn.chainroot.io/images/tokens/5d1484041bfb217158f6602a0a1756b6da4fea399d5d6e4847111c040eeeb9a0.png",
         "coinGeckoId": ""
     },
     {
@@ -218,7 +218,7 @@
         "symbol": "xDIFF",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/xdiff.png",
+        "image": "https://cdn.chainroot.io/images/tokens/5446345477dd0b69805f3b83fdb0a659f43693212572d8157117f41da6f01886.png",
         "coinGeckoId": ""
     },
     {
@@ -228,8 +228,8 @@
         "symbol": "DIFF",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/diff.png",
-        "coinGeckoId": "diffusion"
+        "image": "https://cdn.chainroot.io/images/tokens/9c5390cbfeeb959d08c7856847ad34229051634f1dd78d6b044d5afc387feb02.png",
+        "coinGeckoId": ""
     },
     {
         "type": "erc20",
@@ -238,8 +238,8 @@
         "symbol": "EVD",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/evd.png",
-        "coinGeckoId": "evmos-domains"
+        "image": "https://cdn.chainroot.io/images/tokens/18791f7350e026d06943b4e4c74a9dcccf29e854b412cdc623f820d512b4188a.png",
+        "coinGeckoId": ""
     },
     {
         "type": "erc20",
@@ -248,8 +248,8 @@
         "symbol": "EMO",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/emo.png",
-        "coinGeckoId": "evmoswap"
+        "image": "https://cdn.chainroot.io/images/tokens/caa18f4805ced387f5ff3765f1bb86a462f46b9e69e8f8cefab65afb127173eb.png",
+        "coinGeckoId": ""
     },
     {
         "type": "erc20",
@@ -258,7 +258,7 @@
         "symbol": "OAV",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/oav.png",
+        "image": "https://cdn.chainroot.io/images/tokens/24cc3bf3a20b16e921be3d2ee7f5b76641f96b9c0911bd06a51a627baafea091.png",
         "coinGeckoId": ""
     },
     {
@@ -268,7 +268,7 @@
         "symbol": "ceUSDC",
         "description": "",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "usd-coin"
     },
     {
@@ -278,7 +278,7 @@
         "symbol": "ceUSDT",
         "description": "",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8d812a3786178f6dbc556b3cb21411112b7c3a7ac893bf4b70c85e3c2db5a520.png",
         "coinGeckoId": "tether"
     },
     {
@@ -298,7 +298,7 @@
         "symbol": "NEOK",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/neok.png",
+        "image": "https://cdn.chainroot.io/images/tokens/46e088906c6e70a74cf17ac23836fb9f2e5e7bf6eae8cb10faed2567788e534e.png",
         "coinGeckoId": ""
     },
     {
@@ -308,17 +308,17 @@
         "symbol": "BERLIN-legacy",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/berlin.png",
+        "image": "https://cdn.chainroot.io/images/tokens/eecd2a070e92df6152dccbb17595f3eeab1dbce5d734e96a11f98e2bf7992b0c.png",
         "coinGeckoId": ""
     },
     {
         "type": "erc20",
-        "contract": "0xfbf4318d24a93753f11d365a6dcf8b830e98ab0f",
+        "contract": "0xfbF4318d24a93753F11d365A6dcF8b830e98Ab0F",
         "name" : "Crowdpunk DAO",
         "symbol": "CROWDP",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/crowdp.png",
+        "image": "https://cdn.chainroot.io/images/tokens/877b93e818767e6b9fc9f465f3cdcba6809c69af73e2d356b1c6925f87ab3a33.png",
         "coinGeckoId": ""
     }
 ]

@@ -16,7 +16,7 @@
         "symbol": "USDC.eth",
         "description": "USD Coin (Wormhole)",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "usd-coin",
         "bridge_info": {
             "path": "ethereum>sui"
@@ -29,7 +29,7 @@
         "symbol": "USDT.eth",
         "description": "Tether USD (Wormhole)",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8d812a3786178f6dbc556b3cb21411112b7c3a7ac893bf4b70c85e3c2db5a520.png",
         "coinGeckoId": "tether",
         "bridge_info": {
             "path": "ethereum>sui"
@@ -42,7 +42,7 @@
         "symbol": "SBOX",
         "description": "SUI said fuck off but we say welcome, airdrop for everyone.",
         "decimals": 1,
-        "image": "https://cdn.chainroot.io/images/tokens/suiboxer.png",
+        "image": "https://cdn.chainroot.io/images/tokens/1bd4b5ca67c372ef7407f3c3395d1b9eac602aa0e7d0bb20236f45098fea6e4b.png",
         "coinGeckoId": "suiboxer"
     },
     {
@@ -52,7 +52,7 @@
         "symbol": "SSWP",
         "description": "Suiswap Platform Governance Token",
         "decimals": 9,
-        "image": "https://cdn.chainroot.io/images/tokens/sswp.png",
+        "image": "https://cdn.chainroot.io/images/tokens/f26e41ad24ddbfcc4b241629f6b8c17715aab94e606599c2bc852628dba513cc.png",
         "coinGeckoId": "suiswap"
     },
     {
@@ -62,7 +62,7 @@
         "symbol": "BUCK",
         "description": "The stablecoin minted through bucketprotocol.io",
         "decimals": 9,
-        "image": "https://cdn.chainroot.io/images/tokens/buck.png",
+        "image": "https://cdn.chainroot.io/images/tokens/c5a4e70d41d3f2a9ed33350707e873b879945c22ecc5ae653821c60acb92fede.png",
         "coinGeckoId": "bucket-protocol-buck-stablecoin"
     },
     {
@@ -72,7 +72,7 @@
         "symbol": "SCA",
         "description": "SCA is the native token of Scallop Protocol.",
         "decimals": 9,
-        "image": "https://cdn.chainroot.io/images/tokens/sca.png",
+        "image": "https://cdn.chainroot.io/images/tokens/e08f09cea8419a52ec9c267e75129069325f90f3ff180bc813f6fc9bdcea05b9.png",
         "coinGeckoId": "scallop-2"
     },
     {
@@ -82,7 +82,7 @@
         "symbol": "CETUS",
         "description": "CETUS is the native token of Cetus Protocol.",
         "decimals": 9,
-        "image": "https://cdn.chainroot.io/images/tokens/cetus.png",
+        "image": "https://cdn.chainroot.io/images/tokens/d572b038db4b0424f5c8cee61bd60714cd7f345ec70da3d6ec4c4261d52d281b.png",
         "coinGeckoId": "cetus-protocol"
     },
     {
@@ -92,7 +92,7 @@
         "symbol": "TURBOS",
         "description": "Turbos Finance Token",
         "decimals": 9,
-        "image": "https://cdn.chainroot.io/images/tokens/turbos.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ff98639413ecbc5d391d70700f8f30b9b1b787a6aaff5f71d3d1298105bbdda0.png",
         "coinGeckoId": "turbos-finance"
     },
     {
@@ -102,7 +102,7 @@
         "symbol": "SPT",
         "description": "Seapad launchpad foundation token",
         "decimals": 9,
-        "image": "https://cdn.chainroot.io/images/tokens/spt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/03976e31d59af8d3e2437c620dc0230e66278cae27a0a41bd18952a1e7734f89.png",
         "coinGeckoId": "seapad"
     },
     {
@@ -112,7 +112,7 @@
         "symbol": "FUD",
         "description": "The community coin of Sui",
         "decimals": 5,
-        "image": "https://cdn.chainroot.io/images/tokens/fud.png",
+        "image": "https://cdn.chainroot.io/images/tokens/c14deb0073670b41437d19ad4e48391dea72332110dfac156a574cf7a2f6f47c.png",
         "coinGeckoId": "fud-the-pug"
     },
     {
@@ -122,7 +122,7 @@
         "symbol": "VSUI",
         "description": "Instant staking liquidity through a bond-like synthetic token called voloSUI.",
         "decimals": 9,
-        "image": "https://cdn.chainroot.io/images/tokens/vsui.png",
+        "image": "https://cdn.chainroot.io/images/tokens/30cd3036c97a92ec518dffa7d97e0b6c751e4e117ec195760e018b57a43b3c6f.png",
         "coinGeckoId": "volo-staked-sui"
     },
     {
@@ -132,7 +132,7 @@
         "symbol": "NAVX",
         "description": "One-stop Liquidity Protocol on Sui",
         "decimals": 9,
-        "image": "https://cdn.chainroot.io/images/tokens/navx.png",
+        "image": "https://cdn.chainroot.io/images/tokens/6327e2b4c0beb0b6648f21b920672464cc84b76d529580e105f0deb60625cf7a.png",
         "coinGeckoId": "navi"
     },
     {
@@ -142,7 +142,7 @@
         "symbol": "REAP",
         "description": "Reap Token",
         "decimals": 9,
-        "image": "https://cdn.chainroot.io/images/tokens/reap.png",
+        "image": "https://cdn.chainroot.io/images/tokens/adca1122675de8bee21dadee3e2906648ae98932f28762e7cb2daae35216e7f2.png",
         "coinGeckoId": "releap"
     },
     {
@@ -152,8 +152,8 @@
         "symbol": "SPEPE",
         "description": "The biggest memecoin on SUI blockchain.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/spepe.png",
-        "coinGeckoId": "sui-pepe"
+        "image": "https://cdn.chainroot.io/images/tokens/38a63733dd1d8340505ac96427ae5012cf2dc1d4b16d5eb4a04b460669941151.png",
+        "coinGeckoId": ""
     },
     {
         "type": "native",
@@ -162,7 +162,7 @@
         "symbol": "HASUI",
         "description": "haSUI is a staking token of SUI",
         "decimals": 9,
-        "image": "https://cdn.chainroot.io/images/tokens/hasui.png",
+        "image": "https://cdn.chainroot.io/images/tokens/e1108078b89561a5532f746809bc1cb07762bec0a38d91c37df2f774b1c42976.png",
         "coinGeckoId": "haedal-staked-sui"
     },
     {
@@ -172,7 +172,7 @@
         "symbol": "SCB",
         "description": "The best meme token that Sui has ever seen",
         "decimals": 5,
-        "image": "https://cdn.chainroot.io/images/tokens/scb.png",
+        "image": "https://cdn.chainroot.io/images/tokens/759c125a230ff46d10a11d501fe833b6f0ed4cef7a4c50a61232bf266948851d.png",
         "coinGeckoId": "sacabam"
     },
     {
@@ -182,7 +182,7 @@
         "symbol": "SUIP",
         "description": "SuiPad The Premier Launchpad for Tier-1 Projects",
         "decimals": 9,
-        "image": "https://cdn.chainroot.io/images/tokens/suip.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8769dd071fff33d778d1c4e044669695ab67653570dccd1b0b1e86edfa46a5b4.png",
         "coinGeckoId": "suipad"
     },
     {
@@ -192,7 +192,7 @@
         "symbol": "ARTFI",
         "description": "ARTFI is native coin of artfitoken.io",
         "decimals": 9,
-        "image": "https://cdn.chainroot.io/images/tokens/artfi.png",
+        "image": "https://cdn.chainroot.io/images/tokens/dfbd38bf37e02466c6893fb9fa7f310e1949efe6563c38bf4ed728f549a9db17.png",
         "coinGeckoId": "artfi"
     },
     {
@@ -202,7 +202,7 @@
         "symbol": "HSUI",
         "description": "Suicune will be fully community operated.",
         "decimals": 9,
-        "image": "https://cdn.chainroot.io/images/tokens/hsui.png",
+        "image": "https://cdn.chainroot.io/images/tokens/1ffcd40ac14d48d9736f3f96cbb9333c464e7d92dda93dd4800eec16f25409b2.png",
         "coinGeckoId": "suicune-on-sui"
     },
     {
@@ -225,7 +225,7 @@
         "symbol": "USDC.solana",
         "description": "Wrapped SOL (Wormhole)",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "usd-coin",
         "bridge_info": {
             "path": "ethereum>sui"
@@ -238,7 +238,7 @@
         "symbol": "USDC.celer",
         "description": "USD Coin (Wormhole)",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "usd-coin",
         "bridge_info": {
             "path": "ethereum>sui"
@@ -251,7 +251,7 @@
         "symbol": "SUIA",
         "description": "SUIA is the native token of Suia.io",
         "decimals": 9,
-        "image": "https://cdn.chainroot.io/images/tokens/suia.png",
+        "image": "https://cdn.chainroot.io/images/tokens/07ff82f652d355f7095eaca33bd4cc264b82db967b0385b78d43e52c503bfefd.png",
         "coinGeckoId": "suia"
     },
     {
@@ -274,7 +274,7 @@
         "symbol": "FLX",
         "description": "FlowX",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/flx.png",
+        "image": "https://cdn.chainroot.io/images/tokens/acac26be7b24199fd2ffcbb3fdd9ef534b875227fb754d5ed493173f47f2c609.png",
         "coinGeckoId": "flowx-finance"
     },
     {
@@ -294,8 +294,8 @@
         "symbol": "SUISHIB",
         "description": "SuiShiba is a community-driven meme project",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/suishib.png",
-        "coinGeckoId": "suishiba"
+        "image": "https://cdn.chainroot.io/images/tokens/e030d8a6147f194c14cf5aa43176db221730d2138509c27da314ea3800e68f5b.png",
+        "coinGeckoId": ""
     },
     {
         "type": "bridge",
@@ -304,7 +304,7 @@
         "symbol": "SOL",
         "description": "Wrapped SOL (Wormhole)",
         "decimals": 9,
-        "image": "https://cdn.chainroot.io/images/tokens/sol.png",
+        "image": "https://cdn.chainroot.io/images/tokens/6c0b0ffebc3179d49d5e2d1979ff8aff80c4f8cde653bb8199170b3041c24653.png",
         "coinGeckoId": "wrapped-solana",
         "bridge_info": {
             "path": "solana>sui"
@@ -317,7 +317,7 @@
         "symbol": "WMATIC",
         "description": "Wrapped Matic (Wormhole)",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/wmatic.png",
+        "image": "https://cdn.chainroot.io/images/tokens/e4f54b5ba49187e2392a3466ab68c1a95255ff8a32da1090c6592251bd0811f2.png",
         "coinGeckoId": "wmatic",
         "bridge_info": {
             "path": "polygon>sui"
@@ -330,7 +330,7 @@
         "symbol": "WBNB",
         "description": "Wrapped BNB (Wormhole)",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/wbnb.png",
+        "image": "https://cdn.chainroot.io/images/tokens/1c7fa1ff639cac48aeaff1f98aed516c2068236657e61e11be496e6eff0c81b0.png",
         "coinGeckoId": "wbnb",
         "bridge_info": {
             "path": "bnb-smart-chain>sui"
@@ -343,7 +343,7 @@
         "symbol": "AFSUI",
         "description": "Aftermath Staked Sui",
         "decimals": 9,
-        "image": "https://cdn.chainroot.io/images/tokens/afsui.png",
+        "image": "https://cdn.chainroot.io/images/tokens/a8ffd222428a8e3a21c9ac930009628b39f6ffa4b55795e3624c1e958af2d4b9.png",
         "coinGeckoId": "aftermath-staked-sui"
     },
     {
@@ -353,7 +353,7 @@
         "symbol": "BLUB",
         "description": "A Dirty Fish in the Waters of the Sui Ocean",
         "decimals": 2,
-        "image": "https://cdn.chainroot.io/images/tokens/blub.png",
+        "image": "https://cdn.chainroot.io/images/tokens/9b344badd9a5bf5c494a9d3c4710557ddf48ed25697cd3517743ed2a2e4cda35.png",
         "coinGeckoId": "blub"
     },
     {
@@ -363,7 +363,7 @@
         "symbol": "USDC.bnb",
         "description": "USD Coin (Wormhole)",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "usd-coin",
         "bridge_info": {
             "path": "ethereum>sui"

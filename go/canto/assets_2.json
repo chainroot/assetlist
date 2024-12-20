@@ -6,7 +6,7 @@
         "symbol": "CANTO",
         "description": "Canto Staking Coin",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/canto.png",
+        "image": "https://cdn.chainroot.io/images/tokens/d7eeb39c1a2e82010063d8b306bb98db3f01df3b2651c661946d608ec1389501.png",
         "coinGeckoId": "canto",
         "color": "#00DC80"
     },
@@ -63,7 +63,7 @@
         "symbol": "USDT.grv",
         "description": "Gravity Bridge USDT.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8d812a3786178f6dbc556b3cb21411112b7c3a7ac893bf4b70c85e3c2db5a520.png",
         "coinGeckoId": "tether",
         "ibc_info": {
             "path": "ethereum>gravity-bridge>canto",
@@ -86,7 +86,7 @@
         "symbol": "USDC.grv",
         "description": "Gravity Bridge USDC",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "usd-coin",
         "ibc_info": {
             "path": "ethereum>gravity-bridge>canto",

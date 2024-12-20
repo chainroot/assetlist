@@ -1,25 +1,13 @@
 [
     {
         "type": "cw20",
-        "contract": "terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26",
-        "name" : "Astroport CW20 Token",
-        "symbol": "ASTRO.cw20",
-        "description": "Astroport is a neutral marketplace where anyone, from anywhere in the galaxy, can dock to trade their wares.",
-        "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/astro.png",
-        "coinGeckoId": "astroport-fi",
-        "color": "#4056e9",
-        "wallet_preload": true
-    },
-    {
-        "type": "cw20",
         "contract": "terra14xsm2wzvu7xaf567r693vgfkhmvfs08l68h4tjj5wjgyn5ky8e2qvzyanh",
         "name" : "Stader LunaX Token",
         "symbol": "LUNAX",
         "description": "Stader LunaX Token.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/lunax.png",
-        "coinGeckoId": "lunax"
+        "image": "https://cdn.chainroot.io/images/tokens/d93b1036c48a2d29fd23a3adab14a4850e52cd7c58d3b4b261548e2d6f809665.png",
+        "coinGeckoId": ""
     },
     {
         "type": "cw20",
@@ -28,8 +16,8 @@
         "symbol": "CUB",
         "description": "Lion Cub DAO is a useless meme community DAO on Terra.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/cub.png",
-        "coinGeckoId": "lunax",
+        "image": "https://cdn.chainroot.io/images/tokens/b1f05f98210c636896a8790843ea0e62e3c8cc6a82d9b4c631aeeea224375162.png",
+        "coinGeckoId": "",
         "color": "#f3d343"
     },
     {
@@ -39,7 +27,7 @@
         "symbol": "BLUE",
         "description": "BLUE CUB DAO is a community DAO on Terra.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/blue.png",
+        "image": "https://cdn.chainroot.io/images/tokens/cbcc5c4874b5e4501925013b7dd8e6c8a21305ce565232435d7dbf73f302a300.png",
         "coinGeckoId": "",
         "color": "#040404"
     },
@@ -50,27 +38,27 @@
         "symbol": "GEM",
         "description": "GEM DAO.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/gem.png",
+        "image": "https://cdn.chainroot.io/images/tokens/5d99a7d23014d061c41df895a9f9930efbe55c118274dec4d73cd32708f5fb6a.png",
         "coinGeckoId": ""
     },
     {
         "type": "cw20",
         "contract": "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct",
-        "name" : "ERIS Amplified LUNA",
+        "name" : "Amplified LUNA",
         "symbol": "ampLUNA",
-        "description": "ERIS liquid staked LUNA.",
+        "description": "Amplified LUNA is a liquid staking derivative of LUNA, powered by ERIS Protocol.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/ampluna.png",
-        "coinGeckoId": "eris-amplified-luna"
+        "image": "https://cdn.chainroot.io/images/tokens/3840d18575623fb7735147c1969309194274f4ef376a02db0c142198a509a6b7.png",
+        "coinGeckoId": ""
     },
     {
         "type": "cw20",
         "contract": "terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
-        "name" : "BackBone Labs Liquid Staked LUNA",
-        "symbol": "boneLUNA",
-        "description": "BackBone Labs Liquid Staked LUNA.",
+        "name" : "Bone LUNA",
+        "symbol": "bLUNA",
+        "description": "Bone LUNA is a liquid staking derivative of LUNA, powered by BackBone Labs.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/bluna.png",
+        "image": "https://cdn.chainroot.io/images/tokens/65667f8c93a6f04b46ca986f3aebfd6138be9735374dc461179666a3f18e60e1.png",
         "coinGeckoId": "backbone-labs-staked-luna",
         "color": "#070707"
     },
@@ -81,7 +69,7 @@
         "symbol": "LADS",
         "description": "Steady Lads Token with $LADS ticker is a meme token originated from Terra blockchain the home of Do Kwon.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/LADS.png",
+        "image": "https://cdn.chainroot.io/images/tokens/10ca6dcfd542626997cf44db8ca8cb4efcf3f37175f5e0e043b15883ad1a9585.png",
         "coinGeckoId": "",
         "color": "#040507"
     },
@@ -359,5 +347,105 @@
         "image": "https://cdn.chainroot.io/images/tokens/0fa2c4e95e13ec17f0bbd3712a448509edea97e9b8ab57f3fb1c8c802d706277.png",
         "coinGeckoId": "",
         "color": "#c7cbcf"
+    },
+    {
+        "type": "cw20",
+        "contract": "terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv",
+        "name" : "Lion DAO",
+        "symbol": "ROAR",
+        "description": "Lion DAO is a community DAO that lives on the Terra blockchain with the mission to reactivate the LUNAtic community and showcase Terra protocols & tooling.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/2c62bce96dc0977a14873f4dd908e24e19a57506f68ff8eabe090fbc17b1e428.png",
+        "coinGeckoId": "lion-dao"
+    },
+    {
+        "type": "cw20",
+        "contract": "terra1se7rvuerys4kd2snt6vqswh9wugu49vhyzls8ymc02wl37g2p2ms5yz490",
+        "name" : "ERIS Arbitrage LUNA",
+        "symbol": "arbLUNA",
+        "description": "A derivative of LUNA based on arbitrage trading LUNA to ampLUNA and starting the slow unbonding process. Powered by ERIS Protocol.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/fc0a2fc136f9394bf2d1f37d29ca5d0234e19e80010d1a76058d4bc82a1bab50.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "cw20",
+        "contract": "terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst",
+        "name" : "SOLID",
+        "symbol": "SOLID",
+        "description": "A Terra native overcollateralized USD stablecoin, powered by Capapult Finance.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/32bdb78b5022c97b80dc530f04dfb58c120096b4b0029bee583d854dd87eb04f.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "cw20",
+        "contract": "terra13c7t0xtfpafcr6gae9f404x5am7euf87c9qwmsphsecamqjjujqs7yfm4m",
+        "name" : "Wrapped DO KWEEN (Portal)",
+        "symbol": "KWEEN.wh",
+        "description": "Do Kwon's mind uploaded into a 300 IQ superintelligent female AI speedrunning it back to $100B.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/6310c0e378999b30c4c3060ad1e295be48e28f161e5731a4d4b0cf4971cb6623.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "cw20",
+        "contract": "terra15hhqg8gyz04zapynqtk7uvlsp7lzay7etrt9ann0276v94yae63sxygeat",
+        "name" : "Wrapped Ethereum (Portal)",
+        "symbol": "ETH.wh",
+        "description": "Wrapped Ethereum imported directly to Terra via Wormhole technology.",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/11ea40a603ef0491dbe8eeb99a1e21da18b1e860dd239116eeecc880a6c09370.png",
+        "coinGeckoId": "ethereum-wormhole"
+    },
+    {
+        "type": "cw20",
+        "contract": "terra1qmnxhecc3vnmhef9q7vap7spx9tgpnw9fqe8ljqfwrlz7rur9y5qu2dlp6",
+        "name" : "Wrapped Avalanche (Portal)",
+        "symbol": "AVAX.wh",
+        "description": "Wrapped Avalanche imported directly to Terra via Wormhole technology.",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/501e32b74b25cf48416718356f9cecad7dfe4f82c2217e2ed5c97815324f15a2.png",
+        "coinGeckoId": "avalanche-wormhole"
+    },
+    {
+        "type": "cw20",
+        "contract": "terra1lnsvush7d94zakuvc84sqp996s0rcuqe3c4zaaslcgk64q8gepks25vegx",
+        "name" : "Wrapped Bitcoin (Portal)",
+        "symbol": "WBTC.wh",
+        "description": "Wrapped Bitcoin is a token backed 1:1 with Bitcoin, imported directly to Terra from Ethereum via Wormhole technology.",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/eaa9d61571295e163a465bf2d545af1056b609fb7e7b670fc1c648d418812461.png",
+        "coinGeckoId": "wrapped-btc-wormhole"
+    },
+    {
+        "type": "cw20",
+        "contract": "terra1xc7ynquupyfcn43sye5pfmnlzjcw2ck9keh0l2w2a4rhjnkp64uq4pr388",
+        "name" : "Wrapped BNB (Portal)",
+        "symbol": "BNB.wh",
+        "description": "Wrapped BNB imported directly to Terra via Wormhole technology.",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/a5ade547bc3d095176040c138f8b03a8f30dc5fca28482b5d8248baef2fb6ca1.png",
+        "coinGeckoId": "binance-coin-wormhole"
+    },
+    {
+        "type": "cw20",
+        "contract": "terra1ctelwayk6t2zu30a8v9kdg3u2gr0slpjdfny5pjp7m3tuquk32ysugyjdg",
+        "name" : "Wrapped Solana (Portal)",
+        "symbol": "SOL.wh",
+        "description": "Wrapped Solana imported directly to Terra via Wormhole technology.",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/8a57dcb76b839a7e921e4ac6682140cd9895ac3f28fcc1aef57323f657c813af.png",
+        "coinGeckoId": "sol-wormhole"
+    },
+    {
+        "type": "cw20",
+        "contract": "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar",
+        "name" : "Capapult token",
+        "symbol": "CAPA",
+        "description": "CAPA is the governance token of Capapult Finance, which issues SOLID.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/6b8b72b5f8668a9134013cbe5872632232901987b266e2d844465c19ea22fe7b.png",
+        "coinGeckoId": ""
     }
 ]

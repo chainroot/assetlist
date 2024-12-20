@@ -7,7 +7,7 @@
         "description": "Finschia Testnet Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/fnsa.png",
-        "coinGeckoId": "link",
+        "coinGeckoId": "",
         "color": "#61676E"
     }
 ]

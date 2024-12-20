@@ -6,7 +6,7 @@
         "symbol": "NGM",
         "description": "e-Money Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/ngm.png",
+        "image": "https://cdn.chainroot.io/images/tokens/d985db817b5492557b9937e0b4802536ae28f7aad0e8435f8dcfd829487522d6.png",
         "coinGeckoId": "e-money",
         "color": "#78C6B2"
     },
@@ -17,7 +17,7 @@
         "symbol": "EEUR",
         "description": "EUR on E-Money Network",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/eeur.png",
+        "image": "https://cdn.chainroot.io/images/tokens/fa4787da3aec76c0f847dffa0f697a7397d27f7f89d95e42a7c9d4985f342547.png",
         "coinGeckoId": "e-money-eur"
     },
     {
@@ -63,7 +63,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7eec0e7b17cfe55e8fdfd8138458d26c83298dc2a12f85f9261af2a5fd9b3f46.png",
         "coinGeckoId": "osmosis",
         "ibc_info": {
             "path": "osmosis>emoney",
@@ -86,7 +86,7 @@
         "symbol": "ION",
         "description": "ION is the second native token of Osmosis.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/ion.png",
+        "image": "https://cdn.chainroot.io/images/tokens/c0a4f991f92b153c221907f9a9b1b555ae16b6310aebf3f0c53444d2b134e00a.png",
         "coinGeckoId": "ion",
         "ibc_info": {
             "path": "osmosis>emoney",
@@ -109,7 +109,7 @@
         "symbol": "JUNO",
         "description": "Juno Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/juno.png",
+        "image": "https://cdn.chainroot.io/images/tokens/a68afd5f8ab6feac6f7b422daaf5d5da26391ca98cc4596226dcd89366941ea7.png",
         "coinGeckoId": "juno-network",
         "ibc_info": {
             "path": "juno>emoney",
@@ -132,7 +132,7 @@
         "symbol": "ROWAN",
         "description": "Sifchain Staking Coin",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/rowan.png",
+        "image": "https://cdn.chainroot.io/images/tokens/950892d73be33edc255820595a00c5925dd3faf9175c90fa73f83b199452736a.png",
         "coinGeckoId": "sifchain",
         "ibc_info": {
             "path": "sifchain>emoney",
@@ -178,7 +178,7 @@
         "symbol": "AXL",
         "description": "Axelar Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/axl.png",
+        "image": "https://cdn.chainroot.io/images/tokens/f76a0d5ddd92b16207551e3131d36155d4cdd231a00fdd81d704db3ca2506a23.png",
         "coinGeckoId": "axelar",
         "ibc_info": {
             "path": "axelar>emoney",

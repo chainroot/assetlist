@@ -17,7 +17,7 @@
         "symbol": "USDC",
         "description": "",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "usd-coin",
         "wallet_preload": true
     },
@@ -28,7 +28,7 @@
         "symbol": "USDbC",
         "description": "",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/usdbc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/bd4e9c43e694355ed93c07825729eb37fd8f46131c1a4bffdb5f1897aafc6702.png",
         "coinGeckoId": "bridged-usd-coin-base",
         "wallet_preload": true
     },
@@ -50,7 +50,7 @@
         "symbol": "rETH",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/reth.png",
+        "image": "https://cdn.chainroot.io/images/tokens/161c19c5da6d2f52d33692c08504c62e95bb90a35a83e30557e093a0f86c9900.png",
         "coinGeckoId": "rocket-pool-eth",
         "wallet_preload": true
     },
@@ -61,7 +61,7 @@
         "symbol": "PYTH",
         "description": "",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/pyth.png",
+        "image": "https://cdn.chainroot.io/images/tokens/78ee3a865a03a0744a7799efa02c25e06d5249322c7a3c0029655a1605134d45.png",
         "coinGeckoId": "pyth-network",
         "wallet_preload": true
     },
@@ -72,7 +72,7 @@
         "symbol": "cbETH",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/cbeth.png",
+        "image": "https://cdn.chainroot.io/images/tokens/d4b94a36832dadcec2c549b16bc6061cc1d4f54431ad116cabe2d071df98d268.png",
         "coinGeckoId": "coinbase-wrapped-staked-eth",
         "wallet_preload": true
     },
@@ -83,7 +83,7 @@
         "symbol": "PRIME",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/prime.png",
+        "image": "https://cdn.chainroot.io/images/tokens/aee1ecf2c39a2421f67eceabf31b88dd1c0a5b8ab0ca1d9968d45d81073c2131.png",
         "coinGeckoId": "echelon-prime"
     },
     {
@@ -93,7 +93,7 @@
         "symbol": "AERO",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/aero.png",
+        "image": "https://cdn.chainroot.io/images/tokens/780de9702fb40670a2851dcd36fac91b8cbc6930550966ce718bafc3c114953e.png",
         "coinGeckoId": "aerodrome-finance"
     },
     {
@@ -103,7 +103,7 @@
         "symbol": "DEGEN",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/degen.png",
+        "image": "https://cdn.chainroot.io/images/tokens/9026520f0b444476473e0850b58d2af7bfd8eb2a4a6ce0b26052f71b7294b64a.png",
         "coinGeckoId": "degen-base"
     },
     {
@@ -113,7 +113,7 @@
         "symbol": "YFI",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/yfi.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7e71c8ba64d11d0e120f47041fa6fede88eea445ec699b9df92c74506d01b908.png",
         "coinGeckoId": "yearn-finance"
     },
     {
@@ -123,7 +123,7 @@
         "symbol": "BTRST",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/btrst.png",
+        "image": "https://cdn.chainroot.io/images/tokens/a5a42b9f9f05a81d7e7447a20f44efae9fead3dc706c46ea080dff1f410a66db.png",
         "coinGeckoId": "braintrust"
     },
     {
@@ -133,7 +133,7 @@
         "symbol": "OSAK",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/osaka.png",
+        "image": "https://cdn.chainroot.io/images/tokens/581dfbdcf8a4ce20fef117ab48b0bcea98d657358bfc61532ddc15fa807e3830.png",
         "coinGeckoId": "osaka-protocol"
     },
     {
@@ -143,7 +143,7 @@
         "symbol": "SDEX",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/sdex.png",
+        "image": "https://cdn.chainroot.io/images/tokens/e7091d4174e31d01ce6bc24176092ed52fcc24b8777a80819b4e191009acca0a.png",
         "coinGeckoId": "smardex"
     },
     {
@@ -153,7 +153,7 @@
         "symbol": "LSD",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/lsd.png",
+        "image": "https://cdn.chainroot.io/images/tokens/b5553ce721ccc51fd66069574b529db7bcd23c963ace1884b254ed95d7db80b0.png",
         "coinGeckoId": "l7dex"
     },
     {
@@ -163,7 +163,7 @@
         "symbol": "OLAS",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/olas.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8f1ead2deea926d96791f6ca55871f1802ef949b1d6872938615732606274859.png",
         "coinGeckoId": "autonolas"
     },
     {
@@ -173,7 +173,7 @@
         "symbol": "MAVIA",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/mavia.png",
+        "image": "https://cdn.chainroot.io/images/tokens/cc6785d0d5a82ec2031342f0c3f222e63c0bb12623afdc34fce435c9d5f28d62.png",
         "coinGeckoId": "heroes-of-mavia"
     },
     {
@@ -183,7 +183,7 @@
         "symbol": "KNC",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/knc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/471751867855f10bd69909eb3b110ac027f4ec7a25a39768723ff24d2b5a05e5.png",
         "coinGeckoId": "kyber-network-crystal"
     },
     {
@@ -193,7 +193,7 @@
         "symbol": "DOLA",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/dola.png",
+        "image": "https://cdn.chainroot.io/images/tokens/a360ae010b086a60f68254fd8707f4d79c4cb1785e8cf5be6d7eec6b2a2ce985.png",
         "coinGeckoId": "dola-usd"
     },
     {
@@ -203,7 +203,7 @@
         "symbol": "MATH",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/math.png",
+        "image": "https://cdn.chainroot.io/images/tokens/bb9eb3a4d6d74e4f59c717a57288df187715bf407663a485079e5412957ac317.png",
         "coinGeckoId": "math"
     },
     {
@@ -213,7 +213,7 @@
         "symbol": "MIM",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/mim.png",
+        "image": "https://cdn.chainroot.io/images/tokens/24410ad2705ba7a577f7ec394ca9e005cb6eecc9d78d90b7af88e0d8ac1b3ef9.png",
         "coinGeckoId": "magic-internet-money"
     },
     {
@@ -223,7 +223,7 @@
         "symbol": "SEAM",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/seam.png",
+        "image": "https://cdn.chainroot.io/images/tokens/20bac596d18f82bbf90745f7053b015dbb2fa6b5eab656b801cad76432e3f93f.png",
         "coinGeckoId": "seamless-protocol"
     },
     {
@@ -233,7 +233,7 @@
         "symbol": "SQT",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/sqt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/57118a633d507a415e8048d1d4d358aa57a3090864e952ccfc8ed72bbc56ea08.png",
         "coinGeckoId": "subquery-network"
     },
     {
@@ -243,7 +243,7 @@
         "symbol": "EXTRA",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/extra.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8bf95ca0c9667432f566f8bf058e6d6b4116bdff2b12edecf9e7eeb61d7070c3.png",
         "coinGeckoId": "extra-finance"
     },
     {
@@ -253,7 +253,7 @@
         "symbol": "SOFI",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/sofi.png",
+        "image": "https://cdn.chainroot.io/images/tokens/486f12804aeca9a496e85e2cd9bb6bbab04926ded8bd0f69b3ba459236895d8c.png",
         "coinGeckoId": "rai-finance"
     },
     {
@@ -263,7 +263,7 @@
         "symbol": "MBS",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/mbs.png",
+        "image": "https://cdn.chainroot.io/images/tokens/dcfd7af8b0626993d983347ea18f13be0497bedd6d96ccdfacae928c66e69d18.png",
         "coinGeckoId": "monkeyball"
     },
     {
@@ -273,7 +273,7 @@
         "symbol": "GRG",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/grg.png",
+        "image": "https://cdn.chainroot.io/images/tokens/0c60df3a2455e78e46acaf1f825c647125dd8ffae72b4e3f01d64b5b0a3d2d7b.png",
         "coinGeckoId": "rigoblock"
     },
     {
@@ -283,7 +283,7 @@
         "symbol": "DEUS",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/deus.png",
+        "image": "https://cdn.chainroot.io/images/tokens/a09d73e66c027c20c50813dddf1cfaba49134683781644eb576d8358f149be2f.png",
         "coinGeckoId": "deus-finance-2"
     },
     {
@@ -293,7 +293,7 @@
         "symbol": "AMKT",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/amkt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/b5505c8e3d9118330450ae6bbfa65bc4cf488cba0cf1b89830995ea3dc2a54eb.png",
         "coinGeckoId": "alongside-crypto-market-index"
     },
     {
@@ -303,7 +303,7 @@
         "symbol": "BETS",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/bets.png",
+        "image": "https://cdn.chainroot.io/images/tokens/3e7d9005682fd854a1732fdef3a9183825bddf9ab7fbc1e2c8a8b846f8a6c625.png",
         "coinGeckoId": "betswirl"
     },
     {
@@ -313,7 +313,7 @@
         "symbol": "W",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/w.png",
+        "image": "https://cdn.chainroot.io/images/tokens/6f055be3af7faec7845391a89a576a1609794994948df97d03129b817a362a83.png",
         "coinGeckoId": "wormhole"
     },
     {
@@ -323,7 +323,7 @@
         "symbol": "SNX",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/snx.png",
+        "image": "https://cdn.chainroot.io/images/tokens/03230d939d74308b077e74de7bbbadf3feba794f1b0caedbc439a182c0541178.png",
         "coinGeckoId": "havven"
     },
     {
@@ -373,7 +373,7 @@
         "symbol": "AXL",
         "description": "",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/axl.png",
+        "image": "https://cdn.chainroot.io/images/tokens/f76a0d5ddd92b16207551e3131d36155d4cdd231a00fdd81d704db3ca2506a23.png",
         "coinGeckoId": "axelar"
     },
     {
@@ -432,7 +432,7 @@
         "name": "Axelar ATOM",
         "symbol": "axlATOM",
         "description": "",
-        "decimals": 18,
+        "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/7842ce5dfe4c24dc74cc72a874edd55e2f6e7a1ad3dae3abd85dd43bf453b805.svg",
         "coinGeckoId": "cosmos"
     },
@@ -523,7 +523,7 @@
         "symbol": "OGRE",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/eacee21cb7ee9009582480ed3e696e534269a40695e75b14892655279d686212.png",
+        "image": "https://cdn.chainroot.io/images/tokens/0xab8a1c03b8e4e1d21c8ddd6edf9e07f26e843492.png",
         "coinGeckoId": ""
     },
     {

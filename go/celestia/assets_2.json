@@ -17,7 +17,7 @@
         "symbol": "TORO",
         "description": "The memecoin built for the Celestia community.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/toro.png",
+        "image": "https://cdn.chainroot.io/images/tokens/c07e9722a821658173419ed7e2147cad51afc8fc08ec2290f6ab91592ac4c354.png",
         "coinGeckoId": "",
         "ibc_info": {
             "path": "osmosis>celestia",

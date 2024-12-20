@@ -6,7 +6,7 @@
         "symbol": "BOY",
         "description": "Astro BOY",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/boy.png",
+        "image": "https://cdn.chainroot.io/images/tokens/78158d67742142d52ac40408ccd062f03f0a9d719fbb9a8c4dd27d97f28a9497.png",
         "coinGeckoId": "",
         "color": "#333333",
         "wallet_preload": true
@@ -18,7 +18,7 @@
         "symbol": "WTF",
         "description": "What the Fuck",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/WTF.png",
+        "image": "https://cdn.chainroot.io/images/tokens/01f571ddcc4deccf68a46212b5cd6681e4679c22c93b028eeaf63eaea293db17.png",
         "coinGeckoId": "",
         "color": "#dcd5ab",
         "wallet_preload": true
@@ -30,7 +30,7 @@
         "symbol": "BTC",
         "description": "BITCOSMOS",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/bitcosmos.png",
+        "image": "https://cdn.chainroot.io/images/tokens/3105c7d9239d1d524f412639b82e89dd5f04caeb4f6bf9e18282080faa4bebdd.png",
         "coinGeckoId": "",
         "color": "#1b0847",
         "wallet_preload": true

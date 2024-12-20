@@ -6,7 +6,7 @@
         "symbol": "AXV",
         "description": "Astrovault AXV",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/axv.png",
+        "image": "https://cdn.chainroot.io/images/tokens/f1085d10188c85236ad0f9c39ab1ae514593ba41ffb888505e82d9d0cff8e26f.png",
         "coinGeckoId": "astrovault",
         "color": "#141434",
         "wallet_preload": true
@@ -18,7 +18,7 @@
         "symbol": "sARCH",
         "description": "Liquid Finance Staked ARCH",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/sarch.png",
+        "image": "https://cdn.chainroot.io/images/tokens/bb778c6ea0b04762ccae85d9753c9c1d8583507e557aa3b95fcdf50d70e05397.png",
         "coinGeckoId": "liquid-finance-arch",
         "wallet_preload": true
     },
@@ -29,7 +29,7 @@
         "symbol": "xARCH",
         "description": "Astrovault xARCH",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/xarch.png",
+        "image": "https://cdn.chainroot.io/images/tokens/63e9a5bfa8e9950a99fecb993aaf934258ee07a2b4327f7f5954cb944d0dd4da.png",
         "coinGeckoId": "astrovault-xarch"
     },
     {
@@ -39,7 +39,7 @@
         "symbol": "xATOM",
         "description": "Astrovault xATOM",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/xatom.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4c5fdcb6e1e515b018ebab7feb361406c9f717c525683c346c49829991f85ee0.png",
         "coinGeckoId": "astrovault-xatom"
     },
     {
@@ -49,7 +49,7 @@
         "symbol": "xJKL",
         "description": "Astrovault xJKL",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/xjkl.png",
+        "image": "https://cdn.chainroot.io/images/tokens/bb1d474c1893568446869ee0141399e88f16394d035e837f2c57f1549756af15.png",
         "coinGeckoId": "astrovault-xjkl"
     },
     {
@@ -59,7 +59,7 @@
         "symbol": "xDEC",
         "description": "Astrovault xDEC",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/xdec.png",
+        "image": "https://cdn.chainroot.io/images/tokens/26c261be38e57b775ec3e5db22b476957b2d164c26428094de2c39ed7b767719.png",
         "coinGeckoId": "xdec-astrovault"
     },
     {
@@ -69,7 +69,7 @@
         "symbol": "xBCNA",
         "description": "Astrovault xBCNA",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/xbcna.png",
+        "image": "https://cdn.chainroot.io/images/tokens/1f9766adb7e4de3267968aaefd48d4136deb0e0849885d741592a68df3f27a86.png",
         "coinGeckoId": "xbcna_astrovault"
     },
     {
@@ -79,7 +79,7 @@
         "symbol": "xFLIX",
         "description": "Astrovault xFLIX",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/xflix.png",
+        "image": "https://cdn.chainroot.io/images/tokens/d4bc753920b17bfbcd2eb4f53bd5d397123983ba826d0fdfbd59e143a60615c8.png",
         "coinGeckoId": "xflix_astrovault"
     },
     {
@@ -89,7 +89,7 @@
         "symbol": "xCMDX",
         "description": "Astrovault xCMDX",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/xcmdx.png",
+        "image": "https://cdn.chainroot.io/images/tokens/c97952a64b6418a07a7fd736c5d10c3867447485ecb06d271546edb906ff8aa4.png",
         "coinGeckoId": "xcmdx_astrovault"
     },
     {
@@ -99,7 +99,7 @@
         "symbol": "xGRAV",
         "description": "Astrovault xGRAV",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/xgrav.png",
+        "image": "https://cdn.chainroot.io/images/tokens/b789e9221f0b17dd4841ac6c78b5ba7b0a439c947048048c3b2c7256f1cc9eea.png",
         "coinGeckoId": "xgrav_astrovault"
     },
     {
@@ -109,7 +109,7 @@
         "symbol": "xBLD",
         "description": "Astrovault xBLD",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/xbld.png",
+        "image": "https://cdn.chainroot.io/images/tokens/f96a9f6a00a50799b47ce958836838717cb1ac6c79e2cf6c6405935cca80e6a2.png",
         "coinGeckoId": "xbld_astrovault"
     },
     {
@@ -119,7 +119,7 @@
         "symbol": "bnUSD",
         "description": "Balanced Dollar",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/bnusd.png",
+        "image": "https://cdn.chainroot.io/images/tokens/472e3fce4e7ecc1c45fdca3b24e2823ffefd3e3f999037ef3807a986fb72f845.png",
         "coinGeckoId": "balanced-dollars"
     },
     {
@@ -129,7 +129,7 @@
         "symbol": "xQWOYN",
         "description": "Astrovault xQWOYN",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/xqwoyn.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7158b063adb7381fcb439b5e12de818be40ba32a59efde11c77ccb381f4b0ff6.png",
         "coinGeckoId": "xqwoyn_astrovault"
     },
     {
@@ -139,7 +139,7 @@
         "symbol": "xAKT",
         "description": "Astrovault xAKT",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/xakt.png",
+        "image": "https://cdn.chainroot.io/images/tokens/3bd7ad4620918235e9783ed99900d68eb969354ef8c2979d59c91db5e6faffc2.png",
         "coinGeckoId": "xakt_astrovault"
     },
     {
@@ -149,8 +149,8 @@
         "symbol": "xVDL",
         "description": "Astrovault xVDL",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/xvdl.png",
-        "coinGeckoId": "xvdl_astrovault"
+        "image": "https://cdn.chainroot.io/images/tokens/c6f8e380179d2a1eb348aff55f5997f87202c6c34b7e0a6922f3e48f5e2e30b7.png",
+        "coinGeckoId": ""
     },
     {
         "type": "cw20",
@@ -159,7 +159,7 @@
         "symbol": "xCUDOS",
         "description": "Astrovault xCUDOS",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/xcudos.png",
+        "image": "https://cdn.chainroot.io/images/tokens/5eb702857668b63b2a965f9175d533dc504185a4363cd36f5c3b0c1bba35222d.png",
         "coinGeckoId": ""
     },
     {
@@ -169,7 +169,7 @@
         "symbol": "xMPWR",
         "description": "Astrovault xMPWR",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/xmpwr.png",
+        "image": "https://cdn.chainroot.io/images/tokens/d787fd24bfca949b2f7467ec754dba5fb3666e161e2e450475c8ebaeac3e9daf.png",
         "coinGeckoId": ""
     },
     {
@@ -179,7 +179,7 @@
         "symbol": "xPLQ",
         "description": "Astrovault xPLQ",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/xplq.png",
+        "image": "https://cdn.chainroot.io/images/tokens/1cc601b20708cf89a48943d8ae0f8667ef93f492fdafa210e7b320f3927aaea7.png",
         "coinGeckoId": "xplq_astrovault"
     },
     {
@@ -189,7 +189,7 @@
         "symbol": "ampARCH",
         "description": "Eris Amplified ARCH",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/amparch.png",
+        "image": "https://cdn.chainroot.io/images/tokens/996969bed6eef8282e43783661575e7300a1d7a36caccbc12f68337c9f42f92b.png",
         "coinGeckoId": ""
     },
     {
@@ -199,7 +199,7 @@
         "symbol": "bARCH",
         "description": "BackBoneLabs Liquid Staked Arch",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/barch.png",
+        "image": "https://cdn.chainroot.io/images/tokens/e6d0a1a7b78c6a1b0d8efaca046325f06906c1388604445ec8abc075d5d6fe3a.png",
         "coinGeckoId": ""
     },
     {
@@ -209,7 +209,7 @@
         "symbol": "TOKN",
         "description": "Architects Token",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/tokn.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8f1b4ed7f31f951d9add60a2c1cfd3f754e19a1c82f6e6ddaa45c2a3dc188c0b.png",
         "coinGeckoId": ""
     }
 ]

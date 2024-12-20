@@ -6,7 +6,7 @@
         "symbol": "QCK",
         "description": "Quicksilver Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/qck.png",
+        "image": "https://cdn.chainroot.io/images/tokens/40e30cd7dd9092241a5115de37dd15ab3d9179c390be193d5b456c4c83e6a71d.png",
         "coinGeckoId": "quicksilver",
         "color": "#9B9B9B"
     },
@@ -17,7 +17,7 @@
         "symbol": "qSTARS",
         "description": "Quicksilver Staked Stars",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/qstars.png",
+        "image": "https://cdn.chainroot.io/images/tokens/9443b4f6e367c538903bf5c10cf7e5d66c0f1bf76dd6d57e17e2af30c38b1549.png",
         "coinGeckoId": "qstar-2"
     },
     {
@@ -27,7 +27,7 @@
         "symbol": "qATOM",
         "description": "Quicksilver Staked ATOM",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/qatom.png",
+        "image": "https://cdn.chainroot.io/images/tokens/0ced4a97755ab86bbb246d6807702ea4b47744476264a5bd4ff5c00093b7be87.png",
         "coinGeckoId": "qatom"
     },
     {
@@ -37,7 +37,7 @@
         "symbol": "qREGEN",
         "description": "Quicksilver Staked REGEN",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/qregen.png",
+        "image": "https://cdn.chainroot.io/images/tokens/e9e7028e0ca5b0c83bf0556d074e9c26878ec8fa2225b5c7af2888f8926be9ef.png",
         "coinGeckoId": "qregen"
     },
     {
@@ -70,7 +70,7 @@
         "symbol": "STARS",
         "description": "Stargaze Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/stars.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7f33a57ac37457517a235c8f48ab63b3e5dd75e5a869cae79346a460a50daedb.png",
         "coinGeckoId": "stargaze",
         "ibc_info": {
             "path": "stargaze>quicksilver",
@@ -93,7 +93,7 @@
         "symbol": "OSMO",
         "description": "Osmosis Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/osmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7eec0e7b17cfe55e8fdfd8138458d26c83298dc2a12f85f9261af2a5fd9b3f46.png",
         "coinGeckoId": "osmosis",
         "ibc_info": {
             "path": "osmosis>quicksilver",
@@ -116,7 +116,7 @@
         "symbol": "XPRT",
         "description": "Persistence Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/pstake.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4522889c57af157502a8ad0e5d3fca1dbd781884a0c526f1d8f71656ae743ec1.png",
         "coinGeckoId": "persistence",
         "ibc_info": {
             "path": "persistence>quicksilver",
@@ -139,7 +139,7 @@
         "symbol": "EVMOS",
         "description": "Evmos Staking Coin",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/evmos.png",
+        "image": "https://cdn.chainroot.io/images/tokens/d5afb4bf339a789d256aef1690b5a89e1249ba0fefdf882daa9e47696dac0cac.png",
         "coinGeckoId": "evmos",
         "ibc_info": {
             "path": "evmos>quicksilver",
@@ -162,7 +162,7 @@
         "symbol": "REGEN",
         "description": "Regen Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/regen.png",
+        "image": "https://cdn.chainroot.io/images/tokens/d13d8fecb8ca62dbaa2aa83d8d4aa42b4d33692cb9a8162b9bd4d73897be5ff7.png",
         "coinGeckoId": "regen",
         "ibc_info": {
             "path": "regen>quicksilver",
@@ -185,7 +185,7 @@
         "symbol": "qOSMO",
         "description": "Quicksilver Liquid Staked OSMO",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/qosmo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/80ba5cf041a7a23df8d476f293e1c7ae4483d4e719070630ad7aa3921e96c734.png",
         "coinGeckoId": "qosmo"
     },
     {
@@ -195,7 +195,7 @@
         "symbol": "SOMM",
         "description": "Sommelier Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/somm.png",
+        "image": "https://cdn.chainroot.io/images/tokens/53e50f807a6a19470ddb608f07d5017c3a137f72d11f8d26be667c018125bcbc.png",
         "coinGeckoId": "sommelier",
         "ibc_info": {
             "path": "sommelier>quicksilver",
@@ -218,7 +218,7 @@
         "symbol": "qSOMM",
         "description": "Quicksilver Staked SOMM",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/qsomm.png",
+        "image": "https://cdn.chainroot.io/images/tokens/29160351bb39c9af585dc503ef7d11c8b4bcb9e177f3b88fb63af21c8f4e6bd4.png",
         "coinGeckoId": "qsomm"
     },
     {
@@ -228,7 +228,7 @@
         "symbol": "qJUNO",
         "description": "Quicksilver Staked JUNO",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/qjuno.png",
+        "image": "https://cdn.chainroot.io/images/tokens/3bbfbb0d4cc4ccffdfa3bab04ed85d77c378b3d2fd695fb184cf37c4972bc2bb.png",
         "coinGeckoId": "qjuno"
     },
     {
@@ -238,7 +238,7 @@
         "symbol": "qSAGA",
         "description": "Quicksilver Staked SAGA",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/qsaga.png",
+        "image": "https://cdn.chainroot.io/images/tokens/b9cb37de8e5d434cff9c1b2a4497ce0f2dc229756c53ad4f47ab6dd5dd4117bb.png",
         "coinGeckoId": ""
     },
     {
@@ -248,7 +248,7 @@
         "symbol": "qBLD",
         "description": "Quicksilver Staked BLD",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/qbld.png",
+        "image": "https://cdn.chainroot.io/images/tokens/620c45e4bb969476fcd9f07d03180427931ed24bb832530c34ae1ef1026f6187.png",
         "coinGeckoId": ""
     },
     {
@@ -258,7 +258,7 @@
         "symbol": "qDYDX",
         "description": "Quicksilver Staked DYDX",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/qdydx.png",
+        "image": "https://cdn.chainroot.io/images/tokens/358a3a03cfed1c61cf9015c10ac74e2fa8787bf3bd04e789536cb58766b0f31b.png",
         "coinGeckoId": ""
     }
 ]
