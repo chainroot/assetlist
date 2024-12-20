@@ -1,0 +1,69 @@
+on:
+  push:
+    branches: *
+  # schedule:
+  #   - cron: "*/5 * * * *" # Runs every 5 minutes
+
+jobs:
+  rclone-upload:
+
+    runs-on: blacksmith-4vcpu-ubuntu-2204
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9
+          run_install: false
+
+    # Set up Node.js and install dependencies with pnpm
+    - name: Set up Node.js
+      uses: useblacksmith/setup-node@v5
+      with:
+        node-version: "20"
+        cache: "pnpm"
+        registry-url: "https://npm.pkg.github.com"
+        scope: "@chainroot"
+      env:
+        NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Install dependencies with pnpm
+      run: pnpm install --frozen-lockfile
+
+    - name: Setup Rclone
+      uses: AnimMouse/setup-rclone@v1
+      with:
+        rclone_config: ${{ secrets.RCLONE_CONFIG }}
+
+    - run: rm -rf go/
+
+    - run: make update-chainlist && make update-chain-data
+
+    - run: wget https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/pryzm/assetlist.json
+
+    - run: |
+        cd scripts/schema-generator
+        tsc
+        cd ../..
+        node scripts/schema-generator/dist/schema-convertor.js assetlist.json go/pryzm/assets_2.json
+
+    - run: |
+        node scripts/schema-generator/dist/update-staking-denom-type.js
+        node scripts/schema-generator/dist/image-getter.js
+        
+    - run: rclone copy images/* cf:mages/tokens/
+
+    - name: Create Pull Request
+      id: cpr
+      uses: peter-evans/create-pull-request@v7
+      with:
+        token: ${{ secrets.PAT }}
+        commit-message: Update assetlist
+        committer: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+        author: ${{ github.actor }} <${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com>
+        signoff: false
+        branch: chainlist-patches
+        delete-branch: true
+        title: 'Update assets'
