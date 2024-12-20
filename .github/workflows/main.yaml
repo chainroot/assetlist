@@ -52,7 +52,7 @@ jobs:
         node scripts/schema-generator/dist/update-staking-denom-type.js
         node scripts/schema-generator/dist/image-getter.js
         
-    - run: rclone copy images/* cf:mages/tokens/
+    - run: 'cd images && rclone copy . cf:cdn/images/tokens'
 
     - name: Create Pull Request
       id: cpr
