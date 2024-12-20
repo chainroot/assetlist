@@ -3,6 +3,16 @@ on:
     branches: '*'
   # schedule:
   #   - cron: "*/5 * * * *" # Runs every 5 minutes
+  workflow_dispatch:
+    inputs:
+      commit-message:
+        required: false
+        type: string
+        default: "Add general-docs and network-docs from chainroot/docs"
+      committer:
+        required: false
+        type: string
+        default: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
 
 jobs:
   rclone-upload:
@@ -65,4 +75,10 @@ jobs:
         branch: chore-update-dependencies
         delete-branch: true
         title: 'Update assets'
-        base: main
+        base: add-workflow
+
+    - name: Check outputs
+      if: ${{ steps.cpr.outputs.pull-request-number }}
+      run: |
+        echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
+        echo "Pull Request URL - ${{ steps.cpr.outputs.pull-request-url }}"
