@@ -12,6 +12,8 @@ jobs:
     steps:
     - uses: actions/checkout@v4
 
+    - run: apt install exiftool -y
+
     - name: Install pnpm
       uses: pnpm/action-setup@v4
       with:
