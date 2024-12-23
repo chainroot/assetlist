@@ -22,7 +22,10 @@ jobs:
     steps:
     - uses: actions/checkout@v4
 
-    - run: sudo apt update && sudo apt install exiftool -y
+    - name: Install exiftool and delete go directory
+      run: |
+        sudo apt update && sudo apt install exiftool -y
+        # rm -rf go/*
 
     - name: Install pnpm
       uses: pnpm/action-setup@v4
@@ -46,23 +49,29 @@ jobs:
       with:
         rclone_config: ${{ secrets.RCLONE_CONFIG }}
 
-    - run: rm -rf go/*
+    # - name: Update sub-module and chains assets lists
+    #   run: make update-chainlist && make update-chain-data
 
-    - run: make update-chainlist && make update-chain-data
+    # - name: npm build
+    #   run: npm run build
 
-    - run: wget https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/pryzm/assetlist.json
-
-    - run: |
+    - name: Download pryzm assetlist and running schema convertor
+      run: |
+        wget https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/pryzm/assetlist.json
         cd scripts/schema-generator
         tsc
         cd ../..
         node scripts/schema-generator/dist/schema-convertor.js assetlist.json go/pryzm/assets_2.json
+        sed -i '' 's/"coinGeckoId": ""/"coinGeckoId": "pryzmatics"/g' go/pryzm/assets_2.json
 
-    - run: |
-        node scripts/schema-generator/dist/update-staking-denom-type.js
-        node scripts/schema-generator/dist/image-getter.js
+    # - name: Running staking denom
+    #   run: node scripts/schema-generator/dist/update-staking-denom-type.js
+
+    # - name: Running image getter
+    #   run: node scripts/schema-generator/dist/image-getter.js
         
-    - run: 'cd images && rclone copy . cf:cdn/images/tokens'
+    - name: Upload images to cdn bucket
+      run: 'cd images && rclone copy . cf:cdn/images/tokens'
 
     - name: Create Pull Request
       id: cpr
