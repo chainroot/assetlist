@@ -1,0 +1,2732 @@
+[
+  {
+    "type": "ibc",
+    "denom": "ibc/644A3695F405A67B0DD6E414602B836614BA3566ABBF4F2DA6ED0D2BB4332125",
+    "symbol": "CNTO",
+    "name": "cnto",
+    "description": "Ciento Exchange Token",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/f3f4e25651bc9d3b3077644f65625c3dae7496a68fc3cdbcc7c7ea26a14c5326.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/21F3876A6F5A1A1231768FE8A065C04B5C728632B9B8BA8CA418829E0214D8EE",
+    "symbol": "DYDX",
+    "name": "dydx",
+    "description": "DYDX is a decentralized trading platform focused on derivatives and perpetual contracts, offering a secure and efficient trading experience without intermediaries.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/0cd48cdfcd49902807eb50da7db148b648470cf80daaf35482402ae8e0c504d6.svg",
+    "coinGeckoId": "dydx-chain"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/62CC85ED0F0C43C453B1A059BF5A147498550C2A7ADDEE6324A0B4E9E371C9C7",
+    "symbol": "SHIB",
+    "name": "shib",
+    "description": "Shiba Inu on Axelar",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/a6d5c18819b33d7d7ceb733dec445c229b6e7453c6b0d88b2c8bb4bb24c580ef.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/25BC59386BB65725F735EFC0C369BB717AA8B5DAD846EAF9CBF5D0F18F207211",
+    "symbol": "INJ",
+    "name": "INJ",
+    "description": "Injective is a decentralized exchange protocol that enables fast, secure, and fully decentralized trading of derivatives, futures, and spot markets.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/c824ba4c934281bfa3a10052366f3c00fe94ed254da7f0e2b82da59a5c2872df.svg",
+    "coinGeckoId": "injective-protocol"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/9042813519C8C2C19848C0A5E6E4ABB32D219A6F850C8F0D2A9157FE17B9C2DA",
+    "symbol": "ACRE",
+    "name": "acre",
+    "description": "The native EVM, governance and staking token of the Acrechain",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/4c10b64c57af7e4432da7e148b682df098440d7dbe34a89aadf4e8215c95200b.svg",
+    "coinGeckoId": "arable-protocol"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/EEDCCB3A5A58F2EEB63BECC2FE0827C8251931AF492D924F21A4B886B2742567",
+    "symbol": "stINJ",
+    "name": "stINJ",
+    "description": "",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/6e09b30e25aa93eba62945146460a49ce4bae94377fbb3f3c04c81e692bbd0a6.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/14E4FD1AB72DE9BF1D6725CBA18373C406CB9A7DA17955299F3F4DC5C6131A4E",
+    "symbol": "WMATIC",
+    "name": "wmatic",
+    "description": "Wrapped Matic on Axelar",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/bf81bb5509d397d93705112cdf2b191085c96ae16f64f144aace3128bbbce029.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/BC8A77AFBD872FDC32A348D3FB10CC09277C266CFE52081DE341C7EC6752E674",
+    "symbol": "WETH",
+    "name": "weth",
+    "description": "Wrapped Ether on Axelar",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/15dcdac9407b9a3fc6702bd2abde9fb3b47671997bc46fb594d65e4e982786c7.png",
+    "coinGeckoId": "axlweth"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/15B9EA551644A9FAE032CA25583C81EAB781BEEA41FF281E4D7F8BAB735E49C8",
+    "symbol": "WETH",
+    "name": "weth",
+    "description": "Wrapped Ether on Axelar",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/15dcdac9407b9a3fc6702bd2abde9fb3b47671997bc46fb594d65e4e982786c7.png",
+    "coinGeckoId": "axlweth"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/1F84E60240ED39D5D7E679E88A9622D3FB21F2E0DD04CC6CD3962D3D566EEB35",
+    "symbol": "USD",
+    "name": "usd",
+    "description": "Grouped USD on Carbon",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/f1cc58779f12b7bd87423a6a8cd27c790e70d452afbcb567c485d60c8d247a9d.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/F992067A054C819B42D2DAB57F5CCE347D38352EB90453E59D566BFE64F1614B",
+    "symbol": "WAVAX",
+    "name": "avax",
+    "description": "Wrapped AVAX on Axelar.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/c065da09b130c5efa31c891a8ad96222fa6734c11e8c430df6f07108e1f8f365.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/F153853A2327BCB56C2935B062107C3EE083125DCBF591D4E63244367EF4ADD7",
+    "symbol": "arUSD",
+    "name": "arusd",
+    "description": "Overcollateralized stable coin for Arable derivatives v1",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/a6d8f3caf4400a96b6db4025d86f71e097e07482f84e2745a9c6c3931a1dffd3.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/334AD41CE64F4D9FFEB7DA4F533B2C1A872FBBD1524A47531FB105C174313B16",
+    "symbol": "BUSD",
+    "name": "busd",
+    "description": "BUSD (BEP-20) token on Carbon",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/3b6d8d5d0f512973e57d193c41f8ef225de3c0d27f918dd8d54600f4516501b5.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/0D80E6B092F79FBD139310AFA1262CEE1DD30935A29372705E28231751A1EECB",
+    "symbol": "WMATIC",
+    "name": "wmatic",
+    "description": "Wrapped Matic on Axelar",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/bf81bb5509d397d93705112cdf2b191085c96ae16f64f144aace3128bbbce029.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/70B7EBF6BEAF9AED5A63E269488F59E44421878304E120E8B8095BC07E47D1A6",
+    "symbol": "PEPEC",
+    "name": "pepec",
+    "description": "Pepec",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7cd9e949c159a71168a42e94577527516c15f13050df18b54ac41c59413a6129.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/97960138238DF7D20C89BA1DD45F86743D8CA5D12E6B4ED70721697A514F2C35",
+    "symbol": "INJ",
+    "name": "INJ",
+    "description": "Injective is a decentralized exchange protocol that enables fast, secure, and fully decentralized trading of derivatives, futures, and spot markets.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/c824ba4c934281bfa3a10052366f3c00fe94ed254da7f0e2b82da59a5c2872df.svg",
+    "coinGeckoId": "injective-protocol"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/0A31B4B46B4C5F10ED3EF4BFBD1453CE96A270D168FC672436ABCA2DB4CC1401",
+    "symbol": "ARB",
+    "name": "arb",
+    "description": "Arbitrum on Axelar",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/7834360a011590f6a25608a8655841d2881377259b8cbadd9ac56a49cb9b0254.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/A9A2280DF01CBEB8CD2DDF6C4D7B64D0083E91EA2771381138B9DC2C44C2D3D2",
+    "symbol": "ETH",
+    "name": "eth",
+    "description": "Ethereum is a decentralized blockchain platform for running smart contracts and dApps, with Ether (ETH) as its native cryptocurrency, enabling a versatile ecosystem beyond just digital currency.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/af33707625a9a948852514d2ffd2f99d2d8cfc603bca373190a152522fdb1c0c.svg",
+    "coinGeckoId": "ethereum"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/1319C6B38CA613C89D78C2D1461B305038B1085F6855E8CD276FE3F7C9600B4C",
+    "symbol": "WBNB",
+    "name": "wbnb",
+    "description": "Wrapped BNB on Axelar",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/a4c5292d659f8a8522b8997399f53769eba8ba05e74ae4ea936b2d65a1046932.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/D54CE4CD2927F744CDCA844DD0E1A5DF88762274C55CD9AAB13E504A29BE8933",
+    "symbol": "WGLMR",
+    "name": "wglmr",
+    "description": "Wrapped Moonbeam on Axelar",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/93616b0f33b4769c684765b9392ace083fef2a058e04ffdb58fdda49bba812bc.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/3C224770FEB30E8E8D1214776C5EFCCE7313E056119F99844044C369233642F4",
+    "symbol": "WMATIC",
+    "name": "wmatic",
+    "description": "Wrapped Matic on Axelar",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/bf81bb5509d397d93705112cdf2b191085c96ae16f64f144aace3128bbbce029.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/B249D1E86F588286FEA286AA8364FFCE69EC65604BD7869D824ADE40F00FA25B",
+    "symbol": "EVMOS",
+    "name": "evmos",
+    "description": "The native EVM, governance and staking token of the Evmos Hub",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/8fd37bed9ab943bf6d2114ddae7f4a42b91cdebc269406c7f6acfb4fd1885e05.svg",
+    "coinGeckoId": "evmos"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/ED4795DE31C539500CC6B3B09A6567387C15CF86106943C5358FF9D0991F05DB",
+    "symbol": "ARCH",
+    "name": "arch",
+    "description": "Archway is a smart contract platform in the Cosmos ecosystem designed to reward developers by providing them with a share of transaction fees generated by their applications.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/07971aee03539b97e171dabdbc8a9974e849917dc4c1f667630c33088ec83497.svg",
+    "coinGeckoId": "archway"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/DB4BC44E8A89EDB5BEA048B2B40BEC2F74FA77689432218BB4B2397C81391C5D",
+    "symbol": "EVMOS",
+    "name": "evmos",
+    "description": "The native EVM, governance and staking token of the Evmos Hub",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/8fd37bed9ab943bf6d2114ddae7f4a42b91cdebc269406c7f6acfb4fd1885e05.svg",
+    "coinGeckoId": "evmos"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/A06709D9DE8643F5B935DC4D7A6418944F18A03B75F85FCCA5CE794523D5BA8A",
+    "symbol": "ARCH",
+    "name": "arch",
+    "description": "Archway is a smart contract platform in the Cosmos ecosystem designed to reward developers by providing them with a share of transaction fees generated by their applications.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/07971aee03539b97e171dabdbc8a9974e849917dc4c1f667630c33088ec83497.svg",
+    "coinGeckoId": "archway"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/544ABE7E35AB20EB722AC9384744A68704EF11EF083E61FF180F8913AB40659A",
+    "symbol": "ampINJ",
+    "name": "ampINJ",
+    "description": "ERIS liquid staked INJ",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/651fd1c3fddc0db15b01f32fe060394faf41d86f77fa8891a1c7d7bfa3486f9d.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/792AAE6279F4709F66068E29A79E6F16BBC0A9B93561A91FC040606793E62D6B",
+    "symbol": "SWTH",
+    "name": "dswth",
+    "description": "The native governance token of Carbon",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/9772f246b16fb294e55abae93bc5994b37b1f662fbda84fe6a6c87db3cc866f2.svg",
+    "coinGeckoId": "switcheo"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/0E90026619DD296AD4EF9546396F292B465BAB6B5BE00ABD6162AA1CE8E68098",
+    "symbol": "rSWTH",
+    "name": "rswth",
+    "description": "A liquid staking representation of staked SWTHs",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/9eda67d9b11f2632b55600a96b56dc8fb9152da58f2c675be80c8e70d4ad3ef5.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/09487C5282D6451C0ABA52635547AC27E0B8DD08398C5C6206515C14D8737926",
+    "symbol": "PEPE",
+    "name": "pepe",
+    "description": "",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/7c2f48973d37221004afe6a74d88485741f57e9480a5f4ba3be124f2b2c89c87.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/C17F17047DCB2187CA917A5C9FE99E9AF5B17760BF7D0C2274B5AE0961F02E15",
+    "symbol": "GUPPY",
+    "name": "GUPPY",
+    "description": "GUPPY",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/407d86f14e3e873ea1d342a8c7088557e7c11861f0ff647366bbee5b84a7abdf.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/DC697DA4D4353E3817B0CB3D08AAE9E133729BF1315EBA5172FBDA9C800D86B0",
+    "symbol": "stINJ",
+    "name": "stINJ",
+    "description": "",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/6e09b30e25aa93eba62945146460a49ce4bae94377fbb3f3c04c81e692bbd0a6.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/707E015BF7CC5A9C52B2F000C918ED668A656C3C6FB08F0719CFFD3B63FBF8F9",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/52B30BB501A222D586222700F241EBC8CA97A4A17C9737DDCC00DD0BBC24CEAD",
+    "symbol": "ASTROPEPE",
+    "name": "ASTROPEPE",
+    "description": "Astropepe meme coin",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/c884d1e6ee07a558e0d182c7fa0aced1d0dc9a1e1658bc64d49f415950611732.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/CFE5902FC4463DA839B77B4BD3611AD57B8C74D674AE1C6A58FD48DBA575432D",
+    "symbol": "FABLE",
+    "name": "fable",
+    "description": "FABLE",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/90d74ac4252f8ea5ead85a4cea726154f689241f6de22ee6e645718f08a0f51f.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/36A02FFC4E74DF4F64305130C3DFA1B06BEAC775648927AA44467C76A77AB8DB",
+    "symbol": "WHALE",
+    "name": "whale",
+    "description": "Migaloo is a cosmwasm-powered, permissionless blockchain designed to build decentralized applications with a focus on interchain liquidity solutions.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/516ed75052338f9ed271f0b26f6090dfa1ed4acb81067b03b45c97222853a3da.svg",
+    "coinGeckoId": "white-whale"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/B3F639855EE7478750CC8F82072307ED6E131A8EFF20345E1D136B50C4E5EC36",
+    "symbol": "ampWHALE",
+    "name": "ampWHALE",
+    "description": "ampWHALE",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f003573c99e022772de4fcbd6c45eab4cae1c26fe00fd23ee128a86257542c8c.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/79B60804664911EB0B074690182CCA7332406417B1050A583BAF0904F6B54635",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/585236E21AFF5DAE675FB53747B0DEBB74F8DACDD93F23050A5D9E0BFE39231C",
+    "symbol": "WBTC",
+    "name": "wbtc",
+    "description": "Wrapped Bitcoin on Axelar",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/26347a436b3a51d83910af6c2e0b556d8f5f22387a785779b64c38a72da9b9bb.png",
+    "coinGeckoId": "axlwbtc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/517E13F14A1245D4DE8CF467ADD4DA0058974CDCC880FA6AE536DBCA1D16D84E",
+    "symbol": "bWHALE",
+    "name": "bWHALE",
+    "description": "BackBone Labs Liquid Staked WHALE",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/28c4cd2961bb40ebd2cca253c6b8d5a0e9fdea3425a79112865cfe12c37268a6.png",
+    "coinGeckoId": "backbone-labs-staked-whale"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/EF21BC562B7EB4D22BBF467D011E3118B7E3AD6D095000A672A9FCECA5ABCF15",
+    "symbol": "MKR",
+    "name": "mkr",
+    "description": "Maker on Axelar",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/42db579db15ac0377cd63efbafc8cbacad9991103bd4c172ad20e917e20fa43d.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/815FC81EB6BD612206BD9A9909A02F7691D24A5B97CDFE2124B1BDCA9D4AB14C",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/4EB195C3A7648EB323D5F530549C76709693B5F6F90964DB22FB8F1E600146A4",
+    "symbol": "AUTISM",
+    "name": "autism",
+    "description": "$AUTISM exists to celebrate autism as a superior biological tech stack for a changing world",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/96a43f35618490fd361f9935c69377b71bcfc1218270db081b265dda915eec96.png",
+    "coinGeckoId": "autism"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/0EA09246D429F13A46546F2C8CD0EB822F1ED48EF90D3FD3BE5FDDE6F3927EB1",
+    "symbol": "ROAR",
+    "name": "roar",
+    "description": "Lion DAO is a community DAO that lives on the Terra blockchain with the mission to reactivate the LUNAtic community and showcase Terra protocols & tooling",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/b1eefb34a5b9ca56fcf188eea2837c1b6d05eb740a8ffcbe2293dc4d0a78b3ec.png",
+    "coinGeckoId": "lion-dao"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/82FB2079A938946C0A545DB9CC19BEB148F9145D2C091AB5E7E71AAFD5B8710C",
+    "symbol": "WETH",
+    "name": "weth",
+    "description": "Wrapped Ether on Axelar",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/15dcdac9407b9a3fc6702bd2abde9fb3b47671997bc46fb594d65e4e982786c7.png",
+    "coinGeckoId": "axlweth"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/65B3EB6263482979FD7A80E3FFB9D0C85CFBF6DB63EB8DDE918B2984A40CEAB6",
+    "symbol": "xASTRO",
+    "name": "xASTRO",
+    "description": "Astroport is a neutral marketplace where anyone, from anywhere in the galaxy, can dock to trade their wares.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/2eed4d7d4bacdc5b5d3fa3029603230d7311eb7acc6d5ec749aae1192996e41b.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/3DF6DCB4B86F7B009EE2BD029B09E78195F947BECA59BF59178D043DA04A9842",
+    "symbol": "ROAR",
+    "name": "roar",
+    "description": "Lion DAO is a community DAO that lives on the Terra blockchain with the mission to reactivate the LUNAtic community and showcase Terra protocols & tooling",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/b1eefb34a5b9ca56fcf188eea2837c1b6d05eb740a8ffcbe2293dc4d0a78b3ec.png",
+    "coinGeckoId": "lion-dao"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/271DAA570D495549CD1381840C125FABEF3F840CD618105C4CD7160CBEBDD257",
+    "symbol": "HAVA",
+    "name": "hava",
+    "description": "Hava Coin is the lifeblood of the Cosmos & Injective networks, rewarding builders and welcoming supporters.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9cd6c3507df71345bfb8a943a3257a3f1feda10f072f104fc98e2056ffef6452.png",
+    "coinGeckoId": "hava-coin"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/132DDD75DB31BFC86C8C1D68894713EBB15F63A784D98F312BDEA01F308CDEF7",
+    "symbol": "PICA",
+    "name": "pica",
+    "description": "Picasso is a blockchain project within the IBC ecosystem that focuses on providing modular and interoperable solutions for decentralized finance (DeFi) and other blockchain applications.",
+    "decimals": 12,
+    "image": "https://cdn.chainroot.io/images/tokens/703a67bd4a27c653b35e425b8cd978acf2e810fcef52626d7d8396f66b6dab41.svg",
+    "coinGeckoId": "picasso"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/68BDE318A9BF73E1093BE1F27F470ECB5A71CAE001D4D591E386BC45FD3C7671",
+    "symbol": "ROAR",
+    "name": "roar",
+    "description": "Lion DAO is a community DAO that lives on the Terra blockchain with the mission to reactivate the LUNAtic community and showcase Terra protocols & tooling",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/b1eefb34a5b9ca56fcf188eea2837c1b6d05eb740a8ffcbe2293dc4d0a78b3ec.png",
+    "coinGeckoId": "lion-dao"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/0D3FC9789ED37CF615E3A6C1FB85CFA666E2C192AAFF6F733A3E5EEC8D9A6094",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/C4F16112A37F45BCDCC29665872628AAA66076B6F864AE8ED7AE00C793148B67",
+    "symbol": "rSWTH",
+    "name": "rswth",
+    "description": "A liquid staking representation of staked SWTHs",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/9eda67d9b11f2632b55600a96b56dc8fb9152da58f2c675be80c8e70d4ad3ef5.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/AF9996A48C5CF842ADF81A354EC489DBD387E7DFECC961CE74871942FC9A543A",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/CBF67A2BCF6CAE343FDF251E510C8E18C361FC02B23430C121116E0811835DEF",
+    "symbol": "USDT",
+    "name": "usdt",
+    "description": "Tether's USD stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
+    "coinGeckoId": "axelar-usdt"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/A52EB8107026806EB43D1F338CD89306F8BEC288F426C7E9AA09F92F88EDD85F",
+    "symbol": "ROAR",
+    "name": "roar",
+    "description": "Lion DAO is a community DAO that lives on the Terra blockchain with the mission to reactivate the LUNAtic community and showcase Terra protocols & tooling",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/b1eefb34a5b9ca56fcf188eea2837c1b6d05eb740a8ffcbe2293dc4d0a78b3ec.png",
+    "coinGeckoId": "lion-dao"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/2C50C2CC304FAE4C87868ED4B4279F8BF769F10CCFFD3154B6101C61E57AA498",
+    "symbol": "MARS.old",
+    "name": "mars",
+    "description": "Mars Protocol token (pre-migration)",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/2d857a5e2b35745b028f5c4cd9d5a3bd9dff79e86f63ca9b84fed1d88e409208.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/D0065A7999BA5889A7233A29EA52BCE722A2B42A6A675103453E61D4F939AC1F",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/F851F174B0C99606B27E102FAE180333EBB8CFA95524260269DD7942BDFE5A6D",
+    "symbol": "BERNESE",
+    "name": "BERNESE",
+    "description": "Bernese Mountain Dog. Thematic dog token to have fun and be friends with all other dog tokens. Fixed supply 132M",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/3f00fb7ec340d0e4899d2178c99130ae23cab7c9cd1b3bf64f84e6fcaf9bbb32.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/676EE62EB73AB1C3F0740B64ADD6C1AB9948B228BA030EF2128935E4D92EB39C",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/AA2BD094B32F0DDA19E128E17051ADF3966023F7FD48C672E7DA1E994FAA2148",
+    "symbol": "COSMOUSD",
+    "name": "CosmoUSD",
+    "description": "CosmoUSD",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/372d6a99b0293b812a29ac9a77b152f3ca27ee88048d85ba820098df063c94b0.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/E83DFA7C774804925765C4EFCBFAF2088AFE8B41302AB66000CA6234BD5976E4",
+    "symbol": "ANDR",
+    "name": "andr",
+    "description": "The native staking and governance token of Andromeda",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/fa2f0049c733c83a51bf71cf5e841b832087b49e3e79c871c6ba19f17c6a9f56.png",
+    "coinGeckoId": "andromeda-2"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/7DD1E57984A26E7B6CBA0D93032DC24AD5274536184DFA999D166EBF6E4AA469",
+    "symbol": "COSMO",
+    "name": "COSMO",
+    "description": "Cosmo is the best currency in the universe.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/bef990e9d2a34c122cdc2c771e179c100f59ade122dfe4c70358c1b4b97c3305.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/81C56D9DCB635C5363379D6B3E617B855EC1D437D45153C744534A1B2A9F7B28",
+    "symbol": "L1",
+    "name": "l1",
+    "description": "L1 coin is the GenesisL1 blockchain utility, governance and EVM token",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/b991481e2e91e34d19213f7b6354559f9db57a855c0efaf6ce5f3975c450ca18.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/B2AA4C3CD19954859C3B537EC0705640AFC01075F52993D9AC5E73F07F0386CC",
+    "symbol": "DGN",
+    "name": "DGN",
+    "description": "Dragon Token is the native staking and governance token of Dungeon Chain, serving as the backbone of the ecosystem. Its primary roles include staking, where users stake Dragon Tokens to secure the network, enhance its functionality, and earn rewards in return; governance, granting token holders voting rights to influence key decisions such as game onboarding, protocol updates, and community-driven initiatives; and ecosystem growth, facilitating transactions, incentivizing developers, and promoting the creation of new interchain games. Dragon Token ensures a decentralized, fair, and community-driven ecosystem, fostering the evolution of blockchain-based gaming. It plays a crucial role in driving the growth of Dungeon Chain by empowering both developers and players to participate actively in the ecosystem's governance and success.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/997fda1abc37fcfd7d010d8a05fa4528a17c6e12ec225bac47e9184456b6142b.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/03FB4E4D1043755015ABF1A84773EA334B2726EF464CF90D926C888ECE2D64FD",
+    "symbol": "sqOSMO",
+    "name": "sqosmo",
+    "description": "Margined Power Token sqOSMO",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9836891aec04bacd22d5302b7601f14043982ce75e9316465af2cd9b7f6eeac3.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/7315147DA5A8055DD247E99F046DAC37FD939423BE7567CDE55EA84141269BCA",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/D05346277DF40620F5E3FE9C28FBB99E87743BF6518F9EA8EB3262B87E5E9B5E",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/A8C72721064D612FE3305263D387D1E31B805DA08C864C6AE28219A65850A2C0",
+    "symbol": "USTC",
+    "name": "ust",
+    "description": "The USD stablecoin of Terra Classic.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/bbf7ad631fa51027777b71c54feda0517f9f112a5f42edad9c584fb9724561cb.svg",
+    "coinGeckoId": "terrausd"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/08095CEDEA29977C9DD0CE9A48329FDA622C183359D5F90CF04CC4FF80CBE431",
+    "symbol": "stLUNA",
+    "name": "stluna",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/8e1b59000e1d5d7214ae8cb87d5b1df751d64f8a29830f8f2c7dc1b8b36497af.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/0C1F9AD97CA74C201028B9852C352EB332A5EEB0C388CBF04A7BC9B6527F9B59",
+    "symbol": "KRTC",
+    "name": "krt",
+    "description": "The KRW stablecoin of Terra Classic.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/d0bc5c64140b4778e7d38fa0dc2b82a9e2fb49efbbfb03d342a939d31194d400.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/223FF539430381ADAB3A66AC4822E253C3F845E9841F17FEEC207B3AA9F8D915",
+    "symbol": "dATOM",
+    "name": "dATOM",
+    "description": "Drop staked ATOM",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f83dc67714a5c47477a09e801198f14e04d2eef8a9fdf99372a2cd62981717e3.svg",
+    "coinGeckoId": "drop-staked-atom"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/745F771553C6359177F99817B0CCC5F7E7606904EF0856016D34DC9EBAA6745C",
+    "symbol": "AUTISM",
+    "name": "autism",
+    "description": "$AUTISM exists to celebrate autism as a superior biological tech stack for a changing world",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/96a43f35618490fd361f9935c69377b71bcfc1218270db081b265dda915eec96.png",
+    "coinGeckoId": "autism"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/A42883E20767D7FF9D69D3CAF21FE2F8666AD1CCFA660CEF61AEB2A262085609",
+    "symbol": "SAIL",
+    "name": "sail",
+    "description": "Sail DAO is a liquidity deployment and management DAO built as a collaboration between the Osmosis and Migaloo Blockchains.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/a02b4e4ca4f28988eb0eee71c0e2a07ad648651c567b59ba415b468914be8f1e.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/6E64CE161511E64B55ED5BD1CDA539129E095DE083AF630FE00FE43051A0531C",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/6F45FFC7C8BF941B356DAD73B41DD3D232CBB72025A0D9B82AAA0494D107297C",
+    "symbol": "CRE",
+    "name": "cre",
+    "description": "The native token of Crescent",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/bb6679e0de806cc611b2eb98ee19a6d89e8d7ce79b7090b3788724c1d6846a49.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/97A32980B4B830AF064BFD0CC381C8DE85AF72F185D1A1F8FB5BB110F075372B",
+    "symbol": "SHARK",
+    "name": "SHARK",
+    "description": "SHARK is the apex price prediction market within Cosmos.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9ed6f8bba5982b7effde9cfe5341e6ecc242543eb2d95d9da1822b57220df858.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/8BB0217ADC948EBA87CD1C979B9F818EC7257F32B22C1ED5810E13B57884AF9C",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/7CB33A66F90533ED1E168CB3251253C719CF4B04FF1290AFD795F14CA1D67278",
+    "symbol": "WOSMO",
+    "name": "WOSMO",
+    "description": "The first native memecoin on Osmosis. Crafted by the deftest of hands in the lab of lunacy. It's scientifically anarchic, professionally foolish, and your ticket to the madhouse.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/af2488d2ef80ea1793d004ff3ad0b09e855ad4ad3c2f5d66f42a712093b328f8.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/717ED17364D7D0C9F9049F1F38DCCB6C35AE67EB8199E490A4D6046B64F1B52D",
+    "symbol": "FURY",
+    "name": "fury",
+    "description": "The native token of Furya",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/d63b0d14c0fa8b6974eb98941976dd1dcc1de0a83ffd15f55969eee9c9d5239d.svg",
+    "coinGeckoId": "fanfury"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/649BC3B431F86709E5C27C7628B77E3122E9A3C5E871E05A553D3100DDBB070D",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/192CE21811502C16A6E34BE14F9263721EBAB6C8F0798F42AD5DE6385D6BF846",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/3C0F47B453E051FA5944B1C4303BE5781C5EADF20A07FB8D92A0DF744F6595B7",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/E5DF61957C8C57BFD0FDA35AF9D1495440F8218A3937C6C18FA4C538AB8B78FF",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/CBCF05777D70420249E1978E72ED64670B1CBC8CBA93D3D8792F36232B870A04",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/DA08A74AAF0E1D06FF1471FF4A0EB6D36DA3361B881A029DB085CF29D1CE272B",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/8A575CB5A2CE93E1A48C7A9DC109530B4DD1C8D8475935467CAFBEECAFA068A6",
+    "symbol": "ASTRO.cw20",
+    "name": "astro.cw20",
+    "description": "Astroport is a neutral marketplace where anyone, from anywhere in the galaxy, can dock to trade their wares.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/4d0dd6374e75c0e56c3924fd4252b881507580341e732330558709c9b3d7c277.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/14A18DCA8AF81B702AC808F1856A8B0A341F2A64ED9EC45D97769E0EA7EF6258",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/158C7694575EF99C73CA5926B5539567411F44381E05A06C48DF00769953B93F",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/6AB8F020BD997DA331313CF61DB34EDF955100AC61F5C99FC80FEDB9E35F2750",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/AEB2BCBFEAA06798EED9D510EF64F45040716224E4010D7AD2622738A1C9FC73",
+    "symbol": "HUAHUA",
+    "name": "huahua",
+    "description": "Chihuahua is a community-driven blockchain project focused on creating a fun and engaging ecosystem with an emphasis on social interactions and community building.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9f226984a0945cdd8fbe6b52a6285a82b061b6e895fe99f42ce775d42efa8c06.svg",
+    "coinGeckoId": "chihuahua-token"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/9B1A510F4F45C197588A89A5B5956147C44C90B1D9FC77CFA588F366AF6DA5D9",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/95534201E6996996054EAF82C508C87DA565BB40ED04A36B61705D578723CE89",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/4782211266B21285DD4BB9083CD533CBD28CFEFBD8735C0CF3C4622F509E8E1B",
+    "symbol": "WBTC",
+    "name": "wbtc",
+    "description": "Wrapped Bitcoin on Axelar",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/26347a436b3a51d83910af6c2e0b556d8f5f22387a785779b64c38a72da9b9bb.png",
+    "coinGeckoId": "axlwbtc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/46B7B270CF47DE67161EBA27AD4EC8E9FE8C806F988E53A01C02AF257104C8E5",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/6CD39EACF052B761E3ADC709A11747CFCCA49F07DA23A26E61DB1CEF4D0CCC33",
+    "symbol": "CMDX",
+    "name": "cmdx",
+    "description": "Native Token of Comdex Protocol",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/18ef9a7a59ab88889f56c3723f72a35db05f8bc967c41f08ff64cd3ecdbe3818.svg",
+    "coinGeckoId": "comdex"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/FD9DBF0DB4D301313195159303811FD2FD72185C4B11A51659EFCD49D7FF1228",
+    "symbol": "stATOM",
+    "name": "statom",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/8952f870f7fecceb24d59b6e5e2cfba7235d513ea0cf5f5db6989352605b52b3.svg",
+    "coinGeckoId": "stride-staked-atom"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/B22B4DD21586965DAEF42A7600BA371EA77C02E90FC8A7F2330BF9F9DE129B07",
+    "symbol": "KUJI",
+    "name": "kuji",
+    "description": "Kujira is a decentralized finance (DeFi) platform offering a suite of tools and services for managing and optimizing digital assets and investments.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9b4df5623b76ae925d1947e3d154d0f88fb1d194ff62673d6af8bc0a77e6a71a.svg",
+    "coinGeckoId": "kujira"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/30C9FA3DF80892CF4615A84845349EAD427670CB38C6B03B0388BE8543B2AB4D",
+    "symbol": "USTC",
+    "name": "ust",
+    "description": "The USD stablecoin of Terra Classic.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/bbf7ad631fa51027777b71c54feda0517f9f112a5f42edad9c584fb9724561cb.svg",
+    "coinGeckoId": "terrausd"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/42571BCE9220896912D379C54825BB92EC8C402F8BDC9D895D83937C3DA27BDF",
+    "symbol": "CHEQ",
+    "name": "cheq",
+    "description": "Native token for the cheqd network",
+    "decimals": 9,
+    "image": "https://cdn.chainroot.io/images/tokens/ece9c4725f69f60677cbdcd7305096f4137980233cb4eee9bf575e4d1bad8271.svg",
+    "coinGeckoId": "cheqd-network"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/44D408ABD8914777F25BB68961200F5357D4AEEA5E034403DAB8EF53772251C9",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/1C388025D0A7644F96ED0429109F3D493931A85485586484237D193F20E2267B",
+    "symbol": "RAW",
+    "name": "raw",
+    "description": "Token governance for Junoswap",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/8337a58b3c5b3bfce1b8ddb8bce8c61e9f70f4b6cb8735ddc9e8b279e2396a05.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/973943E41CC249C61EE815D6B5F68EFDA3BD84F5ADD0386D1E790C939D28F18C",
+    "symbol": "rSWTH",
+    "name": "rswth",
+    "description": "A liquid staking representation of staked SWTHs",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/9eda67d9b11f2632b55600a96b56dc8fb9152da58f2c675be80c8e70d4ad3ef5.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/EF43C62ECECFFACBFA83FB130ECCB1A55126936F6C3BF05D275373620F8E0B1F",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/A26065E886AA9B868FF9FC2EF81EF95E4883BADD14C60342EFC9F1D5523C6B7A",
+    "symbol": "ASTRO",
+    "name": "astro",
+    "description": "Astroport is a neutral marketplace where anyone, from anywhere in the galaxy, can dock to trade their wares.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/fe05a66083c81929ce7b7577cad56c136835fd6b2905bf37727a81e0865a2cad.svg",
+    "coinGeckoId": "astroport-fi"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/857D33D2A925912214224B8F3FA38DECF0527AAF76375BD3388BB16727BAF759",
+    "symbol": "HUAHUA",
+    "name": "huahua",
+    "description": "Chihuahua is a community-driven blockchain project focused on creating a fun and engaging ecosystem with an emphasis on social interactions and community building.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9f226984a0945cdd8fbe6b52a6285a82b061b6e895fe99f42ce775d42efa8c06.svg",
+    "coinGeckoId": "chihuahua-token"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/6102D33F0241589D6C1FDB754DE34C6EA1192D0056559DF56B5AF4F1FCE8B1C4",
+    "symbol": "DRUGS",
+    "name": "DRUGS",
+    "description": "Distributing happiness, is a serious business",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/e824f70081064248d8183d4d5c937120482263cbd41638ff264f140099086cf8.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/C3C5F84C6307FDF08BB43EED9BF18982E81E2FFD39933CC231447316D9FDB47F",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/A8366F686C1699660554C2792C1368C88D77A62738299EC736B6FA453BA43EB6",
+    "symbol": "ampLUNA",
+    "name": "ampluna",
+    "description": "ERIS liquid staked LUNA.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/87a8dce4c62e670f855a2ca8d88acea7d939dd5a3557a4e16998282ceb0bf9a5.svg",
+    "coinGeckoId": "eris-amplified-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/8C034437C9485501AA288D11001A3B00FB6D87E864120E9A839F08F3196DC125",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/092AFF9EFC70024689C893C786D6BA2B08169E23AB7985D0CF7FE2C31DEA4A6D",
+    "symbol": "KLEO",
+    "name": "kleo",
+    "description": "Kleomedes Token",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7c268921fde5b09f4dc1bb0c183dba5968c39fa08095682c055d16005986588e.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/CF57A83CED6CEC7D706631B5DC53ABC21B7EDA7DF7490732B4361E6D5DD19C73",
+    "symbol": "WBTC",
+    "name": "wbtc",
+    "description": "Wrapped Bitcoin (WBTC) is an ERC20 token backed 1:1 with Bitcoin. Completely transparent. 100% verifiable. Community led.",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/f0fb98be5c52c4f7f8abdd928840665189bec026b7aa0dba392fa83a4b225f4e.svg",
+    "coinGeckoId": "wrapped-bitcoin"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/E4A918946C5E89B1B5C8DCAFEAEF3D3631AE516CEBEF01AA62AC88F7E2E2C18E",
+    "symbol": "USDT",
+    "name": "usdt",
+    "description": "Tether USDt from Ethereum via Peggy bridge.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/6B199312B29CF047BF8B1337450EF3AA0475FE0C312DB94055F2D5B22CD1E71A",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/55892DEC5D6213E0353F76D72161037780DB2DCEF27C9134817808AD5005B35A",
+    "symbol": "EMPWR",
+    "name": "empwr",
+    "description": "Social Impact DAO focused on youth empowerment",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/930649887955289f60c282f7f00b8278865fdb6f8a4c17416e448f50bf3b75bc.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/611D8C6FA14F84FF2C79A3BADBFFF3E612E11C9A8E4D19F45A1A832F5070B54E",
+    "symbol": "HUAHUA",
+    "name": "huahua",
+    "description": "Chihuahua is a community-driven blockchain project focused on creating a fun and engaging ecosystem with an emphasis on social interactions and community building.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9f226984a0945cdd8fbe6b52a6285a82b061b6e895fe99f42ce775d42efa8c06.svg",
+    "coinGeckoId": "chihuahua-token"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/F11C82FE9BB5F210869161D4A76415218D1996A3EB2CD7FDAFE9192B78D940F8",
+    "symbol": "STARS",
+    "name": "stars",
+    "description": "Stargaze is a decentralized blockchain platform designed specifically for non-fungible tokens (NFTs), enabling creators to mint, trade, and interact with NFTs in a fully decentralized environment.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/8c41a49f8a121387817f0fd11a45f39da6ea8a8952026c46760f2c001316e207.svg",
+    "coinGeckoId": "stargaze"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/7897131F83D2F6AE3745C0CA2119684961249887363EBCC7B951241C80A565A1",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/724090386B617F168512CE62FF7B71E996A362A17D88ED820CB6D834801A2E56",
+    "symbol": "APOLLO",
+    "name": "apollo",
+    "description": "The deflationary utility token of the Apollo DAO project",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/ee16eb8012b0b445279b3f471d1ac999f3635243e970439d16a57fec183eca0d.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/8DB926E5A7B6631C3E952FCE6082F5527E96746415DD347A7737990338AE8BE7",
+    "symbol": "KRTC",
+    "name": "krt",
+    "description": "The KRW stablecoin of Terra Classic.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/d0bc5c64140b4778e7d38fa0dc2b82a9e2fb49efbbfb03d342a939d31194d400.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/A1244094F1AF270F2B2CDBDC5F2FF1EA933A05D9A31146D554C099CD9C626EAE",
+    "symbol": "ASTRO.cw20",
+    "name": "astro.cw20",
+    "description": "Astroport is a neutral marketplace where anyone, from anywhere in the galaxy, can dock to trade their wares.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/4d0dd6374e75c0e56c3924fd4252b881507580341e732330558709c9b3d7c277.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/390B25B1BA21312C031FC6273F2E421DDE62466D858EEE88B7FC48E13B1D47B5",
+    "symbol": "ASH",
+    "name": "ASH",
+    "description": "ASH",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/ef2679acadea149a8a047380dbb324019622a6e79832b09b5745b14e95d3bfef.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/05D299885B07905B6886F554B39346EA6761246076A1120B1950049B92B922DD",
+    "symbol": "WBTC",
+    "name": "wbtc",
+    "description": "Wrapped Bitcoin on Axelar",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/26347a436b3a51d83910af6c2e0b556d8f5f22387a785779b64c38a72da9b9bb.png",
+    "coinGeckoId": "axlwbtc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/6A9571DE6A3F60D7703C3290E2944E806C15A47C1EA6D4AFCD3AE4DC8AF080B1",
+    "symbol": "LVN",
+    "name": "lvn",
+    "description": "Levana Well-funded Perps is a protocol for perpetual swaps, which are leveraged trading contracts.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/d4b74abb24cc5ededa0b2fd76431824bc634119cac0a4dc029a9921388602d5d.svg",
+    "coinGeckoId": "levana-protocol"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/709293E57E26D451793A64AC3D526F90F1E6F3973C9796D78F4BBE32B0A35690",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/4CB906D37F782A609FF43E9B3FEF60942CF962CB20939D64D32F444CA1DB2AD5",
+    "symbol": "bLUNA",
+    "name": "bLUNA",
+    "description": "BackBone Labs Liquid Staked LUNA",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/062bd270899f74d4f31cd235acfe646abdb214705d6c8a4da64c62f09f23d81a.png",
+    "coinGeckoId": "backbone-labs-staked-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/AC59E5954242F951189C8033151DB1F5D8583542A8078DC856C54C80D61A22FE",
+    "symbol": "USDT",
+    "name": "allUSDT",
+    "description": "An alloy of USDT asset variants on Osmosis.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/2BF132D3B3328E3B555BB7EF484ED618F5CF3A337CFC8D3C892C9E57B51854E2",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/830107B6700EF8D76F5DB4B586C436A3D2A672939F93BDFC6543E12DD281453A",
+    "symbol": "KAVA",
+    "name": "kava",
+    "description": "Kava is a decentralized finance (DeFi) platform that provides a range of financial services, including lending, borrowing, and stablecoins, leveraging the Cosmos and Ethereum ecosystems.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/a516e8c8ce681c3cbdfd1cd699a5d9a002bec3d002344cb13c956f6e6d2ed9da.svg",
+    "coinGeckoId": "kava"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/CC37248F74915D5B30B8C02F38147DA22680F0F462C9C5CBC434F535FF8E542F",
+    "symbol": "WHALE",
+    "name": "whale",
+    "description": "Migaloo is a cosmwasm-powered, permissionless blockchain designed to build decentralized applications with a focus on interchain liquidity solutions.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/516ed75052338f9ed271f0b26f6090dfa1ed4acb81067b03b45c97222853a3da.svg",
+    "coinGeckoId": "white-whale"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/C1317B408C60771EBD2C20F248FAD2246ED9AD6133F4FCE75C2B20BFD5DC3FCF",
+    "symbol": "DOT",
+    "name": "dot",
+    "description": "Wrapped Polkadot on Axelar",
+    "decimals": 10,
+    "image": "https://cdn.chainroot.io/images/tokens/f9a7cd6c26045851eacbf7e0931e50de81592876c97194e0accba962324eb600.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/A84AE4EE879214A812AD6E124375AE45E199042C2F4440DCAD7D2EEC902E9F76",
+    "symbol": "ASTRO.cw20",
+    "name": "astro.cw20",
+    "description": "Astroport is a neutral marketplace where anyone, from anywhere in the galaxy, can dock to trade their wares.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/4d0dd6374e75c0e56c3924fd4252b881507580341e732330558709c9b3d7c277.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/535845C5939173172323AD2453C5FD422A4942DF1EC4F8956CB121778DB6FE77",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/25E30E9DE8AD3DAADCA7340629CF3BE6218FE0221B94992260D9222E2440D150",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/4CD525F166D32B0132C095F353F4C6F033B0FF5C49141470D1EFDA1D63303D04",
+    "symbol": "JUNO",
+    "name": "juno",
+    "description": "The native token of JUNO Chain",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/79f9def0d7428ed8b761a7c42dc5f7a3492367f014258935d72cbbe2d813a552.svg",
+    "coinGeckoId": "juno-network"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/CA4F7CA54AD788DC9C1DE8177CC98953DAD6D1E369C2EC6BAE9DF19B25BCA612",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/8BF5D957EEDE141D1EA8E415F917E7C5963F3DAD7AF4D5A04C152D99B6547FC1",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/3CC1F54EA9ECA8C0FA9849ACBD101287B803DFFE563FB7C2738A847534179535",
+    "symbol": "SWTH",
+    "name": "dswth",
+    "description": "The native governance token of Carbon",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/9772f246b16fb294e55abae93bc5994b37b1f662fbda84fe6a6c87db3cc866f2.svg",
+    "coinGeckoId": "switcheo"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/05B90B21CB9DE2EEE767EF6C85550567AF2349CF99C9CC0109DD491524B7A1A8",
+    "symbol": "HAVA",
+    "name": "hava",
+    "description": "Hava Coin is the lifeblood of the Cosmos & Injective networks, rewarding builders and welcoming supporters.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9cd6c3507df71345bfb8a943a3257a3f1feda10f072f104fc98e2056ffef6452.png",
+    "coinGeckoId": "hava-coin"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/C5391FCD276E81F92B9BD2886EEE32DE6938E4CCDACC4372108548DE4EA4E55B",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/9F8A44B0AEDD7DF9E34CB88ABC9FD2DD70EAC1AD7FCC716C5C1B0097D197ADE4",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/D1EFCD56DB84309527B774EB342A24429675533007EE0095F6A3AB8D758927CB",
+    "symbol": "HUAHUA",
+    "name": "huahua",
+    "description": "Chihuahua is a community-driven blockchain project focused on creating a fun and engaging ecosystem with an emphasis on social interactions and community building.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9f226984a0945cdd8fbe6b52a6285a82b061b6e895fe99f42ce775d42efa8c06.svg",
+    "coinGeckoId": "chihuahua-token"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/5BDDCE0FEE672CB481C0FC7B82132B90CBCD5B5CF314934A8868D570F69756F8",
+    "symbol": "SEI",
+    "name": "sei",
+    "description": "Sei is a layer-1 blockchain optimized for trading, focusing on providing high throughput, low latency, and efficient execution for decentralized exchanges.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/8d3cb495c013b2a9b022c8e23ad6f4bb89c198e625845b1b33cdd4855bf527d4.svg",
+    "coinGeckoId": "sei-network"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/B233DBFDA78F26716CEDDDF5F99D0B958802A355F2F94E3AE008569D1B4FFE85",
+    "symbol": "ASTRO.cw20",
+    "name": "astro.cw20",
+    "description": "Astroport is a neutral marketplace where anyone, from anywhere in the galaxy, can dock to trade their wares.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/4d0dd6374e75c0e56c3924fd4252b881507580341e732330558709c9b3d7c277.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/2DBD8C881802B4245F157844D7E4DED558F010941639280C4922D7B8CA693BFE",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/A1BFD1043871E3D677D177EA8D9B96B3F7021AAF9D7857D4A302DDDC2057D896",
+    "symbol": "CMDX",
+    "name": "cmdx",
+    "description": "Native Token of Comdex Protocol",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/18ef9a7a59ab88889f56c3723f72a35db05f8bc967c41f08ff64cd3ecdbe3818.svg",
+    "coinGeckoId": "comdex"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/E6D954D4AF181A6D877855306BC4D2503192F130989CD5D825ECBD70A5D1257A",
+    "symbol": "USTC",
+    "name": "ust",
+    "description": "The USD stablecoin of Terra Classic.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/bbf7ad631fa51027777b71c54feda0517f9f112a5f42edad9c584fb9724561cb.svg",
+    "coinGeckoId": "terrausd"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/524CEB74BCC1E32E618BEEB95C50B110E1EDB82E3D22BD43082D5ED19B275273",
+    "symbol": "MARS",
+    "name": "MARS",
+    "description": "Mars Protocol is a cross-collateralized Money Market Protocol on Neutron and Osmosis.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/8b9c4181dd67fc635914b10ba244e2a9543a12da599ca66e5ecc7fc881e24be1.svg",
+    "coinGeckoId": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/B090DC21658BD57698522880590CA53947B8B09355764131AA94EC75517D46A5",
+    "symbol": "CRE",
+    "name": "cre",
+    "description": "The native token of Crescent",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/bb6679e0de806cc611b2eb98ee19a6d89e8d7ce79b7090b3788724c1d6846a49.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/AF01FCCAC01D6F199D7065128DEED24E102920F8EA52E6A28B9EE05568CB5A71",
+    "symbol": "ASTRO.cw20",
+    "name": "astro.cw20",
+    "description": "Astroport is a neutral marketplace where anyone, from anywhere in the galaxy, can dock to trade their wares.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/4d0dd6374e75c0e56c3924fd4252b881507580341e732330558709c9b3d7c277.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/877F4433E6ADA32E304E80564C996B8A983A61F64E95F618E2233FC52F13726B",
+    "symbol": "stLUNA",
+    "name": "stluna",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/8e1b59000e1d5d7214ae8cb87d5b1df751d64f8a29830f8f2c7dc1b8b36497af.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/8D52B251B447B7160421ACFBD50F6B0ABE5F98D2C404B03701130F12044439A1",
+    "symbol": "EURe",
+    "name": "eure",
+    "description": "EURe is a Euro-backed stablecoin issued by Monerium on Noble.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/e5d6614579fd91ef43ddc45cb181a09a0097ff26a412549ebee4b7f448850d20.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/7B7831150D7A8FF2A198DF4F8BD246F1BEA8E94B9ECD3EF7F8B6497B66BB206C",
+    "symbol": "NTRN",
+    "name": "ntrn",
+    "description": "Neutron is a smart contract blockchain within the Cosmos ecosystem, leveraging the Cosmos Hub's security to provide cross-chain DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/bcc7880c69cc88313d52a96ce2f7e780a98c5e8a5b86e7318667fd5eabe34c4c.svg",
+    "coinGeckoId": "neutron-3"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/DDC78A04FB92C5F33CB7AEF567E0E29FE5877948851C19458CF464834A939F43",
+    "symbol": "ampLUNA",
+    "name": "ampluna",
+    "description": "ERIS liquid staked LUNA.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/87a8dce4c62e670f855a2ca8d88acea7d939dd5a3557a4e16998282ceb0bf9a5.svg",
+    "coinGeckoId": "eris-amplified-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/BCB139B1FB690E0AC1AD98EBAAD281949ECB341872E697717BCF95B67917C34F",
+    "symbol": "CMST",
+    "name": "cmst",
+    "description": "Stable Token of Harbor protocol on Comdex network",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/ccb1049a9bf51739510f8702c13c234456e37ec0ef19d30406e42889bfd734fe.svg",
+    "coinGeckoId": "composite"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/653B97476E5774DC843D1D4C06AD77B86C8F5BE57BD15EFFB71A661D4A3B1A60",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/4E07AE9F6FCFA2FC77C0330CC22F9F12A2DC714BEE16852DCE1FDB519E5BC947",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/607C7DDF5D6D2BF4BED24B073D8B0529E8724D4E77722F8ADAE376745ED6DEBE",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/B277DE7D29AE973D33C3460EC83B0B5087C93D43CD8F717369BB86659B418FD2",
+    "symbol": "WHALE",
+    "name": "whale",
+    "description": "Migaloo is a cosmwasm-powered, permissionless blockchain designed to build decentralized applications with a focus on interchain liquidity solutions.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/516ed75052338f9ed271f0b26f6090dfa1ed4acb81067b03b45c97222853a3da.svg",
+    "coinGeckoId": "white-whale"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/0ACE8BD3B894E9F13A5B9D1C764DABB2AA620A3240ED9EBC5478453F9AAB7E21",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/E0687047EA2BDEFC10A211E27502C2A78441684F624B41FD2FCFDEFDFB5AA569",
+    "symbol": "ampOSMO",
+    "name": "ampOSMO",
+    "description": "ERIS liquid staked OSMO",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/4f1d5c10b76429b930842f9d45f16c44caff0efe889f863b173eb9dcd64734b3.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/28AFC38B695C4AF95D8BE5A347D2F61E1C19E85B87A4B20C5D07F9C0D84B9C1F",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/1645FDF541F13E9C382BD7B76557BA826404A493E2FEE58E45FA21F81D58C5FA",
+    "symbol": "stSTARS",
+    "name": "ststars",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7a59cd844186f83aa4d9304b02958f964b7b2a1d616fd269db395dd98815740a.svg",
+    "coinGeckoId": "stride-staked-stars"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/3CA8ED7089DE8E2D73D702976F98A914B5256D5085EE2B5B83D63C0385800E18",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/3E35008738AC049C9C1A1E37F785E947A8DAA9811B3EA3B25580664294056151",
+    "symbol": "AXL",
+    "name": "axl",
+    "description": "Axelar is a decentralized interoperability network connecting multiple blockchain ecosystems, enabling seamless cross-chain communication and value transfer.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
+    "coinGeckoId": "axelar"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/AC65808D27055D0A44359F4196176B7017C124DE9E866F48BC793C13291BA992",
+    "symbol": "USDT",
+    "name": "usdt",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
+    "coinGeckoId": "tether"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/2CA7FA605E0E3AF2E30FF14B7AC2474F2A8533835A16041A044277AED0A8E614",
+    "symbol": "ATOM",
+    "name": "atom",
+    "description": "ATOM is the native cryptocurrency of the Cosmos network, designed to facilitate interoperability between multiple blockchains through its innovative hub-and-spoke model.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
+    "coinGeckoId": "cosmos"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/5F82A0E45DCD860FE089515993D50015E212C1A73E858F035973D94945BCFA99",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/10BD6ED30BA132AB96F146D71A23B46B2FC19E7D79F52707DC91F2F3A45040AD",
+    "symbol": "SCRT",
+    "name": "scrt",
+    "description": "Secret Network is a privacy-focused blockchain that enables private and secure smart contracts, protecting sensitive data.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/4e950180cbb20a28d82f99bc2243211928ef4995504af4b4029ba1f3031fde4a.svg",
+    "coinGeckoId": "secret"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/C50A0C7F7B66DE2A0646F0AE33AF97C6E3A7F6AEBDF02139E25B964241ACDAC5",
+    "symbol": "stLUNA",
+    "name": "stluna",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/8e1b59000e1d5d7214ae8cb87d5b1df751d64f8a29830f8f2c7dc1b8b36497af.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/5B01781626783C316A22ACBB55ECA8C6C57AA92C1565C69128C192FA36680AFB",
+    "symbol": "DOT",
+    "name": "dot",
+    "description": "Wrapped Polkadot on Axelar",
+    "decimals": 10,
+    "image": "https://cdn.chainroot.io/images/tokens/f9a7cd6c26045851eacbf7e0931e50de81592876c97194e0accba962324eb600.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/F6FADDC637C1F7CDF392B7E57C0A4B4C126C428692498B77938533C52F01CDFB",
+    "symbol": "KAVA",
+    "name": "kava",
+    "description": "Kava is a decentralized finance (DeFi) platform that provides a range of financial services, including lending, borrowing, and stablecoins, leveraging the Cosmos and Ethereum ecosystems.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/a516e8c8ce681c3cbdfd1cd699a5d9a002bec3d002344cb13c956f6e6d2ed9da.svg",
+    "coinGeckoId": "kava"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/C10347F9B1A2746882A1601A2A6B0B6056240AD8641B90B2A8B0548F6969E992",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/79FF40A6ADBA2B5558F9DB5C5F675D13AA54B735B0CD315842FE2F7B0CE86AD7",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/C921019D4C3714333EBF5074DB57E72D858BE6D586D83F424C806E9640DE9A89",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/94A97ABE08433DB7E6AC29EC05F8846ED64E2274393C7F26B28D28BB5BD9E2E4",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/177904239844D7D0E59D04F864D1278C07A80688EA67BCFA940E954FFA4CF699",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/404F9855A533B939B4BC6DB82C7AF840C7931E89172E9117FA4F1D99E45E694C",
+    "symbol": "rATOM",
+    "name": "ratom",
+    "description": "A liquid staking representation of staked ATOMs",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/8cad451040d9286776227dd9a2f93e89869706907704d135d91819d37b6105d4.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/B59EB83C4DC29858022B59CF5E4280A8CE2E8C16A294960A19ED0792F5FC7F37",
+    "symbol": "bOSMO",
+    "name": "bOSMO",
+    "description": "BackBone Labs Liquid Staked OSMO",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/90d13fdbebbb63d59ff0c4b3e5c7fb99870992798093bb6c906d87b367fffd0b.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/CF9AA75225D202D6A6FEE503C8CD60C6856E29F872137B0660C8D97DC6A6EF67",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/18B0967BE3E73DCCE3F10EDE6DEFC472AAA3339DBE536E77C0B8E7BCE2628966",
+    "symbol": "LAB",
+    "name": "LAB",
+    "description": "LAB - Everything is an Experiment",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/259850e3f46ba39cb14c2eab4b44223cc81a8e5da56cb9eb7408708886963057.png",
+    "coinGeckoId": "mad-scientists"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/A961D3446B8A3CDC802926CBD8754C07325D7B55B95DB3D850AA64CEA804721B",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/A5E469D677721A96C13C312C380ADE72611C9100B419AEB90802B674FA35278A",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/285542A3C81252D7A2D9D79D8182E440309DEE320BE8E5269E1E7268D94D6CDF",
+    "symbol": "FURY",
+    "name": "fury",
+    "description": "The native token of Furya",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/d63b0d14c0fa8b6974eb98941976dd1dcc1de0a83ffd15f55969eee9c9d5239d.svg",
+    "coinGeckoId": "fanfury"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/0EFC7B44625187BFB60AF09FF28A25FA49B68B959A505CC5313DF0498D8CF528",
+    "symbol": "STRD",
+    "name": "strd",
+    "description": "Stride is a liquid staking blockchain in the Cosmos ecosystem that allows users to stake any IBC-compatible tokens and receive stTokens in return, providing liquidity while earning staking rewards.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/ec24ec10d44cf36ec24232f5dbb19ad5b61d1972098888b01291b63c1c66722e.svg",
+    "coinGeckoId": "stride"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/5414A792DE2A310682DA8C35C1F5D07B5F2571E7AF62017D7C6CE9B9F019E13C",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/4A051D16523158F0486C99FE9C9FD0D882CF35C5734F5C9FC4FC66D40274DD85",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/E275F33A7A21115B2CE4E46FF0E110B336EFEC79B64C286EA613BCEB68B87A8C",
+    "symbol": "USTC",
+    "name": "ust",
+    "description": "The USD stablecoin of Terra Classic.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/bbf7ad631fa51027777b71c54feda0517f9f112a5f42edad9c584fb9724561cb.svg",
+    "coinGeckoId": "terrausd"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/48FC5C01F3428CB08CA43C8C61EA07BDBF6C48EF02C5FBCF73F0B25EBC91D0B8",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/1C825675DE0F2D70818CFF6C7558FE4632DEF9EC7C5FFF7CDFB76D0475490A1D",
+    "symbol": "KAVA",
+    "name": "kava",
+    "description": "Kava is a decentralized finance (DeFi) platform that provides a range of financial services, including lending, borrowing, and stablecoins, leveraging the Cosmos and Ethereum ecosystems.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/a516e8c8ce681c3cbdfd1cd699a5d9a002bec3d002344cb13c956f6e6d2ed9da.svg",
+    "coinGeckoId": "kava"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/64B3EFE08A6A3EF5D2A7F1D3AF033DDC951DA51F92E06CC31D3F9AF8E8368860",
+    "symbol": "GRAV",
+    "name": "graviton",
+    "description": "The native token of Gravity Bridge",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/80113d9226d07b7d5f24a7b6f569d4971cdfed9481d0b80d4121b8c3bd7e0a8b.svg",
+    "coinGeckoId": "graviton"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/F1B8F5B606E6951CEB86C1DE56D0E442A40AD91D59B9EFC3FD447722053AB8BC",
+    "symbol": "ASTRO.cw20",
+    "name": "astro.cw20",
+    "description": "Astroport is a neutral marketplace where anyone, from anywhere in the galaxy, can dock to trade their wares.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/4d0dd6374e75c0e56c3924fd4252b881507580341e732330558709c9b3d7c277.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/975967408C296FE9DF7F28CCB38D236E46C363463ED5E10A614E85F203DF404E",
+    "symbol": "SYN",
+    "name": "SYN",
+    "description": "The most degenerate NFT on Injective. Gravedigger collection for $bINJ. Giving power back to the community.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/1baa8fe5652888bd59bd2c85346d67f2d6f8ae28a2209bb325825c25b1f90fc2.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/C2103F4B4373016B4B844A461CE2083DE3DE33136F3C9D3C8E1AD9F77A8F588E",
+    "symbol": "RAC",
+    "name": "RAC",
+    "description": "RAC",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/56079d21b1a05e6e19c016d16319da1de62f636b19c83846caee567418bf58da.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/D63D3DF4E8C2A6A301F2345F6581AD7CEF4B9ADB264AF6F8994C84B125CD702C",
+    "symbol": "IDTC",
+    "name": "idt",
+    "description": "The IDR stablecoin of Terra Classic.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/24b96ddfd83cd75102803883b88e08d332c1550cdf99190de15fbf256616b910.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/5B3CDFE3F9D87E718AF1619DBED547D5EFCAC722FAFADF8F088E1B567628DA2A",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/8777D324C4DFD9546CB2C94FAAB785663F167C49FD5E91BBBE90564409950B7A",
+    "symbol": "ampLUNA",
+    "name": "ampluna",
+    "description": "ERIS liquid staked LUNA.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/87a8dce4c62e670f855a2ca8d88acea7d939dd5a3557a4e16998282ceb0bf9a5.svg",
+    "coinGeckoId": "eris-amplified-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/54C7A00BAE8952A8CD27FE40D94D45488203F2AF42197EA8EE2794B629DD6768",
+    "symbol": "SCRT",
+    "name": "scrt",
+    "description": "Secret Network is a privacy-focused blockchain that enables private and secure smart contracts, protecting sensitive data.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/4e950180cbb20a28d82f99bc2243211928ef4995504af4b4029ba1f3031fde4a.svg",
+    "coinGeckoId": "secret"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/DE79B34501AFB4C5BE8CF3875578A284EA806BBFA59F8510BEE73CA1B3F5C30A",
+    "symbol": "MNTC",
+    "name": "mnt",
+    "description": "The MNT stablecoin of Terra Classic.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/d39e8e2589d3e8632d17f24ebb279cac3e3fe48a0a323ba2be99cce2dd8b3b05.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/AF5B6C16A304BA111AE9B75342B7BAAACB018D0EA9F0978C522D9E643496B75E",
+    "symbol": "HARBOR",
+    "name": "harbor",
+    "description": "Governance Token of Harbor protocol on Comdex network",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/1a502badbefa8cc68e70549b0f831717f060d42b772bfa51547c4f6be93509ee.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/6DF5BAFB08A7BBE2B9793F602864147768B2FA1A1BE9F460F224B4C41409F4EA",
+    "symbol": "AKT",
+    "name": "akt",
+    "description": "Akash Network is a decentralized cloud computing marketplace that connects users with unused computing resources, offering a cost-effective alternative to traditional cloud providers.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/33d728dfd3351a640e4f316dcadbc5e50dfdb4a3798bb74e9485f74585cf0245.svg",
+    "coinGeckoId": "akash-network"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/C8EA78493F423D5352031079E87360B3BFADBB8B56CCF6862582AB4925D90DDC",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/2685C9F813B536A5B979CB58B891E212AFAC135DB6C5738986AB542459476238",
+    "symbol": "ASTRO.cw20",
+    "name": "astro.cw20",
+    "description": "Astroport is a neutral marketplace where anyone, from anywhere in the galaxy, can dock to trade their wares.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/4d0dd6374e75c0e56c3924fd4252b881507580341e732330558709c9b3d7c277.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/C8A2A4D7EDE3DC6F3103F682A32CE53EA9A99D19EC245C253ED7254F058243CA",
+    "symbol": "USTC",
+    "name": "ust",
+    "description": "The USD stablecoin of Terra Classic.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/bbf7ad631fa51027777b71c54feda0517f9f112a5f42edad9c584fb9724561cb.svg",
+    "coinGeckoId": "terrausd"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/DB4E87E4EAD20BEDD0D5AA8E24456E17FB2722F1B2C0E060C69DA40CB853DE82",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/7946458E49830F854E3A6D144DF47532B92021310D0DDC45BF8B568CFDC4438A",
+    "symbol": "SOL",
+    "name": "wormhole/8sYgCzLRJC3J7qPn2bNbx6PiGcarhyx8rBhVaNnfvHCA/8",
+    "description": "Wrapped SOL (Wormhole), SOL, factory/wormhole14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/8sYgCzLRJC3J7qPn2bNbx6PiGcarhyx8rBhVaNnfvHCA",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/2bacd102680cfe69bba0bcd8e5f97133935ea18cd46495bb54d95b364f93d057.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/6BB65254908B222EA2DB44DE7BAFF84108F1BECBDD1B7AC867DA775139A3B466",
+    "symbol": "MARS.old",
+    "name": "mars",
+    "description": "Mars Protocol token (pre-migration)",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/2d857a5e2b35745b028f5c4cd9d5a3bd9dff79e86f63ca9b84fed1d88e409208.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/B9B979301D10A9CD5080723000C797392EB33DFA4C5A5CF95F2B5AB077AAF018",
+    "symbol": "USC",
+    "name": "dusc",
+    "description": "The native stablecoin of Carbon",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/1048c8367a15ca5a2584974dfa50d8036aafc863ef998304a2d43756338a28e0.svg",
+    "coinGeckoId": "carbon-usd"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/A1C63D5FFC0CEB3726CA5B60433F686B309058C2D582D8B8BE1B2AB1BE2AAC8A",
+    "symbol": "ASTRO.cw20",
+    "name": "astro.cw20",
+    "description": "Astroport is a neutral marketplace where anyone, from anywhere in the galaxy, can dock to trade their wares.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/4d0dd6374e75c0e56c3924fd4252b881507580341e732330558709c9b3d7c277.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/D033E88EB94ADB1845E0EF65FAECB9269846EBA5B1C32831FFCFB5B270759DCD",
+    "symbol": "EVMOS",
+    "name": "evmos",
+    "description": "The native EVM, governance and staking token of the Evmos Hub",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/8fd37bed9ab943bf6d2114ddae7f4a42b91cdebc269406c7f6acfb4fd1885e05.svg",
+    "coinGeckoId": "evmos"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/3696F81A930C1C23BB1764A2C4C628E01142A3D95403A7CC2086E2160DEE0C6D",
+    "symbol": "USTC",
+    "name": "ust",
+    "description": "The USD stablecoin of Terra Classic.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/bbf7ad631fa51027777b71c54feda0517f9f112a5f42edad9c584fb9724561cb.svg",
+    "coinGeckoId": "terrausd"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/34E33680F4E9DD2D0163CF4D029871B55C3281AA211828C8122F48046ED5E0BA",
+    "symbol": "EVMOS",
+    "name": "evmos",
+    "description": "The native EVM, governance and staking token of the Evmos Hub",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/8fd37bed9ab943bf6d2114ddae7f4a42b91cdebc269406c7f6acfb4fd1885e05.svg",
+    "coinGeckoId": "evmos"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/31C7E89DDE416348FF6A8A5CFEC4E8AE045241E52865741E25690BD16BBC2084",
+    "symbol": "WHALE",
+    "name": "whale",
+    "description": "Migaloo is a cosmwasm-powered, permissionless blockchain designed to build decentralized applications with a focus on interchain liquidity solutions.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/516ed75052338f9ed271f0b26f6090dfa1ed4acb81067b03b45c97222853a3da.svg",
+    "coinGeckoId": "white-whale"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/79D7EC473FB1070FB54007C55E69F33EDE372BB39B6B6711F4AB6A135AA3565F",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/19313100CB022954D65361B26AC3C5BAFB0AEEEDF7DF86D44E8CA9F5148B6B08",
+    "symbol": "TIA",
+    "name": "tia",
+    "description": "Celestia is a modular blockchain network focused on data availability, allowing developers to deploy their own customizable blockchains with ease.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/63b9c41acf8957bc42561cd85132fbc75177d2879e5de3873470bd2bb4ec41b3.svg",
+    "coinGeckoId": "celestia"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/3F0C825D9E27F5DC9FBF5D1078D6CEF9BE31B8F125D522E56D7FCEB940175DF0",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/EFB566778CFF6EA3FC19B445D07EDF22F279C8A4E489C3A30E48452BE5F42F10",
+    "symbol": "JPTC",
+    "name": "jpt",
+    "description": "The JPY stablecoin of Terra Classic.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f7b66301bf6cd4816c6c6fc22ae4cc351619ea7fb781bec20f2f800a833f8687.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/2E13104D0924DDB574E98CF01E1FD2D8913779BCB5B514B6468C6EC6037A15DC",
+    "symbol": "BTC",
+    "name": "allBTC",
+    "description": "An alloy of BTC asset variants on Osmosis.",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/ca6caccf8a3b0320119fd0a1d1057fb6ed914664486ff3bfcf13d70583cda962.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/AADE2B055785745EBAAA957CF16505607CE03B4B24F693B20FC239836C34A6E4",
+    "symbol": "WYND",
+    "name": "wynd",
+    "description": "WYND DAO Governance Token",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/cdc7356c08642b954c5c2ccd7afdc035d44b1dae73267b2c0c28f0d36f8f08bc.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/E787C893453B4E8E1F1EB6FB6295112121BE3591CEAC79F48D767D4EA96F6837",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/06C84FFAEBCB82E8E6E96CB069E1884DF2986C7682A661772D30141ED93C7B4A",
+    "symbol": "USDT",
+    "name": "usdt",
+    "description": "Tether's USD stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
+    "coinGeckoId": "axelar-usdt"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/73D6EE875A6C2F06DA59C84D6915A95909D0958AEFF49D70A5FD617219C7BEF7",
+    "symbol": "WHALE",
+    "name": "whale",
+    "description": "Migaloo is a cosmwasm-powered, permissionless blockchain designed to build decentralized applications with a focus on interchain liquidity solutions.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/516ed75052338f9ed271f0b26f6090dfa1ed4acb81067b03b45c97222853a3da.svg",
+    "coinGeckoId": "white-whale"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/D0FDA6EFE593A742494833DA42696AB80884FF889AD27579E5D55CD30DF3F846",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/3866A9F82A2848DE872A136AE0B6D7C550AA397A8FD9ACB8C8C594DA059D2B76",
+    "symbol": "YFD",
+    "name": "yfd",
+    "description": "Propose. Vote. Build.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7ea4c0f5f17f3151d8eaa19869880a0c1e258f2844642a67c6cb5a1ab2734b4b.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/8E6F67AF9FFFF4D3304EC0C27774A90A1A85D5CFA23AB9E2ECDEF6C056E7C24B",
+    "symbol": "ATOM",
+    "name": "atom",
+    "description": "ATOM is the native cryptocurrency of the Cosmos network, designed to facilitate interoperability between multiple blockchains through its innovative hub-and-spoke model.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
+    "coinGeckoId": "cosmos"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/67CC681356C3354903C3FCBD7BA4380F038487B99B0FD4BE391ABBD0E7DABF9B",
+    "symbol": "SDTC",
+    "name": "sdt",
+    "description": "The SDR stablecoin of Terra Classic.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/67d50827a5a5c95a6974c872ee8b11927484691982efeb3188869dd65ed9c794.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/0422F8535FAF58FFF709EB763FE8A969CFAD418F530516E3A9AC3570CFEBDFEE",
+    "symbol": "stTIA",
+    "name": "stTIA",
+    "description": "Stride's liquid staked TIA",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/df43139655b8c5db7a7b1fb674801711979b1382eed4c99db80f30477b0b031c.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/E83F86092D4633E58D84E547CE9397B2BD2E9AFC1A676D1F39077F297C94FB35",
+    "symbol": "QCK",
+    "name": "qck",
+    "description": "QCK - native token of Quicksilver",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f87699fa8000635dee47c4014c153040dd1f107d74277ecbd3da317e71828fcc.png",
+    "coinGeckoId": "quicksilver"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/046D79C7A412FA678D90AA4328FCB93C78BD4731A94E3CCFF710E2D107A61652",
+    "symbol": "SETC",
+    "name": "set",
+    "description": "The SEK stablecoin of Terra Classic.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/e015299b78128d187d3ea37619eb4079e09f0c8a9184cb6bf90c6ea97dce471c.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/E96F1DEAC4D7BA6F0429E3A07B0A75ACC923B474C35F3151074F17EC9A30477A",
+    "symbol": "CMDX",
+    "name": "cmdx",
+    "description": "Native Token of Comdex Protocol",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/18ef9a7a59ab88889f56c3723f72a35db05f8bc967c41f08ff64cd3ecdbe3818.svg",
+    "coinGeckoId": "comdex"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/CD13D4F85CF40A5CA01963AD86EC71C262EBEC06719970F77F387DB02CD3CB81",
+    "symbol": "ATOM",
+    "name": "atom",
+    "description": "ATOM is the native cryptocurrency of the Cosmos network, designed to facilitate interoperability between multiple blockchains through its innovative hub-and-spoke model.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
+    "coinGeckoId": "cosmos"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/A390B4AFE1195BF3E27486064E706AF3811C205415AB1E445C1E52C3848EBE27",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/437DC5E086FF4CACE74F9C3175BDC131E37B63F7DF721C24842810A0BDA47825",
+    "symbol": "UMEE",
+    "name": "umee",
+    "description": "The native token of Umee",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9d5325ca8b382d8836719bb3889fd12729e3e2855edf892245b7e6e27679a40a.svg",
+    "coinGeckoId": "umee"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/B35EFEE70C958DCD8D94457542716A3FABACCCC2C9441A3BA5CBDB7C9AE55DEC",
+    "symbol": "CRE",
+    "name": "cre",
+    "description": "The native token of Crescent",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/bb6679e0de806cc611b2eb98ee19a6d89e8d7ce79b7090b3788724c1d6846a49.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/5D7FC9B42FD307296443E58FB083049D2C647D5E17F61B0FFF025DB9539CB5AF",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/47724BE5D9F43CF5C0130939373E95EABAB3F5301A967A6651894C6420DE1016",
+    "symbol": "FIS",
+    "name": "fis",
+    "description": "The native staking and governance token of the StaFi Hub.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/3c1f69681825450ad7f91f83fd29d1403e7dbc3105c86dc7e7c1a3d6437ac36e.svg",
+    "coinGeckoId": "stafi"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/5E12A66D5F1EE23E23A2F0A9426376FB6ACBB5EC9319E077E7AA4137824C5E57",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/74C75E6EE1E6A5124DFC1A88388FA543551634A97271764B77A6125F750D9263",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/DC14622101BEBEFA64A5EC9125B8D5BED0E9A74CD7F1465D8F7B81D8446C2448",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/52972E681562A29CE11544C6000E97A474BB6C22DFB305CB4A7269F5534638B4",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/55470E926AE7BCF20F6852F288C314C78F32D8BBD50FDDB587A707B3A74EA032",
+    "symbol": "STRD",
+    "name": "strd",
+    "description": "Stride is a liquid staking blockchain in the Cosmos ecosystem that allows users to stake any IBC-compatible tokens and receive stTokens in return, providing liquidity while earning staking rewards.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/ec24ec10d44cf36ec24232f5dbb19ad5b61d1972098888b01291b63c1c66722e.svg",
+    "coinGeckoId": "stride"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/8BCCE28138180F7F7D7B9F3327DD97DE595A0DD66449FAA90D77EDC00D7F5B18",
+    "symbol": "KUJI",
+    "name": "kuji",
+    "description": "Kujira is a decentralized finance (DeFi) platform offering a suite of tools and services for managing and optimizing digital assets and investments.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9b4df5623b76ae925d1947e3d154d0f88fb1d194ff62673d6af8bc0a77e6a71a.svg",
+    "coinGeckoId": "kujira"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/AC430695A9D7E65EE3AB6B20CF49F4FEC57ECDFD04F3244007582C604E81B0FB",
+    "symbol": "REGEN",
+    "name": "regen",
+    "description": "REGEN coin is the token for the Regen Network Platform",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/fa1702b9e6411fd543852318682138e2abb200890d9e5dceaf6adce900621bb9.svg",
+    "coinGeckoId": "regen"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/FDDF98401F29AC63212C1742F9EC86D3AA1E1BE94BF9EB2F72B990C490303F42",
+    "symbol": "BUSD",
+    "name": "busd",
+    "description": "Binance USD on Axelar.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/a636f0b027328488a2c50153cbd88a7f3f5cdd1e0a6758339888bf137f0d8662.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/110D51FCBFCB805E527DB59F7F10C46CC2E01DF4879739BD9E57CB41209CEE05",
+    "symbol": "ampLUNA",
+    "name": "ampluna",
+    "description": "ERIS liquid staked LUNA.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/87a8dce4c62e670f855a2ca8d88acea7d939dd5a3557a4e16998282ceb0bf9a5.svg",
+    "coinGeckoId": "eris-amplified-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/1E6071DB530E18294FD90A8AFC20D11CBAF292ADE2CD10121BCE4A774E2540ED",
+    "symbol": "OSMO",
+    "name": "osmo",
+    "description": "The native token of Osmosis",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/e053406240eac4d978a66008f0551daa497be489fba6c5840e5cd073bd6fcd94.svg",
+    "coinGeckoId": "osmosis"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/94385C534BC055BE5E5870413CE00BF7D1340739EB88C1171EBD6AD8892B3691",
+    "symbol": "SEJUNO",
+    "name": "sejuno",
+    "description": "Staking derivative seJUNO for staked JUNO",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/6767391793f002964ae992a1472ce65f116332a5bcee095e35d179bec7446180.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/66B909B52BAF39492517A8699CEE63BC9916E2F57BEE9D303E9B44FC34F3F6D3",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/6129D8E2BCFB04FA531CC707EBF4039738297EA3585166C4E1B6584575BD791F",
+    "symbol": "UMEE",
+    "name": "umee",
+    "description": "The native token of Umee",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9d5325ca8b382d8836719bb3889fd12729e3e2855edf892245b7e6e27679a40a.svg",
+    "coinGeckoId": "umee"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/73D176022FFD2BAFB93F2F70D5AF0BF5BBCC25BC7459489CBE63684173E56638",
+    "symbol": "ampLUNA",
+    "name": "ampluna",
+    "description": "ERIS liquid staked LUNA.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/87a8dce4c62e670f855a2ca8d88acea7d939dd5a3557a4e16998282ceb0bf9a5.svg",
+    "coinGeckoId": "eris-amplified-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/6C91B885C3AECF55CBD2323FA38C8D902D52C592910DDD7ADA77752C4D7B2150",
+    "symbol": "CNTC",
+    "name": "cnt",
+    "description": "The CNY stablecoin of Terra Classic.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/0d5423a05eb5200118fe3fae485b44283e274a7bb3d8ca09dcd14a3d8bde4b51.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/C8A8089D01543C642BDF09237BACE82C8484B118A9D44E8478F4AD0A0BC73E9A",
+    "symbol": "THTC",
+    "name": "tht",
+    "description": "The THB stablecoin of Terra Classic.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/21d15651833ec61fcd5daa1cb639acfc937459d83f5b5940ad6b9a8edf910273.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/66DBD0D880CCDE85FBEAE0A818FED8761490161403E84956B7F568A702ADBE35",
+    "symbol": "EUTC",
+    "name": "eut",
+    "description": "The EUR stablecoin of Terra Classic.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/2b9dc1ed8d54860fa7df6f020fc1668dd4f7b8b893828d06d09200e9ada1572a.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/6A2E339AD69FBBDC6058EA60379CD71E0D384731386F68389F6C4D0F78106234",
+    "symbol": "TWTC",
+    "name": "twt",
+    "description": "The TWD stablecoin of Terra Classic.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/93bfadd2e4196ff1708716ec5e88c6e7916d4cf5010b881a38e1f4f34c474059.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/01118C2BA3BC0B8DA603AFE19CA6311B32EB92FF0F07CDF89F0E551F8C7824A9",
+    "symbol": "AUTC",
+    "name": "aut",
+    "description": "The AUD stablecoin of Terra Classic.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/de4a197f41c0090119f209bc999337c0bdc0fd54de3055747a0ec78b07c40c8e.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/B316531980FAE1BDCD002B67F931A59C5561A95F1E1C85DA3D8CD5AAA19EA9E1",
+    "symbol": "INTC",
+    "name": "int",
+    "description": "The INR stablecoin of Terra Classic.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/5690b181bcca47cb95cea362402f69ea7f8f6ae45c33cdd1d4fc951d38649b5b.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/8F270426A9406D0C3DD0BE3459903996E11188B3406E7BDC6387A1CBA90D22B1",
+    "symbol": "CHTC",
+    "name": "cht",
+    "description": "The CHF stablecoin of Terra Classic.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/443f6d7e82317ff7b94991ffddb91e628101d06ab0c1cc983d73ce86e93f5601.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/D9C8D7AC0DF7199BEFAE84305B070B1EC38F8AF3DA983444318CE850468C5489",
+    "symbol": "AXL",
+    "name": "axl",
+    "description": "Axelar is a decentralized interoperability network connecting multiple blockchain ecosystems, enabling seamless cross-chain communication and value transfer.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
+    "coinGeckoId": "axelar"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/3B225C4587B5EF7BFBA3756810DDF251BFE378ECD6E12C6D8331CAEAE6E4904C",
+    "symbol": "NOTC",
+    "name": "not",
+    "description": "The NOK stablecoin of Terra Classic.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/3bd14f982b8363c7437865637015b93c2eeb4e125a000a3f83ca10dbd0487177.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/A5088ECE24F3AD7259D93F686D82902B009D2DF15B73DF46D449F0E3E4942355",
+    "symbol": "DEC",
+    "name": "dec",
+    "description": "The native token of Decentr",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9338bdc5211eaffe7efb92d4d97eb06ed0aba9725a84cd3485d28512d4b42f99.svg",
+    "coinGeckoId": "decentr"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/0013FAB37ABC579FF23FC6BFFD0BEDD5BE2B8E05F2B10A9B909B4B30CB2F1CB0",
+    "symbol": "GBTC",
+    "name": "gbt",
+    "description": "The GBP stablecoin of Terra Classic.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/d180fb061cbe0a95d96f7806240c4758d3888ddef135e526d13bcd1b0db42b63.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/34ECD6E9DBCB013AB7ADAD41EB811BBF268087101A0F2B18FBECE13C0A573562",
+    "symbol": "PHTC",
+    "name": "pht",
+    "description": "The PHP stablecoin of Terra Classic.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/44ca4513ba97ac0d400e12c09399bb8e8d48a72670a56f91050b24b6827da1ca.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/CB64685C6DA22640A032B4712C0C58A5788A89BA7FBE4A071CA80FCDB82833DD",
+    "symbol": "CATC",
+    "name": "cat",
+    "description": "The CAD stablecoin of Terra Classic.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/db659fe292dcaf1ad17c8896780c4e9c7115ce8bab719479f1acd2b53255abad.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/A34B641A6A265DA59DE1D95D942681D6C42F109A2CB2838B4C82C1835BF054BB",
+    "symbol": "DKTC",
+    "name": "dkt",
+    "description": "The DKK stablecoin of Terra Classic.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/98a93f03899533b6ec4e591f671eafcd59a1414238d5e9e6b5f08aa2cfaea428.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/9FF51E67D056B7AB443B6D80520649F470D469E64F6CF9D0AAD9934129504B3D",
+    "symbol": "HKTC",
+    "name": "hkt",
+    "description": "The HKD stablecoin of Terra Classic.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/509bb6f38666b3c42ec380a22e6156c083531814c89c19c25b1938ebc07f66a1.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/02833502787A39DD2FF18CB11599CAF6D172DE6065F807A6C1BC02566F87C3DB",
+    "symbol": "stOSMO",
+    "name": "stosmo",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f332eb9577ccc44d5eac362ee1d07e25a931f7a386a14a505495159f9092695f.svg",
+    "coinGeckoId": "stride-staked-osmo"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/98054433F02022E37BAB1A08173D4FA2CFDFD14C538F1B227D0DD60DA1AD1540",
+    "symbol": "WMATIC",
+    "name": "wmatic",
+    "description": "Wrapped Matic on Axelar",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/bf81bb5509d397d93705112cdf2b191085c96ae16f64f144aace3128bbbce029.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/D35BA681BC24C5406727D2B60D91241E927F1F12ACF715A1D5AF597D619D5A5F",
+    "symbol": "MYTC",
+    "name": "myt",
+    "description": "The MYR stablecoin of Terra Classic.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f7cf7688abf69060c92f0643915e111b50aeb7b1d0934774d6932d30e799063f.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/6D58A5A1A02B4474E5DC9BD3492F166A76EC2C8BC392FF48CC7547CFFB1E6925",
+    "symbol": "WBTC",
+    "name": "wbtc",
+    "description": "Wrapped Bitcoin on Axelar",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/26347a436b3a51d83910af6c2e0b556d8f5f22387a785779b64c38a72da9b9bb.png",
+    "coinGeckoId": "axlwbtc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/CD3858241D5F38BC1883666CFCD823A27770D74CE307E471976BF5C1D59BD468",
+    "symbol": "SGTC",
+    "name": "sgt",
+    "description": "The SGD stablecoin of Terra Classic.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/fa04c72f5a6540830a3732eec87047c912831041055c267e0092dfa510cc50cf.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/E94774E9A23F6FCDF55F57D51BC5E3E0F82F3869E04DC442681B49A2BDECE572",
+    "symbol": "ATOM",
+    "name": "atom",
+    "description": "ATOM is the native cryptocurrency of the Cosmos network, designed to facilitate interoperability between multiple blockchains through its innovative hub-and-spoke model.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
+    "coinGeckoId": "cosmos"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/F2F160FCF854896FAE3E846C5D936F1FDD8413646F2A780A1DE1CF35F2E8504C",
+    "symbol": "ampJUNO",
+    "name": "ampJUNO",
+    "description": "ERIS liquid staked JUNO",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/b5848f3e06379d28868c19bb1baed30bd8d7561d9409e0ddf7c1fb2c5b63bd00.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/70361A96A9D3D62B65F75C338FF74A2FB763170FC8F7062D6631D4E61E1055DD",
+    "symbol": "INJ",
+    "name": "INJ",
+    "description": "Injective is a decentralized exchange protocol that enables fast, secure, and fully decentralized trading of derivatives, futures, and spot markets.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/c824ba4c934281bfa3a10052366f3c00fe94ed254da7f0e2b82da59a5c2872df.svg",
+    "coinGeckoId": "injective-protocol"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/21C0C3E238D48E370841635ADC3322F5D3D26342679102D5865DA8A56BD9524E",
+    "symbol": "STRD",
+    "name": "strd",
+    "description": "Stride is a liquid staking blockchain in the Cosmos ecosystem that allows users to stake any IBC-compatible tokens and receive stTokens in return, providing liquidity while earning staking rewards.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/ec24ec10d44cf36ec24232f5dbb19ad5b61d1972098888b01291b63c1c66722e.svg",
+    "coinGeckoId": "stride"
+  }
+]

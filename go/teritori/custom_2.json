@@ -1,0 +1,142 @@
+[
+  {
+    "type": "ibc",
+    "denom": "ibc/6993F2B27985C9363D3B94D702111940055833A2BA86DA93F33A67D03E4D1B7D",
+    "symbol": "EVMOS",
+    "name": "evmos",
+    "description": "The native EVM, governance and staking token of the Evmos Hub",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/8fd37bed9ab943bf6d2114ddae7f4a42b91cdebc269406c7f6acfb4fd1885e05.svg",
+    "coinGeckoId": "evmos"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/F870444F65115DBC0E54276F22B477963D0B1C21712ADEE380C4E1C48DD99B84",
+    "symbol": "PLQ",
+    "name": "planq",
+    "description": "The native EVM, governance and staking token of the Planq Network",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/d97a6ddd52b84a2a5b37d0b99ac4190f268662fe60567f797a5cf7dc23b93236.svg",
+    "coinGeckoId": "planq"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/857441EA31C84D956D2DE32139BF6A4AE8E40EA5426600C684F38E4D25239C99",
+    "symbol": "TORI",
+    "name": "tori",
+    "description": "The native token of Teritori",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/c3cf8ec94066b351498e89287bb80944c61e8da21ef5d83042cfa1da45c916c5.svg",
+    "coinGeckoId": "teritori"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/35357FE55D81D88054E135529BB2AEB1BB20D207292775A19BD82D83F27BE9B4",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/8838ABBD817CE3D8D0DAD8626CE2DABB9F58DC289EA0F9ED8A1265DA098387C3",
+    "symbol": "TORI",
+    "name": "tori",
+    "description": "The native token of Teritori",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/c3cf8ec94066b351498e89287bb80944c61e8da21ef5d83042cfa1da45c916c5.svg",
+    "coinGeckoId": "teritori"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/731D16914CB3304BD7D177D3D4B210D82C04E5DF86E08AC994A8675C3E00C366",
+    "symbol": "ATOM",
+    "name": "atom",
+    "description": "ATOM is the native cryptocurrency of the Cosmos network, designed to facilitate interoperability between multiple blockchains through its innovative hub-and-spoke model.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
+    "coinGeckoId": "cosmos"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/89C79BD28DCCF300B9EE87740B061011AD870EC480777FAB95D85B3ED36BC06C",
+    "symbol": "JUNO",
+    "name": "juno",
+    "description": "The native token of JUNO Chain",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/79f9def0d7428ed8b761a7c42dc5f7a3492367f014258935d72cbbe2d813a552.svg",
+    "coinGeckoId": "juno-network"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/0186D439F7AAFFF994751ED5D3DC53BDA4D8DFAE706A547AFFB3AE9E86C8D45D",
+    "symbol": "TORI",
+    "name": "tori",
+    "description": "The native token of Teritori",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/c3cf8ec94066b351498e89287bb80944c61e8da21ef5d83042cfa1da45c916c5.svg",
+    "coinGeckoId": "teritori"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/DAA1FB8C9FA9A3C33803C758D797B6F6D1F1A044EE24C85EE9B835ACFF5746FB",
+    "symbol": "TORI",
+    "name": "tori",
+    "description": "The native token of Teritori",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/c3cf8ec94066b351498e89287bb80944c61e8da21ef5d83042cfa1da45c916c5.svg",
+    "coinGeckoId": "teritori"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/5A730E758B54FDEFAC2696BC6A24342192DF8F3D2B0B947C6D26AF53E9E943CA",
+    "symbol": "STRD",
+    "name": "strd",
+    "description": "Stride is a liquid staking blockchain in the Cosmos ecosystem that allows users to stake any IBC-compatible tokens and receive stTokens in return, providing liquidity while earning staking rewards.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/ec24ec10d44cf36ec24232f5dbb19ad5b61d1972098888b01291b63c1c66722e.svg",
+    "coinGeckoId": "stride"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/448C3D2C125390A96C47CF11789EC2FA5FFF9D24D842DAB9DD4075A16902E0E7",
+    "symbol": "AXL",
+    "name": "axl",
+    "description": "Axelar is a decentralized interoperability network connecting multiple blockchain ecosystems, enabling seamless cross-chain communication and value transfer.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
+    "coinGeckoId": "axelar"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/3CAABA00D5148EE115A6DA322563A62FD30185C298E1B6662473945901F59787",
+    "symbol": "KUJI",
+    "name": "kuji",
+    "description": "Kujira is a decentralized finance (DeFi) platform offering a suite of tools and services for managing and optimizing digital assets and investments.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9b4df5623b76ae925d1947e3d154d0f88fb1d194ff62673d6af8bc0a77e6a71a.svg",
+    "coinGeckoId": "kujira"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/197019C5C45A5E279A78F72BAAFFD5869FD5A93293245E8A45D8AFFF431C6131",
+    "symbol": "STRD",
+    "name": "strd",
+    "description": "Stride is a liquid staking blockchain in the Cosmos ecosystem that allows users to stake any IBC-compatible tokens and receive stTokens in return, providing liquidity while earning staking rewards.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/ec24ec10d44cf36ec24232f5dbb19ad5b61d1972098888b01291b63c1c66722e.svg",
+    "coinGeckoId": "stride"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/D918D0FAC899648290ED8E50F7029C0F43D9155599BC45B1EF8C273763294C84",
+    "symbol": "STRD",
+    "name": "strd",
+    "description": "Stride is a liquid staking blockchain in the Cosmos ecosystem that allows users to stake any IBC-compatible tokens and receive stTokens in return, providing liquidity while earning staking rewards.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/ec24ec10d44cf36ec24232f5dbb19ad5b61d1972098888b01291b63c1c66722e.svg",
+    "coinGeckoId": "stride"
+  }
+]
