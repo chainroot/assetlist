@@ -38,7 +38,7 @@ export async function getDenomsInfo(denoms: string[], client: CosmosClient) {
         if (denom.startsWith("ibc")) {
           failedDenoms.push(denom);
         } else {
-          console.log("NOT FOUND", denom);
+          console.info("NOT FOUND", denom);
         }
       }
     } catch (err) {
@@ -50,7 +50,7 @@ export async function getDenomsInfo(denoms: string[], client: CosmosClient) {
   }
 
   if (failedDenoms.length > 0) {
-    for (const failed of failedDenoms) {
+    const promises = failedDenoms.map(async (failed) => {
       try {
         const metadata = await client.ibc.transfer.denomTrace(failed);
 
@@ -59,6 +59,7 @@ export async function getDenomsInfo(denoms: string[], client: CosmosClient) {
         const asset = getAssetByDenom(metadata.denomTrace.baseDenom)!;
 
         const tracedDenom: Asset = {
+          type: "ibc",
           denom: failed,
           symbol: asset.symbol,
           name: asset.display,
@@ -70,11 +71,16 @@ export async function getDenomsInfo(denoms: string[], client: CosmosClient) {
           coinGeckoId: asset.coingeckoId ?? "",
         };
 
-        formattedData.push(tracedDenom);
+        return tracedDenom;
       } catch (err) {
-        continue;
+        console.info("FAILED TRACING", failed);
+        return null;
       }
-    }
+    });
+
+    const results = await Promise.all(promises);
+    const filtered = results.filter((result) => result !== null);
+    formattedData.push(...filtered);
   }
 
   return formattedData;
