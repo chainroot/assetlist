@@ -53,7 +53,7 @@ jobs:
       run: make update-chainlist && make update-chain-data
 
     - name: npm build
-      run: npm run build
+      run: npm run build --prefix scripts/schema-generator
 
     - name: Download pryzm assetlist and running schema convertor
       run: |
