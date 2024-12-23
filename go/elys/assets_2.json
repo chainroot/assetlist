@@ -18,5 +18,29 @@
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/5d9d8f65c05f668671fecfb13d6b62aa7b30a038a51cceaad58eaa21da200651.png",
         "coinGeckoId": ""
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
+        "name": "Cosmos Hub",
+        "symbol": "ATOM",
+        "description": "The native staking and governance token of the Cosmos Hub.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
+        "color": "#272d45",
+        "coinGeckoId": "cosmos",
+        "ibc_info": {
+            "path": "cosmos>elys",
+            "client": {
+                "channel": "channel-1",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-1266",
+                "port": "transfer",
+                "chain": "cosmos",
+                "denom": "uatom"
+            }
+        }
     }
 ]
