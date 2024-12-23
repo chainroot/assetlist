@@ -25,7 +25,7 @@ jobs:
     - name: Install exiftool and delete go directory
       run: |
         sudo apt update && sudo apt install exiftool -y
-        # rm -rf go/*
+        rm -rf go/*
 
     - name: Install pnpm
       uses: pnpm/action-setup@v4
@@ -49,11 +49,11 @@ jobs:
       with:
         rclone_config: ${{ secrets.RCLONE_CONFIG }}
 
-    # - name: Update sub-module and chains assets lists
-    #   run: make update-chainlist && make update-chain-data
+    - name: Update sub-module and chains assets lists
+      run: make update-chainlist && make update-chain-data
 
-    # - name: npm build
-    #   run: npm run build
+    - name: npm build
+      run: npm run build
 
     - name: Download pryzm assetlist and running schema convertor
       run: |
@@ -65,11 +65,11 @@ jobs:
         node scripts/schema-generator/dist/schema-convertor.js assetlist.json go/pryzm/assets_2.json
         sed -i 's/"coinGeckoId":/"coinGeckoId": "pryzmatics"/g' go/pryzm/assets_2.json
 
-    # - name: Running staking denom
-    #   run: node scripts/schema-generator/dist/update-staking-denom-type.js
+    - name: Running staking denom
+      run: node scripts/schema-generator/dist/update-staking-denom-type.js
 
-    # - name: Running image getter
-    #   run: node scripts/schema-generator/dist/image-getter.js
+    - name: Running image getter
+      run: node scripts/schema-generator/dist/image-getter.js
         
     - name: Upload images to cdn bucket
       run: 'cd images && rclone copy . cf:cdn/images/tokens'
