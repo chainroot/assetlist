@@ -63,7 +63,6 @@ jobs:
         tsc
         cd ../..
         node scripts/schema-generator/dist/schema-convertor.js assetlist.json go/pryzm/assets_2.json
-        cat go/pryzm/assets_2.json
         sed -i '' 's/"coinGeckoId":/"coinGeckoId": "pryzmatics"/g' go/pryzm/assets_2.json
 
     # - name: Running staking denom
