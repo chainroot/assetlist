@@ -34,13 +34,7 @@ export type ChainAssetsQueryResponse = {
   };
 };
 
-type DeepPartial<T> = T extends object
-  ? {
-      [P in keyof T]?: DeepPartial<T[P]>;
-    }
-  : T;
-
-export type Asset = DeepPartial<{
+export type Asset = {
   type: string;
   denom: string;
   name: string;
@@ -49,7 +43,7 @@ export type Asset = DeepPartial<{
   decimals: number;
   image: string;
   coinGeckoId: string;
-}>;
+};
 
 export type DenomInfo = {
   denom: string;
