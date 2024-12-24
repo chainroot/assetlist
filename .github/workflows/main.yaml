@@ -70,7 +70,22 @@ jobs:
       run: node scripts/schema-generator/dist/image-getter.js
         
     - name: Upload images to cdn bucket
-      run: 'cd images && rclone copy . cf:cdn/images/tokens'
+      run: |
+        set -e
+        if [ ! -d "images" ]; then
+          echo "Error: images directory not found"
+          exit 1
+        fi
+        cd images
+        if ! rclone copy . cf:cdn/images/tokens; then
+          echo "Error: Failed to upload images to CDN"
+          exit 1
+        fi
+        # Verify upload
+        if ! rclone check . cf:cdn/images/tokens; then
+          echo "Error: Upload verification failed"
+          exit 1
+        fi
 
     - name: Create Pull Request
       id: cpr
