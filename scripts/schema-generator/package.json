@@ -10,7 +10,6 @@
   "scripts": {
     "build": "tsc && node dist/generator.js",
     "build:image": "tsc && node dist/image-getter.js",
-    "prepare": "npm run build",
     "clean": "rimraf dist",
     "prebuild": "npm run clean",
     "test": "echo \"Error: no test specified\" && exit 1"

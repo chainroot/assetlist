@@ -1,0 +1,107 @@
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day
+  workflow_dispatch:
+    inputs:
+      commit-message:
+        required: false
+        type: string
+        default: "Add general-docs and network-docs from chainroot/docs"
+      committer:
+        required: false
+        type: string
+        default: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
+
+jobs:
+  rclone-upload:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Install exiftool and delete go directory
+      run: |
+        sudo apt update && sudo apt install exiftool -y
+        rm -rf go/*
+
+    - name: Install pnpm
+      uses: pnpm/action-setup@v4
+      with:
+        version: 9
+        run_install: false
+
+    # Set up Node.js and install dependencies with pnpm
+    - name: Set up Node.js
+      uses: useblacksmith/setup-node@v5
+      with:
+        node-version: "20"
+        cache: "pnpm"
+        cache-dependency-path: scripts/schema-generator/pnpm-lock.yaml
+
+    - name: Install dependencies with pnpm
+      run: pnpm install --frozen-lockfile --prefix scripts/schema-generator
+
+    - name: Setup Rclone
+      uses: AnimMouse/setup-rclone@v1
+      with:
+        rclone_config: ${{ secrets.RCLONE_CONFIG }}
+
+    - name: Update sub-module and chains assets lists
+      run: make update-chainlist && make update-chain-data
+
+    - name: npm build
+      run: npm run build --prefix scripts/schema-generator
+
+    - name: Download pryzm assetlist and running schema convertor
+      run: |
+        rm go/pryzm/assets_2.json
+        wget https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/pryzm/assetlist.json
+        cd scripts/schema-generator
+        tsc
+        cd ../..
+        node scripts/schema-generator/dist/schema-convertor.js assetlist.json go/pryzm/assets_2.json
+        sed -i 's/"coinGeckoId": ""/"coinGeckoId": "pryzmatics"/g' go/pryzm/assets_2.json
+
+    - name: Running staking denom
+      run: node scripts/schema-generator/dist/update-staking-denom-type.js
+
+    - name: Running image getter
+      run: node scripts/schema-generator/dist/image-getter.js
+        
+    - name: Upload images to cdn bucket
+      run: |
+        set -e
+        if [ ! -d "images" ]; then
+          echo "Error: images directory not found"
+          exit 1
+        fi
+        cd images
+        if ! rclone copy . cf:cdn/images/tokens; then
+          echo "Error: Failed to upload images to CDN"
+          exit 1
+        fi
+        # Verify upload
+        if ! rclone check . cf:cdn/images/tokens; then
+          echo "Error: Upload verification failed"
+          exit 1
+        fi
+
+    - name: Create Pull Request
+      id: cpr
+      uses: peter-evans/create-pull-request@v7
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        commit-message: 'chore: Update assetlist'
+        committer: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+        author: ${{ github.actor }} <${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com>
+        branch: chore-update-dependencies
+        delete-branch: true
+        title: 'Update assets'
+        base: main
+
+    - name: Check outputs
+      if: ${{ steps.cpr.outputs.pull-request-number }}
+      run: |
+        echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
+        echo "Pull Request URL - ${{ steps.cpr.outputs.pull-request-url }}"
