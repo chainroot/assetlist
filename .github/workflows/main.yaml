@@ -1,8 +1,8 @@
 on:
   push:
-    branches: '*'
-  # schedule:
-  #   - cron: "*/5 * * * *" # Runs every 5 minutes
+    branches: 'main'
+  schedule:
+    - cron: "0 0 * * *" # Runs every day
   workflow_dispatch:
     inputs:
       commit-message:
