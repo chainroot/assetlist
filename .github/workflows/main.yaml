@@ -56,11 +56,17 @@ jobs:
     - name: Download pryzm assetlist and running schema convertor
       run: |
         rm go/pryzm/assets_2.json
-        wget https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/pryzm/assetlist.json
+        wget -O pryzm_assetlist.json https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/pryzm/assetlist.json
+        wget -O aura_assetlist.json https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/aura/assetlist.json
+        wget -O gitopia_assetlist.json https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/gitopia/assetlist.json
         cd scripts/schema-generator
         tsc
         cd ../..
-        node scripts/schema-generator/dist/schema-convertor.js assetlist.json go/pryzm/assets_2.json
+        mkdir -p go/aura
+        mkdir -p go/gitopia
+        node scripts/schema-generator/dist/schema-convertor.js pryzm_assetlist.json go/pryzm/assets_2.json
+        node scripts/schema-generator/dist/schema-convertor.js aura_assetlist.json go/aura/assets_2.json
+        node scripts/schema-generator/dist/schema-convertor.js gitopia_assetlist.json go/gitopia/assets_2.json
         sed -i 's/"coinGeckoId": ""/"coinGeckoId": "pryzmatics"/g' go/pryzm/assets_2.json
 
     - name: Running staking denom
