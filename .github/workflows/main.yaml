@@ -1,7 +1,4 @@
 on:
-  push:
-    branches:
-      - "*"
   schedule:
     - cron: "0 0 * * *" # Runs every day
   workflow_dispatch:
