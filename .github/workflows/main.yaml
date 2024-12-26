@@ -59,6 +59,7 @@ jobs:
     - name: Download pryzm assetlist and running schema convertor
       run: |
         rm go/pryzm/assets_2.json
+        mv go/terra go/terra2
         for dir in $DIRECTORIES; do
           wget -O "$dir"_assetlist.json https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/$dir/assetlist.json
         done
