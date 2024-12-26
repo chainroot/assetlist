@@ -1,4 +1,7 @@
 on:
+  push:
+    branches:
+      - "*"
   schedule:
     - cron: "0 0 * * *" # Runs every day
   workflow_dispatch:
@@ -16,6 +19,9 @@ jobs:
   rclone-upload:
 
     runs-on: ubuntu-latest
+
+    env:
+      DIRECTORIES: "aura gitopia"
 
     steps:
     - uses: actions/checkout@v4
@@ -57,16 +63,17 @@ jobs:
       run: |
         rm go/pryzm/assets_2.json
         wget -O pryzm_assetlist.json https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/pryzm/assetlist.json
-        wget -O aura_assetlist.json https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/aura/assetlist.json
-        wget -O gitopia_assetlist.json https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/gitopia/assetlist.json
+        for dir in $DIRECTORIES; do
+          wget -O "$dir"_assetlist.json https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/$dir/assetlist.json
+        done
         cd scripts/schema-generator
         tsc
         cd ../..
-        mkdir -p go/aura
-        mkdir -p go/gitopia
+        for dir in $DIRECTORIES; do
+          mkdir -p go/$dir
+          node scripts/schema-generator/dist/schema-convertor.js "$dir"_assetlist.json go/$dir/assets_2.json
+        done
         node scripts/schema-generator/dist/schema-convertor.js pryzm_assetlist.json go/pryzm/assets_2.json
-        node scripts/schema-generator/dist/schema-convertor.js aura_assetlist.json go/aura/assets_2.json
-        node scripts/schema-generator/dist/schema-convertor.js gitopia_assetlist.json go/gitopia/assets_2.json
         sed -i 's/"coinGeckoId": ""/"coinGeckoId": "pryzmatics"/g' go/pryzm/assets_2.json
 
     - name: Running staking denom
@@ -85,11 +92,6 @@ jobs:
         cd images
         if ! rclone copy . cf:cdn/images/tokens; then
           echo "Error: Failed to upload images to CDN"
-          exit 1
-        fi
-        # Verify upload
-        if ! rclone check . cf:cdn/images/tokens; then
-          echo "Error: Upload verification failed"
           exit 1
         fi
 
