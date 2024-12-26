@@ -471,6 +471,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/D5F6DF9E7E77C6B731A63B253C10B9AE636195D984A3A1558DD55759EA0B517F",
+    "symbol": "MARS.old",
+    "name": "mars",
+    "description": "Mars Protocol token (pre-migration)",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/2d857a5e2b35745b028f5c4cd9d5a3bd9dff79e86f63ca9b84fed1d88e409208.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/69860B527570A33015804BD2BF9BBB23B58A87556B108028E25EA9126E60D3D1",
     "symbol": "TIA",
     "name": "tia",
@@ -488,16 +498,6 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/553e200543ab8c9fe84dd9f1bc86fc0fe075eb14ff4254f71d49fa3a56bd37cb.svg",
     "coinGeckoId": "stride-staked-juno"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/D5F6DF9E7E77C6B731A63B253C10B9AE636195D984A3A1558DD55759EA0B517F",
-    "symbol": "MARS.old",
-    "name": "mars",
-    "description": "Mars Protocol token (pre-migration)",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/2d857a5e2b35745b028f5c4cd9d5a3bd9dff79e86f63ca9b84fed1d88e409208.svg",
-    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -571,16 +571,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/32FCE21E62E956472E57E97C095BBA58E5AE6E7B9068BAB669684184BDD1DC6B",
-    "symbol": "UMEE",
-    "name": "umee",
-    "description": "The native token of Umee",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/9d5325ca8b382d8836719bb3889fd12729e3e2855edf892245b7e6e27679a40a.svg",
-    "coinGeckoId": "umee"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/153B97FE395140EAAA2D7CAC537AF1804AEC5F0595CBC5F1603094018D158C0C",
     "symbol": "WBTC",
     "name": "wbtc",
@@ -588,6 +578,16 @@
     "decimals": 8,
     "image": "https://cdn.chainroot.io/images/tokens/26347a436b3a51d83910af6c2e0b556d8f5f22387a785779b64c38a72da9b9bb.png",
     "coinGeckoId": "axlwbtc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/32FCE21E62E956472E57E97C095BBA58E5AE6E7B9068BAB669684184BDD1DC6B",
+    "symbol": "UMEE",
+    "name": "umee",
+    "description": "The native token of Umee",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9d5325ca8b382d8836719bb3889fd12729e3e2855edf892245b7e6e27679a40a.svg",
+    "coinGeckoId": "umee"
   },
   {
     "type": "ibc",
@@ -721,16 +721,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/4A90EF68668456D9DAD92F12F8E94D6ADE17BE9B1125A42F885133832CC4B286",
-    "symbol": "CRO",
-    "name": "cro",
-    "description": "Cronos is a blockchain platform developed by Crypto.com, designed to support DeFi, NFTs, and decentralized applications with fast and low-cost transactions.",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/5758f95351effbbe2eaea55aebac504f3571e9335721eb6133e540b5dd4d3ddd.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/43C82ECE074C1A96338371706E18FDFFECFE9E0CE2E3F90F735B12C10067BA1F",
     "symbol": "MARS",
     "name": "MARS",
@@ -738,6 +728,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/8b9c4181dd67fc635914b10ba244e2a9543a12da599ca66e5ecc7fc881e24be1.svg",
     "coinGeckoId": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/4A90EF68668456D9DAD92F12F8E94D6ADE17BE9B1125A42F885133832CC4B286",
+    "symbol": "CRO",
+    "name": "cro",
+    "description": "Cronos is a blockchain platform developed by Crypto.com, designed to support DeFi, NFTs, and decentralized applications with fast and low-cost transactions.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/5758f95351effbbe2eaea55aebac504f3571e9335721eb6133e540b5dd4d3ddd.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",

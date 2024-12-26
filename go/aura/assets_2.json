@@ -1,0 +1,12 @@
+[
+    {
+        "type": "staking",
+        "denom": "uaura",
+        "name": "Aura",
+        "symbol": "AURA",
+        "description": "The native token of Aura Network",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/4f045ca06606ea1f24a01f64650f8a2901ef348e472b0a1169bfd61d5bc6a6de.png",
+        "coinGeckoId": "aura-network"
+    }
+]
