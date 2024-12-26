@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      DIRECTORIES: "aura gitopia"
+      DIRECTORIES: "aura gitopia pryzm"
 
     steps:
     - uses: actions/checkout@v4
@@ -59,7 +59,6 @@ jobs:
     - name: Download pryzm assetlist and running schema convertor
       run: |
         rm go/pryzm/assets_2.json
-        wget -O pryzm_assetlist.json https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/pryzm/assetlist.json
         for dir in $DIRECTORIES; do
           wget -O "$dir"_assetlist.json https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/$dir/assetlist.json
         done
@@ -70,7 +69,6 @@ jobs:
           mkdir -p go/$dir
           node scripts/schema-generator/dist/schema-convertor.js "$dir"_assetlist.json go/$dir/assets_2.json
         done
-        node scripts/schema-generator/dist/schema-convertor.js pryzm_assetlist.json go/pryzm/assets_2.json
         sed -i 's/"coinGeckoId": ""/"coinGeckoId": "pryzmatics"/g' go/pryzm/assets_2.json
 
     - name: Running staking denom
