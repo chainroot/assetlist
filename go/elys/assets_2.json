@@ -7,7 +7,7 @@
         "description": "Elys Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/888e3365135e9c1425cc3648d6eeb04f8c58248670d1035cfb883f2da74dca35.png",
-        "coinGeckoId": ""
+        "coinGeckoId": "elys-network"
     },
     {
         "type": "native",

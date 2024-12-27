@@ -1,0 +1,12 @@
+[
+    {
+        "type": "staking",
+        "denom": "ulore",
+        "name": "LORE",
+        "symbol": "LORE",
+        "description": "The native token of Gitopia",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/886583f8bfa7d59583c67b2cbe47ee74bb5930820c1227ec924fdeedd36f8198.png",
+        "coinGeckoId": "gitopia"
+    }
+]

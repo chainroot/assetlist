@@ -1,16 +1,6 @@
 [
   {
     "type": "ibc",
-    "denom": "ibc/C0DB3E0C7F3CD32FA24FC031FD8B6833627A1C690B741BA85D7A4752D974A77F",
-    "symbol": "milkTIA",
-    "name": "milkTIA",
-    "description": "MilkyWay's liquid staked TIA",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/0037e6cb74da671eb058a486f25962d6bb3c5755a034157a2bc38c4d7525226a.svg",
-    "coinGeckoId": "milkyway-staked-tia"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/03FB4E4D1043755015ABF1A84773EA334B2726EF464CF90D926C888ECE2D64FD",
     "symbol": "sqOSMO",
     "name": "sqosmo",
@@ -18,6 +8,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/9836891aec04bacd22d5302b7601f14043982ce75e9316465af2cd9b7f6eeac3.svg",
     "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/C0DB3E0C7F3CD32FA24FC031FD8B6833627A1C690B741BA85D7A4752D974A77F",
+    "symbol": "milkTIA",
+    "name": "milkTIA",
+    "description": "MilkyWay's liquid staked TIA",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/0037e6cb74da671eb058a486f25962d6bb3c5755a034157a2bc38c4d7525226a.svg",
+    "coinGeckoId": "milkyway-staked-tia"
   },
   {
     "type": "ibc",

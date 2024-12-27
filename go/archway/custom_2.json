@@ -211,16 +211,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/E3409E92F78AE5BF44DBC7C4741901E21EF73B7B8F98C4D48F2BD360AF242C00",
-    "symbol": "DEC",
-    "name": "dec",
-    "description": "The native token of Decentr",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/9338bdc5211eaffe7efb92d4d97eb06ed0aba9725a84cd3485d28512d4b42f99.svg",
-    "coinGeckoId": "decentr"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/31D711D31CD5D83D98E76B1486EEDA1A38CD1F7D6FCBD03521FE51323115AECA",
     "symbol": "GRAV",
     "name": "graviton",
@@ -228,6 +218,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/80113d9226d07b7d5f24a7b6f569d4971cdfed9481d0b80d4121b8c3bd7e0a8b.svg",
     "coinGeckoId": "graviton"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/E3409E92F78AE5BF44DBC7C4741901E21EF73B7B8F98C4D48F2BD360AF242C00",
+    "symbol": "DEC",
+    "name": "dec",
+    "description": "The native token of Decentr",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9338bdc5211eaffe7efb92d4d97eb06ed0aba9725a84cd3485d28512d4b42f99.svg",
+    "coinGeckoId": "decentr"
   },
   {
     "type": "ibc",
@@ -311,16 +311,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/6A9571DE6A3F60D7703C3290E2944E806C15A47C1EA6D4AFCD3AE4DC8AF080B1",
-    "symbol": "LVN",
-    "name": "lvn",
-    "description": "Levana Well-funded Perps is a protocol for perpetual swaps, which are leveraged trading contracts.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/d4b74abb24cc5ededa0b2fd76431824bc634119cac0a4dc029a9921388602d5d.svg",
-    "coinGeckoId": "levana-protocol"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/4FC395BDCDCD4A3A681C0D222EE64B610AEDB215DB8D18F46B575357F27CD6A7",
     "symbol": "PASG",
     "name": "pasg",
@@ -328,6 +318,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/fc4bfac4b7d840086fe05233855f45b663fe1c4c4338af0fcebd8b311545d51b.png",
     "coinGeckoId": "passage"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/6A9571DE6A3F60D7703C3290E2944E806C15A47C1EA6D4AFCD3AE4DC8AF080B1",
+    "symbol": "LVN",
+    "name": "lvn",
+    "description": "Levana Well-funded Perps is a protocol for perpetual swaps, which are leveraged trading contracts.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/d4b74abb24cc5ededa0b2fd76431824bc634119cac0a4dc029a9921388602d5d.svg",
+    "coinGeckoId": "levana-protocol"
   },
   {
     "type": "ibc",
@@ -741,26 +741,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/7A1F41EA62DFB97E60A4DA70365CC0D9DFB40D266EDFD40BA1ADE297F9C52D6E",
-    "symbol": "GLTO",
-    "name": "glto",
-    "description": "DeFi gaming platform built on Juno",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/7d4108df024d1d8716ca9d51cce7bf1f82fb520f0b48db39adde375ba171c609.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/477BF795EE81A93C4B278F032FF847261D1FA5A3E41C5338DA3D8173699D9739",
-    "symbol": "BZE",
-    "name": "bze",
-    "description": "BeeZee network native coin",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/a4d074e89a7ef61d23858832c59d6a4b817b889bf8899e097465cc429ec18769.svg",
-    "coinGeckoId": "bzedge"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/12ACC055CC187682F1569FF242541B1D9141262EAC19BCE1486C6DD7B950ACBC",
     "symbol": "USDC",
     "name": "usdc",
@@ -778,6 +758,26 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/9338bdc5211eaffe7efb92d4d97eb06ed0aba9725a84cd3485d28512d4b42f99.svg",
     "coinGeckoId": "decentr"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/477BF795EE81A93C4B278F032FF847261D1FA5A3E41C5338DA3D8173699D9739",
+    "symbol": "BZE",
+    "name": "bze",
+    "description": "BeeZee network native coin",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/a4d074e89a7ef61d23858832c59d6a4b817b889bf8899e097465cc429ec18769.svg",
+    "coinGeckoId": "bzedge"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/7A1F41EA62DFB97E60A4DA70365CC0D9DFB40D266EDFD40BA1ADE297F9C52D6E",
+    "symbol": "GLTO",
+    "name": "glto",
+    "description": "DeFi gaming platform built on Juno",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7d4108df024d1d8716ca9d51cce7bf1f82fb520f0b48db39adde375ba171c609.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -921,16 +921,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/43931282E363F581CC89371ABADA2AAE99A244D882A68A49698068893C2ADFF7",
-    "symbol": "ATOM",
-    "name": "atom",
-    "description": "ATOM is the native cryptocurrency of the Cosmos network, designed to facilitate interoperability between multiple blockchains through its innovative hub-and-spoke model.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
-    "coinGeckoId": "cosmos"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/5841CDA8D251FD93D9FB3520F64CD175CFC59107BE2FA3462DE3FD14F428588D",
     "symbol": "STARS",
     "name": "stars",
@@ -938,6 +928,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/8c41a49f8a121387817f0fd11a45f39da6ea8a8952026c46760f2c001316e207.svg",
     "coinGeckoId": "stargaze"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/43931282E363F581CC89371ABADA2AAE99A244D882A68A49698068893C2ADFF7",
+    "symbol": "ATOM",
+    "name": "atom",
+    "description": "ATOM is the native cryptocurrency of the Cosmos network, designed to facilitate interoperability between multiple blockchains through its innovative hub-and-spoke model.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
+    "coinGeckoId": "cosmos"
   },
   {
     "type": "ibc",
@@ -971,16 +971,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/BE9116F49581FF59F018C64FB4A445B307332F77381640AAB05380473D0D7642",
-    "symbol": "STARS",
-    "name": "stars",
-    "description": "Stargaze is a decentralized blockchain platform designed specifically for non-fungible tokens (NFTs), enabling creators to mint, trade, and interact with NFTs in a fully decentralized environment.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/8c41a49f8a121387817f0fd11a45f39da6ea8a8952026c46760f2c001316e207.svg",
-    "coinGeckoId": "stargaze"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/2A2D9801BFC973276EA9F798EDB970F17F409D1E93A340EB7E49F13BF63AAEE6",
     "symbol": "USDC",
     "name": "usdc",
@@ -988,6 +978,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
     "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/BE9116F49581FF59F018C64FB4A445B307332F77381640AAB05380473D0D7642",
+    "symbol": "STARS",
+    "name": "stars",
+    "description": "Stargaze is a decentralized blockchain platform designed specifically for non-fungible tokens (NFTs), enabling creators to mint, trade, and interact with NFTs in a fully decentralized environment.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/8c41a49f8a121387817f0fd11a45f39da6ea8a8952026c46760f2c001316e207.svg",
+    "coinGeckoId": "stargaze"
   },
   {
     "type": "ibc",
@@ -1111,6 +1111,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/87A1804FA93D72E0A8715A975341BF3CAEDF8FD979C29FBCEE9F8EED2C7DE591",
+    "symbol": "DVPN",
+    "name": "dvpn",
+    "description": "Sentinel is a decentralized VPN (dVPN) network that provides private and secure internet access by leveraging blockchain technology.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7a3905dcc2698978708d7c48b563436e57eb9f03b31440589fee31adf3c218db.svg",
+    "coinGeckoId": "sentinel"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/B5DC82337AED2660F16F0378318A6C7B6A575D469626F33B5C43CD281F4F9BCE",
     "symbol": "JUNO",
     "name": "juno",
@@ -1128,15 +1138,5 @@
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/0cd48cdfcd49902807eb50da7db148b648470cf80daaf35482402ae8e0c504d6.svg",
     "coinGeckoId": "dydx-chain"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/87A1804FA93D72E0A8715A975341BF3CAEDF8FD979C29FBCEE9F8EED2C7DE591",
-    "symbol": "DVPN",
-    "name": "dvpn",
-    "description": "Sentinel is a decentralized VPN (dVPN) network that provides private and secure internet access by leveraging blockchain technology.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/7a3905dcc2698978708d7c48b563436e57eb9f03b31440589fee31adf3c218db.svg",
-    "coinGeckoId": "sentinel"
   }
 ]
