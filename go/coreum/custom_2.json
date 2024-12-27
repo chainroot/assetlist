@@ -441,6 +441,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/552963B375860E3213984367FC0E78B8A88F9F7E75041A731ED6F4045A8E96F6",
+    "symbol": "TIA",
+    "name": "tia",
+    "description": "Celestia is a modular blockchain network focused on data availability, allowing developers to deploy their own customizable blockchains with ease.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/63b9c41acf8957bc42561cd85132fbc75177d2879e5de3873470bd2bb4ec41b3.svg",
+    "coinGeckoId": "celestia"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/E2621BF421356413AA83D684B3201F61EDFDB3294424A79BA6887ED4A5F41917",
     "symbol": "ATOM",
     "name": "atom",
@@ -452,6 +462,26 @@
   {
     "type": "ibc",
     "denom": "ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/1C60D019E017EF82280EBE7D0B17844F77F025C116A5D1B1C7AA38E000C1DA1D",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/5F3ECA456D264F96EC9E845E41EF8C5E05E68B3FA6F239390BE5910B484EACAF",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
@@ -481,27 +511,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/5F3ECA456D264F96EC9E845E41EF8C5E05E68B3FA6F239390BE5910B484EACAF",
-    "symbol": "USDC",
-    "name": "usdc",
-    "description": "Circle's stablecoin on Axelar",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
-    "coinGeckoId": "axlusdc"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/56A422BE026779F847A8EFFFD4F7A91746953288BAB26C4EAE5E21BF4CBB70EE",
-    "symbol": "USDC",
-    "name": "usdc",
-    "description": "Circle's stablecoin on Axelar",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
-    "coinGeckoId": "axlusdc"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/1C60D019E017EF82280EBE7D0B17844F77F025C116A5D1B1C7AA38E000C1DA1D",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
@@ -558,16 +568,6 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/02cdeb8952f563896b380f902d92219ed7f4e4e7f04e25c02e0c9453e10de074.svg",
     "coinGeckoId": "band-protocol"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/552963B375860E3213984367FC0E78B8A88F9F7E75041A731ED6F4045A8E96F6",
-    "symbol": "TIA",
-    "name": "tia",
-    "description": "Celestia is a modular blockchain network focused on data availability, allowing developers to deploy their own customizable blockchains with ease.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/63b9c41acf8957bc42561cd85132fbc75177d2879e5de3873470bd2bb4ec41b3.svg",
-    "coinGeckoId": "celestia"
   },
   {
     "type": "ibc",
