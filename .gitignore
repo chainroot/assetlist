@@ -3,4 +3,4 @@ go/.DS_Store
 images
 retry
 404_retries.log
-assetlist.json
+*assetlist.json
