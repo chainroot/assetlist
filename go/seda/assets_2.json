@@ -1,13 +1,12 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "aseda",
         "name": "Seda",
         "symbol": "SEDA",
         "description": "The native token of SEDA Chain.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/6a80b6537d9748fed97ab2ac8ccc8487c5f733d8cb27d90eae70415571593c8a.png",
+        "image": "https://cdn.chainroot.io/images/tokens/21032ae7e33f4943c21b6d5e6f00e768ecded38d2fe116b60189b685f7131e8f.png",
         "coinGeckoId": "seda-2"
     }
 ]
- 

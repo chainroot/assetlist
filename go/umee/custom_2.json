@@ -21,22 +21,22 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/22E87111ECA3808AFA83FC5639C564230EA62A768772C357A70CF687AB55C53A",
-    "symbol": "stDYDX",
-    "name": "stDYDX",
-    "description": "Stride's liquid staked DYDX",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/8b20e640142bf7e1dee700972d857f29fffe01b14aa0db763a397d99c3361845.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/FAEC929814E0D916C019EB4B8BE58360EC3B6AB6A2B3185CB1EA0B54832DEE68",
     "symbol": "WMATIC",
     "name": "wmatic",
     "description": "Wrapped Matic on Axelar",
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/bf81bb5509d397d93705112cdf2b191085c96ae16f64f144aace3128bbbce029.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/22E87111ECA3808AFA83FC5639C564230EA62A768772C357A70CF687AB55C53A",
+    "symbol": "stDYDX",
+    "name": "stDYDX",
+    "description": "Stride's liquid staked DYDX",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/8b20e640142bf7e1dee700972d857f29fffe01b14aa0db763a397d99c3361845.svg",
     "coinGeckoId": ""
   },
   {
@@ -381,6 +381,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/92BC8E5C50E6664B4DA748B62C1FFBE321967E1F8868EE03B005977F9AA7C0B8",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/5C0C890A7AD88942339E68BD9C4D762D2C0A2A84EE964ECD90BDBDF7FE739E69",
     "symbol": "ETH",
     "name": "eth",
@@ -398,16 +408,6 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/bef990e9d2a34c122cdc2c771e179c100f59ade122dfe4c70358c1b4b97c3305.png",
     "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/92BC8E5C50E6664B4DA748B62C1FFBE321967E1F8868EE03B005977F9AA7C0B8",
-    "symbol": "USDC",
-    "name": "usdc",
-    "description": "Circle's stablecoin on Axelar",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
-    "coinGeckoId": "axlusdc"
   },
   {
     "type": "ibc",
@@ -451,16 +451,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/88178A7DF538EF97AC4585C949304C3DE4FC04AA91F8F1372281E921D3F44A0D",
-    "symbol": "JUNO",
-    "name": "juno",
-    "description": "The native token of JUNO Chain",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/79f9def0d7428ed8b761a7c42dc5f7a3492367f014258935d72cbbe2d813a552.svg",
-    "coinGeckoId": "juno-network"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/D5F6DF9E7E77C6B731A63B253C10B9AE636195D984A3A1558DD55759EA0B517F",
     "symbol": "MARS.old",
     "name": "mars",
@@ -468,6 +458,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/2d857a5e2b35745b028f5c4cd9d5a3bd9dff79e86f63ca9b84fed1d88e409208.svg",
     "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/88178A7DF538EF97AC4585C949304C3DE4FC04AA91F8F1372281E921D3F44A0D",
+    "symbol": "JUNO",
+    "name": "juno",
+    "description": "The native token of JUNO Chain",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/79f9def0d7428ed8b761a7c42dc5f7a3492367f014258935d72cbbe2d813a552.svg",
+    "coinGeckoId": "juno-network"
   },
   {
     "type": "ibc",
@@ -691,7 +691,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/5CE69DEA5377910199E3BCA19ABFC41F2F9820F1E75591E36222C7996763AF35",
+    "denom": "ibc/FF7BFBF92F099F137C61A22D2801E32B15694FF41D73FC893B8F9AB5A8FC3527",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
@@ -701,7 +701,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/FF7BFBF92F099F137C61A22D2801E32B15694FF41D73FC893B8F9AB5A8FC3527",
+    "denom": "ibc/5CE69DEA5377910199E3BCA19ABFC41F2F9820F1E75591E36222C7996763AF35",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
@@ -1111,16 +1111,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/0EFC7B44625187BFB60AF09FF28A25FA49B68B959A505CC5313DF0498D8CF528",
-    "symbol": "STRD",
-    "name": "strd",
-    "description": "Stride is a liquid staking blockchain in the Cosmos ecosystem that allows users to stake any IBC-compatible tokens and receive stTokens in return, providing liquidity while earning staking rewards.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/ec24ec10d44cf36ec24232f5dbb19ad5b61d1972098888b01291b63c1c66722e.svg",
-    "coinGeckoId": "stride"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/AB63225941B84A250E96878400F4BD686981EFA2560A7098D6BA8C28ECFDD0FE",
     "symbol": "USDC",
     "name": "usdc",
@@ -1128,6 +1118,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
     "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/0EFC7B44625187BFB60AF09FF28A25FA49B68B959A505CC5313DF0498D8CF528",
+    "symbol": "STRD",
+    "name": "strd",
+    "description": "Stride is a liquid staking blockchain in the Cosmos ecosystem that allows users to stake any IBC-compatible tokens and receive stTokens in return, providing liquidity while earning staking rewards.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/ec24ec10d44cf36ec24232f5dbb19ad5b61d1972098888b01291b63c1c66722e.svg",
+    "coinGeckoId": "stride"
   },
   {
     "type": "ibc",
@@ -1361,22 +1361,22 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/D98C326E47C99D94BB1FE8195499A659F83E75B8716D520F581B318A7B35F725",
-    "symbol": "NOIS",
-    "name": "nois",
-    "description": "The native token of Nois",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/680e6a002ffc6dfb3de89587642c425b43a882492fecd64c5dd7f4643ce6a541.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/CA0BEF2524A37205009210EFCFB09585FBA9648C5F065FA078944A5C6704E8DC",
     "symbol": "qJUNO",
     "name": "qjuno",
     "description": "Quicksilver Liquid Staked JUNO",
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/e01d23b1f7107ac3d0433b29e0972de06985dabce6d2f2f233e1ea6eb22180ab.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/D98C326E47C99D94BB1FE8195499A659F83E75B8716D520F581B318A7B35F725",
+    "symbol": "NOIS",
+    "name": "nois",
+    "description": "The native token of Nois",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/680e6a002ffc6dfb3de89587642c425b43a882492fecd64c5dd7f4643ce6a541.svg",
     "coinGeckoId": ""
   }
 ]

@@ -1,0 +1,122 @@
+[
+  {
+    "type": "ibc",
+    "denom": "ibc/AA081451CA6B52DE9B1B9E0C94DDA44805DB799121C567E20C0DDA55CBBC0107",
+    "symbol": "INJ",
+    "name": "INJ",
+    "description": "Injective is a decentralized exchange protocol that enables fast, secure, and fully decentralized trading of derivatives, futures, and spot markets.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/c824ba4c934281bfa3a10052366f3c00fe94ed254da7f0e2b82da59a5c2872df.svg",
+    "coinGeckoId": "injective-protocol"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/1FD48481DAA1B05575FE6D3E35929264437B8424A73243B207BCB67401C7F1FD",
+    "symbol": "NOIS",
+    "name": "nois",
+    "description": "The native token of Nois",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/680e6a002ffc6dfb3de89587642c425b43a882492fecd64c5dd7f4643ce6a541.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/D0736809C3C9E1CB5E60AFB3C588F87581613CA3CC51DB66AAAC07145F9D39F8",
+    "symbol": "HUAHUA",
+    "name": "huahua",
+    "description": "Chihuahua is a community-driven blockchain project focused on creating a fun and engaging ecosystem with an emphasis on social interactions and community building.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9f226984a0945cdd8fbe6b52a6285a82b061b6e895fe99f42ce775d42efa8c06.svg",
+    "coinGeckoId": "chihuahua-token"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/A95EBDF88AC1E3FDECAA1D6E250B07C0C86475A3E2BFA2E7DC94A6CDE23DF6D6",
+    "symbol": "USDT",
+    "name": "usdt",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
+    "coinGeckoId": "tether"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/390D0FB1D72B2DAEB959F2EFE6AC0B695CF0A799FE1344059BCD3A406207AFD8",
+    "symbol": "STARS",
+    "name": "stars",
+    "description": "Stargaze is a decentralized blockchain platform designed specifically for non-fungible tokens (NFTs), enabling creators to mint, trade, and interact with NFTs in a fully decentralized environment.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/8c41a49f8a121387817f0fd11a45f39da6ea8a8952026c46760f2c001316e207.svg",
+    "coinGeckoId": "stargaze"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/BFF0D3805B50D93E2FA5C0B2DDF7E0B30A631076CD80BC12A48C0E95404B4A41",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/376222D6D9DAE23092E29740E56B758580935A6D77C24C2ABD57A6A78A1F3955",
+    "symbol": "OSMO",
+    "name": "osmo",
+    "description": "The native token of Osmosis",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/e053406240eac4d978a66008f0551daa497be489fba6c5840e5cd073bd6fcd94.svg",
+    "coinGeckoId": "osmosis"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/CC5AF426682C833A9BB0286C3BD32154D5A0009F2D0A1E5EF090283EDAA371E9",
+    "symbol": "KAVA",
+    "name": "kava",
+    "description": "Kava is a decentralized finance (DeFi) platform that provides a range of financial services, including lending, borrowing, and stablecoins, leveraging the Cosmos and Ethereum ecosystems.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/a516e8c8ce681c3cbdfd1cd699a5d9a002bec3d002344cb13c956f6e6d2ed9da.svg",
+    "coinGeckoId": "kava"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/C09A0FFBA11313A32D42A58D820190E71E9D0D5AB3E841C0391EB9A623E07F4B",
+    "symbol": "ATOM",
+    "name": "atom",
+    "description": "ATOM is the native cryptocurrency of the Cosmos network, designed to facilitate interoperability between multiple blockchains through its innovative hub-and-spoke model.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
+    "coinGeckoId": "cosmos"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/0634D0993744740D675AD01E81156EAC945AEAAE17C074918DC7FF52F41B263E",
+    "symbol": "AXL",
+    "name": "axl",
+    "description": "Axelar is a decentralized interoperability network connecting multiple blockchain ecosystems, enabling seamless cross-chain communication and value transfer.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
+    "coinGeckoId": "axelar"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/C0E66D1C81D8AAF0E6896E05190FDFBC222367148F86AC3EA679C28327A763CD",
+    "symbol": "AXL",
+    "name": "axl",
+    "description": "Axelar is a decentralized interoperability network connecting multiple blockchain ecosystems, enabling seamless cross-chain communication and value transfer.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
+    "coinGeckoId": "axelar"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/730EE1B1C10EC7B874F54E83F1F232EE6093D106040B17DA8079E70AE7D80AC2",
+    "symbol": "STRD",
+    "name": "strd",
+    "description": "Stride is a liquid staking blockchain in the Cosmos ecosystem that allows users to stake any IBC-compatible tokens and receive stTokens in return, providing liquidity while earning staking rewards.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/ec24ec10d44cf36ec24232f5dbb19ad5b61d1972098888b01291b63c1c66722e.svg",
+    "coinGeckoId": "stride"
+  }
+]

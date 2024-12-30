@@ -1,0 +1,32 @@
+[
+  {
+    "type": "ibc",
+    "denom": "ibc/CDA5B714CE662DCFF220425E49001332968C6B61990ECDB82E8F570139A6DCF6",
+    "symbol": "WMATIC",
+    "name": "wmatic",
+    "description": "Wrapped Matic on Axelar",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/bf81bb5509d397d93705112cdf2b191085c96ae16f64f144aace3128bbbce029.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/869FC01C559DDC2DC2CD241FBF99115CA60FE7AFC7C56EF0B382CA7B0E1CB5B1",
+    "symbol": "THIOL",
+    "name": "thiol",
+    "description": "Thiol Gas Token (Thiols) is the Terp Network's native utility token, used as the primary means to govern, secure the blockchain & incentivize participants.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/cdd9d5083031e1210f473201f35d80964522e900e19a1393aca337e9f70d6e04.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/4AEA7A5C89B744156996AEE30DAB3CCDCD7039A5625D89C8B7178E6D4C068D57",
+    "symbol": "TERP",
+    "name": "terp",
+    "description": "Terp Token (TERP) is the Terp Network's native utility token, used as the primary means to govern & secure the blockchain.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7d439ccbf3cc14b0182c8d8106f543b29b881e9333304daa11f30ccee98aef83.png",
+    "coinGeckoId": ""
+  }
+]
