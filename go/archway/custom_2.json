@@ -211,16 +211,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/31D711D31CD5D83D98E76B1486EEDA1A38CD1F7D6FCBD03521FE51323115AECA",
-    "symbol": "GRAV",
-    "name": "graviton",
-    "description": "The native token of Gravity Bridge",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/80113d9226d07b7d5f24a7b6f569d4971cdfed9481d0b80d4121b8c3bd7e0a8b.svg",
-    "coinGeckoId": "graviton"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/E3409E92F78AE5BF44DBC7C4741901E21EF73B7B8F98C4D48F2BD360AF242C00",
     "symbol": "DEC",
     "name": "dec",
@@ -228,6 +218,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/9338bdc5211eaffe7efb92d4d97eb06ed0aba9725a84cd3485d28512d4b42f99.svg",
     "coinGeckoId": "decentr"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/31D711D31CD5D83D98E76B1486EEDA1A38CD1F7D6FCBD03521FE51323115AECA",
+    "symbol": "GRAV",
+    "name": "graviton",
+    "description": "The native token of Gravity Bridge",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/80113d9226d07b7d5f24a7b6f569d4971cdfed9481d0b80d4121b8c3bd7e0a8b.svg",
+    "coinGeckoId": "graviton"
   },
   {
     "type": "ibc",
@@ -551,16 +551,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/6D969D4769854314695E979D202CDC7E34946B85AF862D3FC1268EB0203F1734",
-    "symbol": "NIBI",
-    "name": "nibi",
-    "description": "The native token of Nibiru network",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/7c1dcfbab341484b8f40a8fc49cea6bc1b58d372ec5c734a9cb7abcd14182673.svg",
-    "coinGeckoId": "nibiru"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/7CB33A66F90533ED1E168CB3251253C719CF4B04FF1290AFD795F14CA1D67278",
     "symbol": "WOSMO",
     "name": "WOSMO",
@@ -571,13 +561,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/55967CD055E19BF374A2556456C5760DAFDCF1D86DD85FAD08DBA806964DB2C4",
-    "symbol": "STRD",
-    "name": "strd",
-    "description": "Stride is a liquid staking blockchain in the Cosmos ecosystem that allows users to stake any IBC-compatible tokens and receive stTokens in return, providing liquidity while earning staking rewards.",
+    "denom": "ibc/6D969D4769854314695E979D202CDC7E34946B85AF862D3FC1268EB0203F1734",
+    "symbol": "NIBI",
+    "name": "nibi",
+    "description": "The native token of Nibiru network",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/ec24ec10d44cf36ec24232f5dbb19ad5b61d1972098888b01291b63c1c66722e.svg",
-    "coinGeckoId": "stride"
+    "image": "https://cdn.chainroot.io/images/tokens/7c1dcfbab341484b8f40a8fc49cea6bc1b58d372ec5c734a9cb7abcd14182673.svg",
+    "coinGeckoId": "nibiru"
   },
   {
     "type": "ibc",
@@ -608,6 +598,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/9b4df5623b76ae925d1947e3d154d0f88fb1d194ff62673d6af8bc0a77e6a71a.svg",
     "coinGeckoId": "kujira"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/55967CD055E19BF374A2556456C5760DAFDCF1D86DD85FAD08DBA806964DB2C4",
+    "symbol": "STRD",
+    "name": "strd",
+    "description": "Stride is a liquid staking blockchain in the Cosmos ecosystem that allows users to stake any IBC-compatible tokens and receive stTokens in return, providing liquidity while earning staking rewards.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/ec24ec10d44cf36ec24232f5dbb19ad5b61d1972098888b01291b63c1c66722e.svg",
+    "coinGeckoId": "stride"
   },
   {
     "type": "ibc",
@@ -691,16 +691,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/0E94A94FD7D7D63AB7FCC4520472CA83F6B90580505B7701E5F239AC29A89ED8",
-    "symbol": "ATOM",
-    "name": "atom",
-    "description": "ATOM is the native cryptocurrency of the Cosmos network, designed to facilitate interoperability between multiple blockchains through its innovative hub-and-spoke model.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
-    "coinGeckoId": "cosmos"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/990E93567199B1DEF8EE01A41A20D4DA43BE1957E575220319BC2BFFB0C4AD23",
     "symbol": "OSMO",
     "name": "osmo",
@@ -708,6 +698,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/e053406240eac4d978a66008f0551daa497be489fba6c5840e5cd073bd6fcd94.svg",
     "coinGeckoId": "osmosis"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/0E94A94FD7D7D63AB7FCC4520472CA83F6B90580505B7701E5F239AC29A89ED8",
+    "symbol": "ATOM",
+    "name": "atom",
+    "description": "ATOM is the native cryptocurrency of the Cosmos network, designed to facilitate interoperability between multiple blockchains through its innovative hub-and-spoke model.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
+    "coinGeckoId": "cosmos"
   },
   {
     "type": "ibc",
@@ -741,13 +741,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/12ACC055CC187682F1569FF242541B1D9141262EAC19BCE1486C6DD7B950ACBC",
-    "symbol": "USDC",
-    "name": "usdc",
-    "description": "Circle's stablecoin on Axelar",
+    "denom": "ibc/7A1F41EA62DFB97E60A4DA70365CC0D9DFB40D266EDFD40BA1ADE297F9C52D6E",
+    "symbol": "GLTO",
+    "name": "glto",
+    "description": "DeFi gaming platform built on Juno",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
-    "coinGeckoId": "axlusdc"
+    "image": "https://cdn.chainroot.io/images/tokens/7d4108df024d1d8716ca9d51cce7bf1f82fb520f0b48db39adde375ba171c609.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -761,6 +761,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/12ACC055CC187682F1569FF242541B1D9141262EAC19BCE1486C6DD7B950ACBC",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/477BF795EE81A93C4B278F032FF847261D1FA5A3E41C5338DA3D8173699D9739",
     "symbol": "BZE",
     "name": "bze",
@@ -768,16 +778,6 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/a4d074e89a7ef61d23858832c59d6a4b817b889bf8899e097465cc429ec18769.svg",
     "coinGeckoId": "bzedge"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/7A1F41EA62DFB97E60A4DA70365CC0D9DFB40D266EDFD40BA1ADE297F9C52D6E",
-    "symbol": "GLTO",
-    "name": "glto",
-    "description": "DeFi gaming platform built on Juno",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/7d4108df024d1d8716ca9d51cce7bf1f82fb520f0b48db39adde375ba171c609.svg",
-    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -821,16 +821,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/7DADDE195EB29C2479384C896DAF7543732D5991FF283F905F30C7FCA6AFAE7D",
-    "symbol": "IST",
-    "name": "ist",
-    "description": "IST is the stable token used by the Agoric chain for execution fees and commerce.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/fad17c87afd28b2ec6791b95fbb9038e1f51a2efebea8cfcb19f2d3db09941ef.svg",
-    "coinGeckoId": "inter-stable-token"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/DD9FFDD2E0B4EE93EBFD1C433501A008C8B7593DAB158944AE6C990500788D05",
     "symbol": "bWHALE",
     "name": "bWHALE",
@@ -838,6 +828,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/28c4cd2961bb40ebd2cca253c6b8d5a0e9fdea3425a79112865cfe12c37268a6.png",
     "coinGeckoId": "backbone-labs-staked-whale"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/7DADDE195EB29C2479384C896DAF7543732D5991FF283F905F30C7FCA6AFAE7D",
+    "symbol": "IST",
+    "name": "ist",
+    "description": "IST is the stable token used by the Agoric chain for execution fees and commerce.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/fad17c87afd28b2ec6791b95fbb9038e1f51a2efebea8cfcb19f2d3db09941ef.svg",
+    "coinGeckoId": "inter-stable-token"
   },
   {
     "type": "ibc",
@@ -951,7 +951,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/AD29CB92888C839B3EAD3125ABA2689FEA8D43CE01CDCB8139A8545E67522E74",
+    "denom": "ibc/2A2D9801BFC973276EA9F798EDB970F17F409D1E93A340EB7E49F13BF63AAEE6",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
@@ -971,16 +971,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/2A2D9801BFC973276EA9F798EDB970F17F409D1E93A340EB7E49F13BF63AAEE6",
-    "symbol": "USDC",
-    "name": "usdc",
-    "description": "Circle's stablecoin on Axelar",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
-    "coinGeckoId": "axlusdc"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/BE9116F49581FF59F018C64FB4A445B307332F77381640AAB05380473D0D7642",
     "symbol": "STARS",
     "name": "stars",
@@ -988,6 +978,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/8c41a49f8a121387817f0fd11a45f39da6ea8a8952026c46760f2c001316e207.svg",
     "coinGeckoId": "stargaze"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/AD29CB92888C839B3EAD3125ABA2689FEA8D43CE01CDCB8139A8545E67522E74",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
   },
   {
     "type": "ibc",
@@ -1111,16 +1111,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/87A1804FA93D72E0A8715A975341BF3CAEDF8FD979C29FBCEE9F8EED2C7DE591",
-    "symbol": "DVPN",
-    "name": "dvpn",
-    "description": "Sentinel is a decentralized VPN (dVPN) network that provides private and secure internet access by leveraging blockchain technology.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/7a3905dcc2698978708d7c48b563436e57eb9f03b31440589fee31adf3c218db.svg",
-    "coinGeckoId": "sentinel"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/B5DC82337AED2660F16F0378318A6C7B6A575D469626F33B5C43CD281F4F9BCE",
     "symbol": "JUNO",
     "name": "juno",
@@ -1138,5 +1128,15 @@
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/0cd48cdfcd49902807eb50da7db148b648470cf80daaf35482402ae8e0c504d6.svg",
     "coinGeckoId": "dydx-chain"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/87A1804FA93D72E0A8715A975341BF3CAEDF8FD979C29FBCEE9F8EED2C7DE591",
+    "symbol": "DVPN",
+    "name": "dvpn",
+    "description": "Sentinel is a decentralized VPN (dVPN) network that provides private and secure internet access by leveraging blockchain technology.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7a3905dcc2698978708d7c48b563436e57eb9f03b31440589fee31adf3c218db.svg",
+    "coinGeckoId": "sentinel"
   }
 ]
