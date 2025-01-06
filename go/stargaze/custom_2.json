@@ -261,16 +261,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/9A3E51FFBC62C7B2652F9A3318DAB8F6A6EA6983787341C07309EB1613F86876",
-    "symbol": "nBTC",
-    "name": "nbtc",
-    "description": "Bitcoin. On Cosmos.",
-    "decimals": 14,
-    "image": "https://cdn.chainroot.io/images/tokens/143844b86cc394c2f6884a3fae9e80472ed64ef0419a8db4ff00473e0e32659f.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/4A1C18CA7F50544760CF306189B810CE4C1CB156C7FC870143D401FE7280E591",
     "symbol": "USDC",
     "name": "usdc",
@@ -278,6 +268,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
     "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/9A3E51FFBC62C7B2652F9A3318DAB8F6A6EA6983787341C07309EB1613F86876",
+    "symbol": "nBTC",
+    "name": "nbtc",
+    "description": "Bitcoin. On Cosmos.",
+    "decimals": 14,
+    "image": "https://cdn.chainroot.io/images/tokens/143844b86cc394c2f6884a3fae9e80472ed64ef0419a8db4ff00473e0e32659f.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -331,6 +331,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/C1E2DCB0EEA34674CA30CBEFD68282BEA0B07780B465EBA5F7EC308B2F7EDA95",
+    "symbol": "GOP",
+    "name": "GOP",
+    "description": "CryptoGopniks token",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/a824f836617f5f0e3e777fef0ba87f7e3ed713577307814e842d50ef335f0a01.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/E5D00D5F98A0C2C6902F4768AA5F5BA9A4692BCE68810079D8CB0DC5433FBD56",
     "symbol": "JURIS",
     "name": "juris",
@@ -348,16 +358,6 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
     "coinGeckoId": "axlusdc"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/C1E2DCB0EEA34674CA30CBEFD68282BEA0B07780B465EBA5F7EC308B2F7EDA95",
-    "symbol": "GOP",
-    "name": "GOP",
-    "description": "CryptoGopniks token",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/a824f836617f5f0e3e777fef0ba87f7e3ed713577307814e842d50ef335f0a01.png",
-    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -421,6 +421,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/0F78E9BB57967216988AAE26A301792CDBE488DDA321D6FB7337373F35BF0B20",
+    "symbol": "NTRN",
+    "name": "ntrn",
+    "description": "Neutron is a smart contract blockchain within the Cosmos ecosystem, leveraging the Cosmos Hub's security to provide cross-chain DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/bcc7880c69cc88313d52a96ce2f7e780a98c5e8a5b86e7318667fd5eabe34c4c.svg",
+    "coinGeckoId": "neutron-3"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/8235A3DB4704ABE073531158371DE77E789D21FD3D0702BF86F8FE321040216E",
     "symbol": "SIN",
     "name": "SIN",
@@ -451,16 +461,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/12C0B8B561AFCFDA3C73DEE0F7F84AA2B860D48493C27E8E81A5D14724FAB08B",
-    "symbol": "PHMN",
-    "name": "phmn",
-    "description": "The native token cw20 for PHMN on Juno Chain",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/38930be195cdc6d064b6504bd149036bbad8fc264c564e209558775cf15b310e.svg",
-    "coinGeckoId": "posthuman"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/FED316EA6AA1F52581F61D5D4B38F2A09042D5EA1DABA07B8A23C1EE3C0C4651",
     "symbol": "stATOM",
     "name": "statom",
@@ -468,6 +468,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/8952f870f7fecceb24d59b6e5e2cfba7235d513ea0cf5f5db6989352605b52b3.svg",
     "coinGeckoId": "stride-staked-atom"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/12C0B8B561AFCFDA3C73DEE0F7F84AA2B860D48493C27E8E81A5D14724FAB08B",
+    "symbol": "PHMN",
+    "name": "phmn",
+    "description": "The native token cw20 for PHMN on Juno Chain",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/38930be195cdc6d064b6504bd149036bbad8fc264c564e209558775cf15b310e.svg",
+    "coinGeckoId": "posthuman"
   },
   {
     "type": "ibc",
@@ -531,16 +541,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/A1F5AED38B17FC8C2009DD6BD70E463C7D3641B35D1676680CF9329D85C28018",
-    "symbol": "AXL",
-    "name": "axl",
-    "description": "Axelar is a decentralized interoperability network connecting multiple blockchain ecosystems, enabling seamless cross-chain communication and value transfer.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
-    "coinGeckoId": "axelar"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/9C40A8368C0E1CAA4144DBDEBBCE2E7A5CC2D128F0A9F785ECB71ECFF575114C",
     "symbol": "FRNZ",
     "name": "frienzies",
@@ -548,6 +548,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/9d4973b62e2e062a49f93c43f1f323f06402dbe4ffec0458cbb976464d6270a7.svg",
     "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/A1F5AED38B17FC8C2009DD6BD70E463C7D3641B35D1676680CF9329D85C28018",
+    "symbol": "AXL",
+    "name": "axl",
+    "description": "Axelar is a decentralized interoperability network connecting multiple blockchain ecosystems, enabling seamless cross-chain communication and value transfer.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
+    "coinGeckoId": "axelar"
   },
   {
     "type": "ibc",
@@ -581,16 +591,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/3424C7A72C5E6FBE6B0D4EDD6E4B7A086B9B1536B22EFE18E8D81E94D39444F0",
-    "symbol": "USDC",
-    "name": "usdc",
-    "description": "Circle's stablecoin on Axelar",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
-    "coinGeckoId": "axlusdc"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/61FB7FABAEDD6FEFCB220C45C919E93DCF4D7BC4D1938F1E959EF372312B9E34",
     "symbol": "LUNC",
     "name": "luna",
@@ -601,7 +601,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/D7EB107A4F8A4C00701745061BF752A8FD99FE269D1491364AD150F05F175421",
+    "denom": "ibc/3424C7A72C5E6FBE6B0D4EDD6E4B7A086B9B1536B22EFE18E8D81E94D39444F0",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
@@ -611,13 +611,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/0F78E9BB57967216988AAE26A301792CDBE488DDA321D6FB7337373F35BF0B20",
-    "symbol": "NTRN",
-    "name": "ntrn",
-    "description": "Neutron is a smart contract blockchain within the Cosmos ecosystem, leveraging the Cosmos Hub's security to provide cross-chain DeFi applications.",
+    "denom": "ibc/D7EB107A4F8A4C00701745061BF752A8FD99FE269D1491364AD150F05F175421",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/bcc7880c69cc88313d52a96ce2f7e780a98c5e8a5b86e7318667fd5eabe34c4c.svg",
-    "coinGeckoId": "neutron-3"
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
   },
   {
     "type": "ibc",
@@ -681,26 +681,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/FD3B4530AC2B3504ED3CD9F7A7D19224D4D7CBB4F2A849FE26153E69B2CD260F",
-    "symbol": "stkSTARS",
-    "name": "stkstars",
-    "description": "PSTAKE Liquid-Staked STARS",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/bf831df33f8f230876b87b108a3394fedf5414a6ea495d20f97ccc9f5cb332da.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/AD5DA1F4080C8595526235C019466E7619B7F1FC631F79A8E43B7CD0A3A2F8AD",
-    "symbol": "ATOM",
-    "name": "atom",
-    "description": "ATOM is the native cryptocurrency of the Cosmos network, designed to facilitate interoperability between multiple blockchains through its innovative hub-and-spoke model.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
-    "coinGeckoId": "cosmos"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/8E289D1D497DC7C1612DAD8468D1531C9DA5B062882D7423B82074395DB66F06",
     "symbol": "STARS",
     "name": "stars",
@@ -718,6 +698,36 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
     "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/FD3B4530AC2B3504ED3CD9F7A7D19224D4D7CBB4F2A849FE26153E69B2CD260F",
+    "symbol": "stkSTARS",
+    "name": "stkstars",
+    "description": "PSTAKE Liquid-Staked STARS",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/bf831df33f8f230876b87b108a3394fedf5414a6ea495d20f97ccc9f5cb332da.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/2DDFDF63F939D87C6EC0CA3341E66A197FC4D04B88C639C6BD942500415FC544",
+    "symbol": "STARS",
+    "name": "stars",
+    "description": "Stargaze is a decentralized blockchain platform designed specifically for non-fungible tokens (NFTs), enabling creators to mint, trade, and interact with NFTs in a fully decentralized environment.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/8c41a49f8a121387817f0fd11a45f39da6ea8a8952026c46760f2c001316e207.svg",
+    "coinGeckoId": "stargaze"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/AD5DA1F4080C8595526235C019466E7619B7F1FC631F79A8E43B7CD0A3A2F8AD",
+    "symbol": "ATOM",
+    "name": "atom",
+    "description": "ATOM is the native cryptocurrency of the Cosmos network, designed to facilitate interoperability between multiple blockchains through its innovative hub-and-spoke model.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
+    "coinGeckoId": "cosmos"
   },
   {
     "type": "ibc",
@@ -741,16 +751,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/2DDFDF63F939D87C6EC0CA3341E66A197FC4D04B88C639C6BD942500415FC544",
-    "symbol": "STARS",
-    "name": "stars",
-    "description": "Stargaze is a decentralized blockchain platform designed specifically for non-fungible tokens (NFTs), enabling creators to mint, trade, and interact with NFTs in a fully decentralized environment.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/8c41a49f8a121387817f0fd11a45f39da6ea8a8952026c46760f2c001316e207.svg",
-    "coinGeckoId": "stargaze"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/F5FABF52B54E65064B57BF6DBD8E5FAD22CEE9F4B8A57ADBB20CCD0173AA72A4",
     "symbol": "USDC",
     "name": "usdc",
@@ -767,6 +767,16 @@
     "description": "Frogztrik NFT Token",
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/d2a41e8bc27982263186fcb05b0311db843bef9b7aa9f50cdc59e245ac5891d9.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/405B9B9C22B8302483FB7C9CE4386917CAD66B6551B20B16BFEB1C7BD34ECCA6",
+    "symbol": "GOP",
+    "name": "GOP",
+    "description": "CryptoGopniks token",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/a824f836617f5f0e3e777fef0ba87f7e3ed713577307814e842d50ef335f0a01.png",
     "coinGeckoId": ""
   },
   {
@@ -881,16 +891,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/8D9262E35CAE362FA74AE05E430550757CF8D842EC1B241F645D3CB7179AFD10",
-    "symbol": "JUNO",
-    "name": "juno",
-    "description": "The native token of JUNO Chain",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/79f9def0d7428ed8b761a7c42dc5f7a3492367f014258935d72cbbe2d813a552.svg",
-    "coinGeckoId": "juno-network"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/578AD832358DF853CB7544968E94D5D716B2364E5E09B2C0DD365CA91AD4E1D8",
     "symbol": "USTC",
     "name": "ust",
@@ -898,6 +898,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/bbf7ad631fa51027777b71c54feda0517f9f112a5f42edad9c584fb9724561cb.svg",
     "coinGeckoId": "terrausd"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/8D9262E35CAE362FA74AE05E430550757CF8D842EC1B241F645D3CB7179AFD10",
+    "symbol": "JUNO",
+    "name": "juno",
+    "description": "The native token of JUNO Chain",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/79f9def0d7428ed8b761a7c42dc5f7a3492367f014258935d72cbbe2d813a552.svg",
+    "coinGeckoId": "juno-network"
   },
   {
     "type": "ibc",
