@@ -71,16 +71,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/CF326F6F0E8DCCD631159F23A60F1F5F31C81A46406D88641C130BA16D75280B",
-    "symbol": "DORA",
-    "name": "DORA",
-    "description": "The native staking and governance token of the Theta testnet version of the Dora Vota.",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/ae2fd8599600585d1feb8a94482153935469d63c8559404b52e447a741dc1094.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/3564A554CC5EB66E056753F0CC0B02EEA3039F01F7808E4BA4B1C19B47F902E2",
     "symbol": "ARCH",
     "name": "arch",
@@ -88,6 +78,16 @@
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/07971aee03539b97e171dabdbc8a9974e849917dc4c1f667630c33088ec83497.svg",
     "coinGeckoId": "archway"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/CF326F6F0E8DCCD631159F23A60F1F5F31C81A46406D88641C130BA16D75280B",
+    "symbol": "DORA",
+    "name": "DORA",
+    "description": "The native staking and governance token of the Theta testnet version of the Dora Vota.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/ae2fd8599600585d1feb8a94482153935469d63c8559404b52e447a741dc1094.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -271,16 +271,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/E6208E49B5FA2353C9C47D2EB9AABA03FED788E4970C7C623F6B511263E7CB11",
-    "symbol": "BTSG",
-    "name": "btsg",
-    "description": "BitSong Native Token",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/1dc938038b71c5f1a85de37216ba7471ea9ac6be735980308d4b0def67ffd18b.svg",
-    "coinGeckoId": "bitsong"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/55D94A32095A766971637425D998AAABF8357A1ABCB1CAC8614887BE51BF1FB1",
     "symbol": "ANDR",
     "name": "andr",
@@ -288,6 +278,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/fa2f0049c733c83a51bf71cf5e841b832087b49e3e79c871c6ba19f17c6a9f56.png",
     "coinGeckoId": "andromeda-2"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/E6208E49B5FA2353C9C47D2EB9AABA03FED788E4970C7C623F6B511263E7CB11",
+    "symbol": "BTSG",
+    "name": "btsg",
+    "description": "BitSong Native Token",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/1dc938038b71c5f1a85de37216ba7471ea9ac6be735980308d4b0def67ffd18b.svg",
+    "coinGeckoId": "bitsong"
   },
   {
     "type": "ibc",
@@ -531,16 +531,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/D13AABCCFE67FFA98AD2FADCCA765BB297171548748231E6BB0A61EFDBE137A8",
-    "symbol": "COREUM",
-    "name": "core",
-    "description": "The native token of Coreum",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/e3445a89cd6ce7b1366b464f374aff6ff42f81bc67d08a3cd75f63a951d2cb0c.svg",
-    "coinGeckoId": "coreum"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/3BEA25F3A13A9C17476C821CCF8ECCC84351DDB7B1B06B98654C3B4427F785CC",
     "symbol": "JUNO",
     "name": "juno",
@@ -548,6 +538,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/79f9def0d7428ed8b761a7c42dc5f7a3492367f014258935d72cbbe2d813a552.svg",
     "coinGeckoId": "juno-network"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/D13AABCCFE67FFA98AD2FADCCA765BB297171548748231E6BB0A61EFDBE137A8",
+    "symbol": "COREUM",
+    "name": "core",
+    "description": "The native token of Coreum",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/e3445a89cd6ce7b1366b464f374aff6ff42f81bc67d08a3cd75f63a951d2cb0c.svg",
+    "coinGeckoId": "coreum"
   },
   {
     "type": "ibc",
@@ -741,13 +741,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/7A1F41EA62DFB97E60A4DA70365CC0D9DFB40D266EDFD40BA1ADE297F9C52D6E",
-    "symbol": "GLTO",
-    "name": "glto",
-    "description": "DeFi gaming platform built on Juno",
+    "denom": "ibc/477BF795EE81A93C4B278F032FF847261D1FA5A3E41C5338DA3D8173699D9739",
+    "symbol": "BZE",
+    "name": "bze",
+    "description": "BeeZee network native coin",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/7d4108df024d1d8716ca9d51cce7bf1f82fb520f0b48db39adde375ba171c609.svg",
-    "coinGeckoId": ""
+    "image": "https://cdn.chainroot.io/images/tokens/a4d074e89a7ef61d23858832c59d6a4b817b889bf8899e097465cc429ec18769.svg",
+    "coinGeckoId": "bzedge"
   },
   {
     "type": "ibc",
@@ -771,13 +771,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/477BF795EE81A93C4B278F032FF847261D1FA5A3E41C5338DA3D8173699D9739",
-    "symbol": "BZE",
-    "name": "bze",
-    "description": "BeeZee network native coin",
+    "denom": "ibc/7A1F41EA62DFB97E60A4DA70365CC0D9DFB40D266EDFD40BA1ADE297F9C52D6E",
+    "symbol": "GLTO",
+    "name": "glto",
+    "description": "DeFi gaming platform built on Juno",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/a4d074e89a7ef61d23858832c59d6a4b817b889bf8899e097465cc429ec18769.svg",
-    "coinGeckoId": "bzedge"
+    "image": "https://cdn.chainroot.io/images/tokens/7d4108df024d1d8716ca9d51cce7bf1f82fb520f0b48db39adde375ba171c609.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -951,16 +951,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/2A2D9801BFC973276EA9F798EDB970F17F409D1E93A340EB7E49F13BF63AAEE6",
-    "symbol": "USDC",
-    "name": "usdc",
-    "description": "Circle's stablecoin on Axelar",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
-    "coinGeckoId": "axlusdc"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/DBA679B94E751C34858603D528C17F4A64A6E8FBD1DDB18F33EE2BC917A76F69",
     "symbol": "AKT",
     "name": "akt",
@@ -968,6 +958,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/33d728dfd3351a640e4f316dcadbc5e50dfdb4a3798bb74e9485f74585cf0245.svg",
     "coinGeckoId": "akash-network"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/2A2D9801BFC973276EA9F798EDB970F17F409D1E93A340EB7E49F13BF63AAEE6",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
   },
   {
     "type": "ibc",
@@ -1051,16 +1051,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/C69729F33CE15D4EE00C941760839967D614D40377CE0BC9ACF389C018D3177D",
-    "symbol": "NTRN",
-    "name": "ntrn",
-    "description": "Neutron is a smart contract blockchain within the Cosmos ecosystem, leveraging the Cosmos Hub's security to provide cross-chain DeFi applications.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/bcc7880c69cc88313d52a96ce2f7e780a98c5e8a5b86e7318667fd5eabe34c4c.svg",
-    "coinGeckoId": "neutron-3"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/7451074F46885686D3B47B12A6BF74F6D36847ED1891AC612FCFAEB7FB551E14",
     "symbol": "stATOM",
     "name": "statom",
@@ -1068,6 +1058,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/8952f870f7fecceb24d59b6e5e2cfba7235d513ea0cf5f5db6989352605b52b3.svg",
     "coinGeckoId": "stride-staked-atom"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/C69729F33CE15D4EE00C941760839967D614D40377CE0BC9ACF389C018D3177D",
+    "symbol": "NTRN",
+    "name": "ntrn",
+    "description": "Neutron is a smart contract blockchain within the Cosmos ecosystem, leveraging the Cosmos Hub's security to provide cross-chain DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/bcc7880c69cc88313d52a96ce2f7e780a98c5e8a5b86e7318667fd5eabe34c4c.svg",
+    "coinGeckoId": "neutron-3"
   },
   {
     "type": "ibc",
@@ -1081,13 +1081,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/4D56727F6B1D163D066DD1E52922DDF301A137E43F95BFB9D6B5828ECC877496",
-    "symbol": "stJUNO",
-    "name": "stjuno",
-    "description": "",
+    "denom": "ibc/32CC7460D443ECE2EB7D505CA527E99ED90630D5B8AAF2AAA647C602EDCE2FC9",
+    "symbol": "BADKID",
+    "name": "BADKID",
+    "description": "A clan of 11y bad kids crafting chaos on the Cosmos eco. One bad memecoin to rule them all  $BADKID. Airdropped to Badkids NFT holders and $STARS stakers. It's so bad, your wallet's throwing a tantrum for it.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/553e200543ab8c9fe84dd9f1bc86fc0fe075eb14ff4254f71d49fa3a56bd37cb.svg",
-    "coinGeckoId": "stride-staked-juno"
+    "image": "https://cdn.chainroot.io/images/tokens/ec9c100c89d79a7ae1387de7c874ba16327aa8637036df0df215d4143bb6c7b6.png",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -1101,13 +1101,23 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/32CC7460D443ECE2EB7D505CA527E99ED90630D5B8AAF2AAA647C602EDCE2FC9",
-    "symbol": "BADKID",
-    "name": "BADKID",
-    "description": "A clan of 11y bad kids crafting chaos on the Cosmos eco. One bad memecoin to rule them all  $BADKID. Airdropped to Badkids NFT holders and $STARS stakers. It's so bad, your wallet's throwing a tantrum for it.",
+    "denom": "ibc/4D56727F6B1D163D066DD1E52922DDF301A137E43F95BFB9D6B5828ECC877496",
+    "symbol": "stJUNO",
+    "name": "stjuno",
+    "description": "",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/ec9c100c89d79a7ae1387de7c874ba16327aa8637036df0df215d4143bb6c7b6.png",
-    "coinGeckoId": ""
+    "image": "https://cdn.chainroot.io/images/tokens/553e200543ab8c9fe84dd9f1bc86fc0fe075eb14ff4254f71d49fa3a56bd37cb.svg",
+    "coinGeckoId": "stride-staked-juno"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/87A1804FA93D72E0A8715A975341BF3CAEDF8FD979C29FBCEE9F8EED2C7DE591",
+    "symbol": "DVPN",
+    "name": "dvpn",
+    "description": "Sentinel is a decentralized VPN (dVPN) network that provides private and secure internet access by leveraging blockchain technology.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7a3905dcc2698978708d7c48b563436e57eb9f03b31440589fee31adf3c218db.svg",
+    "coinGeckoId": "sentinel"
   },
   {
     "type": "ibc",
@@ -1128,15 +1138,5 @@
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/0cd48cdfcd49902807eb50da7db148b648470cf80daaf35482402ae8e0c504d6.svg",
     "coinGeckoId": "dydx-chain"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/87A1804FA93D72E0A8715A975341BF3CAEDF8FD979C29FBCEE9F8EED2C7DE591",
-    "symbol": "DVPN",
-    "name": "dvpn",
-    "description": "Sentinel is a decentralized VPN (dVPN) network that provides private and secure internet access by leveraging blockchain technology.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/7a3905dcc2698978708d7c48b563436e57eb9f03b31440589fee31adf3c218db.svg",
-    "coinGeckoId": "sentinel"
   }
 ]

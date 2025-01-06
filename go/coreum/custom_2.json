@@ -71,6 +71,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/D2F802F0FD1A2FE471B1E7B417FF2817607F887599C9B7D03EB59DCC4659206F",
+    "symbol": "XRP",
+    "name": "xrp",
+    "description": "XRP bridged from XRPL",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/fa2e0fc5aead6e2b42c7f6a8dd35859012b882175ea92867f1a1d566256bd14e.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/86C47890A76159A5342B1D1BC405AF8C5A85270C892B272E9F58527EE52CAD5E",
     "symbol": "COREUM",
     "name": "core",
@@ -351,7 +361,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/F698E9343925ECF0083BCF4DDA54195D4080D941FB0E9D67EFBA428635482C8E",
+    "denom": "ibc/31A342530A712819CC8102D0BB8CA86E50C173E828D071D651E807D55BB0DEE6",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
@@ -361,7 +371,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/31A342530A712819CC8102D0BB8CA86E50C173E828D071D651E807D55BB0DEE6",
+    "denom": "ibc/F698E9343925ECF0083BCF4DDA54195D4080D941FB0E9D67EFBA428635482C8E",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
@@ -471,7 +481,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/1C60D019E017EF82280EBE7D0B17844F77F025C116A5D1B1C7AA38E000C1DA1D",
+    "denom": "ibc/DE1E92792C72BD79E5B91C367133F923B32A8E46E0A6986DB177AFFC00BA7E72",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
@@ -491,7 +501,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/DE1E92792C72BD79E5B91C367133F923B32A8E46E0A6986DB177AFFC00BA7E72",
+    "denom": "ibc/56A422BE026779F847A8EFFFD4F7A91746953288BAB26C4EAE5E21BF4CBB70EE",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
@@ -511,7 +521,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/56A422BE026779F847A8EFFFD4F7A91746953288BAB26C4EAE5E21BF4CBB70EE",
+    "denom": "ibc/1C60D019E017EF82280EBE7D0B17844F77F025C116A5D1B1C7AA38E000C1DA1D",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",

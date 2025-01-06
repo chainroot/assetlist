@@ -131,16 +131,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/21A3AFC6D3566634D3065D8CF3851A911542CDB8D4ED86369D412350B1AC7B0A",
-    "symbol": "GASH",
-    "name": "gash",
-    "description": "GASH",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/6f25a70f358e9bacedde63b6ac0f83c562e59fa89461bacfe3e1d5a0dcf47e49.png",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/FA7112322CE7656DC84D441E49BAEAB9DC0AB3C7618A178A212CDE8B3F17C70B",
     "symbol": "WHALE",
     "name": "whale",
@@ -208,6 +198,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/c8e76561d8e1514fe88756d28f63656e3a2b21cc350a217fac8a761916b8c35e.png",
     "coinGeckoId": "newt"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/21A3AFC6D3566634D3065D8CF3851A911542CDB8D4ED86369D412350B1AC7B0A",
+    "symbol": "GASH",
+    "name": "gash",
+    "description": "GASH",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/6f25a70f358e9bacedde63b6ac0f83c562e59fa89461bacfe3e1d5a0dcf47e49.png",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -331,16 +331,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/AAB9D6E11B004922E886CCCFD7546336D29A6F8B9CB43AEEC62D8B66200A9CED",
-    "symbol": "ROAR",
-    "name": "roar",
-    "description": "Lion DAO is a community DAO that lives on the Terra blockchain with the mission to reactivate the LUNAtic community and showcase Terra protocols & tooling",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/b1eefb34a5b9ca56fcf188eea2837c1b6d05eb740a8ffcbe2293dc4d0a78b3ec.png",
-    "coinGeckoId": "lion-dao"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/F828D9783DF1B5EB971584F3BC5F483893E25A83ED45CAF4DEEF6E9433C13F3A",
     "symbol": "PAGE",
     "name": "page",
@@ -348,6 +338,16 @@
     "decimals": 8,
     "image": "https://cdn.chainroot.io/images/tokens/2202aba8b4e6e1ebecfaa17e15f72d6d8922e33777fca5e875d99b6e14908764.svg",
     "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/AAB9D6E11B004922E886CCCFD7546336D29A6F8B9CB43AEEC62D8B66200A9CED",
+    "symbol": "ROAR",
+    "name": "roar",
+    "description": "Lion DAO is a community DAO that lives on the Terra blockchain with the mission to reactivate the LUNAtic community and showcase Terra protocols & tooling",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/b1eefb34a5b9ca56fcf188eea2837c1b6d05eb740a8ffcbe2293dc4d0a78b3ec.png",
+    "coinGeckoId": "lion-dao"
   },
   {
     "type": "ibc",
@@ -411,16 +411,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/86E7F8E854A97E490225D423EBCEA096018B3FEDE025A8EAEC86F2D09A468345",
-    "symbol": "HUAHUA",
-    "name": "huahua",
-    "description": "Chihuahua is a community-driven blockchain project focused on creating a fun and engaging ecosystem with an emphasis on social interactions and community building.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/9f226984a0945cdd8fbe6b52a6285a82b061b6e895fe99f42ce775d42efa8c06.svg",
-    "coinGeckoId": "chihuahua-token"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/D6F1BE66B3689B15DDC0FA60E71A3D32CD07855FD0E754D488F665CCB29AC5BD",
     "symbol": "IRIS",
     "name": "iris",
@@ -438,6 +428,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/d5b4a9ae52bab105a3a3d04814f9aa2e21dbc8a71181221172ebbe52cefd5c0b.svg",
     "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/86E7F8E854A97E490225D423EBCEA096018B3FEDE025A8EAEC86F2D09A468345",
+    "symbol": "HUAHUA",
+    "name": "huahua",
+    "description": "Chihuahua is a community-driven blockchain project focused on creating a fun and engaging ecosystem with an emphasis on social interactions and community building.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9f226984a0945cdd8fbe6b52a6285a82b061b6e895fe99f42ce775d42efa8c06.svg",
+    "coinGeckoId": "chihuahua-token"
   },
   {
     "type": "ibc",
@@ -551,7 +551,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/1ADFA9848D8DFE81F67E864461551E767ACE0D898B266C53690B877B786EAB15",
+    "denom": "ibc/8CF3A8F46A1087997D32AB6E06F372022D051DF97FBCAC01BE3F93E180584C22",
     "symbol": "WHALE",
     "name": "whale",
     "description": "Migaloo is a cosmwasm-powered, permissionless blockchain designed to build decentralized applications with a focus on interchain liquidity solutions.",
@@ -571,7 +571,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/8CF3A8F46A1087997D32AB6E06F372022D051DF97FBCAC01BE3F93E180584C22",
+    "denom": "ibc/1ADFA9848D8DFE81F67E864461551E767ACE0D898B266C53690B877B786EAB15",
     "symbol": "WHALE",
     "name": "whale",
     "description": "Migaloo is a cosmwasm-powered, permissionless blockchain designed to build decentralized applications with a focus on interchain liquidity solutions.",

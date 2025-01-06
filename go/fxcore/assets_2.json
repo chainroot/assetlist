@@ -1,0 +1,12 @@
+[
+    {
+        "type": "native",
+        "denom": "FX",
+        "name" : "Function X",
+        "symbol": "FX",
+        "description": "The native staking token of the Function X",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/922ecdef12cf4be1ba8a8b358934ba4a84817de2b290503d797f69c408039410.png",
+        "coinGeckoId": "fx-coin"
+    }
+]

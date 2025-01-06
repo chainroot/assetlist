@@ -1,0 +1,12 @@
+[
+    {
+        "type": "staking",
+        "denom": "ugrain",
+        "name": "Grain",
+        "symbol": "GRAIN",
+        "description": "The native token of the Paloma chain",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/41b844d203a95fb8b56541ce73fdea0c7693e5dbb5deb1ca7434fffb73e2e4b8.png",
+        "coinGeckoId": ""
+    }
+]

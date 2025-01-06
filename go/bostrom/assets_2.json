@@ -7,8 +7,7 @@
         "description": "Bostrom Staking Coin",
         "decimals": 0,
         "image": "https://cdn.chainroot.io/images/tokens/fdd3f5f010ecda24f836cd506fb85438f8712be00ba3cc155c565f75d11d8010.png",
-        "coinGeckoId": "bostrom",
-        "color": "#4cea4e"
+        "coinGeckoId": "bostrom"
     },
     {
         "type": "native",
@@ -17,9 +16,8 @@
         "symbol": "HYDROGEN",
         "description": "The liquid staking token of Bostrom",
         "decimals": 0,
-        "image": "https://cdn.chainroot.io/images/tokens/hydrogen.svg",
-        "coinGeckoId": "",
-        "color": "#ffffff"
+        "image": "https://cdn.chainroot.io/images/tokens/ec3e9c478ffa340a4bb2eeff8b4736cac47908c9ea7dcbf70292091b0451d6c0.png",
+        "coinGeckoId": ""
     },
     {
         "type": "native",
@@ -29,8 +27,7 @@
         "description": "The resource token of Bostrom",
         "decimals": 3,
         "image": "https://cdn.chainroot.io/images/tokens/c338c9783a7f0110af704765d1435752ebb867dae5eb32171a8fae3f1ee041de.png",
-        "coinGeckoId": "",
-        "color": "#f4ecce"
+        "coinGeckoId": ""
     },
     {
         "type": "native",
@@ -40,8 +37,7 @@
         "description": "The resource token of Bostrom",
         "decimals": 3,
         "image": "https://cdn.chainroot.io/images/tokens/027bb6927af1cd94cfab0fa7eaf55738fbdf78785c979e1d95c0688815f32def.png",
-        "coinGeckoId": "",
-        "color": "#fba809"
+        "coinGeckoId": ""
     },
     {
         "type": "ibc",
