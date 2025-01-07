@@ -1,6 +1,6 @@
 [
     {
-        "type": "native",
+        "type": "staking",
         "denom": "uosmo",
         "name": "Osmosis",
         "symbol": "OSMO",

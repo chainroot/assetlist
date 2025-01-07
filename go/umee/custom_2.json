@@ -311,7 +311,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/FF27963D549C28CB3A623A899891E321A899A824F403401C54CD511AC196B066",
+    "denom": "ibc/5B990949E1B8F2B7D0F79B93D02845A6CDA73193D5A4A01CA994007BC9F622AD",
     "symbol": "INJ",
     "name": "INJ",
     "description": "Injective is a decentralized exchange protocol that enables fast, secure, and fully decentralized trading of derivatives, futures, and spot markets.",
@@ -321,7 +321,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/5B990949E1B8F2B7D0F79B93D02845A6CDA73193D5A4A01CA994007BC9F622AD",
+    "denom": "ibc/FF27963D549C28CB3A623A899891E321A899A824F403401C54CD511AC196B066",
     "symbol": "INJ",
     "name": "INJ",
     "description": "Injective is a decentralized exchange protocol that enables fast, secure, and fully decentralized trading of derivatives, futures, and spot markets.",
@@ -361,16 +361,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/92BC8E5C50E6664B4DA748B62C1FFBE321967E1F8868EE03B005977F9AA7C0B8",
-    "symbol": "USDC",
-    "name": "usdc",
-    "description": "Circle's stablecoin on Axelar",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
-    "coinGeckoId": "axlusdc"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/C8B3026C2844D204F3A49F91058DC947F01F2FC36AFF17850FFC8701504BDDEE",
     "symbol": "stATOM",
     "name": "statom",
@@ -378,6 +368,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/8952f870f7fecceb24d59b6e5e2cfba7235d513ea0cf5f5db6989352605b52b3.svg",
     "coinGeckoId": "stride-staked-atom"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/92BC8E5C50E6664B4DA748B62C1FFBE321967E1F8868EE03B005977F9AA7C0B8",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
   },
   {
     "type": "ibc",
@@ -481,6 +481,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/D1CB2804AA5EB64D503F28E8DF3552F8A4D642802B66EFE50DE432B755F37AE1",
+    "symbol": "AXL",
+    "name": "axl",
+    "description": "Axelar is a decentralized interoperability network connecting multiple blockchain ecosystems, enabling seamless cross-chain communication and value transfer.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
+    "coinGeckoId": "axelar"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/AC57F72F0C7666AD0EEC859364F11B77D0CA40C93960FA1499A5561CD32BBBDD",
     "symbol": "stJUNO",
     "name": "stjuno",
@@ -498,16 +508,6 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/9d5325ca8b382d8836719bb3889fd12729e3e2855edf892245b7e6e27679a40a.svg",
     "coinGeckoId": "umee"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/D1CB2804AA5EB64D503F28E8DF3552F8A4D642802B66EFE50DE432B755F37AE1",
-    "symbol": "AXL",
-    "name": "axl",
-    "description": "Axelar is a decentralized interoperability network connecting multiple blockchain ecosystems, enabling seamless cross-chain communication and value transfer.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
-    "coinGeckoId": "axelar"
   },
   {
     "type": "ibc",
@@ -531,16 +531,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/589CDC453BD6E119A3D4662B943DAEF010D4F543FEA7FC83619D0E630C903488",
-    "symbol": "stTIA",
-    "name": "stTIA",
-    "description": "Stride's liquid staked TIA",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/df43139655b8c5db7a7b1fb674801711979b1382eed4c99db80f30477b0b031c.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/547682EC9794715EAA33D121DD737F40F3E67A7A19A12AEF0C89EA360F44C201",
     "symbol": "STRD",
     "name": "strd",
@@ -558,6 +548,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
     "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/589CDC453BD6E119A3D4662B943DAEF010D4F543FEA7FC83619D0E630C903488",
+    "symbol": "stTIA",
+    "name": "stTIA",
+    "description": "Stride's liquid staked TIA",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/df43139655b8c5db7a7b1fb674801711979b1382eed4c99db80f30477b0b031c.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -1111,16 +1111,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/AB63225941B84A250E96878400F4BD686981EFA2560A7098D6BA8C28ECFDD0FE",
-    "symbol": "USDC",
-    "name": "usdc",
-    "description": "Circle's stablecoin on Axelar",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
-    "coinGeckoId": "axlusdc"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/0EFC7B44625187BFB60AF09FF28A25FA49B68B959A505CC5313DF0498D8CF528",
     "symbol": "STRD",
     "name": "strd",
@@ -1128,6 +1118,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/ec24ec10d44cf36ec24232f5dbb19ad5b61d1972098888b01291b63c1c66722e.svg",
     "coinGeckoId": "stride"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/AB63225941B84A250E96878400F4BD686981EFA2560A7098D6BA8C28ECFDD0FE",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
   },
   {
     "type": "ibc",
@@ -1331,16 +1331,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/F3CC34BE29B1709E8625298B7E06309374D158466E29936C3ACBF601244A6FF5",
-    "symbol": "QCK",
-    "name": "qck",
-    "description": "QCK - native token of Quicksilver",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/f87699fa8000635dee47c4014c153040dd1f107d74277ecbd3da317e71828fcc.png",
-    "coinGeckoId": "quicksilver"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/5CC7BFD5BF9570C27940FA27C9AFB010F6925644843676FC5B8FD5551B87808A",
     "symbol": "stUMEE",
     "name": "stumee",
@@ -1348,6 +1338,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/31b803329c10e28b92f3160d420f19812518dd61e3e9ff8aec53d8c16a2dfcaf.svg",
     "coinGeckoId": "stride-staked-umee"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/F3CC34BE29B1709E8625298B7E06309374D158466E29936C3ACBF601244A6FF5",
+    "symbol": "QCK",
+    "name": "qck",
+    "description": "QCK - native token of Quicksilver",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f87699fa8000635dee47c4014c153040dd1f107d74277ecbd3da317e71828fcc.png",
+    "coinGeckoId": "quicksilver"
   },
   {
     "type": "ibc",

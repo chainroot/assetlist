@@ -391,16 +391,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/BF8BDCAA292B56035E669D80711D9881CC96796AC6BCB0376836FAD045355E37",
-    "symbol": "CMDX",
-    "name": "cmdx",
-    "description": "Native Token of Comdex Protocol",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/18ef9a7a59ab88889f56c3723f72a35db05f8bc967c41f08ff64cd3ecdbe3818.svg",
-    "coinGeckoId": "comdex"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/A86A3A6EF50975837C5D24847886C3C51932C4FFA27CFCAE384511EE22E0EE53",
     "symbol": "COSMO",
     "name": "COSMO",
@@ -408,6 +398,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/bef990e9d2a34c122cdc2c771e179c100f59ade122dfe4c70358c1b4b97c3305.png",
     "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/BF8BDCAA292B56035E669D80711D9881CC96796AC6BCB0376836FAD045355E37",
+    "symbol": "CMDX",
+    "name": "cmdx",
+    "description": "Native Token of Comdex Protocol",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/18ef9a7a59ab88889f56c3723f72a35db05f8bc967c41f08ff64cd3ecdbe3818.svg",
+    "coinGeckoId": "comdex"
   },
   {
     "type": "ibc",
