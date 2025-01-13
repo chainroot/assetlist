@@ -331,16 +331,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/F828D9783DF1B5EB971584F3BC5F483893E25A83ED45CAF4DEEF6E9433C13F3A",
-    "symbol": "PAGE",
-    "name": "page",
-    "description": "The PAGE token is used for actions in the PageDAO NFT literary ecosystem and for DAO governance.",
-    "decimals": 8,
-    "image": "https://cdn.chainroot.io/images/tokens/2202aba8b4e6e1ebecfaa17e15f72d6d8922e33777fca5e875d99b6e14908764.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/AAB9D6E11B004922E886CCCFD7546336D29A6F8B9CB43AEEC62D8B66200A9CED",
     "symbol": "ROAR",
     "name": "roar",
@@ -348,6 +338,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/b1eefb34a5b9ca56fcf188eea2837c1b6d05eb740a8ffcbe2293dc4d0a78b3ec.png",
     "coinGeckoId": "lion-dao"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/F828D9783DF1B5EB971584F3BC5F483893E25A83ED45CAF4DEEF6E9433C13F3A",
+    "symbol": "PAGE",
+    "name": "page",
+    "description": "The PAGE token is used for actions in the PageDAO NFT literary ecosystem and for DAO governance.",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/2202aba8b4e6e1ebecfaa17e15f72d6d8922e33777fca5e875d99b6e14908764.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -411,13 +411,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/D6F1BE66B3689B15DDC0FA60E71A3D32CD07855FD0E754D488F665CCB29AC5BD",
-    "symbol": "IRIS",
-    "name": "iris",
-    "description": "The IRIS token is the native governance token for the IrisNet chain.",
+    "denom": "ibc/86E7F8E854A97E490225D423EBCEA096018B3FEDE025A8EAEC86F2D09A468345",
+    "symbol": "HUAHUA",
+    "name": "huahua",
+    "description": "Chihuahua is a community-driven blockchain project focused on creating a fun and engaging ecosystem with an emphasis on social interactions and community building.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/1595a34d03a89ceaaa0d00e2c31d143b92b9b6e38f3962b9459241c8c6eb7f8d.svg",
-    "coinGeckoId": "iris-network"
+    "image": "https://cdn.chainroot.io/images/tokens/9f226984a0945cdd8fbe6b52a6285a82b061b6e895fe99f42ce775d42efa8c06.svg",
+    "coinGeckoId": "chihuahua-token"
   },
   {
     "type": "ibc",
@@ -431,13 +431,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/86E7F8E854A97E490225D423EBCEA096018B3FEDE025A8EAEC86F2D09A468345",
-    "symbol": "HUAHUA",
-    "name": "huahua",
-    "description": "Chihuahua is a community-driven blockchain project focused on creating a fun and engaging ecosystem with an emphasis on social interactions and community building.",
+    "denom": "ibc/D6F1BE66B3689B15DDC0FA60E71A3D32CD07855FD0E754D488F665CCB29AC5BD",
+    "symbol": "IRIS",
+    "name": "iris",
+    "description": "The IRIS token is the native governance token for the IrisNet chain.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/9f226984a0945cdd8fbe6b52a6285a82b061b6e895fe99f42ce775d42efa8c06.svg",
-    "coinGeckoId": "chihuahua-token"
+    "image": "https://cdn.chainroot.io/images/tokens/1595a34d03a89ceaaa0d00e2c31d143b92b9b6e38f3962b9459241c8c6eb7f8d.svg",
+    "coinGeckoId": "iris-network"
   },
   {
     "type": "ibc",
@@ -561,16 +561,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/398B3A1DE10411F2BC51FE25AC367CF501385016C1B030C57E624EC46E158F15",
-    "symbol": "USDC",
-    "name": "usdc",
-    "description": "Circle's stablecoin on Axelar",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
-    "coinGeckoId": "axlusdc"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/1ADFA9848D8DFE81F67E864461551E767ACE0D898B266C53690B877B786EAB15",
     "symbol": "WHALE",
     "name": "whale",
@@ -578,6 +568,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/516ed75052338f9ed271f0b26f6090dfa1ed4acb81067b03b45c97222853a3da.svg",
     "coinGeckoId": "white-whale"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/398B3A1DE10411F2BC51FE25AC367CF501385016C1B030C57E624EC46E158F15",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
   },
   {
     "type": "ibc",

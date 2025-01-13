@@ -301,16 +301,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/8CB56C813A5C2387140BBEAABCCE797AFA0960C8D07B171F71A5188726CFED2C",
-    "symbol": "BLD",
-    "name": "bld",
-    "description": "Agoric is a smart contract platform that uses JavaScript to enable developers to build secure and scalable decentralized applications (dApps) easily.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/d1f382622adbce914256c6e66e2fd73a2e0f123a5f6bc09e1642a31612cb57f3.svg",
-    "coinGeckoId": "agoric"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/4FC395BDCDCD4A3A681C0D222EE64B610AEDB215DB8D18F46B575357F27CD6A7",
     "symbol": "PASG",
     "name": "pasg",
@@ -318,6 +308,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/fc4bfac4b7d840086fe05233855f45b663fe1c4c4338af0fcebd8b311545d51b.png",
     "coinGeckoId": "passage"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/8CB56C813A5C2387140BBEAABCCE797AFA0960C8D07B171F71A5188726CFED2C",
+    "symbol": "BLD",
+    "name": "bld",
+    "description": "Agoric is a smart contract platform that uses JavaScript to enable developers to build secure and scalable decentralized applications (dApps) easily.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/d1f382622adbce914256c6e66e2fd73a2e0f123a5f6bc09e1642a31612cb57f3.svg",
+    "coinGeckoId": "agoric"
   },
   {
     "type": "ibc",
