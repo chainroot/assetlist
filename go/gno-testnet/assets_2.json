@@ -1,0 +1,12 @@
+[
+    {
+        "type": "native",
+        "denom": "ugnot",
+        "name" : "Gno",
+        "symbol": "GNOT",
+        "description": "Gno Native Token",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/gnot.png",
+        "coinGeckoId": ""
+    }
+]

@@ -361,7 +361,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/31A342530A712819CC8102D0BB8CA86E50C173E828D071D651E807D55BB0DEE6",
+    "denom": "ibc/F698E9343925ECF0083BCF4DDA54195D4080D941FB0E9D67EFBA428635482C8E",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
@@ -371,7 +371,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/F698E9343925ECF0083BCF4DDA54195D4080D941FB0E9D67EFBA428635482C8E",
+    "denom": "ibc/31A342530A712819CC8102D0BB8CA86E50C173E828D071D651E807D55BB0DEE6",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
@@ -481,7 +481,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/DE1E92792C72BD79E5B91C367133F923B32A8E46E0A6986DB177AFFC00BA7E72",
+    "denom": "ibc/5F3ECA456D264F96EC9E845E41EF8C5E05E68B3FA6F239390BE5910B484EACAF",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
@@ -491,7 +491,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/5F3ECA456D264F96EC9E845E41EF8C5E05E68B3FA6F239390BE5910B484EACAF",
+    "denom": "ibc/DE1E92792C72BD79E5B91C367133F923B32A8E46E0A6986DB177AFFC00BA7E72",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
@@ -511,7 +511,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/16FF1B6621924520CD2BC9B95EB64786ABB4EA38CAC4951D0247050C8DFC5E72",
+    "denom": "ibc/1C60D019E017EF82280EBE7D0B17844F77F025C116A5D1B1C7AA38E000C1DA1D",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
@@ -521,7 +521,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/1C60D019E017EF82280EBE7D0B17844F77F025C116A5D1B1C7AA38E000C1DA1D",
+    "denom": "ibc/16FF1B6621924520CD2BC9B95EB64786ABB4EA38CAC4951D0247050C8DFC5E72",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",

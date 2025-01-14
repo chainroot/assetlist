@@ -251,22 +251,22 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/1C73287DC49A6A404ED4F197B383AF0736545B7C9106B5EFBBC3E0DEA9959D60",
-    "symbol": "JURIS",
-    "name": "juris",
-    "description": "Juris Protocol is the Lending Platform for the Terra Ecosystem.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/2ff65937b7b56b1ab4c54b21ccaf7ce20581415ae4d6dea1c72f4456b74abfa9.png",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/085FCD8C86258668640600C06F0C95873F58A31DC233E6F03BD1352C55F19F77",
     "symbol": "ashWIND",
     "name": "ashWIND",
     "description": "ashWIND",
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/6e20eb39a75019fedab43d051feb8e84893099b0f1aa49ea4149a372a134a4d8.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/1C73287DC49A6A404ED4F197B383AF0736545B7C9106B5EFBBC3E0DEA9959D60",
+    "symbol": "JURIS",
+    "name": "juris",
+    "description": "Juris Protocol is the Lending Platform for the Terra Ecosystem.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/2ff65937b7b56b1ab4c54b21ccaf7ce20581415ae4d6dea1c72f4456b74abfa9.png",
     "coinGeckoId": ""
   },
   {
@@ -571,7 +571,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/62C564DA0B4557841BF754D87C15B789066C05C9A2C18673C5A517E42769F9DB",
+    "denom": "ibc/E04963C3BCBCFB57BB3636FF8801C458C38518098F83C83D439CCA9B7C9CD5BD",
     "symbol": "ampLUNA",
     "name": "ampluna",
     "description": "ERIS liquid staked LUNA.",
@@ -581,7 +581,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/E04963C3BCBCFB57BB3636FF8801C458C38518098F83C83D439CCA9B7C9CD5BD",
+    "denom": "ibc/62C564DA0B4557841BF754D87C15B789066C05C9A2C18673C5A517E42769F9DB",
     "symbol": "ampLUNA",
     "name": "ampluna",
     "description": "ERIS liquid staked LUNA.",
@@ -621,23 +621,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/3EEF3E486C8CE8ECA37512967D7FAAD54728367336874AD03931AD12E4D9C53B",
-    "symbol": "HARBOR",
-    "name": "harbor",
-    "description": "Governance Token of Harbor protocol on Comdex network",
+    "denom": "ibc/5D58AC622C3025E68C3C8F0793BA66A1CD356B60A303E9B900E690C497238109",
+    "symbol": "UMEE",
+    "name": "umee",
+    "description": "The native token of Umee",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/1a502badbefa8cc68e70549b0f831717f060d42b772bfa51547c4f6be93509ee.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/75D09114F4BD7620953DFA0CAA32CC0B320BD135EBB0EBB3E979BFD51E3A4E6D",
-    "symbol": "USDT",
-    "name": "usdt",
-    "description": "",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
-    "coinGeckoId": "tether"
+    "image": "https://cdn.chainroot.io/images/tokens/9d5325ca8b382d8836719bb3889fd12729e3e2855edf892245b7e6e27679a40a.svg",
+    "coinGeckoId": "umee"
   },
   {
     "type": "ibc",
@@ -661,13 +651,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/4BAC802E5324C6C8761055BBC64506CC0CFD56A880B5AB196FE0035819898231",
-    "symbol": "ROAR",
-    "name": "roar",
-    "description": "Lion DAO is a community DAO that lives on the Terra blockchain with the mission to reactivate the LUNAtic community and showcase Terra protocols & tooling",
+    "denom": "ibc/75D09114F4BD7620953DFA0CAA32CC0B320BD135EBB0EBB3E979BFD51E3A4E6D",
+    "symbol": "USDT",
+    "name": "usdt",
+    "description": "",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/b1eefb34a5b9ca56fcf188eea2837c1b6d05eb740a8ffcbe2293dc4d0a78b3ec.png",
-    "coinGeckoId": "lion-dao"
+    "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
+    "coinGeckoId": "tether"
   },
   {
     "type": "ibc",
@@ -681,7 +671,27 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/3EEF3E486C8CE8ECA37512967D7FAAD54728367336874AD03931AD12E4D9C53B",
+    "symbol": "HARBOR",
+    "name": "harbor",
+    "description": "Governance Token of Harbor protocol on Comdex network",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/1a502badbefa8cc68e70549b0f831717f060d42b772bfa51547c4f6be93509ee.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/D4BDCBF1F3608A4DBA20E8BA37461412AD58B783D225AB1BCD900FD68B043396",
+    "symbol": "ROAR",
+    "name": "roar",
+    "description": "Lion DAO is a community DAO that lives on the Terra blockchain with the mission to reactivate the LUNAtic community and showcase Terra protocols & tooling",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/b1eefb34a5b9ca56fcf188eea2837c1b6d05eb740a8ffcbe2293dc4d0a78b3ec.png",
+    "coinGeckoId": "lion-dao"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/4BAC802E5324C6C8761055BBC64506CC0CFD56A880B5AB196FE0035819898231",
     "symbol": "ROAR",
     "name": "roar",
     "description": "Lion DAO is a community DAO that lives on the Terra blockchain with the mission to reactivate the LUNAtic community and showcase Terra protocols & tooling",
@@ -698,16 +708,6 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/18ef9a7a59ab88889f56c3723f72a35db05f8bc967c41f08ff64cd3ecdbe3818.svg",
     "coinGeckoId": "comdex"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/5D58AC622C3025E68C3C8F0793BA66A1CD356B60A303E9B900E690C497238109",
-    "symbol": "UMEE",
-    "name": "umee",
-    "description": "The native token of Umee",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/9d5325ca8b382d8836719bb3889fd12729e3e2855edf892245b7e6e27679a40a.svg",
-    "coinGeckoId": "umee"
   },
   {
     "type": "ibc",
@@ -771,16 +771,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/CC63431A56E64FB3EDC52908F34E2A9253E3BBB86937EEC58A59CD5368F26307",
-    "symbol": "WHALE",
-    "name": "whale",
-    "description": "Migaloo is a cosmwasm-powered, permissionless blockchain designed to build decentralized applications with a focus on interchain liquidity solutions.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/516ed75052338f9ed271f0b26f6090dfa1ed4acb81067b03b45c97222853a3da.svg",
-    "coinGeckoId": "white-whale"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/B6964DBB01B2036CC6F777153CF1A7A95B4AD941F2AFDC513818FB325097C33D",
     "symbol": "KAVA",
     "name": "kava",
@@ -788,6 +778,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/a516e8c8ce681c3cbdfd1cd699a5d9a002bec3d002344cb13c956f6e6d2ed9da.svg",
     "coinGeckoId": "kava"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/CC63431A56E64FB3EDC52908F34E2A9253E3BBB86937EEC58A59CD5368F26307",
+    "symbol": "WHALE",
+    "name": "whale",
+    "description": "Migaloo is a cosmwasm-powered, permissionless blockchain designed to build decentralized applications with a focus on interchain liquidity solutions.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/516ed75052338f9ed271f0b26f6090dfa1ed4acb81067b03b45c97222853a3da.svg",
+    "coinGeckoId": "white-whale"
   },
   {
     "type": "ibc",

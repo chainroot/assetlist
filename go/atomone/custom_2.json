@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "type": "ibc",
+    "denom": "ibc/11507B43619572D2AF11559001DF7E728172801B1EFFF75430A46F8001DA027D",
+    "symbol": "BZE",
+    "name": "bze",
+    "description": "BeeZee network native coin",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/a4d074e89a7ef61d23858832c59d6a4b817b889bf8899e097465cc429ec18769.svg",
+    "coinGeckoId": "bzedge"
+  }
+]

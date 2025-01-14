@@ -119,5 +119,15 @@
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/9651f0b646e8ccf235e7614305d0770f9072b54b29809b47811d30a63acb1779.png",
         "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/wirelibertyfence",
+        "name": "WireLibertyFence",
+        "symbol": "WLF",
+        "description": "WLF coin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/54bcda822e1e0cf2f763da42e1196692c9ba2541af653faf871afd2042eed935.png",
+        "coinGeckoId": ""
     }
 ]
