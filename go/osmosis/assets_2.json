@@ -6463,6 +6463,7 @@
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/stutia.png",
         "color": "#e40474",
+        "coinGeckoId": "stride-staked-tia",
         "ibc_info": {
             "path": "stride>osmosis",
             "client": {
@@ -10020,6 +10021,61 @@
                 "port": "transfer",
                 "chain": "chihuahua",
                 "denom": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/wirelibertyfence"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/DC1DF96AB7F5109433C3D5FDADE83F8EC2D522B80FAB0593BC1A2781F36AD633",
+        "name": "Ninja Blaze Token",
+        "symbol": "NBZ",
+        "description": "Ninja Blaze Token",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/5111f7cf7eff583a7f01701b8c9095fd1adb23d1de3922e3c7022afde23ac342.png",
+        "coinGeckoId": "",
+        "ibc_info": {
+            "path": "injective>osmosis",
+            "client": {
+                "channel": "channel-122",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-8",
+                "port": "transfer",
+                "chain": "injective",
+                "denom": "factory/inj1llr45x92t7jrqtxvc02gpkcqhqr82dvyzkr4mz/NBZ"
+            }
+        }
+    },
+    {
+        "type": "native",
+        "denom": "factory/osmo1qdvwftqd8ml6t9w6dmj97m03ck5ghqqmd8y7cm/cult",
+        "name": "CULT",
+        "symbol": "CULT",
+        "description": "CULT - Less Brainwashing, More Utility",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/2e4b36c8293a0e7bb8ca569003a0e5953275b374073c27ed7c2f184cf4064bf7.png"
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/C7A810C6ED1FC3FFC7C834A534D400EADC94FF7D3BE13DDD4C042AEF1816DFB4",
+        "name": "dTIA",
+        "symbol": "dTIA",
+        "description": "Drop staked TIA",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/dtia.png",
+        "coinGeckoId": "drop-staked-tia",
+        "ibc_info": {
+            "path": "neutron>osmosis",
+            "client": {
+                "channel": "channel-874",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-10",
+                "port": "transfer",
+                "chain": "neutron",
+                "denom": "factory/neutron1ut4c6pv4u6vyu97yw48y8g7mle0cat54848v6m97k977022lzxtsaqsgmq/udtia"
             }
         }
     }

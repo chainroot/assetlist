@@ -41,16 +41,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/C86651B4D30C1739BF8B061E36F4473A0C9D60380B52D01E56A6874037A5D060",
-    "symbol": "DAI",
-    "name": "dai",
-    "description": "Dai stablecoin on Axelar",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/db618306455a7810b99692ac2f71e55e56619b8ad2b260b6a93ab837e460e694.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/DB589A0C82618E56E5C90B77578CCBDB921CFEC8E6F6CF46032C43C1B06F92B8",
     "symbol": "INJ",
     "name": "INJ",
@@ -58,6 +48,16 @@
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/c824ba4c934281bfa3a10052366f3c00fe94ed254da7f0e2b82da59a5c2872df.svg",
     "coinGeckoId": "injective-protocol"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/C86651B4D30C1739BF8B061E36F4473A0C9D60380B52D01E56A6874037A5D060",
+    "symbol": "DAI",
+    "name": "dai",
+    "description": "Dai stablecoin on Axelar",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/db618306455a7810b99692ac2f71e55e56619b8ad2b260b6a93ab837e460e694.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -291,22 +291,22 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/AB2652E28C9961D13CFF2EC5F53C7E2965C8D0CF37A33CC97D8EEF6212F315C8",
-    "symbol": "DOT",
-    "name": "dot",
-    "description": "Wrapped Polkadot on Axelar",
-    "decimals": 10,
-    "image": "https://cdn.chainroot.io/images/tokens/f9a7cd6c26045851eacbf7e0931e50de81592876c97194e0accba962324eb600.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/4D0E7F150F4856ADF1FB74D6BC790E04C27C1544712BA62C0816F40159132D47",
     "symbol": "CRO",
     "name": "cro",
     "description": "Cronos is a blockchain platform developed by Crypto.com, designed to support DeFi, NFTs, and decentralized applications with fast and low-cost transactions.",
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/5758f95351effbbe2eaea55aebac504f3571e9335721eb6133e540b5dd4d3ddd.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/AB2652E28C9961D13CFF2EC5F53C7E2965C8D0CF37A33CC97D8EEF6212F315C8",
+    "symbol": "DOT",
+    "name": "dot",
+    "description": "Wrapped Polkadot on Axelar",
+    "decimals": 10,
+    "image": "https://cdn.chainroot.io/images/tokens/f9a7cd6c26045851eacbf7e0931e50de81592876c97194e0accba962324eb600.svg",
     "coinGeckoId": ""
   },
   {
@@ -431,16 +431,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/D1CB2804AA5EB64D503F28E8DF3552F8A4D642802B66EFE50DE432B755F37AE1",
-    "symbol": "AXL",
-    "name": "axl",
-    "description": "Axelar is a decentralized interoperability network connecting multiple blockchain ecosystems, enabling seamless cross-chain communication and value transfer.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
-    "coinGeckoId": "axelar"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/223420B0E8CF9CC47BCAB816AB3A20AE162EED27C1177F4B2BC270C83E11AD8D",
     "symbol": "USDT",
     "name": "usdt",
@@ -448,6 +438,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
     "coinGeckoId": "axelar-usdt"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/D1CB2804AA5EB64D503F28E8DF3552F8A4D642802B66EFE50DE432B755F37AE1",
+    "symbol": "AXL",
+    "name": "axl",
+    "description": "Axelar is a decentralized interoperability network connecting multiple blockchain ecosystems, enabling seamless cross-chain communication and value transfer.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
+    "coinGeckoId": "axelar"
   },
   {
     "type": "ibc",
@@ -551,16 +551,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/589CDC453BD6E119A3D4662B943DAEF010D4F543FEA7FC83619D0E630C903488",
-    "symbol": "stTIA",
-    "name": "stTIA",
-    "description": "Stride's liquid staked TIA",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/df43139655b8c5db7a7b1fb674801711979b1382eed4c99db80f30477b0b031c.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/F7F4D0035FB3F10A244A0B48990D4891793188B5D59297AE2C0293291CB1B340",
     "symbol": "NCT",
     "name": "nct",
@@ -568,6 +558,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/2d33fb4012a679dadde0f08ecb6a3615e05d219346a6993bf908e8c8b469e94e.svg",
     "coinGeckoId": "toucan-protocol-nature-carbon-tonne"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/589CDC453BD6E119A3D4662B943DAEF010D4F543FEA7FC83619D0E630C903488",
+    "symbol": "stTIA",
+    "name": "stTIA",
+    "description": "Stride's liquid staked TIA",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/df43139655b8c5db7a7b1fb674801711979b1382eed4c99db80f30477b0b031c.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
