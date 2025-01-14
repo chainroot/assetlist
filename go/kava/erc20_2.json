@@ -291,5 +291,15 @@
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/9e3e3dbd20c49ee72357f265904f2a86c73c7316eba60af6d03d848418597cd7.png",
         "coinGeckoId": "kava-lend"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x0c3B74Fbc76b477813ca3747f193eD3384d640e2",
+        "name" : "BlushToken",
+        "symbol": "BLUSH",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/6afb649bf41ef03f4570e24e88e82d48d269ecbcc6ab7f81dcb9396c5a27a36f.png",
+        "coinGeckoId": ""
     }
 ]
