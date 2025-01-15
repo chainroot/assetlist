@@ -421,16 +421,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/F317FCB76E50A5BB0BC29BD17D436E8685B22D34B56C80B391F4C0B87E54F6E7",
-    "symbol": "ISLM",
-    "name": "ISLM",
-    "description": "The native EVM, governance and staking token of the Haqq Network",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/9451fa4fa2754738b5b29fdc13ca4d870d20bcd955530090babaed4baef74e5a.svg",
-    "coinGeckoId": "islamic-coin"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/723134C962D78FC0E35610DB6D6A19B5B791D04FE8F4154E4AAB7BDAB28DBB45",
     "symbol": "sDAI",
     "name": "gsdai",
@@ -438,6 +428,16 @@
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/e42b3d66afbc6aef6db2368e0fb3a7c2f51237c879329b46ad034d92589e6e49.svg",
     "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/F317FCB76E50A5BB0BC29BD17D436E8685B22D34B56C80B391F4C0B87E54F6E7",
+    "symbol": "ISLM",
+    "name": "ISLM",
+    "description": "The native EVM, governance and staking token of the Haqq Network",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/9451fa4fa2754738b5b29fdc13ca4d870d20bcd955530090babaed4baef74e5a.svg",
+    "coinGeckoId": "islamic-coin"
   },
   {
     "type": "ibc",
@@ -641,6 +641,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/EB57F5A1D4751676FD79A43CF54EDF46BFDA084AA6DF0E405947180FA6731D92",
+    "symbol": "PSTAKE",
+    "name": "pstake",
+    "description": "pSTAKE is a liquid staking protocol unlocking the liquidity of staked assets.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/8bbf65220148462b6afa330e19885a952e4e3d46586ef36bdaa7277062515f28.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/2CE161506DBE60964200110C32C780DBFF1CDDF6CA164D0CB034B35893954AA4",
     "symbol": "ARCH",
     "name": "arch",
@@ -658,16 +668,6 @@
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/4c10b64c57af7e4432da7e148b682df098440d7dbe34a89aadf4e8215c95200b.svg",
     "coinGeckoId": "arable-protocol"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/EB57F5A1D4751676FD79A43CF54EDF46BFDA084AA6DF0E405947180FA6731D92",
-    "symbol": "PSTAKE",
-    "name": "pstake",
-    "description": "pSTAKE is a liquid staking protocol unlocking the liquidity of staked assets.",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/8bbf65220148462b6afa330e19885a952e4e3d46586ef36bdaa7277062515f28.svg",
-    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -741,16 +741,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/B7DCC5071688830DABD3371B0B824F24B7B214A24AE0A9B46E09635429CB4030",
-    "symbol": "CNTO",
-    "name": "cnto",
-    "description": "Ciento Exchange Token",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/f3f4e25651bc9d3b3077644f65625c3dae7496a68fc3cdbcc7c7ea26a14c5326.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/1AE146F250D490DD7D603E98C3441C6725A7745AA6387B58020DFA543BDA7286",
     "symbol": "DAI",
     "name": "dai",
@@ -761,12 +751,42 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/364C46C4C17B6962185D6DFCB153CD0E817F1EF305776E96AF85475958A75EC7",
+    "symbol": "EVMOS",
+    "name": "evmos",
+    "description": "The native EVM, governance and staking token of the Evmos Hub",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/8fd37bed9ab943bf6d2114ddae7f4a42b91cdebc269406c7f6acfb4fd1885e05.svg",
+    "coinGeckoId": "evmos"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/66BA0495DF9D203DF15D808BA40501330B952BDDEF0B9EBAD022DAEADD09AD80",
+    "symbol": "AIOZ",
+    "name": "aioz",
+    "description": "The native staking and governance token of the AIOZ Network.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/ec4ca810714b6098648de39a1ba29141dcfa99cda5daee2d8fffcca4f4a89458.svg",
+    "coinGeckoId": "aioz-network"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/3C522140322F7BB21F381288A35B5503C556A6957167D540EDAB1640591D4BEB",
     "symbol": "WMATIC",
     "name": "wmatic",
     "description": "Wrapped Matic on Axelar",
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/bf81bb5509d397d93705112cdf2b191085c96ae16f64f144aace3128bbbce029.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/C9EED226DFC22714A5137EA1F2DFC7F1BBE5BAFFC88CFA552EEA51ACD7C92A0F",
+    "symbol": "CNTO",
+    "name": "cnto",
+    "description": "Ciento Exchange Token",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/f3f4e25651bc9d3b3077644f65625c3dae7496a68fc3cdbcc7c7ea26a14c5326.svg",
     "coinGeckoId": ""
   },
   {
@@ -791,7 +811,17 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/66BA0495DF9D203DF15D808BA40501330B952BDDEF0B9EBAD022DAEADD09AD80",
+    "denom": "ibc/BC884D39C095BD3DF23101AFEA7724F837359D3E00E2C74D76BA1129977D62E5",
+    "symbol": "DAI",
+    "name": "dai",
+    "description": "Dai stablecoin on Axelar",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/db618306455a7810b99692ac2f71e55e56619b8ad2b260b6a93ab837e460e694.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/B90791D5E862165670B9AFF883F9D6FDBA0ADE8CD732F85D6C44B31482DC37F4",
     "symbol": "AIOZ",
     "name": "aioz",
     "description": "The native staking and governance token of the AIOZ Network.",
@@ -811,43 +841,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/B90791D5E862165670B9AFF883F9D6FDBA0ADE8CD732F85D6C44B31482DC37F4",
-    "symbol": "AIOZ",
-    "name": "aioz",
-    "description": "The native staking and governance token of the AIOZ Network.",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/ec4ca810714b6098648de39a1ba29141dcfa99cda5daee2d8fffcca4f4a89458.svg",
-    "coinGeckoId": "aioz-network"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/BC884D39C095BD3DF23101AFEA7724F837359D3E00E2C74D76BA1129977D62E5",
-    "symbol": "DAI",
-    "name": "dai",
-    "description": "Dai stablecoin on Axelar",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/db618306455a7810b99692ac2f71e55e56619b8ad2b260b6a93ab837e460e694.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/C9EED226DFC22714A5137EA1F2DFC7F1BBE5BAFFC88CFA552EEA51ACD7C92A0F",
+    "denom": "ibc/B7DCC5071688830DABD3371B0B824F24B7B214A24AE0A9B46E09635429CB4030",
     "symbol": "CNTO",
     "name": "cnto",
     "description": "Ciento Exchange Token",
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/f3f4e25651bc9d3b3077644f65625c3dae7496a68fc3cdbcc7c7ea26a14c5326.svg",
     "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/364C46C4C17B6962185D6DFCB153CD0E817F1EF305776E96AF85475958A75EC7",
-    "symbol": "EVMOS",
-    "name": "evmos",
-    "description": "The native EVM, governance and staking token of the Evmos Hub",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/8fd37bed9ab943bf6d2114ddae7f4a42b91cdebc269406c7f6acfb4fd1885e05.svg",
-    "coinGeckoId": "evmos"
   },
   {
     "type": "ibc",
@@ -901,16 +901,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/82D33267FDD845B00AFA58F9E073F40E05DC220724224E9CF5EEFA9F9CA0AD6F",
-    "symbol": "WMATIC",
-    "name": "wmatic",
-    "description": "Wrapped Matic on Axelar",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/bf81bb5509d397d93705112cdf2b191085c96ae16f64f144aace3128bbbce029.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/16314C197B52D2669D9C6DA3044408158A1AB953D004E9410494640C3BE747E6",
     "symbol": "EVMOS",
     "name": "evmos",
@@ -918,6 +908,16 @@
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/8fd37bed9ab943bf6d2114ddae7f4a42b91cdebc269406c7f6acfb4fd1885e05.svg",
     "coinGeckoId": "evmos"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/82D33267FDD845B00AFA58F9E073F40E05DC220724224E9CF5EEFA9F9CA0AD6F",
+    "symbol": "WMATIC",
+    "name": "wmatic",
+    "description": "Wrapped Matic on Axelar",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/bf81bb5509d397d93705112cdf2b191085c96ae16f64f144aace3128bbbce029.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -951,16 +951,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/6104F36019400BDD088D9A04E06CD4729A1BAF0272D4B1E3063B5E2817F93C9A",
-    "symbol": "DYM",
-    "name": "dym",
-    "description": "The native governance and staking token of the Dymension Hub",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/fac51dc9300b2f2410a7b3a18f9ef30152ddf7a3250bf8b79280c1ab81b0e7d0.svg",
-    "coinGeckoId": "dymension"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/76AC2ABF7261B9A4421A1A45338F2C04D1BA0F9738E0CB30AFFF222499267288",
     "symbol": "DYDX",
     "name": "dydx",
@@ -968,6 +958,16 @@
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/0cd48cdfcd49902807eb50da7db148b648470cf80daaf35482402ae8e0c504d6.svg",
     "coinGeckoId": "dydx-chain"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/6104F36019400BDD088D9A04E06CD4729A1BAF0272D4B1E3063B5E2817F93C9A",
+    "symbol": "DYM",
+    "name": "dym",
+    "description": "The native governance and staking token of the Dymension Hub",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/fac51dc9300b2f2410a7b3a18f9ef30152ddf7a3250bf8b79280c1ab81b0e7d0.svg",
+    "coinGeckoId": "dymension"
   },
   {
     "type": "ibc",
@@ -1071,16 +1071,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/BE0BDBD799073FDCAA1232597117A0EAF29DD22C67034DF814F90E6E1B88E13D",
-    "symbol": "CNTO",
-    "name": "cnto",
-    "description": "Ciento Exchange Token",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/f3f4e25651bc9d3b3077644f65625c3dae7496a68fc3cdbcc7c7ea26a14c5326.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/68E5DC91FABC16A2FE7ACDE562615670CAAA6C7DC4A7E36450A77E23DAFE8D2B",
     "symbol": "INJ",
     "name": "INJ",
@@ -1088,6 +1078,16 @@
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/c824ba4c934281bfa3a10052366f3c00fe94ed254da7f0e2b82da59a5c2872df.svg",
     "coinGeckoId": "injective-protocol"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/BE0BDBD799073FDCAA1232597117A0EAF29DD22C67034DF814F90E6E1B88E13D",
+    "symbol": "CNTO",
+    "name": "cnto",
+    "description": "Ciento Exchange Token",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/f3f4e25651bc9d3b3077644f65625c3dae7496a68fc3cdbcc7c7ea26a14c5326.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -1131,6 +1131,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/64E8FE9C6F8CD8C0AFA65865840835986F5D8FE00E3F50D558A9EBA951A15C5E",
+    "symbol": "REBUS",
+    "name": "rebus",
+    "description": "REBUS, the native coin of the Rebus chain.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/0cc1449c44cdfdff0a080c8beadd36e6536af8a0616b0980fa409549b418bfe5.svg",
+    "coinGeckoId": "rebus"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/462ECA70E972EF725F50891738B4CB57ABDA1F82ECC9F671E5C291E0BCDF8F50",
     "symbol": "DYDX",
     "name": "dydx",
@@ -1148,16 +1158,6 @@
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/f3f4e25651bc9d3b3077644f65625c3dae7496a68fc3cdbcc7c7ea26a14c5326.svg",
     "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/64E8FE9C6F8CD8C0AFA65865840835986F5D8FE00E3F50D558A9EBA951A15C5E",
-    "symbol": "REBUS",
-    "name": "rebus",
-    "description": "REBUS, the native coin of the Rebus chain.",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/0cc1449c44cdfdff0a080c8beadd36e6536af8a0616b0980fa409549b418bfe5.svg",
-    "coinGeckoId": "rebus"
   },
   {
     "type": "ibc",
@@ -2961,6 +2961,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/EA0C8F1121425943740B2D1B1DC5BDD717D49A9D5A639DC7074C10E9212CC794",
+    "symbol": "PLEB",
+    "name": "PLEB",
+    "description": "PLEB",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/a8f134b8c08f3a1f36983562c816e19a89446a264ddfc81cd05b35a53ffefa82.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/7E7DD2D1B22544FBD9FB531C19A05C688B11D9A91158726A814554E803C87E9B",
     "symbol": "SOLAR",
     "name": "solar",
@@ -3058,16 +3068,6 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/09622835a88c8fa7fb4a2eb653c00357a0fe1d74710f066da9472dc904f44f0c.png",
     "coinGeckoId": "doki"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/EA0C8F1121425943740B2D1B1DC5BDD717D49A9D5A639DC7074C10E9212CC794",
-    "symbol": "PLEB",
-    "name": "PLEB",
-    "description": "PLEB",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/a8f134b8c08f3a1f36983562c816e19a89446a264ddfc81cd05b35a53ffefa82.png",
-    "coinGeckoId": ""
   },
   {
     "type": "ibc",
