@@ -461,16 +461,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/12F659774A2765A8B9B249698A152C47D24F1CC0992B8609E78CB286CAF98C38",
-    "symbol": "PAGE",
-    "name": "page",
-    "description": "The PAGE token is used for actions in the PageDAO NFT literary ecosystem and for DAO governance.",
-    "decimals": 8,
-    "image": "https://cdn.chainroot.io/images/tokens/2202aba8b4e6e1ebecfaa17e15f72d6d8922e33777fca5e875d99b6e14908764.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/B201D1A2BAD50A473312F7B8683D1D16EE0116B21523883BFFB158CB01528A42",
     "symbol": "TIA",
     "name": "tia",
@@ -478,6 +468,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/63b9c41acf8957bc42561cd85132fbc75177d2879e5de3873470bd2bb4ec41b3.svg",
     "coinGeckoId": "celestia"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/12F659774A2765A8B9B249698A152C47D24F1CC0992B8609E78CB286CAF98C38",
+    "symbol": "PAGE",
+    "name": "page",
+    "description": "The PAGE token is used for actions in the PageDAO NFT literary ecosystem and for DAO governance.",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/2202aba8b4e6e1ebecfaa17e15f72d6d8922e33777fca5e875d99b6e14908764.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
