@@ -281,6 +281,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/3BD86E80E000B52DA57C474A6A44E37F73D34E38A1FA79EE678E08D119FC555B",
+    "symbol": "OM",
+    "name": "om",
+    "description": "The native token of MANTRA",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/6f04ed152724ef3ef7fbcceb0a038b5a97b82ce8575d96e5b6de014fe6b0a363.svg",
+    "coinGeckoId": "mantra-dao"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/14D1406D84227FDF4B055EA5CB2298095BBCA3F3BC3EF583AE6DF36F0FB179C8",
     "symbol": "TIA",
     "name": "tia",
@@ -298,16 +308,6 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/bb5259ff3b3c00c33666a10e6254809919323a792b6dc870a5c1a710d2c94c07.png",
     "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/3BD86E80E000B52DA57C474A6A44E37F73D34E38A1FA79EE678E08D119FC555B",
-    "symbol": "OM",
-    "name": "om",
-    "description": "The native token of MANTRA",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/6f04ed152724ef3ef7fbcceb0a038b5a97b82ce8575d96e5b6de014fe6b0a363.svg",
-    "coinGeckoId": "mantra-dao"
   },
   {
     "type": "ibc",
@@ -581,6 +581,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/B92B80E837E4B1665024B7674D382AF07FE5D8D89797A0FEAF5356C8F173425C",
+    "symbol": "OM",
+    "name": "om",
+    "description": "The native token of MANTRA",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/6f04ed152724ef3ef7fbcceb0a038b5a97b82ce8575d96e5b6de014fe6b0a363.svg",
+    "coinGeckoId": "mantra-dao"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/33B679C576A22B5D2CA314D8801155881C62037C34DBC3B32537FA5DBAB91080",
     "symbol": "LUNC",
     "name": "luna",
@@ -761,16 +771,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/B92B80E837E4B1665024B7674D382AF07FE5D8D89797A0FEAF5356C8F173425C",
-    "symbol": "OM",
-    "name": "om",
-    "description": "The native token of MANTRA",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/6f04ed152724ef3ef7fbcceb0a038b5a97b82ce8575d96e5b6de014fe6b0a363.svg",
-    "coinGeckoId": "mantra-dao"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/2DDFDF63F939D87C6EC0CA3341E66A197FC4D04B88C639C6BD942500415FC544",
     "symbol": "STARS",
     "name": "stars",
@@ -911,16 +911,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/578AD832358DF853CB7544968E94D5D716B2364E5E09B2C0DD365CA91AD4E1D8",
-    "symbol": "USTC",
-    "name": "ust",
-    "description": "The USD stablecoin of Terra Classic.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/bbf7ad631fa51027777b71c54feda0517f9f112a5f42edad9c584fb9724561cb.svg",
-    "coinGeckoId": "terrausd"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/8D9262E35CAE362FA74AE05E430550757CF8D842EC1B241F645D3CB7179AFD10",
     "symbol": "JUNO",
     "name": "juno",
@@ -938,6 +928,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/b06a7c9a1103428c95242f642376ff78a353a3840a36d6cbd9195baa32083d73.svg",
     "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/578AD832358DF853CB7544968E94D5D716B2364E5E09B2C0DD365CA91AD4E1D8",
+    "symbol": "USTC",
+    "name": "ust",
+    "description": "The USD stablecoin of Terra Classic.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/bbf7ad631fa51027777b71c54feda0517f9f112a5f42edad9c584fb9724561cb.svg",
+    "coinGeckoId": "terrausd"
   },
   {
     "type": "ibc",
@@ -1081,16 +1081,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/F3CC34BE29B1709E8625298B7E06309374D158466E29936C3ACBF601244A6FF5",
-    "symbol": "QCK",
-    "name": "qck",
-    "description": "QCK - native token of Quicksilver",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/f87699fa8000635dee47c4014c153040dd1f107d74277ecbd3da317e71828fcc.png",
-    "coinGeckoId": "quicksilver"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/4AA3B7E33DF9A7ED0708D55E179B81D2DA93632F5290833574D37F0B638606E3",
     "symbol": "ATOM",
     "name": "atom",
@@ -1101,13 +1091,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/6F94690935F6CD59D036F65920C53E1B6B08DBBEB392895F9C887D2BEF5502F0",
-    "symbol": "ATOM",
-    "name": "atom",
-    "description": "ATOM is the native cryptocurrency of the Cosmos network, designed to facilitate interoperability between multiple blockchains through its innovative hub-and-spoke model.",
+    "denom": "ibc/F3CC34BE29B1709E8625298B7E06309374D158466E29936C3ACBF601244A6FF5",
+    "symbol": "QCK",
+    "name": "qck",
+    "description": "QCK - native token of Quicksilver",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
-    "coinGeckoId": "cosmos"
+    "image": "https://cdn.chainroot.io/images/tokens/f87699fa8000635dee47c4014c153040dd1f107d74277ecbd3da317e71828fcc.png",
+    "coinGeckoId": "quicksilver"
   },
   {
     "type": "ibc",
@@ -1118,5 +1108,15 @@
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/195ac6e06829bd28be1067a0c4eedc8e749efd9bc4ab6326fbaf227bcca070c8.svg",
     "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/6F94690935F6CD59D036F65920C53E1B6B08DBBEB392895F9C887D2BEF5502F0",
+    "symbol": "ATOM",
+    "name": "atom",
+    "description": "ATOM is the native cryptocurrency of the Cosmos network, designed to facilitate interoperability between multiple blockchains through its innovative hub-and-spoke model.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
+    "coinGeckoId": "cosmos"
   }
 ]
