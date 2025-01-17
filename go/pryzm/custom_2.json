@@ -71,7 +71,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/5F78C42BCC76287AE6B3185C6C1455DFFF8D805B1847F94B9B625384B93885C7",
+    "denom": "ibc/9924F230D93D88A98D1469A24E523D7BF58935E6321C18CFAEFBFC068B54676F",
     "symbol": "nUSDC",
     "name": "nusdc",
     "description": "Circle's stablecoin from Neptune Protocol",
