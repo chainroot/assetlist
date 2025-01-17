@@ -71,16 +71,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/CF326F6F0E8DCCD631159F23A60F1F5F31C81A46406D88641C130BA16D75280B",
-    "symbol": "DORA",
-    "name": "DORA",
-    "description": "The native staking and governance token of the Theta testnet version of the Dora Vota.",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/ae2fd8599600585d1feb8a94482153935469d63c8559404b52e447a741dc1094.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/3564A554CC5EB66E056753F0CC0B02EEA3039F01F7808E4BA4B1C19B47F902E2",
     "symbol": "ARCH",
     "name": "arch",
@@ -88,6 +78,16 @@
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/07971aee03539b97e171dabdbc8a9974e849917dc4c1f667630c33088ec83497.svg",
     "coinGeckoId": "archway"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/CF326F6F0E8DCCD631159F23A60F1F5F31C81A46406D88641C130BA16D75280B",
+    "symbol": "DORA",
+    "name": "DORA",
+    "description": "The native staking and governance token of the Theta testnet version of the Dora Vota.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/ae2fd8599600585d1feb8a94482153935469d63c8559404b52e447a741dc1094.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -301,16 +301,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/8CB56C813A5C2387140BBEAABCCE797AFA0960C8D07B171F71A5188726CFED2C",
-    "symbol": "BLD",
-    "name": "bld",
-    "description": "Agoric is a smart contract platform that uses JavaScript to enable developers to build secure and scalable decentralized applications (dApps) easily.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/d1f382622adbce914256c6e66e2fd73a2e0f123a5f6bc09e1642a31612cb57f3.svg",
-    "coinGeckoId": "agoric"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/4FC395BDCDCD4A3A681C0D222EE64B610AEDB215DB8D18F46B575357F27CD6A7",
     "symbol": "PASG",
     "name": "pasg",
@@ -318,6 +308,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/fc4bfac4b7d840086fe05233855f45b663fe1c4c4338af0fcebd8b311545d51b.png",
     "coinGeckoId": "passage"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/8CB56C813A5C2387140BBEAABCCE797AFA0960C8D07B171F71A5188726CFED2C",
+    "symbol": "BLD",
+    "name": "bld",
+    "description": "Agoric is a smart contract platform that uses JavaScript to enable developers to build secure and scalable decentralized applications (dApps) easily.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/d1f382622adbce914256c6e66e2fd73a2e0f123a5f6bc09e1642a31612cb57f3.svg",
+    "coinGeckoId": "agoric"
   },
   {
     "type": "ibc",
@@ -691,16 +691,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/0E94A94FD7D7D63AB7FCC4520472CA83F6B90580505B7701E5F239AC29A89ED8",
-    "symbol": "ATOM",
-    "name": "atom",
-    "description": "ATOM is the native cryptocurrency of the Cosmos network, designed to facilitate interoperability between multiple blockchains through its innovative hub-and-spoke model.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
-    "coinGeckoId": "cosmos"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/990E93567199B1DEF8EE01A41A20D4DA43BE1957E575220319BC2BFFB0C4AD23",
     "symbol": "OSMO",
     "name": "osmo",
@@ -708,6 +698,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/e053406240eac4d978a66008f0551daa497be489fba6c5840e5cd073bd6fcd94.svg",
     "coinGeckoId": "osmosis"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/0E94A94FD7D7D63AB7FCC4520472CA83F6B90580505B7701E5F239AC29A89ED8",
+    "symbol": "ATOM",
+    "name": "atom",
+    "description": "ATOM is the native cryptocurrency of the Cosmos network, designed to facilitate interoperability between multiple blockchains through its innovative hub-and-spoke model.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
+    "coinGeckoId": "cosmos"
   },
   {
     "type": "ibc",
@@ -951,16 +951,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/AD29CB92888C839B3EAD3125ABA2689FEA8D43CE01CDCB8139A8545E67522E74",
-    "symbol": "USDC",
-    "name": "usdc",
-    "description": "Circle's stablecoin on Axelar",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
-    "coinGeckoId": "axlusdc"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/DBA679B94E751C34858603D528C17F4A64A6E8FBD1DDB18F33EE2BC917A76F69",
     "symbol": "AKT",
     "name": "akt",
@@ -988,6 +978,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/8c41a49f8a121387817f0fd11a45f39da6ea8a8952026c46760f2c001316e207.svg",
     "coinGeckoId": "stargaze"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/AD29CB92888C839B3EAD3125ABA2689FEA8D43CE01CDCB8139A8545E67522E74",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
   },
   {
     "type": "ibc",
@@ -1041,13 +1041,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/C69729F33CE15D4EE00C941760839967D614D40377CE0BC9ACF389C018D3177D",
-    "symbol": "NTRN",
-    "name": "ntrn",
-    "description": "Neutron is a smart contract blockchain within the Cosmos ecosystem, leveraging the Cosmos Hub's security to provide cross-chain DeFi applications.",
+    "denom": "ibc/D594FD5B5EC5F30A3870C0258030C3DAC8FBBE1FCA8128C7F40DB692C1898724",
+    "symbol": "ATOM",
+    "name": "atom",
+    "description": "ATOM is the native cryptocurrency of the Cosmos network, designed to facilitate interoperability between multiple blockchains through its innovative hub-and-spoke model.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/bcc7880c69cc88313d52a96ce2f7e780a98c5e8a5b86e7318667fd5eabe34c4c.svg",
-    "coinGeckoId": "neutron-3"
+    "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
+    "coinGeckoId": "cosmos"
   },
   {
     "type": "ibc",
@@ -1061,13 +1061,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/D594FD5B5EC5F30A3870C0258030C3DAC8FBBE1FCA8128C7F40DB692C1898724",
-    "symbol": "ATOM",
-    "name": "atom",
-    "description": "ATOM is the native cryptocurrency of the Cosmos network, designed to facilitate interoperability between multiple blockchains through its innovative hub-and-spoke model.",
+    "denom": "ibc/C69729F33CE15D4EE00C941760839967D614D40377CE0BC9ACF389C018D3177D",
+    "symbol": "NTRN",
+    "name": "ntrn",
+    "description": "Neutron is a smart contract blockchain within the Cosmos ecosystem, leveraging the Cosmos Hub's security to provide cross-chain DeFi applications.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
-    "coinGeckoId": "cosmos"
+    "image": "https://cdn.chainroot.io/images/tokens/bcc7880c69cc88313d52a96ce2f7e780a98c5e8a5b86e7318667fd5eabe34c4c.svg",
+    "coinGeckoId": "neutron-3"
   },
   {
     "type": "ibc",
@@ -1078,6 +1078,26 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/79f9def0d7428ed8b761a7c42dc5f7a3492367f014258935d72cbbe2d813a552.svg",
     "coinGeckoId": "juno-network"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/32CC7460D443ECE2EB7D505CA527E99ED90630D5B8AAF2AAA647C602EDCE2FC9",
+    "symbol": "BADKID",
+    "name": "BADKID",
+    "description": "A clan of 11y bad kids crafting chaos on the Cosmos eco. One bad memecoin to rule them all  $BADKID. Airdropped to Badkids NFT holders and $STARS stakers. It's so bad, your wallet's throwing a tantrum for it.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/ec9c100c89d79a7ae1387de7c874ba16327aa8637036df0df215d4143bb6c7b6.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/4FBFB92ED8EBA5AB1454C1215D1FE536BB09393A58E27E3891FD5D9AE18B6A37",
+    "symbol": "IBCX",
+    "name": "ibcx",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/dec2a2b971f2a3afba4c520c2353c5b0c193d8f2a706511a78906eee98d3133b.svg",
+    "coinGeckoId": "ibc-index"
   },
   {
     "type": "ibc",
@@ -1101,23 +1121,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/4FBFB92ED8EBA5AB1454C1215D1FE536BB09393A58E27E3891FD5D9AE18B6A37",
-    "symbol": "IBCX",
-    "name": "ibcx",
-    "description": "",
+    "denom": "ibc/B5DC82337AED2660F16F0378318A6C7B6A575D469626F33B5C43CD281F4F9BCE",
+    "symbol": "JUNO",
+    "name": "juno",
+    "description": "The native token of JUNO Chain",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/dec2a2b971f2a3afba4c520c2353c5b0c193d8f2a706511a78906eee98d3133b.svg",
-    "coinGeckoId": "ibc-index"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/32CC7460D443ECE2EB7D505CA527E99ED90630D5B8AAF2AAA647C602EDCE2FC9",
-    "symbol": "BADKID",
-    "name": "BADKID",
-    "description": "A clan of 11y bad kids crafting chaos on the Cosmos eco. One bad memecoin to rule them all  $BADKID. Airdropped to Badkids NFT holders and $STARS stakers. It's so bad, your wallet's throwing a tantrum for it.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/ec9c100c89d79a7ae1387de7c874ba16327aa8637036df0df215d4143bb6c7b6.png",
-    "coinGeckoId": ""
+    "image": "https://cdn.chainroot.io/images/tokens/79f9def0d7428ed8b761a7c42dc5f7a3492367f014258935d72cbbe2d813a552.svg",
+    "coinGeckoId": "juno-network"
   },
   {
     "type": "ibc",
@@ -1128,15 +1138,5 @@
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/0cd48cdfcd49902807eb50da7db148b648470cf80daaf35482402ae8e0c504d6.svg",
     "coinGeckoId": "dydx-chain"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/B5DC82337AED2660F16F0378318A6C7B6A575D469626F33B5C43CD281F4F9BCE",
-    "symbol": "JUNO",
-    "name": "juno",
-    "description": "The native token of JUNO Chain",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/79f9def0d7428ed8b761a7c42dc5f7a3492367f014258935d72cbbe2d813a552.svg",
-    "coinGeckoId": "juno-network"
   }
 ]
