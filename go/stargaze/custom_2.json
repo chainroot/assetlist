@@ -311,16 +311,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/FC95E23BE07D2C4F990AE8830A53998AE58D80E149EAD4AD8E71B3391117BDD2",
-    "symbol": "LUNC",
-    "name": "luna",
-    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
-    "coinGeckoId": "terra-luna"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/9DF365E2C0EF4EA02FA771F638BB9C0C830EFCD354629BDC017F79B348B4E989",
     "symbol": "ATOM",
     "name": "atom",
@@ -358,6 +348,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/2ff65937b7b56b1ab4c54b21ccaf7ce20581415ae4d6dea1c72f4456b74abfa9.png",
     "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/FC95E23BE07D2C4F990AE8830A53998AE58D80E149EAD4AD8E71B3391117BDD2",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
   },
   {
     "type": "ibc",
