@@ -88,5 +88,55 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
     "coinGeckoId": "tether"
+  },
+  {
+    "type": "native",
+    "denom": "factory/pryzm1jnhcsa5ddjsjq2t97v6a82z542rduxvtw6wd9h/uphotondrop",
+    "symbol": "photonDrop",
+    "name": "photondrop",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/b43b909ea007320f98be29fae1da6f7929875e51c9c06d9ed9c15aec6c372560.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "native",
+    "denom": "factory/pryzm1jnhcsa5ddjsjq2t97v6a82z542rduxvtw6wd9h/ustakedrop",
+    "symbol": "stakeDrop",
+    "name": "stakedrop",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/b43b909ea007320f98be29fae1da6f7929875e51c9c06d9ed9c15aec6c372560.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "native",
+    "denom": "factory/pryzm1jnhcsa5ddjsjq2t97v6a82z542rduxvtw6wd9h/photonwhale",
+    "symbol": "photonWhale",
+    "name": "photonwhale",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/b43b909ea007320f98be29fae1da6f7929875e51c9c06d9ed9c15aec6c372560.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "native",
+    "denom": "factory/pryzm1jnhcsa5ddjsjq2t97v6a82z542rduxvtw6wd9h/uopdrop",
+    "symbol": "opDrop",
+    "name": "opdrop",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/b43b909ea007320f98be29fae1da6f7929875e51c9c06d9ed9c15aec6c372560.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "native",
+    "denom": "factory/pryzm1jnhcsa5ddjsjq2t97v6a82z542rduxvtw6wd9h/stakedropper",
+    "symbol": "stakeDropper",
+    "name": "stakeDropper",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/b43b909ea007320f98be29fae1da6f7929875e51c9c06d9ed9c15aec6c372560.png",
+    "coinGeckoId": ""
   }
 ]
