@@ -41,16 +41,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/DB589A0C82618E56E5C90B77578CCBDB921CFEC8E6F6CF46032C43C1B06F92B8",
-    "symbol": "INJ",
-    "name": "INJ",
-    "description": "Injective is a decentralized exchange protocol that enables fast, secure, and fully decentralized trading of derivatives, futures, and spot markets.",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/c824ba4c934281bfa3a10052366f3c00fe94ed254da7f0e2b82da59a5c2872df.svg",
-    "coinGeckoId": "injective-protocol"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/C86651B4D30C1739BF8B061E36F4473A0C9D60380B52D01E56A6874037A5D060",
     "symbol": "DAI",
     "name": "dai",
@@ -58,6 +48,16 @@
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/db618306455a7810b99692ac2f71e55e56619b8ad2b260b6a93ab837e460e694.svg",
     "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/DB589A0C82618E56E5C90B77578CCBDB921CFEC8E6F6CF46032C43C1B06F92B8",
+    "symbol": "INJ",
+    "name": "INJ",
+    "description": "Injective is a decentralized exchange protocol that enables fast, secure, and fully decentralized trading of derivatives, futures, and spot markets.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/c824ba4c934281bfa3a10052366f3c00fe94ed254da7f0e2b82da59a5c2872df.svg",
+    "coinGeckoId": "injective-protocol"
   },
   {
     "type": "ibc",
@@ -201,6 +201,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/73E90F42AF8EE91A0EE668468CA840A99D60261D3EC6121D2CBEF35299369F25",
+    "symbol": "wstETH",
+    "name": "wstETH",
+    "description": "wstETH on Neutron",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/195ac6e06829bd28be1067a0c4eedc8e749efd9bc4ab6326fbaf227bcca070c8.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/4F7A8F699E3B4E17E2B725CE1000557B2E3E5DAF091212EAAAD90ADD0F4F0BA6",
     "symbol": "wstETH",
     "name": "wsteth",
@@ -261,16 +271,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/73E90F42AF8EE91A0EE668468CA840A99D60261D3EC6121D2CBEF35299369F25",
-    "symbol": "wstETH",
-    "name": "wstETH",
-    "description": "wstETH on Neutron",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/195ac6e06829bd28be1067a0c4eedc8e749efd9bc4ab6326fbaf227bcca070c8.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/F21122C4E4E6A0DBAFA273F0A6A13D423E31E731318243D363C2BC638BD7E5B6",
     "symbol": "PICA",
     "name": "pica",
@@ -291,22 +291,22 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/4D0E7F150F4856ADF1FB74D6BC790E04C27C1544712BA62C0816F40159132D47",
-    "symbol": "CRO",
-    "name": "cro",
-    "description": "Cronos is a blockchain platform developed by Crypto.com, designed to support DeFi, NFTs, and decentralized applications with fast and low-cost transactions.",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/5758f95351effbbe2eaea55aebac504f3571e9335721eb6133e540b5dd4d3ddd.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/AB2652E28C9961D13CFF2EC5F53C7E2965C8D0CF37A33CC97D8EEF6212F315C8",
     "symbol": "DOT",
     "name": "dot",
     "description": "Wrapped Polkadot on Axelar",
     "decimals": 10,
     "image": "https://cdn.chainroot.io/images/tokens/f9a7cd6c26045851eacbf7e0931e50de81592876c97194e0accba962324eb600.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/4D0E7F150F4856ADF1FB74D6BC790E04C27C1544712BA62C0816F40159132D47",
+    "symbol": "CRO",
+    "name": "cro",
+    "description": "Cronos is a blockchain platform developed by Crypto.com, designed to support DeFi, NFTs, and decentralized applications with fast and low-cost transactions.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/5758f95351effbbe2eaea55aebac504f3571e9335721eb6133e540b5dd4d3ddd.svg",
     "coinGeckoId": ""
   },
   {
@@ -341,16 +341,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/0B1D3A663E6D41C7B1CFC78DB41C829A3B8329D396B47737445AFF5E0E9DA125",
-    "symbol": "AKT",
-    "name": "akt",
-    "description": "Akash Network is a decentralized cloud computing marketplace that connects users with unused computing resources, offering a cost-effective alternative to traditional cloud providers.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/33d728dfd3351a640e4f316dcadbc5e50dfdb4a3798bb74e9485f74585cf0245.svg",
-    "coinGeckoId": "akash-network"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/49788C29CD84E08D25CA7BE960BC1F61E88FEFC6333F58557D236D693398466A",
     "symbol": "USDC",
     "name": "usdc",
@@ -358,6 +348,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
     "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/63AA230956B5ED0E0433DF6714C6DB7D1B91974589A520C205C6436E56DF0A2C",
+    "symbol": "BLD",
+    "name": "bld",
+    "description": "Agoric is a smart contract platform that uses JavaScript to enable developers to build secure and scalable decentralized applications (dApps) easily.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/d1f382622adbce914256c6e66e2fd73a2e0f123a5f6bc09e1642a31612cb57f3.svg",
+    "coinGeckoId": "agoric"
   },
   {
     "type": "ibc",
@@ -381,13 +381,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/6B49A789937D4E50BF01F0F50DDEDF5C1103EDF01306B7021BDF23BDE65D99BA",
-    "symbol": "stOSMO",
-    "name": "stosmo",
-    "description": "",
+    "denom": "ibc/0B1D3A663E6D41C7B1CFC78DB41C829A3B8329D396B47737445AFF5E0E9DA125",
+    "symbol": "AKT",
+    "name": "akt",
+    "description": "Akash Network is a decentralized cloud computing marketplace that connects users with unused computing resources, offering a cost-effective alternative to traditional cloud providers.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/f332eb9577ccc44d5eac362ee1d07e25a931f7a386a14a505495159f9092695f.svg",
-    "coinGeckoId": "stride-staked-osmo"
+    "image": "https://cdn.chainroot.io/images/tokens/33d728dfd3351a640e4f316dcadbc5e50dfdb4a3798bb74e9485f74585cf0245.svg",
+    "coinGeckoId": "akash-network"
   },
   {
     "type": "ibc",
@@ -411,6 +411,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/6B49A789937D4E50BF01F0F50DDEDF5C1103EDF01306B7021BDF23BDE65D99BA",
+    "symbol": "stOSMO",
+    "name": "stosmo",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f332eb9577ccc44d5eac362ee1d07e25a931f7a386a14a505495159f9092695f.svg",
+    "coinGeckoId": "stride-staked-osmo"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/885F4DFF6EE97AFDF25ECA50C6438003B004B8DA7F29FB3ADBD026BF29E6A5A9",
     "symbol": "STARS",
     "name": "stars",
@@ -418,26 +428,6 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/8c41a49f8a121387817f0fd11a45f39da6ea8a8952026c46760f2c001316e207.svg",
     "coinGeckoId": "stargaze"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/63AA230956B5ED0E0433DF6714C6DB7D1B91974589A520C205C6436E56DF0A2C",
-    "symbol": "BLD",
-    "name": "bld",
-    "description": "Agoric is a smart contract platform that uses JavaScript to enable developers to build secure and scalable decentralized applications (dApps) easily.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/d1f382622adbce914256c6e66e2fd73a2e0f123a5f6bc09e1642a31612cb57f3.svg",
-    "coinGeckoId": "agoric"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/D1CB2804AA5EB64D503F28E8DF3552F8A4D642802B66EFE50DE432B755F37AE1",
-    "symbol": "AXL",
-    "name": "axl",
-    "description": "Axelar is a decentralized interoperability network connecting multiple blockchain ecosystems, enabling seamless cross-chain communication and value transfer.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
-    "coinGeckoId": "axelar"
   },
   {
     "type": "ibc",
@@ -451,6 +441,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/D1CB2804AA5EB64D503F28E8DF3552F8A4D642802B66EFE50DE432B755F37AE1",
+    "symbol": "AXL",
+    "name": "axl",
+    "description": "Axelar is a decentralized interoperability network connecting multiple blockchain ecosystems, enabling seamless cross-chain communication and value transfer.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
+    "coinGeckoId": "axelar"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/84B9BEDF23F4A33A5DCB82C3D3B5348927418DBC6487EF8821DFEAFE06C77DF5",
     "symbol": "USDT",
     "name": "usdt",
@@ -458,16 +458,6 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
     "coinGeckoId": "tether"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/69860B527570A33015804BD2BF9BBB23B58A87556B108028E25EA9126E60D3D1",
-    "symbol": "TIA",
-    "name": "tia",
-    "description": "Celestia is a modular blockchain network focused on data availability, allowing developers to deploy their own customizable blockchains with ease.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/63b9c41acf8957bc42561cd85132fbc75177d2879e5de3873470bd2bb4ec41b3.svg",
-    "coinGeckoId": "celestia"
   },
   {
     "type": "ibc",
@@ -491,6 +481,36 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/BA460328D9ABA27E643A924071FDB3836E4CE8084C6D2380F25EFAB85CF8EB11",
+    "symbol": "IST",
+    "name": "ist",
+    "description": "IST is the stable token used by the Agoric chain for execution fees and commerce.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/fad17c87afd28b2ec6791b95fbb9038e1f51a2efebea8cfcb19f2d3db09941ef.svg",
+    "coinGeckoId": "inter-stable-token"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/69860B527570A33015804BD2BF9BBB23B58A87556B108028E25EA9126E60D3D1",
+    "symbol": "TIA",
+    "name": "tia",
+    "description": "Celestia is a modular blockchain network focused on data availability, allowing developers to deploy their own customizable blockchains with ease.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/63b9c41acf8957bc42561cd85132fbc75177d2879e5de3873470bd2bb4ec41b3.svg",
+    "coinGeckoId": "celestia"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/547682EC9794715EAA33D121DD737F40F3E67A7A19A12AEF0C89EA360F44C201",
+    "symbol": "STRD",
+    "name": "strd",
+    "description": "Stride is a liquid staking blockchain in the Cosmos ecosystem that allows users to stake any IBC-compatible tokens and receive stTokens in return, providing liquidity while earning staking rewards.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/ec24ec10d44cf36ec24232f5dbb19ad5b61d1972098888b01291b63c1c66722e.svg",
+    "coinGeckoId": "stride"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/D5F6DF9E7E77C6B731A63B253C10B9AE636195D984A3A1558DD55759EA0B517F",
     "symbol": "MARS.old",
     "name": "mars",
@@ -508,26 +528,6 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/9d5325ca8b382d8836719bb3889fd12729e3e2855edf892245b7e6e27679a40a.svg",
     "coinGeckoId": "umee"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/547682EC9794715EAA33D121DD737F40F3E67A7A19A12AEF0C89EA360F44C201",
-    "symbol": "STRD",
-    "name": "strd",
-    "description": "Stride is a liquid staking blockchain in the Cosmos ecosystem that allows users to stake any IBC-compatible tokens and receive stTokens in return, providing liquidity while earning staking rewards.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/ec24ec10d44cf36ec24232f5dbb19ad5b61d1972098888b01291b63c1c66722e.svg",
-    "coinGeckoId": "stride"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/BA460328D9ABA27E643A924071FDB3836E4CE8084C6D2380F25EFAB85CF8EB11",
-    "symbol": "IST",
-    "name": "ist",
-    "description": "IST is the stable token used by the Agoric chain for execution fees and commerce.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/fad17c87afd28b2ec6791b95fbb9038e1f51a2efebea8cfcb19f2d3db09941ef.svg",
-    "coinGeckoId": "inter-stable-token"
   },
   {
     "type": "ibc",
@@ -551,16 +551,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/F7F4D0035FB3F10A244A0B48990D4891793188B5D59297AE2C0293291CB1B340",
-    "symbol": "NCT",
-    "name": "nct",
-    "description": "Nature Carbon Ton (NCT) is a carbon token standard backed 1:1 by carbon credits issued by Verra, a global leader in the voluntary carbon market. NCT credits on Regen Network have been tokenized by Toucan.earth.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/2d33fb4012a679dadde0f08ecb6a3615e05d219346a6993bf908e8c8b469e94e.svg",
-    "coinGeckoId": "toucan-protocol-nature-carbon-tonne"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/589CDC453BD6E119A3D4662B943DAEF010D4F543FEA7FC83619D0E630C903488",
     "symbol": "stTIA",
     "name": "stTIA",
@@ -568,6 +558,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/df43139655b8c5db7a7b1fb674801711979b1382eed4c99db80f30477b0b031c.svg",
     "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/F7F4D0035FB3F10A244A0B48990D4891793188B5D59297AE2C0293291CB1B340",
+    "symbol": "NCT",
+    "name": "nct",
+    "description": "Nature Carbon Ton (NCT) is a carbon token standard backed 1:1 by carbon credits issued by Verra, a global leader in the voluntary carbon market. NCT credits on Regen Network have been tokenized by Toucan.earth.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/2d33fb4012a679dadde0f08ecb6a3615e05d219346a6993bf908e8c8b469e94e.svg",
+    "coinGeckoId": "toucan-protocol-nature-carbon-tonne"
   },
   {
     "type": "ibc",
@@ -641,16 +641,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/CE99B4D2A172275C064595B750827855E04D5E068FB7C642C8469CA9B5DB0EE1",
-    "symbol": "WBTC",
-    "name": "wbtc",
-    "description": "Wrapped Bitcoin (WBTC) is an ERC20 token backed 1:1 with Bitcoin. Completely transparent. 100% verifiable. Community led.",
-    "decimals": 8,
-    "image": "https://cdn.chainroot.io/images/tokens/f0fb98be5c52c4f7f8abdd928840665189bec026b7aa0dba392fa83a4b225f4e.svg",
-    "coinGeckoId": "wrapped-bitcoin"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/454725EA4029BAA99C293904336DE9A4B84E2BF7D83B9C56EE6B03E8A65FB5A1",
     "symbol": "qATOM",
     "name": "qatom",
@@ -671,13 +661,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/7BAC848EFAE1492E13881B04DE965C1F577020ECDF897B4D7B8CF8A08220DF6F",
-    "symbol": "stSTARS",
-    "name": "ststars",
-    "description": "",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/7a59cd844186f83aa4d9304b02958f964b7b2a1d616fd269db395dd98815740a.svg",
-    "coinGeckoId": "stride-staked-stars"
+    "denom": "ibc/CE99B4D2A172275C064595B750827855E04D5E068FB7C642C8469CA9B5DB0EE1",
+    "symbol": "WBTC",
+    "name": "wbtc",
+    "description": "Wrapped Bitcoin (WBTC) is an ERC20 token backed 1:1 with Bitcoin. Completely transparent. 100% verifiable. Community led.",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/f0fb98be5c52c4f7f8abdd928840665189bec026b7aa0dba392fa83a4b225f4e.svg",
+    "coinGeckoId": "wrapped-bitcoin"
   },
   {
     "type": "ibc",
@@ -691,7 +681,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/5CE69DEA5377910199E3BCA19ABFC41F2F9820F1E75591E36222C7996763AF35",
+    "denom": "ibc/FF7BFBF92F099F137C61A22D2801E32B15694FF41D73FC893B8F9AB5A8FC3527",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
@@ -701,7 +691,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/FF7BFBF92F099F137C61A22D2801E32B15694FF41D73FC893B8F9AB5A8FC3527",
+    "denom": "ibc/5CE69DEA5377910199E3BCA19ABFC41F2F9820F1E75591E36222C7996763AF35",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
@@ -718,16 +708,6 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/31b803329c10e28b92f3160d420f19812518dd61e3e9ff8aec53d8c16a2dfcaf.svg",
     "coinGeckoId": "stride-staked-umee"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/43C82ECE074C1A96338371706E18FDFFECFE9E0CE2E3F90F735B12C10067BA1F",
-    "symbol": "MARS",
-    "name": "MARS",
-    "description": "Mars Protocol is a cross-collateralized Money Market Protocol on Neutron and Osmosis.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/8b9c4181dd67fc635914b10ba244e2a9543a12da599ca66e5ecc7fc881e24be1.svg",
-    "coinGeckoId": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3"
   },
   {
     "type": "ibc",
@@ -768,6 +748,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
     "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/43C82ECE074C1A96338371706E18FDFFECFE9E0CE2E3F90F735B12C10067BA1F",
+    "symbol": "MARS",
+    "name": "MARS",
+    "description": "Mars Protocol is a cross-collateralized Money Market Protocol on Neutron and Osmosis.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/8b9c4181dd67fc635914b10ba244e2a9543a12da599ca66e5ecc7fc881e24be1.svg",
+    "coinGeckoId": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3"
   },
   {
     "type": "ibc",
@@ -838,6 +828,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
     "coinGeckoId": "cosmos"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/7BAC848EFAE1492E13881B04DE965C1F577020ECDF897B4D7B8CF8A08220DF6F",
+    "symbol": "stSTARS",
+    "name": "ststars",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7a59cd844186f83aa4d9304b02958f964b7b2a1d616fd269db395dd98815740a.svg",
+    "coinGeckoId": "stride-staked-stars"
   },
   {
     "type": "ibc",

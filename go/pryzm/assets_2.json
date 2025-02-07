@@ -130,6 +130,16 @@
         "coinGeckoId": "pryzmatics"
     },
     {
+        "type": "ibc",
+        "denom": "ibc/925137DE4F77A2F26A5FA5051200437F43AFBBC39A4F443968C8E93B756AFB3B",
+        "name": "USDY",
+        "symbol": "USDY",
+        "description": "Ondo Finance's US Dollar Yield",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/38386c71641e52286735dff21c3aff0df33d38f4f96df566974c995219690f3d.png",
+        "coinGeckoId": "pryzmatics"
+    },
+    {
         "type": "native",
         "denom": "c:uatom",
         "name": "cAtom",
@@ -621,6 +631,46 @@
     },
     {
         "type": "native",
+        "denom": "p:ausdy:31Mar2025",
+        "name": "pUsdy (31Mar2025)",
+        "symbol": "pUSDY-31Mar2025",
+        "description": "Pryzm's refracted principal token for USDY with maturity of 31Mar2025",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/4039c965813bfb9789e069ca0389b8fb0771020e246b0939d0fb52e255bccaff.png",
+        "coinGeckoId": "pryzmatics"
+    },
+    {
+        "type": "native",
+        "denom": "p:ausdy:30Jun2025",
+        "name": "pUsdy (30Jun2025)",
+        "symbol": "pUSDY-30Jun2025",
+        "description": "Pryzm's refracted principal token for USDY with maturity of 30Jun2025",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/4039c965813bfb9789e069ca0389b8fb0771020e246b0939d0fb52e255bccaff.png",
+        "coinGeckoId": "pryzmatics"
+    },
+    {
+        "type": "native",
+        "denom": "p:ausdy:30Sep2025",
+        "name": "pUsdy (30Sep2025)",
+        "symbol": "pUSDY-30Sep2025",
+        "description": "Pryzm's refracted principal token for USDY with maturity of 30Sep2025",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/4039c965813bfb9789e069ca0389b8fb0771020e246b0939d0fb52e255bccaff.png",
+        "coinGeckoId": "pryzmatics"
+    },
+    {
+        "type": "native",
+        "denom": "p:ausdy:31Dec2025",
+        "name": "pUsdy (31Dec2025)",
+        "symbol": "pUSDY-31Dec2025",
+        "description": "Pryzm's refracted principal token for USDY with maturity of 31Dec2025",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/4039c965813bfb9789e069ca0389b8fb0771020e246b0939d0fb52e255bccaff.png",
+        "coinGeckoId": "pryzmatics"
+    },
+    {
+        "type": "native",
         "denom": "y:uatom:30Sep2024",
         "name": "yAtom (30Sep2024)",
         "symbol": "yATOM-30Sep2024",
@@ -1051,6 +1101,46 @@
     },
     {
         "type": "native",
+        "denom": "y:ausdy:31Mar2025",
+        "name": "yUsdy (31Mar2025)",
+        "symbol": "yUSDY-31Mar2025",
+        "description": "Pryzm's refracted yield token for USDY with maturity of 31Mar2025",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/4f5fe4d3f40ce132f3bd84f8371dede3a274becaca7dd7abb90d1a4479c8d7b9.png",
+        "coinGeckoId": "pryzmatics"
+    },
+    {
+        "type": "native",
+        "denom": "y:ausdy:30Jun2025",
+        "name": "yUsdy (30Jun2025)",
+        "symbol": "yUSDY-30Jun2025",
+        "description": "Pryzm's refracted yield token for USDY with maturity of 30Jun2025",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/4f5fe4d3f40ce132f3bd84f8371dede3a274becaca7dd7abb90d1a4479c8d7b9.png",
+        "coinGeckoId": "pryzmatics"
+    },
+    {
+        "type": "native",
+        "denom": "y:ausdy:30Sep2025",
+        "name": "yUsdy (30Sep2025)",
+        "symbol": "yUSDY-30Sep2025",
+        "description": "Pryzm's refracted yield token for USDY with maturity of 30Sep2025",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/4f5fe4d3f40ce132f3bd84f8371dede3a274becaca7dd7abb90d1a4479c8d7b9.png",
+        "coinGeckoId": "pryzmatics"
+    },
+    {
+        "type": "native",
+        "denom": "y:ausdy:31Dec2025",
+        "name": "yUsdy (31Dec2025)",
+        "symbol": "yUSDY-31Dec2025",
+        "description": "Pryzm's refracted yield token for USDY with maturity of 31Dec2025",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/4f5fe4d3f40ce132f3bd84f8371dede3a274becaca7dd7abb90d1a4479c8d7b9.png",
+        "coinGeckoId": "pryzmatics"
+    },
+    {
+        "type": "native",
         "denom": "lp:6:uusdc.axl-uusdc",
         "name": "USDC / USDC.axl LP",
         "symbol": "USDC-USDC.axl-LP",
@@ -1307,6 +1397,56 @@
         "description": "Pryzm's LP token for dATOM Boost pool",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/74a64a736513339f6d08c53a37effd7abb53a65266009e39e396c624397e439f.png",
+        "coinGeckoId": "pryzmatics"
+    },
+    {
+        "type": "native",
+        "denom": "lp:31:ausdy",
+        "name": "USDY Yield LP",
+        "symbol": "USDY-YIELD-LP",
+        "description": "Pryzm's LP token for USDY Yield pool",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/74a64a736513339f6d08c53a37effd7abb53a65266009e39e396c624397e439f.png",
+        "coinGeckoId": "pryzmatics"
+    },
+    {
+        "type": "native",
+        "denom": "lp:32:ausdyypt-uusdc",
+        "name": "USDY Boost LP",
+        "symbol": "USDY-BOOST-LP",
+        "description": "Pryzm's LP token for USDY Boost pool",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/74a64a736513339f6d08c53a37effd7abb53a65266009e39e396c624397e439f.png",
+        "coinGeckoId": "pryzmatics"
+    },
+    {
+        "type": "native",
+        "denom": "factory/pryzm1jnhcsa5ddjsjq2t97v6a82z542rduxvtw6wd9h/ustakedrop",
+        "name": "StakeDrop",
+        "symbol": "STAKEDROP",
+        "description": "The non-transferable receipt of PRYZM airdrop for StakeDrop participants",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/32150318ee269924d37a4e922964b766ac6917c07101423aea3ce5aab3749cfd.png",
+        "coinGeckoId": "pryzmatics"
+    },
+    {
+        "type": "native",
+        "denom": "factory/pryzm1jnhcsa5ddjsjq2t97v6a82z542rduxvtw6wd9h/uopdrop",
+        "name": "OpDrop",
+        "symbol": "OPDROP",
+        "description": "The non-transferable receipt of PRYZM Options airdrop",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/0cde6653796d19aded4aaa5add76b2926a91aa6e9dc31816392ce7db5dffa093.png",
+        "coinGeckoId": "pryzmatics"
+    },
+    {
+        "type": "native",
+        "denom": "factory/pryzm1jnhcsa5ddjsjq2t97v6a82z542rduxvtw6wd9h/uphotondrop",
+        "name": "PhotonDrop",
+        "symbol": "PHOTONDROP",
+        "description": "The non-transferable receipt of PRYZM airdrop for Photons Campaign participants",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/8220439f7955a7d5e6a820cea4c611355cb775a8eca567b0e1f284ba4bd41957.png",
         "coinGeckoId": "pryzmatics"
     }
 ]

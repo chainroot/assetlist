@@ -1894,5 +1894,45 @@
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/27b7c46411c99932131380f1d4a9858ef2a241808c9b6ad40bb6d98a21044b77.png",
         "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "factory/inj1s9hr5zfz3xrkzchde94hd2d0edjs4q5mrqrz6x/BITCOIN",
+        "name": "Cosmos Bitcoin",
+        "symbol": "BITCOIN",
+        "description": "Cosmos Bitcoin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/1998c7ec28d74c851b568df0e8f54124a9f26a07d91232d5d7e58c2216f9a215.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "factory/inj1s9hr5zfz3xrkzchde94hd2d0edjs4q5mrqrz6x/BRICS",
+        "name": "BRICS",
+        "symbol": "BRICS",
+        "description": "BRICS coin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/10e7c48d5f8960489f8b7fb14b208de12f51004725040507bca538de7533ce51.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "factory/inj1s9hr5zfz3xrkzchde94hd2d0edjs4q5mrqrz6x/CRYPTO",
+        "name": "Crypto",
+        "symbol": "CRYPTO",
+        "description": "CRYPTO coin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/1bec6400566dca1b318a35cb847acab8a92669fed442951ad99fbb97cf72fd06.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "factory/inj1s9hr5zfz3xrkzchde94hd2d0edjs4q5mrqrz6x/INC",
+        "name": "INC",
+        "symbol": "INC",
+        "description": "Instant Noodles coin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/91aeb2f280b15d86812095b31070a43559f8d3d3ff2d8a99bd423230ac06e3ff.png",
+        "coinGeckoId": ""
     }
 ]

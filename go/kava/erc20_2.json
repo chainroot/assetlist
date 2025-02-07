@@ -301,5 +301,15 @@
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/6afb649bf41ef03f4570e24e88e82d48d269ecbcc6ab7f81dcb9396c5a27a36f.png",
         "coinGeckoId": ""
+    },
+    {
+        "type": "erc20",
+        "contract": "0x061BeA4a986906E4FD7450158D0FbF7c0d3e7128",
+        "name" : "PrincessToken",
+        "symbol": "PRIN",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/25f06829b2c0fdc3659499f2aa133e5e2178bffb349c8476992ec716810cb0d0.png",
+        "coinGeckoId": ""
     }
 ]

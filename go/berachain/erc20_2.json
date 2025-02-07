@@ -1,0 +1,85 @@
+[
+    {
+        "type": "erc20",
+        "contract": "0xFCBD14DC51f0A4d49d5E53C2E0950e0bC26d0Dce",
+        "name" : "HONEY Token",
+        "symbol": "HONEY",
+        "description": "Honey (HONEY)",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/honey.png",
+        "coinGeckoId": "",
+        "wallet_preload": true
+    },
+    {
+        "type": "erc20",
+        "contract": "0x656b95E550C07a9ffe548bd4085c72418Ceb1dba",
+        "name" : "BGT Token",
+        "symbol": "BGT",
+        "description": "Bera Governance Token (BGT)",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/bgt.png",
+        "coinGeckoId": "",
+        "wallet_preload": true
+    },
+    {
+        "type": "erc20",
+        "contract": "0x6969696969696969696969696969696969696969",
+        "name" : "WBERA Token",
+        "symbol": "WBERA",
+        "description": "Wrapped Bera (WBERA)",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/e02fb75f7829719b384b0310911fcd1adddac48708015b9b9d4fe355c3eebbc2.png",
+        "coinGeckoId": "",
+        "wallet_preload": true
+    },
+    {
+        "type": "erc20",
+        "contract": "0x549943e04f40284185054145c6E4e9568C1D3241",
+        "name" : "Bridged USDC (Stargate)",
+        "symbol": "USDC.e",
+        "description": "USD Coin (USDC)",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "coinGeckoId": "usd-coin"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
+        "name" : "Tether USD",
+        "symbol": "USDT",
+        "description": "Tether USD",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
+        "coinGeckoId": "tether"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x688e72142674041f8f6Af4c808a4045cA1D6aC82",
+        "name" : "BYUSD",
+        "symbol": "BYUSD",
+        "description": "BYUSD",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/030979d703fcf11fb0e6a3cc7b1d6aa6ddadd43088728da6f1e3d21bdccfc220.png",
+        "coinGeckoId": "paypal-usd"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+        "name" : "WBTC Token",
+        "symbol": "WBTC",
+        "description": "Wrapped Bitcoin (WBTC)",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/wbtc.png",
+        "coinGeckoId": "bitcoin"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+        "name" : "WETH Token",
+        "symbol": "WETH",
+        "description": "Wrapped Ether (WETH)",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/weth.png",
+        "coinGeckoId": "weth"
+    }
+]
