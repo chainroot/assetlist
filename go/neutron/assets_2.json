@@ -1016,5 +1016,28 @@
                 "contract": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0"
             }
         }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/C084B31AB4906CD6CC65CB779B1527A66B6C98629259E3548B2F20D2753D5837",
+        "name": "Neptune Finance",
+        "symbol": "NEPT",
+        "description": "The native token of Neptune Finance",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/27b7c46411c99932131380f1d4a9858ef2a241808c9b6ad40bb6d98a21044b77.png",
+        "coinGeckoId": "",
+        "ibc_info": {
+            "path": "injective>neutron",
+            "client": {
+                "channel": "channel-60",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-177",
+                "port": "transfer",
+                "chain": "injective",
+                "denom": "factory/inj1v3a4zznudwpukpr8y987pu5gnh4xuf7v36jhva/nept"
+            }
+        }
     }
 ]

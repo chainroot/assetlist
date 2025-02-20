@@ -51,6 +51,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/3E35008738AC049C9C1A1E37F785E947A8DAA9811B3EA3B25580664294056151",
+    "symbol": "AXL",
+    "name": "axl",
+    "description": "Axelar is a decentralized interoperability network connecting multiple blockchain ecosystems, enabling seamless cross-chain communication and value transfer.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
+    "coinGeckoId": "axelar"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/45C001A5AE212D09879BE4627C45B64D5636086285590D5145A51E18E9D16722",
     "symbol": "ATOM",
     "name": "atom",
@@ -131,6 +141,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/64ADA1661E3C1A4293E3BB15D5BD13012D0DB3D9002C117C30D7C429A32F4D51",
+    "symbol": "GRAV",
+    "name": "graviton",
+    "description": "The native token of Gravity Bridge",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/80113d9226d07b7d5f24a7b6f569d4971cdfed9481d0b80d4121b8c3bd7e0a8b.svg",
+    "coinGeckoId": "graviton"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/52B707D1E99EBA20041F0238FFBC4417DAB066C7261229BAFB25AB08B8D44A81",
     "symbol": "WSOL",
     "name": "wsol",
@@ -181,6 +201,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/6C00E4AA0CC7618370F81F7378638AE6C48EFF8C9203CE1C2357012B440EBDB7",
+    "symbol": "USDT",
+    "name": "usdt",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
+    "coinGeckoId": "tether"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/921EC0DACAA71B9C0B8F1A10E817E6B6DE5D360D8215A4C50F168B6EAD7ABE0A",
     "symbol": "USDC",
     "name": "usdc",
@@ -198,16 +228,6 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/d5b4a9ae52bab105a3a3d04814f9aa2e21dbc8a71181221172ebbe52cefd5c0b.svg",
     "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/CFCEF5A109EA8E273BCE642BF79440419C365E91FA9559C3BF68D41EFD8D286F",
-    "symbol": "USDC",
-    "name": "usdc",
-    "description": "Circle's stablecoin on Axelar",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
-    "coinGeckoId": "axlusdc"
   },
   {
     "type": "ibc",
@@ -241,23 +261,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/FFBD24362BB3953E9A2FD292A0BA9B904D50ED596124E0FC60E2F7BA0476CB77",
+    "denom": "ibc/CFCEF5A109EA8E273BCE642BF79440419C365E91FA9559C3BF68D41EFD8D286F",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
     "coinGeckoId": "axlusdc"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/6C00E4AA0CC7618370F81F7378638AE6C48EFF8C9203CE1C2357012B440EBDB7",
-    "symbol": "USDT",
-    "name": "usdt",
-    "description": "",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
-    "coinGeckoId": "tether"
   },
   {
     "type": "ibc",
@@ -268,6 +278,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/79f9def0d7428ed8b761a7c42dc5f7a3492367f014258935d72cbbe2d813a552.svg",
     "coinGeckoId": "juno-network"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/FFBD24362BB3953E9A2FD292A0BA9B904D50ED596124E0FC60E2F7BA0476CB77",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
   },
   {
     "type": "ibc",
@@ -298,16 +318,6 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/e3445a89cd6ce7b1366b464f374aff6ff42f81bc67d08a3cd75f63a951d2cb0c.svg",
     "coinGeckoId": "coreum"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/3E35008738AC049C9C1A1E37F785E947A8DAA9811B3EA3B25580664294056151",
-    "symbol": "AXL",
-    "name": "axl",
-    "description": "Axelar is a decentralized interoperability network connecting multiple blockchain ecosystems, enabling seamless cross-chain communication and value transfer.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
-    "coinGeckoId": "axelar"
   },
   {
     "type": "ibc",
@@ -391,16 +401,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/64ADA1661E3C1A4293E3BB15D5BD13012D0DB3D9002C117C30D7C429A32F4D51",
-    "symbol": "GRAV",
-    "name": "graviton",
-    "description": "The native token of Gravity Bridge",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/80113d9226d07b7d5f24a7b6f569d4971cdfed9481d0b80d4121b8c3bd7e0a8b.svg",
-    "coinGeckoId": "graviton"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/AD50A0E326D60BEB87A6D437419514D71131DDF0F61DC2F03E91E4023F33C664",
     "symbol": "USDC",
     "name": "usdc",
@@ -481,17 +481,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/5F3ECA456D264F96EC9E845E41EF8C5E05E68B3FA6F239390BE5910B484EACAF",
-    "symbol": "USDC",
-    "name": "usdc",
-    "description": "Circle's stablecoin on Axelar",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
-    "coinGeckoId": "axlusdc"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/1C60D019E017EF82280EBE7D0B17844F77F025C116A5D1B1C7AA38E000C1DA1D",
+    "denom": "ibc/16FF1B6621924520CD2BC9B95EB64786ABB4EA38CAC4951D0247050C8DFC5E72",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
@@ -511,7 +501,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/16FF1B6621924520CD2BC9B95EB64786ABB4EA38CAC4951D0247050C8DFC5E72",
+    "denom": "ibc/56A422BE026779F847A8EFFFD4F7A91746953288BAB26C4EAE5E21BF4CBB70EE",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
@@ -521,7 +511,17 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/56A422BE026779F847A8EFFFD4F7A91746953288BAB26C4EAE5E21BF4CBB70EE",
+    "denom": "ibc/5F3ECA456D264F96EC9E845E41EF8C5E05E68B3FA6F239390BE5910B484EACAF",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/1C60D019E017EF82280EBE7D0B17844F77F025C116A5D1B1C7AA38E000C1DA1D",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
@@ -598,6 +598,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
     "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/E7916A1E0CA82E2E2023083D197F3318E56C1F224C78217FB2856C59483C9A75",
+    "symbol": "SCRT",
+    "name": "scrt",
+    "description": "Secret Network is a privacy-focused blockchain that enables private and secure smart contracts, protecting sensitive data.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/4e950180cbb20a28d82f99bc2243211928ef4995504af4b4029ba1f3031fde4a.svg",
+    "coinGeckoId": "secret"
   },
   {
     "type": "ibc",
@@ -748,16 +758,6 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
     "coinGeckoId": "cosmos"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/E7916A1E0CA82E2E2023083D197F3318E56C1F224C78217FB2856C59483C9A75",
-    "symbol": "SCRT",
-    "name": "scrt",
-    "description": "Secret Network is a privacy-focused blockchain that enables private and secure smart contracts, protecting sensitive data.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/4e950180cbb20a28d82f99bc2243211928ef4995504af4b4029ba1f3031fde4a.svg",
-    "coinGeckoId": "secret"
   },
   {
     "type": "ibc",

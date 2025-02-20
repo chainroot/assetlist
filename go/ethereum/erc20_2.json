@@ -4225,5 +4225,15 @@
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/0d284273ec02273676c907ea23084d64ab7e0b6f8944e539cffbee7d6b9d583d.svg",
         "coinGeckoId": "persistence"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xf091867EC603A6628eD83D274E835539D82e9cc8",
+        "name": "Zeta",
+        "symbol": "ZETA",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/zeta.png",
+        "coinGeckoId": "zetachain"
     }
 ]

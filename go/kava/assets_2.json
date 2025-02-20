@@ -262,7 +262,7 @@
         "symbol": "XRPB",
         "description": "XRPB on Kava - Deprecated",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/52b18e4695a0d08301463afe5665290d0ec16b6c298d5f7ce793011334ef0938.png",
+        "image": "https://cdn.chainroot.io/images/tokens/xrpb.png",
         "coinGeckoId": "ripple",
         "bridge_info": {
             "path": "bnb-beacon-chain>kava",

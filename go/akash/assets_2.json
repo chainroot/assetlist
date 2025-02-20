@@ -224,7 +224,7 @@
         "symbol": "USDC.eth.axl",
         "description": "Circle's stablecoin on Axelar",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/c9f0ab2b9269b3bb57cf07aa2509702f92992cd86797b321d06b57eb690e004e.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "color": "#2474cb",
         "coinGeckoId": "axlusdc",
         "ibc_info": {

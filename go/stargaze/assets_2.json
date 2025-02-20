@@ -416,6 +416,7 @@
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/6f04ed152724ef3ef7fbcceb0a038b5a97b82ce8575d96e5b6de014fe6b0a363.svg",
         "color": "#fba0c1",
+        "coinGeckoId": "mantra-dao",
         "ibc_info": {
             "path": "mantra>stargaze",
             "client": {
