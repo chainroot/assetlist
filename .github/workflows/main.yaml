@@ -70,7 +70,11 @@ jobs:
           mkdir -p go/$dir
           node scripts/schema-generator/dist/schema-convertor.js "$dir"_assetlist.json go/$dir/assets_2.json
         done
+        mkdir -p go/pryzm-testnet
+        node scripts/schema-generator/dist/schema-convertor.js pryzm_assetlist.json go/pryzm-testnet/assets_2.json
         sed -i 's/"coinGeckoId": ""/"coinGeckoId": "pryzmatics"/g' go/pryzm/assets_2.json
+        sed -i 's/"coinGeckoId": ""/"coinGeckoId": "pryzmatics"/g' go/pryzm-testnet/assets_2.json
+
 
     - name: Running staking denom
       run: node scripts/schema-generator/dist/update-staking-denom-type.js
