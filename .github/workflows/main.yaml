@@ -63,7 +63,6 @@ jobs:
         for dir in $DIRECTORIES; do
           wget -O "$dir"_assetlist.json https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/$dir/assetlist.json
         done
-        wget -O pryzmtestnet_assetlist.json https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/testnet/pryzmtestnet/assetlist.json
         cd scripts/schema-generator
         tsc
         cd ../..
@@ -72,7 +71,7 @@ jobs:
           node scripts/schema-generator/dist/schema-convertor.js "$dir"_assetlist.json go/$dir/assets_2.json
         done
         mkdir -p go/pryzm-testnet
-        node scripts/schema-generator/dist/schema-convertor.js pryzmtestnet_assetlist.json go/pryzm-testnet/assets_2.json
+        node scripts/schema-generator/dist/schema-convertor.js pryzm_assetlist.json go/pryzm-testnet/assets_2.json
         sed -i 's/"coinGeckoId": ""/"coinGeckoId": "pryzmatics"/g' go/pryzm/assets_2.json
         sed -i 's/"coinGeckoId": ""/"coinGeckoId": "pryzmatics"/g' go/pryzm-testnet/assets_2.json
 
