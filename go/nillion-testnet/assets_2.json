@@ -4,7 +4,7 @@
         "denom": "unil",
         "name": "Nillion Testnet",
         "symbol": "NIL",
-        "description": "Nillion-testnet Staing Coin",
+        "description": "Nillion-testnet Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/nil.png",
         "coinGeckoId": ""

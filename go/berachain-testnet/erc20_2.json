@@ -27,7 +27,7 @@
         "name" : "USDC Token",
         "symbol": "USDC",
         "description": "USD Coin (USDC)",
-        "decimals": 18,
+        "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": "",
         "wallet_preload": true
@@ -148,7 +148,7 @@
         "name" : "Tether USD",
         "symbol": "USDT",
         "description": "Tether USD",
-        "decimals": 18,
+        "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
         "coinGeckoId": "",
         "wallet_preload": false

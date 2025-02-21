@@ -1,6 +1,26 @@
 [
   {
     "type": "ibc",
+    "denom": "ibc/E4859520008F30CAB8A6548A390BC10C45F667A26A5A22D8891A79589DF57C41",
+    "symbol": "UNI",
+    "name": "uni",
+    "description": "Uniswap on Axelar",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/306596012a2eb63bf1b910eaf7bd42ec3477786b85788bdacc4a909bea592678.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/825357229BD1F2EE8B5BB56D241C99E74B2AC4F6BE8850BB850173E93482F437",
+    "symbol": "WETH",
+    "name": "weth",
+    "description": "Wrapped Ether on Axelar",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/15dcdac9407b9a3fc6702bd2abde9fb3b47671997bc46fb594d65e4e982786c7.png",
+    "coinGeckoId": "axlweth"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/58DF4B35EEF273EA71223C4FEFC81289024284B2E7E6D62C4068238458C7B89F",
     "symbol": "COSMO",
     "name": "COSMO",
@@ -18,6 +38,26 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/cc3d7ca7f31edca28fc140d0a3aa85f2ebfcce3d5d740a35d2502603a885cbb6.svg",
     "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/B5F6DCC4FEF6BBBC356C67C46072AB3C01443FB5E3D19538C52A3CD439BE6BE3",
+    "symbol": "USDT",
+    "name": "usdt",
+    "description": "Tether's USD stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
+    "coinGeckoId": "axelar-usdt"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/37EF240838413BD7D3496183213F7F0F483EC7A330328F16AD901A1AC1450F72",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
   },
   {
     "type": "ibc",

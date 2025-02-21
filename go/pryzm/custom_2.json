@@ -21,16 +21,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/E21808AEBCB7E02F594897100186C126E3BC9A36B0974196AF116750A4573F06",
-    "symbol": "AXL",
-    "name": "axl",
-    "description": "Axelar is a decentralized interoperability network connecting multiple blockchain ecosystems, enabling seamless cross-chain communication and value transfer.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
-    "coinGeckoId": "axelar"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/D8A36AE90F20FE4843A8D249B1BCF0CCDDE35C4B605C8DED57BED20C639162D0",
     "symbol": "USDT",
     "name": "usdt",
@@ -38,6 +28,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
     "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/E21808AEBCB7E02F594897100186C126E3BC9A36B0974196AF116750A4573F06",
+    "symbol": "AXL",
+    "name": "axl",
+    "description": "Axelar is a decentralized interoperability network connecting multiple blockchain ecosystems, enabling seamless cross-chain communication and value transfer.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
+    "coinGeckoId": "axelar"
   },
   {
     "type": "ibc",
@@ -68,75 +68,5 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
     "coinGeckoId": "cosmos"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/9924F230D93D88A98D1469A24E523D7BF58935E6321C18CFAEFBFC068B54676F",
-    "symbol": "nUSDC",
-    "name": "nusdc",
-    "description": "Circle's stablecoin from Neptune Protocol",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
-    "coinGeckoId": "usd-coin"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/018AC5A86B24C7FCE5BAF37B50F47028A8BA791F64233773531EE10F97CBA225",
-    "symbol": "nUSDT",
-    "name": "nusdt",
-    "description": "Tether USDt from Neptune Protocol",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
-    "coinGeckoId": "tether"
-  },
-  {
-    "type": "native",
-    "denom": "factory/pryzm1jnhcsa5ddjsjq2t97v6a82z542rduxvtw6wd9h/uphotondrop",
-    "symbol": "photonDrop",
-    "name": "photondrop",
-    "description": "",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/b43b909ea007320f98be29fae1da6f7929875e51c9c06d9ed9c15aec6c372560.png",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "native",
-    "denom": "factory/pryzm1jnhcsa5ddjsjq2t97v6a82z542rduxvtw6wd9h/ustakedrop",
-    "symbol": "stakeDrop",
-    "name": "stakedrop",
-    "description": "",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/b43b909ea007320f98be29fae1da6f7929875e51c9c06d9ed9c15aec6c372560.png",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "native",
-    "denom": "factory/pryzm1jnhcsa5ddjsjq2t97v6a82z542rduxvtw6wd9h/photonwhale",
-    "symbol": "photonWhale",
-    "name": "photonwhale",
-    "description": "",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/b43b909ea007320f98be29fae1da6f7929875e51c9c06d9ed9c15aec6c372560.png",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "native",
-    "denom": "factory/pryzm1jnhcsa5ddjsjq2t97v6a82z542rduxvtw6wd9h/uopdrop",
-    "symbol": "opDrop",
-    "name": "opdrop",
-    "description": "",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/b43b909ea007320f98be29fae1da6f7929875e51c9c06d9ed9c15aec6c372560.png",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "native",
-    "denom": "factory/pryzm1jnhcsa5ddjsjq2t97v6a82z542rduxvtw6wd9h/stakedropper",
-    "symbol": "stakeDropper",
-    "name": "stakeDropper",
-    "description": "",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/b43b909ea007320f98be29fae1da6f7929875e51c9c06d9ed9c15aec6c372560.png",
-    "coinGeckoId": ""
   }
 ]

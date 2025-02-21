@@ -170,7 +170,7 @@
         "symbol": "ATOM",
         "description": "The native staking and governance token of the Cosmos Hub.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/atom.png",
         "color": "#272d45",
         "coinGeckoId": "cosmos",
         "ibc_info": {
@@ -455,7 +455,7 @@
         "symbol": "STARS",
         "description": "The native token of Stargaze",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/8c41a49f8a121387817f0fd11a45f39da6ea8a8952026c46760f2c001316e207.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/7f33a57ac37457517a235c8f48ab63b3e5dd75e5a869cae79346a460a50daedb.png",
         "color": "#db2777",
         "coinGeckoId": "stargaze",
         "ibc_info": {
@@ -4862,8 +4862,8 @@
     {
         "type": "ibc",
         "denom": "ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB",
-        "name": "Tether USD (Kava)",
-        "symbol": "USDT.kava",
+        "name": "Tether USD",
+        "symbol": "USDT",
         "description": "Tether gives you the joint benefits of open blockchain technology and traditional currency by converting your cash into a stable digital currency equivalent.",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/9b66c2f22347bbb3052aa71d17944cf856e9243e6c1aa4c63a13300be018aa8e.svg",
@@ -8253,8 +8253,8 @@
     {
         "type": "native",
         "denom": "factory/osmo1em6xs47hd82806f5cxgyufguxrrc7l0aqx7nzzptjuqgswczk8csavdxek/alloyed/allUSDT",
-        "name": "Tether USD",
-        "symbol": "USDT",
+        "name": "Tether USD (alloyed)",
+        "symbol": "allUSDT",
         "description": "An alloy of USDT asset variants on Osmosis.",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
@@ -9629,7 +9629,7 @@
     },
     {
         "type": "ibc",
-        "denom": "ibc/715283E4A955EB803AB1DD30B488587A4D63BF0B51BADA537053DEE479BA10D6",
+        "denom": "ibc/BC26A7A805ECD6822719472BCB7842A48EF09DF206182F8F259B2593EB5D23FB",
         "name": "AtomOne",
         "symbol": "ATONE",
         "description": "The native staking and governance token of AtomOne",
@@ -9638,11 +9638,11 @@
         "ibc_info": {
             "path": "atomone>osmosis",
             "client": {
-                "channel": "channel-85309",
+                "channel": "channel-94814",
                 "port": "transfer"
             },
             "counterparty": {
-                "channel": "channel-0",
+                "channel": "channel-2",
                 "port": "transfer",
                 "chain": "atomone",
                 "denom": "uatone"
@@ -10076,6 +10076,141 @@
                 "port": "transfer",
                 "chain": "neutron",
                 "denom": "factory/neutron1ut4c6pv4u6vyu97yw48y8g7mle0cat54848v6m97k977022lzxtsaqsgmq/udtia"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/C1B4D4804EB8F95FFB75E6395A301F0AD6D7DDE5C3A45571B70E46A368DD353E",
+        "name": "dATOM",
+        "symbol": "dATOM",
+        "description": "A liquid staking derivative of staked ATOM, powered by DROP on Neutron.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/datom.png",
+        "coinGeckoId": "drop-staked-atom",
+        "ibc_info": {
+            "path": "neutron>osmosis",
+            "client": {
+                "channel": "channel-874",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-10",
+                "port": "transfer",
+                "chain": "neutron",
+                "denom": "factory/neutron1k6hr0f83e7un2wjf29cspk7j69jrnskk65k3ek2nj9dztrlzpj6q00rtsa/udatom"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/648260E4FF8AEDD310F2A72930F25DD7F43DD82F45F66E53B4A70A0C216FA53B",
+        "name": "Cosmos Bitcoin",
+        "symbol": "BITCOIN",
+        "description": "Cosmos Bitcoin",
+        "decimals": 6,
+        "image": " https://cdn.chainroot.io/images/tokens/4aeaf8bce2b2de17476086dcfbc501093244bc0001a2a8f9dbbc41a010882831.png",
+        "ibc_info": {
+            "path": "injective>osmosis",
+            "client": {
+                "channel": "channel-122",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-8",
+                "port": "transfer",
+                "chain": "injective",
+                "denom": "factory/inj1s9hr5zfz3xrkzchde94hd2d0edjs4q5mrqrz6x/BITCOIN"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/54C7B977B96DFC56D877A7F74D22BD26B5E42CA6171F120F5A36AC82BFD4711A",
+        "name": "BRICS",
+        "symbol": "BRICS",
+        "description": "BRICS coin",
+        "decimals": 6,
+        "image": " https://cdn.chainroot.io/images/tokens/b88648326e4b3f548e28f2104d71ffc8e8652f526f3366628d2be9a6efda3eb4.png",
+        "ibc_info": {
+            "path": "injective>osmosis",
+            "client": {
+                "channel": "channel-122",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-8",
+                "port": "transfer",
+                "chain": "injective",
+                "denom": "factory/inj1s9hr5zfz3xrkzchde94hd2d0edjs4q5mrqrz6x/BRICS"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/1B23B6F7DAC37267F04E82466AB798CC59F941BD4AE5653C497730F174F14849",
+        "name": "Crypto",
+        "symbol": "CRYPTO",
+        "description": "Crypto coin",
+        "decimals": 6,
+        "image": " https://cdn.chainroot.io/images/tokens/99e22bb45e2c6cd823b3a9aedee5cef55073950acb2a674f9a1ab6ef99b0a0a6.png",
+        "ibc_info": {
+            "path": "injective>osmosis",
+            "client": {
+                "channel": "channel-122",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-8",
+                "port": "transfer",
+                "chain": "injective",
+                "denom": "factory/inj1s9hr5zfz3xrkzchde94hd2d0edjs4q5mrqrz6x/CRYPTO"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/A436BC9498153DC580B56BD27043BBFE08A1754696C05FFF00B2A41EC796D180",
+        "name": "INC",
+        "symbol": "INC",
+        "description": "Instant Noodles coin",
+        "decimals": 6,
+        "image": " https://cdn.chainroot.io/images/tokens/288b6bdca30ad57dce8c287a0d4656d33c1238360d147f7a1ea36068e4626ee6.png",
+        "ibc_info": {
+            "path": "injective>osmosis",
+            "client": {
+                "channel": "channel-122",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-8",
+                "port": "transfer",
+                "chain": "injective",
+                "denom": "factory/inj1s9hr5zfz3xrkzchde94hd2d0edjs4q5mrqrz6x/INC"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/E72E62E74112F379BB760D02515DA215408CCBF401CD4C9BC0A3DBD72A7076E1",
+        "name": "SAM",
+        "symbol": "SAM",
+        "description": "The SAM token is a native memecoin on Oraichain",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/2bc1f3a70629c200ca6b8754784d37d9fc3eb0ea96b7e1088fae0026cc7db686.png",
+        "color": "#000000",
+        "coinGeckoId": "sam-2",
+        "ibc_info": {
+            "path": "orai-chain>osmosis",
+            "client": {
+                "channel": "channel-216",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-13",
+                "port": "transfer",
+                "chain": "orai-chain",
+                "denom": "factory/orai15rmny3cxv33rnzdr2lfdhjtslyzmrr0vdd28kp/SAM"
             }
         }
     }

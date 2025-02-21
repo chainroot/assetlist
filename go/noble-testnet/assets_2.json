@@ -4,7 +4,7 @@
         "denom": "ustake",
         "name": "Stake Testnet",
         "symbol": "STAKE",
-        "description": "Noble testnet Staking Coin",
+        "description": "Noble Testnet Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/stake.png",
         "coinGeckoId": ""
@@ -12,9 +12,9 @@
     {
         "type": "native",
         "denom": "uusdc",
-        "name": "USDC Testnet",
+        "name": "Circle USD Coin Testnet",
         "symbol": "USDC",
-        "description": "Noble testnet Native Coin",
+        "description": "Noble Testnet Native Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
         "coinGeckoId": ""
@@ -24,7 +24,7 @@
         "denom": "ausdy",
         "name": "Ondo US Dollar Yield Testnet",
         "symbol": "USDY",
-        "description": "Noble testnet Native Coin",
+        "description": "Noble Testnet Native Coin",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/usdy.png",
         "coinGeckoId": ""
@@ -32,9 +32,9 @@
     {
         "type": "native",
         "denom": "uusyc",
-        "name": "US Yield Coin Testnet",
+        "name": "Hashnote US Yield Coin Testnet",
         "symbol": "USYC",
-        "description": "Noble testnet Native Coin",
+        "description": "Noble Testnet Native Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/usyc.png",
         "coinGeckoId": ""
@@ -44,9 +44,19 @@
         "denom": "ueure",
         "name": "Monerium EUR emoney Testnet",
         "symbol": "EURe",
-        "description": "Noble testnet Native Coin",
+        "description": "Noble Testnet Native Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/eure.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "uusdn",
+        "name": "Noble Dollar Testnet",
+        "symbol": "USDN",
+        "description": "Noble Testnet Native Coin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/usdn.png",
         "coinGeckoId": ""
     }
 ]

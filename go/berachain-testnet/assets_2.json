@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "type": "native",
+        "denom": "0x0000000000000000000000000000000000000000",
+        "name": "Berachain Testnet",
+        "symbol": "BERA",
+        "description": "Berachain Testnet Native Coin",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/bera.png",
+        "coinGeckoId": ""
+    }
+]

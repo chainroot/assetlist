@@ -1,0 +1,1552 @@
+[
+  {
+    "type": "native",
+    "denom": "upryzm",
+    "name": "Pryzm",
+    "symbol": "PRYZM",
+    "description": "The native token of PRYZM",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/b43b909ea007320f98be29fae1da6f7929875e51c9c06d9ed9c15aec6c372560.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "factory/pryzm1jnhcsa5ddjsjq2t97v6a82z542rduxvtw6wd9h/uauuu",
+    "name": "AUUU",
+    "symbol": "AUUU",
+    "description": "The meme token of PRYZM",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/da867038efaca79960c1b6ed43b89e1247496e96d59d2ceedc9b2de8b18a6a0d.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
+    "name": "Atom",
+    "symbol": "ATOM",
+    "description": "The native staking and governance token of the Cosmos Hub",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/333ea8b1d845362bf8b1ad31a5965367e9d17e501b56d7bcacef99833c2c3179.png",
+    "coinGeckoId": "cosmos"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/DE63D8AC34B752FB7D4CAA7594145EDE1C9FC256AC6D4043D0F12310EB8FC255",
+    "name": "Injective",
+    "symbol": "INJ",
+    "description": "The native staking and governance token of the Injective chain",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/76a215ca49627f58cc019c1ac35bdb14a569174d94e51571459af7b811b92b79.png",
+    "coinGeckoId": "injective-protocol"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/13B2C536BB057AC79D5616B8EA1B9540EC1F2170718CAFF6F0083C966FFFED0B",
+    "name": "Osmo",
+    "symbol": "OSMO",
+    "description": "The native staking and governance token of the Osmosis chain",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/78b9d5816043e23645e7abe092335ac4151f8898fc8afe849a700c4550aae2fe.png",
+    "coinGeckoId": "osmosis"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/BF28D9C17E0306B194D50F51C3B2590BEAD15E04E03ADD34C3A26E62D85C9676",
+    "name": "Tia",
+    "symbol": "TIA",
+    "description": "The native staking and governance token of the Celestia chain",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/df5a29e946c6bebef25b4583a89177fbbf72c25175de24201f286583c601e72a.png",
+    "coinGeckoId": "celestia"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/B8AF5D92165F35AB31F3FC7C7B444B9D240760FA5D406C49D24862BD0284E395",
+    "name": "Luna",
+    "symbol": "LUNA",
+    "description": "The native staking and governance token of the Terra chain",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/030d329fde8f6ea5c92d5104c96f390686c82a176e6a893773957f1d9338488b.png",
+    "coinGeckoId": "terra-luna-2"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/BFAAB7870A9AAABF64A7366DAAA0B8E5065EAA1FCE762F45677DC24BE796EF65",
+    "name": "USDC",
+    "symbol": "USDC",
+    "description": "Circle's USDC on Noble",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/397847b8761552e3572cc4dd5e8d383ac12a1e709521d725c04e9bcbd2c72780.png",
+    "coinGeckoId": "usd-coin"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/B9E4FD154C92D3A23BEA029906C4C5FF2FE74CB7E3A058290B77197A263CF88B",
+    "name": "USDC (Axelar)",
+    "symbol": "USDC.axl",
+    "description": "Circle's USDC on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/67874348ee99333d66adf87c644abce6fcbad362908f2cbd13c0160d1139ed98.png",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/F8CA5236869F819BC006EEF088E67889A26E4140339757878F0F4E229CDDA858",
+    "name": "dYdX",
+    "symbol": "DYDX",
+    "description": "The native staking and governance token of the dYdX chain",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/210971545dc56741ba7d497228a75c8a833be1693a480de8e66788c3bcdecfde.png",
+    "coinGeckoId": "dydx-chain"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/FA78980867B7E87F382CDA00275C55DDC248CABC7DEE27AC6868CCF97DD5E02F",
+    "name": "Stride Staked TIA",
+    "symbol": "stTIA",
+    "description": "Stride's liquid staked TIA",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7be53099ecd40e6f86a61675eaa6fdab6046f1cf1a99087aa4089f82d6c5f10f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/120DC39B61CC121E91525C1D51624E41BBE74C537D7B0BE50BBFF9A00E37B6EE",
+    "name": "Stride Staked DYDX",
+    "symbol": "stDYDX",
+    "description": "Stride's liquid staked DYDX",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/6ceb57dcddafead7ccf75fab9e8fb2100c48d9a308cd9c37d72f4b2e3a6df0f9.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/EA6E1E8BA2EB9F681C4BD12C8C81A46530A62934F2BD561B120A00F46946CE87",
+    "name": "dATOM",
+    "symbol": "dATOM",
+    "description": "Drop Protocol's liquid staked ATOM",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f83dc67714a5c47477a09e801198f14e04d2eef8a9fdf99372a2cd62981717e3.svg",
+    "coinGeckoId": "drop-staked-atom"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/925137DE4F77A2F26A5FA5051200437F43AFBBC39A4F443968C8E93B756AFB3B",
+    "name": "USDY",
+    "symbol": "USDY",
+    "description": "Ondo Finance's US Dollar Yield",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/38386c71641e52286735dff21c3aff0df33d38f4f96df566974c995219690f3d.png",
+    "coinGeckoId": "ondo-us-dollar-yield"
+  },
+  {
+    "type": "native",
+    "denom": "c:uatom",
+    "name": "cAtom",
+    "symbol": "cATOM",
+    "description": "Pryzm's native liquid staking token for ATOM",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/c0e9ce81180f881deed1e073e7f7b7713fa910641d6e560d1521175b71f13533.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "c:inj",
+    "name": "cInj",
+    "symbol": "cINJ",
+    "description": "Pryzm's native liquid staking token for INJ",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/266267042d16edd2fc066f12280fed5a6a69cfc6cb93131bc321f020c0766dd0.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "c:uosmo",
+    "name": "cOsmo",
+    "symbol": "cOSMO",
+    "description": "Pryzm's native liquid staking token for OSMO",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/456fb4aea4ec10d55efbdef3507c3402098e62cf06491d4d1a2f1edfeea54eb9.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "c:uluna",
+    "name": "cLuna",
+    "symbol": "cLUNA",
+    "description": "Pryzm's native liquid staking token for LUNA",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/555f0bee6ac160a807ff5ebe5f017ea36298b462871c2f5958d89d60af148b57.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "factory/pryzm1qg5ega6dykkxc307y25pecuufrjkxkaggkkxh7nad0vhyhtuhw3sk0s70x/cuauuu",
+    "name": "cAuuu",
+    "symbol": "cAUUU",
+    "description": "Pryzm's native liquid staking token for AUUU",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/1bf56317745ed7d66ba8a98c0babc8795d8021ce9eeb792624eb638e548b7fc1.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "c:utia",
+    "name": "cTia",
+    "symbol": "cTIA",
+    "description": "Pryzm's native liquid staking token for TIA",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/d71f40bb83be957c5a7635a4dcaecaacd78f56fc9c4df5c26757b34e1109b991.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "c:upryzm",
+    "name": "cPryzm",
+    "symbol": "cPRYZM",
+    "description": "Pryzm's native liquid staking token for PRYZM",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/aa2f3267bc8d94365f56f722c2d91da3bdfd33d396553b0bf89918e5b803f160.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:uatom:30Sep2024",
+    "name": "pAtom (30Sep2024)",
+    "symbol": "pATOM-30Sep2024",
+    "description": "Pryzm's refracted principal token for ATOM with maturity of 30Sep2024",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7b7edc69da40f4341aceeaaa228758bef57d4d7eb5b7fc0ab39d046006e58f50.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:uatom:31Dec2024",
+    "name": "pAtom (31Dec2024)",
+    "symbol": "pATOM-31Dec2024",
+    "description": "Pryzm's refracted principal token for ATOM with maturity of 31Dec2024",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7b7edc69da40f4341aceeaaa228758bef57d4d7eb5b7fc0ab39d046006e58f50.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:uatom:31Mar2025",
+    "name": "pAtom (31Mar2025)",
+    "symbol": "pATOM-31Mar2025",
+    "description": "Pryzm's refracted principal token for ATOM with maturity of 31Mar2025",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7b7edc69da40f4341aceeaaa228758bef57d4d7eb5b7fc0ab39d046006e58f50.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:uatom:31Dec2025",
+    "name": "pAtom (31Dec2025)",
+    "symbol": "pATOM-31Dec2025",
+    "description": "Pryzm's refracted principal token for ATOM with maturity of 31Dec2025",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7b7edc69da40f4341aceeaaa228758bef57d4d7eb5b7fc0ab39d046006e58f50.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:uatom:31Dec2026",
+    "name": "pAtom (31Dec2026)",
+    "symbol": "pATOM-31Dec2026",
+    "description": "Pryzm's refracted principal token for ATOM with maturity of 31Dec2026",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7b7edc69da40f4341aceeaaa228758bef57d4d7eb5b7fc0ab39d046006e58f50.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:uosmo:30Sep2024",
+    "name": "pOsmo (30Sep2024)",
+    "symbol": "pOSMO-30Sep2024",
+    "description": "Pryzm's refracted principal token for OSMO with maturity of 30Sep2024",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/e162a0837f6f8eb9a99c648c040500c26c23b73ab3e27adb5277068c0a3e5bf1.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:uosmo:31Dec2024",
+    "name": "pOsmo (31Dec2024)",
+    "symbol": "pOSMO-31Dec2024",
+    "description": "Pryzm's refracted principal token for OSMO with maturity of 31Dec2024",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/e162a0837f6f8eb9a99c648c040500c26c23b73ab3e27adb5277068c0a3e5bf1.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:uosmo:31Mar2025",
+    "name": "pOsmo (31Mar2025)",
+    "symbol": "pOSMO-31Mar2025",
+    "description": "Pryzm's refracted principal token for OSMO with maturity of 31Mar2025",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/e162a0837f6f8eb9a99c648c040500c26c23b73ab3e27adb5277068c0a3e5bf1.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:uosmo:31Dec2025",
+    "name": "pOsmo (31Dec2025)",
+    "symbol": "pOSMO-31Dec2025",
+    "description": "Pryzm's refracted principal token for OSMO with maturity of 31Dec2025",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/e162a0837f6f8eb9a99c648c040500c26c23b73ab3e27adb5277068c0a3e5bf1.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:uosmo:31Dec2026",
+    "name": "pOsmo (31Dec2026)",
+    "symbol": "pOSMO-31Dec2026",
+    "description": "Pryzm's refracted principal token for OSMO with maturity of 31Dec2026",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/e162a0837f6f8eb9a99c648c040500c26c23b73ab3e27adb5277068c0a3e5bf1.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:inj:30Sep2024",
+    "name": "pInj (30Sep2024)",
+    "symbol": "pINJ-30Sep2024",
+    "description": "Pryzm's refracted principal token for INJ with maturity of 30Sep2024",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/e2bf3724141b20d42ce27f2458cd44a4757f676b788a5a2d390d8a282f3ef11d.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:inj:31Dec2024",
+    "name": "pInj (31Dec2024)",
+    "symbol": "pINJ-31Dec2024",
+    "description": "Pryzm's refracted principal token for INJ with maturity of 31Dec2024",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/e2bf3724141b20d42ce27f2458cd44a4757f676b788a5a2d390d8a282f3ef11d.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:inj:31Mar2025",
+    "name": "pInj (31Mar2025)",
+    "symbol": "pINJ-31Mar2025",
+    "description": "Pryzm's refracted principal token for INJ with maturity of 31Mar2025",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/e2bf3724141b20d42ce27f2458cd44a4757f676b788a5a2d390d8a282f3ef11d.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:inj:31Dec2025",
+    "name": "pInj (31Dec2025)",
+    "symbol": "pINJ-31Dec2025",
+    "description": "Pryzm's refracted principal token for INJ with maturity of 31Dec2025",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/e2bf3724141b20d42ce27f2458cd44a4757f676b788a5a2d390d8a282f3ef11d.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:inj:31Dec2026",
+    "name": "pInj (31Dec2026)",
+    "symbol": "pINJ-31Dec2026",
+    "description": "Pryzm's refracted principal token for INJ with maturity of 31Dec2026",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/e2bf3724141b20d42ce27f2458cd44a4757f676b788a5a2d390d8a282f3ef11d.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:uluna:30Sep2024",
+    "name": "pLuna (30Sep2024)",
+    "symbol": "pLUNA-30Sep2024",
+    "description": "Pryzm's refracted principal token for LUNA with maturity of 30Sep2024",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/3fc1895f142e54ad19b20bb3613212dde751f1f1ce95657c8b913cd2ca7153b0.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:uluna:31Dec2024",
+    "name": "pLuna (31Dec2024)",
+    "symbol": "pLUNA-31Dec2024",
+    "description": "Pryzm's refracted principal token for LUNA with maturity of 31Dec2024",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/3fc1895f142e54ad19b20bb3613212dde751f1f1ce95657c8b913cd2ca7153b0.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:uluna:31Mar2025",
+    "name": "pLuna (31Mar2025)",
+    "symbol": "pLUNA-31Mar2025",
+    "description": "Pryzm's refracted principal token for LUNA with maturity of 31Mar2025",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/3fc1895f142e54ad19b20bb3613212dde751f1f1ce95657c8b913cd2ca7153b0.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:uluna:31Dec2025",
+    "name": "pLuna (31Dec2025)",
+    "symbol": "pLUNA-31Dec2025",
+    "description": "Pryzm's refracted principal token for LUNA with maturity of 31Dec2025",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/3fc1895f142e54ad19b20bb3613212dde751f1f1ce95657c8b913cd2ca7153b0.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:uluna:31Dec2026",
+    "name": "pLuna (31Dec2026)",
+    "symbol": "pLUNA-31Dec2026",
+    "description": "Pryzm's refracted principal token for LUNA with maturity of 31Dec2026",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/3fc1895f142e54ad19b20bb3613212dde751f1f1ce95657c8b913cd2ca7153b0.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:uauuu:30Sep2024",
+    "name": "pAuuu (30Sep2024)",
+    "symbol": "pAUUU-30Sep2024",
+    "description": "Pryzm's refracted principal token for AUUU with maturity of 30Sep2024",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/6646597cd4ddf6f18c04a6ed69bf2e73c0606497608e9180368f58634633530a.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:uauuu:31Dec2024",
+    "name": "pAuuu (31Dec2024)",
+    "symbol": "pAUUU-31Dec2024",
+    "description": "Pryzm's refracted principal token for AUUU with maturity of 31Dec2024",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/6646597cd4ddf6f18c04a6ed69bf2e73c0606497608e9180368f58634633530a.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:uauuu:31Dec2025",
+    "name": "pAuuu (31Dec2025)",
+    "symbol": "pAUUU-31Dec2025",
+    "description": "Pryzm's refracted principal token for AUUU with maturity of 31Dec2025",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/6646597cd4ddf6f18c04a6ed69bf2e73c0606497608e9180368f58634633530a.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:uauuu:31Dec2026",
+    "name": "pAuuu (31Dec2026)",
+    "symbol": "pAUUU-31Dec2026",
+    "description": "Pryzm's refracted principal token for AUUU with maturity of 31Dec2026",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/6646597cd4ddf6f18c04a6ed69bf2e73c0606497608e9180368f58634633530a.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:stutia:30Sep2024",
+    "name": "pstTia (30Sep2024)",
+    "symbol": "pstTIA-30Sep2024",
+    "description": "Pryzm's refracted principal token for stTIA with maturity of 30Sep2024",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/300833a31070b65c702a97d569df7a613329fd5a0aa8ae4b9b320f03dc2beb01.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:stutia:31Dec2024",
+    "name": "pstTia (31Dec2024)",
+    "symbol": "pstTIA-31Dec2024",
+    "description": "Pryzm's refracted principal token for stTIA with maturity of 31Dec2024",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/300833a31070b65c702a97d569df7a613329fd5a0aa8ae4b9b320f03dc2beb01.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:stutia:31Mar2025",
+    "name": "pstTia (31Mar2025)",
+    "symbol": "pstTIA-31Mar2025",
+    "description": "Pryzm's refracted principal token for stTIA with maturity of 31Mar2025",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/300833a31070b65c702a97d569df7a613329fd5a0aa8ae4b9b320f03dc2beb01.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:stutia:31Dec2025",
+    "name": "pstTia (31Dec2025)",
+    "symbol": "pstTIA-31Dec2025",
+    "description": "Pryzm's refracted principal token for stTIA with maturity of 31Dec2025",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/300833a31070b65c702a97d569df7a613329fd5a0aa8ae4b9b320f03dc2beb01.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:stutia:31Dec2026",
+    "name": "pstTia (31Dec2026)",
+    "symbol": "pstTIA-31Dec2026",
+    "description": "Pryzm's refracted principal token for stTIA with maturity of 31Dec2026",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/300833a31070b65c702a97d569df7a613329fd5a0aa8ae4b9b320f03dc2beb01.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:stadydx:30Sep2024",
+    "name": "pstDydx (30Sep2024)",
+    "symbol": "pstDYDX-30Sep2024",
+    "description": "Pryzm's refracted principal token for stDYDX with maturity of 30Sep2024",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/22d5df5d6138ae5db4ffd069f7cd15eb538ceb17add7a6518f586021a91df31f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:stadydx:31Dec2024",
+    "name": "pstDydx (31Dec2024)",
+    "symbol": "pstDYDX-31Dec2024",
+    "description": "Pryzm's refracted principal token for stDYDX with maturity of 31Dec2024",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/22d5df5d6138ae5db4ffd069f7cd15eb538ceb17add7a6518f586021a91df31f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:stadydx:31Mar2025",
+    "name": "pstDydx (31Mar2025)",
+    "symbol": "pstDYDX-31Mar2025",
+    "description": "Pryzm's refracted principal token for stDYDX with maturity of 31Mar2025",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/22d5df5d6138ae5db4ffd069f7cd15eb538ceb17add7a6518f586021a91df31f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:stadydx:31Dec2025",
+    "name": "pstDydx (31Dec2025)",
+    "symbol": "pstDYDX-31Dec2025",
+    "description": "Pryzm's refracted principal token for stDYDX with maturity of 31Dec2025",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/22d5df5d6138ae5db4ffd069f7cd15eb538ceb17add7a6518f586021a91df31f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:stadydx:31Dec2026",
+    "name": "pstDydx (31Dec2026)",
+    "symbol": "pstDYDX-31Dec2026",
+    "description": "Pryzm's refracted principal token for stDYDX with maturity of 31Dec2026",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/22d5df5d6138ae5db4ffd069f7cd15eb538ceb17add7a6518f586021a91df31f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:udatom:31Dec2024",
+    "name": "pdAtom (31Dec2024)",
+    "symbol": "pdATOM-31Dec2024",
+    "description": "Pryzm's refracted principal token for dATOM with maturity of 31Dec2024",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/2750b3d6639bd7482111d240b93cd02d739dcea69e940d2d3fc3dca50fb5a385.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:udatom:31Mar2025",
+    "name": "pdAtom (31Mar2025)",
+    "symbol": "pdATOM-31Mar2025",
+    "description": "Pryzm's refracted principal token for dATOM with maturity of 31Mar2025",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/2750b3d6639bd7482111d240b93cd02d739dcea69e940d2d3fc3dca50fb5a385.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:udatom:30Jun2025",
+    "name": "pdAtom (30Jun2025)",
+    "symbol": "pdATOM-30Jun2025",
+    "description": "Pryzm's refracted principal token for dATOM with maturity of 30Jun2025",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/2750b3d6639bd7482111d240b93cd02d739dcea69e940d2d3fc3dca50fb5a385.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:udatom:31Dec2025",
+    "name": "pdAtom (31Dec2025)",
+    "symbol": "pdATOM-31Dec2025",
+    "description": "Pryzm's refracted principal token for dATOM with maturity of 31Dec2025",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/2750b3d6639bd7482111d240b93cd02d739dcea69e940d2d3fc3dca50fb5a385.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:udatom:31Dec2026",
+    "name": "pdAtom (31Dec2026)",
+    "symbol": "pdATOM-31Dec2026",
+    "description": "Pryzm's refracted principal token for dATOM with maturity of 31Dec2026",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/2750b3d6639bd7482111d240b93cd02d739dcea69e940d2d3fc3dca50fb5a385.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:utia:31Dec2024",
+    "name": "pTia (31Dec2024)",
+    "symbol": "pTIA-31Dec2024",
+    "description": "Pryzm's refracted principal token for TIA with maturity of 31Dec2024",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9303d030c33418ccaa9435a42bf1f291d1adda0f8d88eec4699b1aa34b2bdd3a.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:utia:31Mar2025",
+    "name": "pTia (31Mar2025)",
+    "symbol": "pTIA-31Mar2025",
+    "description": "Pryzm's refracted principal token for TIA with maturity of 31Mar2025",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9303d030c33418ccaa9435a42bf1f291d1adda0f8d88eec4699b1aa34b2bdd3a.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:utia:31Dec2025",
+    "name": "pTia (31Dec2025)",
+    "symbol": "pTIA-31Dec2025",
+    "description": "Pryzm's refracted principal token for TIA with maturity of 31Dec2025",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9303d030c33418ccaa9435a42bf1f291d1adda0f8d88eec4699b1aa34b2bdd3a.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:utia:31Dec2026",
+    "name": "pTia (31Dec2026)",
+    "symbol": "pTIA-31Dec2026",
+    "description": "Pryzm's refracted principal token for TIA with maturity of 31Dec2026",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9303d030c33418ccaa9435a42bf1f291d1adda0f8d88eec4699b1aa34b2bdd3a.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:ausdy:31Mar2025",
+    "name": "pUsdy (31Mar2025)",
+    "symbol": "pUSDY-31Mar2025",
+    "description": "Pryzm's refracted principal token for USDY with maturity of 31Mar2025",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/4039c965813bfb9789e069ca0389b8fb0771020e246b0939d0fb52e255bccaff.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:ausdy:30Jun2025",
+    "name": "pUsdy (30Jun2025)",
+    "symbol": "pUSDY-30Jun2025",
+    "description": "Pryzm's refracted principal token for USDY with maturity of 30Jun2025",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/4039c965813bfb9789e069ca0389b8fb0771020e246b0939d0fb52e255bccaff.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:ausdy:30Sep2025",
+    "name": "pUsdy (30Sep2025)",
+    "symbol": "pUSDY-30Sep2025",
+    "description": "Pryzm's refracted principal token for USDY with maturity of 30Sep2025",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/4039c965813bfb9789e069ca0389b8fb0771020e246b0939d0fb52e255bccaff.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:ausdy:31Dec2025",
+    "name": "pUsdy (31Dec2025)",
+    "symbol": "pUSDY-31Dec2025",
+    "description": "Pryzm's refracted principal token for USDY with maturity of 31Dec2025",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/4039c965813bfb9789e069ca0389b8fb0771020e246b0939d0fb52e255bccaff.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:upryzm:31Mar2025",
+    "name": "pPryzm (31Mar2025)",
+    "symbol": "pPRYZM-31Mar2025",
+    "description": "Pryzm's refracted principal token for PRYZM with maturity of 31Mar2025",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/0e1279dd8d969195be9121ac68eb281bfef55dada5f3a38c3a78c209b165e118.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:upryzm:30Jun2025",
+    "name": "pPryzm (30Jun2025)",
+    "symbol": "pPRYZM-30Jun2025",
+    "description": "Pryzm's refracted principal token for PRYZM with maturity of 30Jun2025",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/0e1279dd8d969195be9121ac68eb281bfef55dada5f3a38c3a78c209b165e118.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:upryzm:30Sep2025",
+    "name": "pPryzm (30Sep2025)",
+    "symbol": "pPRYZM-30Sep2025",
+    "description": "Pryzm's refracted principal token for PRYZM with maturity of 30Sep2025",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/0e1279dd8d969195be9121ac68eb281bfef55dada5f3a38c3a78c209b165e118.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "p:upryzm:31Dec2025",
+    "name": "pPryzm (31Dec2025)",
+    "symbol": "pPRYZM-31Dec2025",
+    "description": "Pryzm's refracted principal token for PRYZM with maturity of 31Dec2025",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/0e1279dd8d969195be9121ac68eb281bfef55dada5f3a38c3a78c209b165e118.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:uatom:30Sep2024",
+    "name": "yAtom (30Sep2024)",
+    "symbol": "yATOM-30Sep2024",
+    "description": "Pryzm's refracted yield token for ATOM with maturity of 30Sep2024",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/c87582db46e5a4ae6c17121ccb483f7f246ed7374c4afb0f7c742fffc8310f4a.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:uatom:31Dec2024",
+    "name": "yAtom (31Dec2024)",
+    "symbol": "yATOM-31Dec2024",
+    "description": "Pryzm's refracted yield token for ATOM with maturity of 31Dec2024",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/c87582db46e5a4ae6c17121ccb483f7f246ed7374c4afb0f7c742fffc8310f4a.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:uatom:31Mar2025",
+    "name": "yAtom (31Mar2025)",
+    "symbol": "yATOM-31Mar2025",
+    "description": "Pryzm's refracted yield token for ATOM with maturity of 31Mar2025",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/c87582db46e5a4ae6c17121ccb483f7f246ed7374c4afb0f7c742fffc8310f4a.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:uatom:31Dec2025",
+    "name": "yAtom (31Dec2025)",
+    "symbol": "yATOM-31Dec2025",
+    "description": "Pryzm's refracted yield token for ATOM with maturity of 31Dec2025",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/c87582db46e5a4ae6c17121ccb483f7f246ed7374c4afb0f7c742fffc8310f4a.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:uatom:31Dec2026",
+    "name": "yAtom (31Dec2026)",
+    "symbol": "yATOM-31Dec2026",
+    "description": "Pryzm's refracted yield token for ATOM with maturity of 31Dec2026",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/c87582db46e5a4ae6c17121ccb483f7f246ed7374c4afb0f7c742fffc8310f4a.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:uosmo:30Sep2024",
+    "name": "yOsmo (30Sep2024)",
+    "symbol": "yOSMO-30Sep2024",
+    "description": "Pryzm's refracted yield token for OSMO with maturity of 30Sep2024",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/70b1162766ebc785fe5b65a3fef6ebae3a9061606afaad48a37ecd1fa54b0569.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:uosmo:31Dec2024",
+    "name": "yOsmo (31Dec2024)",
+    "symbol": "yOSMO-31Dec2024",
+    "description": "Pryzm's refracted yield token for OSMO with maturity of 31Dec2024",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/70b1162766ebc785fe5b65a3fef6ebae3a9061606afaad48a37ecd1fa54b0569.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:uosmo:31Mar2025",
+    "name": "yOsmo (31Mar2025)",
+    "symbol": "yOSMO-31Mar2025",
+    "description": "Pryzm's refracted yield token for OSMO with maturity of 31Mar2025",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/70b1162766ebc785fe5b65a3fef6ebae3a9061606afaad48a37ecd1fa54b0569.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:uosmo:31Dec2025",
+    "name": "yOsmo (31Dec2025)",
+    "symbol": "yOSMO-31Dec2025",
+    "description": "Pryzm's refracted yield token for OSMO with maturity of 31Dec2025",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/70b1162766ebc785fe5b65a3fef6ebae3a9061606afaad48a37ecd1fa54b0569.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:uosmo:31Dec2026",
+    "name": "yOsmo (31Dec2026)",
+    "symbol": "yOSMO-31Dec2026",
+    "description": "Pryzm's refracted yield token for OSMO with maturity of 31Dec2026",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/70b1162766ebc785fe5b65a3fef6ebae3a9061606afaad48a37ecd1fa54b0569.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:inj:30Sep2024",
+    "name": "yInj (30Sep2024)",
+    "symbol": "yINJ-30Sep2024",
+    "description": "Pryzm's refracted yield token for INJ with maturity of 30Sep2024",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/696d7295374f9203d59c87b1675bfb173f954402291ca0719fdefc609bd9c6d2.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:inj:31Dec2024",
+    "name": "yInj (31Dec2024)",
+    "symbol": "yINJ-31Dec2024",
+    "description": "Pryzm's refracted yield token for INJ with maturity of 31Dec2024",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/696d7295374f9203d59c87b1675bfb173f954402291ca0719fdefc609bd9c6d2.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:inj:31Mar2025",
+    "name": "yInj (31Mar2025)",
+    "symbol": "yINJ-31Mar2025",
+    "description": "Pryzm's refracted yield token for INJ with maturity of 31Mar2025",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/696d7295374f9203d59c87b1675bfb173f954402291ca0719fdefc609bd9c6d2.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:inj:31Dec2025",
+    "name": "yInj (31Dec2025)",
+    "symbol": "yINJ-31Dec2025",
+    "description": "Pryzm's refracted yield token for INJ with maturity of 31Dec2025",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/696d7295374f9203d59c87b1675bfb173f954402291ca0719fdefc609bd9c6d2.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:inj:31Dec2026",
+    "name": "yInj (31Dec2026)",
+    "symbol": "yINJ-31Dec2026",
+    "description": "Pryzm's refracted yield token for INJ with maturity of 31Dec2026",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/696d7295374f9203d59c87b1675bfb173f954402291ca0719fdefc609bd9c6d2.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:uluna:30Sep2024",
+    "name": "yLuna (30Sep2024)",
+    "symbol": "yLUNA-30Sep2024",
+    "description": "Pryzm's refracted yield token for LUNA with maturity of 30Sep2024",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9e0fa21010d7078450c7c531a403ea4e468286f661e64eaa1749d05bd1d42624.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:uluna:31Dec2024",
+    "name": "yLuna (31Dec2024)",
+    "symbol": "yLUNA-31Dec2024",
+    "description": "Pryzm's refracted yield token for LUNA with maturity of 31Dec2024",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9e0fa21010d7078450c7c531a403ea4e468286f661e64eaa1749d05bd1d42624.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:uluna:31Mar2025",
+    "name": "yLuna (31Mar2025)",
+    "symbol": "yLUNA-31Mar2025",
+    "description": "Pryzm's refracted yield token for LUNA with maturity of 31Mar2025",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9e0fa21010d7078450c7c531a403ea4e468286f661e64eaa1749d05bd1d42624.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:uluna:31Dec2025",
+    "name": "yLuna (31Dec2025)",
+    "symbol": "yLUNA-31Dec2025",
+    "description": "Pryzm's refracted yield token for LUNA with maturity of 31Dec2025",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9e0fa21010d7078450c7c531a403ea4e468286f661e64eaa1749d05bd1d42624.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:uluna:31Dec2026",
+    "name": "yLuna (31Dec2026)",
+    "symbol": "yLUNA-31Dec2026",
+    "description": "Pryzm's refracted yield token for LUNA with maturity of 31Dec2026",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9e0fa21010d7078450c7c531a403ea4e468286f661e64eaa1749d05bd1d42624.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:uauuu:30Sep2024",
+    "name": "yAuuu (30Sep2024)",
+    "symbol": "yAUUU-30Sep2024",
+    "description": "Pryzm's refracted yield token for AUUU with maturity of 30Sep2024",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/19a8245cb070e7a2c97c8e97dc6e04dbbd67a8396d133c21c4e6c1283cb67a70.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:uauuu:31Dec2024",
+    "name": "yAuuu (31Dec2024)",
+    "symbol": "yAUUU-31Dec2024",
+    "description": "Pryzm's refracted yield token for AUUU with maturity of 31Dec2024",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/19a8245cb070e7a2c97c8e97dc6e04dbbd67a8396d133c21c4e6c1283cb67a70.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:uauuu:31Dec2025",
+    "name": "yAuuu (31Dec2025)",
+    "symbol": "yAUUU-31Dec2025",
+    "description": "Pryzm's refracted yield token for AUUU with maturity of 31Dec2025",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/19a8245cb070e7a2c97c8e97dc6e04dbbd67a8396d133c21c4e6c1283cb67a70.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:uauuu:31Dec2026",
+    "name": "yAuuu (31Dec2026)",
+    "symbol": "yAUUU-31Dec2026",
+    "description": "Pryzm's refracted yield token for AUUU with maturity of 31Dec2026",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/19a8245cb070e7a2c97c8e97dc6e04dbbd67a8396d133c21c4e6c1283cb67a70.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:stutia:30Sep2024",
+    "name": "ystTia (30Sep2024)",
+    "symbol": "ystTIA-30Sep2024",
+    "description": "Pryzm's refracted yield token for stTIA with maturity of 30Sep2024",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/0004485bc22712d100dd093d08256742e95f344c72eda4344b02c012ec543b2d.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:stutia:31Dec2024",
+    "name": "ystTia (31Dec2024)",
+    "symbol": "ystTIA-31Dec2024",
+    "description": "Pryzm's refracted yield token for stTIA with maturity of 31Dec2024",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/0004485bc22712d100dd093d08256742e95f344c72eda4344b02c012ec543b2d.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:stutia:31Mar2025",
+    "name": "ystTia (31Mar2025)",
+    "symbol": "ystTIA-31Mar2025",
+    "description": "Pryzm's refracted yield token for stTIA with maturity of 31Mar2025",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/0004485bc22712d100dd093d08256742e95f344c72eda4344b02c012ec543b2d.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:stutia:31Dec2025",
+    "name": "ystTia (31Dec2025)",
+    "symbol": "ystTIA-31Dec2025",
+    "description": "Pryzm's refracted yield token for stTIA with maturity of 31Dec2025",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/0004485bc22712d100dd093d08256742e95f344c72eda4344b02c012ec543b2d.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:stutia:31Dec2026",
+    "name": "ystTia (31Dec2026)",
+    "symbol": "ystTIA-31Dec2026",
+    "description": "Pryzm's refracted yield token for stTIA with maturity of 31Dec2026",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/0004485bc22712d100dd093d08256742e95f344c72eda4344b02c012ec543b2d.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:stadydx:30Sep2024",
+    "name": "ystDydx (30Sep2024)",
+    "symbol": "ystDYDX-30Sep2024",
+    "description": "Pryzm's refracted yield token for stDYDX with maturity of 30Sep2024",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/870c097d178617ec9cb3259ba97d02abdb841aec3f07c2dd106f96d10ce9064f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:stadydx:31Dec2024",
+    "name": "ystDydx (31Dec2024)",
+    "symbol": "ystDYDX-31Dec2024",
+    "description": "Pryzm's refracted yield token for stDYDX with maturity of 31Dec2024",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/870c097d178617ec9cb3259ba97d02abdb841aec3f07c2dd106f96d10ce9064f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:stadydx:31Mar2025",
+    "name": "ystDydx (31Mar2025)",
+    "symbol": "ystDYDX-31Mar2025",
+    "description": "Pryzm's refracted yield token for stDYDX with maturity of 31Mar2025",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/870c097d178617ec9cb3259ba97d02abdb841aec3f07c2dd106f96d10ce9064f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:stadydx:31Dec2025",
+    "name": "ystDydx (31Dec2025)",
+    "symbol": "ystDYDX-31Dec2025",
+    "description": "Pryzm's refracted yield token for stDYDX with maturity of 31Dec2025",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/870c097d178617ec9cb3259ba97d02abdb841aec3f07c2dd106f96d10ce9064f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:stadydx:31Dec2026",
+    "name": "ystDydx (31Dec2026)",
+    "symbol": "ystDYDX-31Dec2026",
+    "description": "Pryzm's refracted yield token for stDYDX with maturity of 31Dec2026",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/870c097d178617ec9cb3259ba97d02abdb841aec3f07c2dd106f96d10ce9064f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:udatom:31Dec2024",
+    "name": "ydAtom (31Dec2024)",
+    "symbol": "ydATOM-31Dec2024",
+    "description": "Pryzm's refracted yield token for dATOM with maturity of 31Dec2024",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/fd618c7d0085852bce18530bcad6f982558dc1239f05bf4a2efa836a4cde6c5c.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:udatom:31Mar2025",
+    "name": "ydAtom (31Mar2025)",
+    "symbol": "ydATOM-31Mar2025",
+    "description": "Pryzm's refracted yield token for dATOM with maturity of 31Mar2025",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/fd618c7d0085852bce18530bcad6f982558dc1239f05bf4a2efa836a4cde6c5c.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:udatom:30Jun2025",
+    "name": "ydAtom (30Jun2025)",
+    "symbol": "ydATOM-30Jun2025",
+    "description": "Pryzm's refracted yield token for dATOM with maturity of 30Jun2025",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/fd618c7d0085852bce18530bcad6f982558dc1239f05bf4a2efa836a4cde6c5c.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:udatom:31Dec2025",
+    "name": "ydAtom (31Dec2025)",
+    "symbol": "ydATOM-31Dec2025",
+    "description": "Pryzm's refracted yield token for dATOM with maturity of 31Dec2025",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/fd618c7d0085852bce18530bcad6f982558dc1239f05bf4a2efa836a4cde6c5c.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:udatom:31Dec2026",
+    "name": "ydAtom (31Dec2026)",
+    "symbol": "ydATOM-31Dec2026",
+    "description": "Pryzm's refracted yield token for dATOM with maturity of 31Dec2026",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/fd618c7d0085852bce18530bcad6f982558dc1239f05bf4a2efa836a4cde6c5c.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:utia:31Dec2024",
+    "name": "yTia (31Dec2024)",
+    "symbol": "yTIA-31Dec2024",
+    "description": "Pryzm's refracted yield token for TIA with maturity of 31Dec2024",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9546b5e4c28141985a59ae893647db70da63211bf9404d4da1e0f08effa95569.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:utia:31Mar2025",
+    "name": "yTia (31Mar2025)",
+    "symbol": "yTIA-31Mar2025",
+    "description": "Pryzm's refracted yield token for TIA with maturity of 31Mar2025",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9546b5e4c28141985a59ae893647db70da63211bf9404d4da1e0f08effa95569.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:utia:31Dec2025",
+    "name": "yTia (31Dec2025)",
+    "symbol": "yTIA-31Dec2025",
+    "description": "Pryzm's refracted yield token for TIA with maturity of 31Dec2025",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9546b5e4c28141985a59ae893647db70da63211bf9404d4da1e0f08effa95569.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:utia:31Dec2026",
+    "name": "yTia (31Dec2026)",
+    "symbol": "yTIA-31Dec2026",
+    "description": "Pryzm's refracted yield token for TIA with maturity of 31Dec2026",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9546b5e4c28141985a59ae893647db70da63211bf9404d4da1e0f08effa95569.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:ausdy:31Mar2025",
+    "name": "yUsdy (31Mar2025)",
+    "symbol": "yUSDY-31Mar2025",
+    "description": "Pryzm's refracted yield token for USDY with maturity of 31Mar2025",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/4f5fe4d3f40ce132f3bd84f8371dede3a274becaca7dd7abb90d1a4479c8d7b9.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:ausdy:30Jun2025",
+    "name": "yUsdy (30Jun2025)",
+    "symbol": "yUSDY-30Jun2025",
+    "description": "Pryzm's refracted yield token for USDY with maturity of 30Jun2025",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/4f5fe4d3f40ce132f3bd84f8371dede3a274becaca7dd7abb90d1a4479c8d7b9.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:ausdy:30Sep2025",
+    "name": "yUsdy (30Sep2025)",
+    "symbol": "yUSDY-30Sep2025",
+    "description": "Pryzm's refracted yield token for USDY with maturity of 30Sep2025",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/4f5fe4d3f40ce132f3bd84f8371dede3a274becaca7dd7abb90d1a4479c8d7b9.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:ausdy:31Dec2025",
+    "name": "yUsdy (31Dec2025)",
+    "symbol": "yUSDY-31Dec2025",
+    "description": "Pryzm's refracted yield token for USDY with maturity of 31Dec2025",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/4f5fe4d3f40ce132f3bd84f8371dede3a274becaca7dd7abb90d1a4479c8d7b9.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:upryzm:31Mar2025",
+    "name": "yPryzm (31Mar2025)",
+    "symbol": "yPRYZM-31Mar2025",
+    "description": "Pryzm's refracted yield token for PRYZM with maturity of 31Mar2025",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/79e9f0ef1dbc535a8d7fd04367cf94bc1a18c7dd20c98cdf80aacb0d680fd62b.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:upryzm:30Jun2025",
+    "name": "yPryzm (30Jun2025)",
+    "symbol": "yPRYZM-30Jun2025",
+    "description": "Pryzm's refracted yield token for PRYZM with maturity of 30Jun2025",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/79e9f0ef1dbc535a8d7fd04367cf94bc1a18c7dd20c98cdf80aacb0d680fd62b.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:upryzm:30Sep2025",
+    "name": "yPryzm (30Sep2025)",
+    "symbol": "yPRYZM-30Sep2025",
+    "description": "Pryzm's refracted yield token for PRYZM with maturity of 30Sep2025",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/79e9f0ef1dbc535a8d7fd04367cf94bc1a18c7dd20c98cdf80aacb0d680fd62b.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "y:upryzm:31Dec2025",
+    "name": "yPryzm (31Dec2025)",
+    "symbol": "yPRYZM-31Dec2025",
+    "description": "Pryzm's refracted yield token for PRYZM with maturity of 31Dec2025",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/79e9f0ef1dbc535a8d7fd04367cf94bc1a18c7dd20c98cdf80aacb0d680fd62b.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "lp:6:uusdc.axl-uusdc",
+    "name": "USDC / USDC.axl LP",
+    "symbol": "USDC-USDC.axl-LP",
+    "description": "Pryzm's LP token for USDC / USDC.axl pool",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/74a64a736513339f6d08c53a37effd7abb53a65266009e39e396c624397e439f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "lp:0:uatom",
+    "name": "ATOM Yield LP",
+    "symbol": "ATOM-YIELD-LP",
+    "description": "Pryzm's LP token for ATOM Yield pool",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/74a64a736513339f6d08c53a37effd7abb53a65266009e39e396c624397e439f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "lp:2:uatomypt-uatom",
+    "name": "ATOM Boost LP",
+    "symbol": "ATOM-BOOST-LP",
+    "description": "Pryzm's LP token for ATOM Boost pool",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/74a64a736513339f6d08c53a37effd7abb53a65266009e39e396c624397e439f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "lp:3:uatom-uusdc",
+    "name": "ATOM / USDC LP",
+    "symbol": "ATOM-USDC-LP",
+    "description": "Pryzm's LP token for ATOM / USDC pool",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/74a64a736513339f6d08c53a37effd7abb53a65266009e39e396c624397e439f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "lp:1:inj",
+    "name": "INJ Yield LP",
+    "symbol": "INJ-YIELD-LP",
+    "description": "Pryzm's LP token for INJ Yield pool",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/74a64a736513339f6d08c53a37effd7abb53a65266009e39e396c624397e439f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "lp:4:injypt-inj",
+    "name": "INJ Boost LP",
+    "symbol": "INJ-BOOST-LP",
+    "description": "Pryzm's LP token for INJ Boost pool",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/74a64a736513339f6d08c53a37effd7abb53a65266009e39e396c624397e439f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "lp:5:inj-uusdc",
+    "name": "INJ / USDC LP",
+    "symbol": "INJ-USDC-LP",
+    "description": "Pryzm's LP token for INJ / USDC pool",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/74a64a736513339f6d08c53a37effd7abb53a65266009e39e396c624397e439f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "lp:8:uosmo",
+    "name": "OSMO Yield LP",
+    "symbol": "OSMO-YIELD-LP",
+    "description": "Pryzm's LP token for OSMO Yield pool",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/74a64a736513339f6d08c53a37effd7abb53a65266009e39e396c624397e439f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "lp:10:uosmoypt-uosmo",
+    "name": "OSMO Boost LP",
+    "symbol": "OSMO-BOOST-LP",
+    "description": "Pryzm's LP token for OSMO Boost pool",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/74a64a736513339f6d08c53a37effd7abb53a65266009e39e396c624397e439f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "lp:11:uosmo-uusdc",
+    "name": "OSMO / USDC LP",
+    "symbol": "OSMO-USDC-LP",
+    "description": "Pryzm's LP token for OSMO / USDC pool",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/74a64a736513339f6d08c53a37effd7abb53a65266009e39e396c624397e439f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "lp:9:uluna",
+    "name": "LUNA Yield LP",
+    "symbol": "LUNA-YIELD-LP",
+    "description": "Pryzm's LP token for LUNA Yield pool",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/74a64a736513339f6d08c53a37effd7abb53a65266009e39e396c624397e439f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "lp:12:ulunaypt-uluna",
+    "name": "LUNA Boost LP",
+    "symbol": "LUNA-BOOST-LP",
+    "description": "Pryzm's LP token for LUNA Boost pool",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/74a64a736513339f6d08c53a37effd7abb53a65266009e39e396c624397e439f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "lp:13:uluna-uusdc",
+    "name": "LUNA / USDC LP",
+    "symbol": "LUNA-USDC-LP",
+    "description": "Pryzm's LP token for LUNA / USDC pool",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/74a64a736513339f6d08c53a37effd7abb53a65266009e39e396c624397e439f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "lp:14:uauuu",
+    "name": "AUUU Yield LP",
+    "symbol": "AUUU-YIELD-LP",
+    "description": "Pryzm's LP token for AUUU Yield pool",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/74a64a736513339f6d08c53a37effd7abb53a65266009e39e396c624397e439f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "lp:17:uauuuypt-uauuu",
+    "name": "AUUU Boost LP",
+    "symbol": "AUUU-BOOST-LP",
+    "description": "Pryzm's LP token for AUUU Boost pool",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/74a64a736513339f6d08c53a37effd7abb53a65266009e39e396c624397e439f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "lp:7:uauuu-uusdc",
+    "name": "AUUU / USDC LP",
+    "symbol": "AUUU-USDC-LP",
+    "description": "Pryzm's LP token for AUUU / USDC pool",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/74a64a736513339f6d08c53a37effd7abb53a65266009e39e396c624397e439f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "lp:15:stadydx",
+    "name": "stDYDX Yield LP",
+    "symbol": "stDYDX-YIELD-LP",
+    "description": "Pryzm's LP token for stDYDX Yield pool",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/74a64a736513339f6d08c53a37effd7abb53a65266009e39e396c624397e439f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "lp:18:stadydxypt-adydx",
+    "name": "stDYDX Boost LP",
+    "symbol": "stDYDX-BOOST-LP",
+    "description": "Pryzm's LP token for stDYDX Boost pool",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/74a64a736513339f6d08c53a37effd7abb53a65266009e39e396c624397e439f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "lp:19:adydx-uusdc",
+    "name": "DYDX / USDC LP",
+    "symbol": "DYDX-USDC-LP",
+    "description": "Pryzm's LP token for DYDX / USDC pool",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/74a64a736513339f6d08c53a37effd7abb53a65266009e39e396c624397e439f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "lp:16:stutia",
+    "name": "stTIA Yield LP",
+    "symbol": "stTIA-YIELD-LP",
+    "description": "Pryzm's LP token for stTIA Yield pool",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/74a64a736513339f6d08c53a37effd7abb53a65266009e39e396c624397e439f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "lp:20:stutiaypt-utia",
+    "name": "stTIA Boost LP",
+    "symbol": "stTIA-BOOST-LP",
+    "description": "Pryzm's LP token for stTIA Boost pool",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/74a64a736513339f6d08c53a37effd7abb53a65266009e39e396c624397e439f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "lp:24:utia",
+    "name": "TIA Yield LP",
+    "symbol": "TIA-YIELD-LP",
+    "description": "Pryzm's LP token for TIA Yield pool",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/74a64a736513339f6d08c53a37effd7abb53a65266009e39e396c624397e439f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "lp:25:utiaypt-utia",
+    "name": "TIA Boost LP",
+    "symbol": "TIA-BOOST-LP",
+    "description": "Pryzm's LP token for TIA Boost pool",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/74a64a736513339f6d08c53a37effd7abb53a65266009e39e396c624397e439f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "lp:21:utia-uusdc",
+    "name": "TIA / USDC LP",
+    "symbol": "TIA-USDC-LP",
+    "description": "Pryzm's LP token for TIA / USDC pool",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/74a64a736513339f6d08c53a37effd7abb53a65266009e39e396c624397e439f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "lp:22:udatom",
+    "name": "dATOM Yield LP",
+    "symbol": "dATOM-YIELD-LP",
+    "description": "Pryzm's LP token for dATOM Yield pool",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/74a64a736513339f6d08c53a37effd7abb53a65266009e39e396c624397e439f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "lp:23:udatomypt-uatom",
+    "name": "dATOM Boost LP",
+    "symbol": "dATOM-BOOST-LP",
+    "description": "Pryzm's LP token for dATOM Boost pool",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/74a64a736513339f6d08c53a37effd7abb53a65266009e39e396c624397e439f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "lp:31:ausdy",
+    "name": "USDY Yield LP",
+    "symbol": "USDY-YIELD-LP",
+    "description": "Pryzm's LP token for USDY Yield pool",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/74a64a736513339f6d08c53a37effd7abb53a65266009e39e396c624397e439f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "lp:32:ausdyypt-uusdc",
+    "name": "USDY Boost LP",
+    "symbol": "USDY-BOOST-LP",
+    "description": "Pryzm's LP token for USDY Boost pool",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/74a64a736513339f6d08c53a37effd7abb53a65266009e39e396c624397e439f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "lp:33:upryzm",
+    "name": "PRYZM Yield LP",
+    "symbol": "PRYZM-YIELD-LP",
+    "description": "Pryzm's LP token for PRYZM Yield pool",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/74a64a736513339f6d08c53a37effd7abb53a65266009e39e396c624397e439f.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "factory/pryzm1jnhcsa5ddjsjq2t97v6a82z542rduxvtw6wd9h/ustakedrop",
+    "name": "StakeDrop",
+    "symbol": "STAKEDROP",
+    "description": "The non-transferable receipt of PRYZM airdrop for StakeDrop participants",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/32150318ee269924d37a4e922964b766ac6917c07101423aea3ce5aab3749cfd.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "factory/pryzm1jnhcsa5ddjsjq2t97v6a82z542rduxvtw6wd9h/uopdrop",
+    "name": "OpDrop",
+    "symbol": "OPDROP",
+    "description": "The non-transferable receipt of PRYZM Options airdrop",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/0cde6653796d19aded4aaa5add76b2926a91aa6e9dc31816392ce7db5dffa093.png",
+    "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "factory/pryzm1jnhcsa5ddjsjq2t97v6a82z542rduxvtw6wd9h/uphotondrop",
+    "name": "PhotonDrop",
+    "symbol": "PHOTONDROP",
+    "description": "The non-transferable receipt of PRYZM airdrop for Photons Campaign participants",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/8220439f7955a7d5e6a820cea4c611355cb775a8eca567b0e1f284ba4bd41957.png",
+    "coinGeckoId": "pryzmatics"
+  }
+]

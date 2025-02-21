@@ -1,0 +1,112 @@
+[
+    {
+        "type": "native",
+        "denom": "okt",
+        "name" : "Okt",
+        "symbol": "OKT",
+        "description": "Okt Native Coin",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/okt.png",
+        "coinGeckoId": "oec-token"
+    },
+    {
+        "type": "native",
+        "denom": "btck-ba9",
+        "name": "Okt",
+        "symbol": "BTCK",
+        "description": "Bitcoin",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/2e951627935ab55c0276580ed7ce782cf2d018b0d898b411082024940e1d6507.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "dotk-4c0",
+        "name": "Okt",
+        "symbol": "DOTK",
+        "description": "Polkadot",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/deb2a7498cc1f1e90869bc20928b7896f659d34d733bc8a8b42c082972ae7bfd.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "ethk-c63",
+        "name": "Okt",
+        "symbol": "ETHK",
+        "description": "Ethereum",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/6a2eeff062bee53f8eec030083b9856ea9d83b1a80587560fccaed34331cef88.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "filk-2ee",
+        "name": "Okt",
+        "symbol": "FILK",
+        "description": "Filecoin",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/5fd9031a995207df3407a0b92216c4a16650ec2cb07d5fc0476367e5260f671f.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "ltck-5cb",
+        "name": "Okt",
+        "symbol": "LTCK",
+        "description": "Litecoin",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/af2cfe85038e659233adeda19e6d53fce4c9f159712a68c5af4da05bf2ec9d9d.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "okb-c4d",
+        "name": "Okt",
+        "symbol": "OKB",
+        "description": "OKB",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/e9c7738f55f20855ac025c64449cbd34a6db19f60d0cade6029d683233756200.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "usdc-e6c",
+        "name": "Okt",
+        "symbol": "usdc",
+        "description": "USDCoin",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "usdk-956",
+        "name": "Okt",
+        "symbol": "usdk",
+        "description": "USDK",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/2f42832780079629a25fa175ba035f26abdce51092f0117b0afd2a9d23f9097b.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "usdt-a2b",
+        "name": "Okt",
+        "symbol": "USDT",
+        "description": "Tether USD",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "yfi-bb5",
+        "name": "Okt",
+        "symbol": "YFI",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/1b7139f85877e258e1f60337107001d1c31678e4bd7238efdd82017fd2ff14e0.png",
+        "coinGeckoId": ""
+    }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "type": "ibc",
+    "denom": "ibc/D0C5DCA29836D2FD5937714B21206DD8243E5E76B1D0F180741CCB43DCAC1584",
+    "symbol": "DYDX",
+    "name": "dydx",
+    "description": "DYDX is a decentralized trading platform focused on derivatives and perpetual contracts, offering a secure and efficient trading experience without intermediaries.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/0cd48cdfcd49902807eb50da7db148b648470cf80daaf35482402ae8e0c504d6.svg",
+    "coinGeckoId": "dydx-chain"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/6A33576C55CE11F484DDE960D5DAD4691F514AA3BBDAD18A748E6FCFAD1801AD",
+    "symbol": "LIKE",
+    "name": "like",
+    "description": "LIKE is the native staking and governance token of LikeCoin chain, a Decentralized Publishing Infrastructure to empower content ownership, authenticity, and provenance.",
+    "decimals": 9,
+    "image": "https://cdn.chainroot.io/images/tokens/9222dd1132ccc575acfcf63fc483d7a48ea78a1592c1ba827d10837c38c891bb.svg",
+    "coinGeckoId": "likecoin"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/F4E5517A3BA2E77906A0847014EBD39E010E28BEB4181378278144D22442DB91",
+    "symbol": "SOURCE",
+    "name": "source",
+    "description": "The native token of SOURCE Chain",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/ee4c0949975dcc99c76363626bc6e210f81c7e7144594ec6994c6405153fe273.svg",
+    "coinGeckoId": "source"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/A59C9E368C043E72968615DE82D4AD4BC88E34E6F353262B6769781C07390E8A",
+    "symbol": "ANDR",
+    "name": "andr",
+    "description": "The native staking and governance token of Andromeda",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/fa2f0049c733c83a51bf71cf5e841b832087b49e3e79c871c6ba19f17c6a9f56.png",
+    "coinGeckoId": "andromeda-2"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/7D5A9AE91948931279BA58A04FBEB9BF4F7CA059F7D4BDFAC6C3C43705973E1E",
+    "symbol": "LAVA",
+    "name": "lava",
+    "description": "Lava Network is a modular data network designed to provide fast, reliable, and scalable access to blockchain data for developers and users.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/a95429310ae6e812f50d39f1fa48b20acc352a4c9ee43da8cb883749e14a4e79.png",
+    "coinGeckoId": "lava-network"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/0D2ABDF58A5DBA3D2A90398F8737D16ECAC0DDE58F9792B2918495D499400672",
+    "symbol": "SOURCE",
+    "name": "source",
+    "description": "The native token of SOURCE Chain",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/ee4c0949975dcc99c76363626bc6e210f81c7e7144594ec6994c6405153fe273.svg",
+    "coinGeckoId": "source"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/0E1517E2771CA7C03F2ED3F9BAECCAEADF0BFD79B89679E834933BC0F179AD98",
+    "symbol": "AXL",
+    "name": "axl",
+    "description": "Axelar is a decentralized interoperability network connecting multiple blockchain ecosystems, enabling seamless cross-chain communication and value transfer.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
+    "coinGeckoId": "axelar"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/58EDC95E791161D711F4CF012ACF30A5DA8DDEB40A484F293A52B1968903F643",
+    "symbol": "ANDR",
+    "name": "andr",
+    "description": "The native staking and governance token of Andromeda",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/fa2f0049c733c83a51bf71cf5e841b832087b49e3e79c871c6ba19f17c6a9f56.png",
+    "coinGeckoId": "andromeda-2"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/593AA89EF61182F3705BD3B95A2B58AFA128D7FA4D6076BA2476033D8BF0576D",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  }
+]

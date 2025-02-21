@@ -3,7 +3,7 @@
         "type": "native",
         "denom": "ubbn",
         "name" : "Babylon Testnet",
-        "symbol": "BBN",
+        "symbol": "tBABY",
         "description": "Babylon Testnet Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/bbn.png",
