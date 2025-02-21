@@ -82,8 +82,8 @@
     {
         "type": "ibc",
         "denom": "ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB",
-        "name": "Tether USDt",
-        "symbol": "USDt.kava",
+        "name": "Tether USD",
+        "symbol": "USDt",
         "description": "USDt - directly minted on the Kava chain by the Tether Foundation.",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/8d812a3786178f6dbc556b3cb21411112b7c3a7ac893bf4b70c85e3c2db5a520.png",
@@ -727,9 +727,9 @@
     {
         "type": "bridge",
         "denom": "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7",
-        "name": "Tether",
-        "symbol": "USDT",
-        "description": "Tether",
+        "name": "Tether USD (peggy)",
+        "symbol": "USDT.peggy",
+        "description": "USDT, bridged directly from Ethereum to Injective.",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/8d812a3786178f6dbc556b3cb21411112b7c3a7ac893bf4b70c85e3c2db5a520.png",
         "coinGeckoId": "tether",
@@ -744,9 +744,9 @@
     {
         "type": "bridge",
         "denom": "peggy0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-        "name": "USD Coin",
-        "symbol": "USDClegacy",
-        "description": "USD Coin",
+        "name": "USD Coin (peggy)",
+        "symbol": "USDC.peggy",
+        "description": "USDC, bridged directly from Ethereum to Injective.",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "coinGeckoId": "usd-coin",
@@ -1893,6 +1893,46 @@
         "description": "The native token of Neptune Finance",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/27b7c46411c99932131380f1d4a9858ef2a241808c9b6ad40bb6d98a21044b77.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "factory/inj1s9hr5zfz3xrkzchde94hd2d0edjs4q5mrqrz6x/BITCOIN",
+        "name": "Cosmos Bitcoin",
+        "symbol": "BITCOIN",
+        "description": "Cosmos Bitcoin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/1998c7ec28d74c851b568df0e8f54124a9f26a07d91232d5d7e58c2216f9a215.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "factory/inj1s9hr5zfz3xrkzchde94hd2d0edjs4q5mrqrz6x/BRICS",
+        "name": "BRICS",
+        "symbol": "BRICS",
+        "description": "BRICS coin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/10e7c48d5f8960489f8b7fb14b208de12f51004725040507bca538de7533ce51.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "factory/inj1s9hr5zfz3xrkzchde94hd2d0edjs4q5mrqrz6x/CRYPTO",
+        "name": "Crypto",
+        "symbol": "CRYPTO",
+        "description": "CRYPTO coin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/1bec6400566dca1b318a35cb847acab8a92669fed442951ad99fbb97cf72fd06.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "factory/inj1s9hr5zfz3xrkzchde94hd2d0edjs4q5mrqrz6x/INC",
+        "name": "INC",
+        "symbol": "INC",
+        "description": "Instant Noodles coin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/91aeb2f280b15d86812095b31070a43559f8d3d3ff2d8a99bd423230ac06e3ff.png",
         "coinGeckoId": ""
     }
 ]

@@ -17,7 +17,7 @@
         "symbol": "XRP",
         "description": "XRP bridged from XRPL",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/9d6b6652a81e3afbd068cbba63994c90486fd7c4c3f0bb66bb4bdda5bf70638b.png",
+        "image": "https://cdn.chainroot.io/images/tokens/xrp.png",
         "coinGeckoId": "ripple",
         "color": "#040404"
     },

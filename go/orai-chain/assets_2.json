@@ -77,5 +77,55 @@
                 "denom": "uatom"
             }
         }
+    },
+    {
+        "type": "native",
+        "denom": "factory/orai15rmny3cxv33rnzdr2lfdhjtslyzmrr0vdd28kp/SAM",
+        "name": "SAM",
+        "symbol": "SAM",
+        "description": "The SAM token is a native memecoin on Oraichain.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/2bc1f3a70629c200ca6b8754784d37d9fc3eb0ea96b7e1088fae0026cc7db686.png",
+        "coinGeckoId": "sam-2",
+        "color": "#000000"
+    },
+    {
+        "type": "bridge",
+        "denom": "factory/orai1wuvhex9xqs3r539mvc6mtm7n20fcj3qr2m0y9khx6n5vtlngfzes3k0rq9/HMSTR",
+        "name": "HMSTR",
+        "symbol": "HMSTR",
+        "description": "The Hamster Kombat native token of Oraichain.",
+        "decimals": 9,
+        "image": "https://cdn.chainroot.io/images/tokens/6fbe8651e93a47eae6786c1d2f600983c8a454f892ba1a7ab05b6cf2e4c85fb0.png",
+        "color": "#0088CC",
+        "bridge_info": {
+            "path": "ton>orai-chain"
+        }
+    },
+    {
+        "type": "bridge",
+        "denom": "factory/orai1wuvhex9xqs3r539mvc6mtm7n20fcj3qr2m0y9khx6n5vtlngfzes3k0rq9/ton",
+        "name": "Toncoin",
+        "symbol": "TON",
+        "description": "The TON native token of Oraichain.",
+        "decimals": 9,
+        "image": "https://cdn.chainroot.io/images/tokens/03667423f62669c8103306c5cef692d962618f110b2a6a4ddf283a4791c96938.png",
+        "color": "#0088CC",
+        "bridge_info": {
+            "path": "ton>orai-chain"
+        }
+    },
+    {
+        "type": "bridge",
+        "denom": "factory/orai1wuvhex9xqs3r539mvc6mtm7n20fcj3qr2m0y9khx6n5vtlngfzes3k0rq9/extPEPE",
+        "name": "Pepe",
+        "symbol": "PEPE",
+        "description": "The PEPE native token of Oraichain.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/39798ab9cb1aabf5020d454f7bf8100ac5f45d37070e5ee2ae2d2623b1d1a3db.png",
+        "color": "#cc3233",
+        "bridge_info": {
+            "path": "ethereum>orai-chain"
+        }
     }
 ]
