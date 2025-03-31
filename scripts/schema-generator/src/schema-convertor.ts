@@ -32,22 +32,56 @@ const assetSchema = z.object({
   description: z.string().optional(),
   extended_description: z.string().optional(),
   coingecko_id: z.string().optional(),
-  logo_URIs: z.object({
-    png: z.string().optional(),
-    svg: z.string().optional(),
-  }).optional(),
+  logo_URIs: z
+    .object({
+      png: z.string().optional(),
+      svg: z.string().optional(),
+    })
+    .optional(),
   ibc: ibcInfoSchema.optional(),
 });
+
+const bitsongSchema = z.object({
+  denom: z.string(),
+  symbol: z.string(),
+  name: z.string(),
+  decimals: z.number(),
+  logo: z.string(),
+  coingecko_id: z.string().nullable(),
+});
+
+const bitsongSchemaList = z.array(bitsongSchema);
 
 const assetListSchema = z.object({
   chain_name: z.string(),
   assets: z.array(assetSchema),
 });
 
+// Transform bigsong schema to asset list schema
+const transformBitsong = (input: z.infer<typeof bitsongSchemaList>) => {
+  return input.map((asset) => {
+    const transformed: any = {
+      type: "native",
+      denom: asset.denom,
+      name: asset.name,
+      symbol: asset.symbol,
+      description: asset.name,
+      decimals: asset.decimals,
+      image: asset.logo,
+      coinGeckoId: asset.coingecko_id,
+      ibc_info: null,
+    };
+
+    return transformed;
+  });
+};
+
 // Transform function
 const transformAssetList = (input: z.infer<typeof assetListSchema>) => {
   return input.assets.map((asset) => {
-    const denomUnit = asset.denom_units.find((unit) => unit.denom === asset.display);
+    const denomUnit = asset.denom_units.find(
+      (unit) => unit.denom === asset.display
+    );
 
     const transformed: any = {
       type: asset.type_asset === "ics20" ? "ibc" : "native",
@@ -79,12 +113,18 @@ if (args.length !== 2) {
   process.exit(1);
 }
 
-const [inputFile, outputFile] = args;
+const [type = "cr", inputFile, outputFile] = args;
 
 try {
   const inputData = JSON.parse(fs.readFileSync(inputFile, "utf-8"));
-  const validatedInput = assetListSchema.parse(inputData);
-  const transformedAssets = transformAssetList(validatedInput);
+  let transformedAssets = [];
+  if (type === "cr") {
+    const validatedInput = assetListSchema.parse(inputData);
+    transformedAssets = transformAssetList(validatedInput);
+  } else if (type === "bitsong") {
+    const validatedInput = bitsongSchemaList.parse(inputData);
+    transformedAssets = transformBitsong(validatedInput);
+  }
 
   fs.writeFileSync(outputFile, JSON.stringify(transformedAssets, null, 2));
   console.log(`Transformed data written to ${outputFile}`);
@@ -92,4 +132,3 @@ try {
   console.error("Error processing files:", error);
   process.exit(1);
 }
-
