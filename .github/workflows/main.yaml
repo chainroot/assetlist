@@ -27,9 +27,7 @@ jobs:
     - uses: actions/checkout@v4
 
     - name: Install exiftool and delete go directory
-      run: |
-        sudo apt update && sudo apt install exiftool -y
-        rm -rf go/*
+      run: sudo apt update && sudo apt install exiftool -y
 
     - name: Install pnpm
       uses: pnpm/action-setup@v4
