@@ -194,7 +194,7 @@
         "symbol": "CRO",
         "description": "CRO is the native token of the Crypto.org Chain, referred to as Native CRO.",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/5758f95351effbbe2eaea55aebac504f3571e9335721eb6133e540b5dd4d3ddd.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/cro.png",
         "coinGeckoId": "crypto-com-chain",
         "ibc_info": {
             "path": "crypto-org>osmosis",
@@ -213,13 +213,11 @@
     {
         "type": "ibc",
         "denom": "ibc/F4A070A6D78496D53127EA85C094A9EC87DFC1F36071B8CCDDBD020F933D213D",
-        "name": "Binance Coin",
-        "symbol": "BNB",
+        "name": "Binance Coin (Axelar)",
+        "symbol": "BNB.axl",
         "description": "BNB powers the BNB Chain ecosystem and is the native coin of the BNB Beacon Chain and BNB Smart Chain.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/a9b3956da08457d9e3bbd324fc21a950102261077428e261a523ab07ffc60331.svg",
-        "color": "#f3bb0c",
-        "coinGeckoId": "binancecoin",
+        "image": "https://cdn.chainroot.io/images/tokens/d1b6eb7a81dbbdf8cf8e08db4fb0808168925613701bd0055e2559b207cc5b58.svg",
         "ibc_info": {
             "path": "bnb-smart-chain>axelar>osmosis",
             "client": {
@@ -313,7 +311,7 @@
         "symbol": "JUNO",
         "description": "The native token of JUNO Chain",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/79f9def0d7428ed8b761a7c42dc5f7a3492367f014258935d72cbbe2d813a552.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/a68afd5f8ab6feac6f7b422daaf5d5da26391ca98cc4596226dcd89366941ea7.png",
         "color": "#fa7b7b",
         "coinGeckoId": "juno-network",
         "ibc_info": {
@@ -408,7 +406,6 @@
         "description": "The native token of Secret Network",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/scrt.png",
-        "color": "#040404",
         "coinGeckoId": "secret",
         "ibc_info": {
             "path": "secret>osmosis",
@@ -479,7 +476,7 @@
         "symbol": "HUAHUA",
         "description": "The native token of Chihuahua Chain",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/9f226984a0945cdd8fbe6b52a6285a82b061b6e895fe99f42ce775d42efa8c06.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/5a3b8afa75a2496ed6cb989eb834735acff452a64ede07bd32aa3c5040d234cc.png",
         "color": "#343434",
         "coinGeckoId": "chihuahua-token",
         "ibc_info": {
@@ -503,7 +500,7 @@
         "symbol": "XPRT",
         "description": "The XPRT token is primarily a governance token for the Persistence chain.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/f3d55f97fcb02b6863bbf49d29b405e4e61b9124f4b6c11d97f2997b67adee38.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/597fb533f8ee928d8c56096cbd147c7ef464eee7fd3ef82d9dbd32eb384fb593.png",
         "color": "#E59636",
         "coinGeckoId": "persistence",
         "ibc_info": {
@@ -551,7 +548,7 @@
         "symbol": "AKT",
         "description": "Akash Token (AKT) is the Akash Network's native utility token, used as the primary means to govern, secure the blockchain, incentivize participants, and provide a default mechanism to store and exchange value.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/33d728dfd3351a640e4f316dcadbc5e50dfdb4a3798bb74e9485f74585cf0245.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/6ca4a22af51e4b2b0035437686f67392ea2f2844f9a20f9f07e8605de96479e2.png",
         "color": "#bc342c",
         "coinGeckoId": "akash-network",
         "ibc_info": {
@@ -575,7 +572,7 @@
         "symbol": "REGEN",
         "description": "REGEN coin is the token for the Regen Network Platform",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/fa1702b9e6411fd543852318682138e2abb200890d9e5dceaf6adce900621bb9.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/d13d8fecb8ca62dbaa2aa83d8d4aa42b4d33692cb9a8162b9bd4d73897be5ff7.png",
         "color": "#56b790",
         "coinGeckoId": "regen",
         "ibc_info": {
@@ -599,7 +596,7 @@
         "symbol": "DVPN",
         "description": "DVPN is the native token of the Sentinel Hub.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/7a3905dcc2698978708d7c48b563436e57eb9f03b31440589fee31adf3c218db.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/ab186a6cad2c485ed2727da2f677ee7172dfbc22eb0a01cca1ff472ac0c5abb8.png",
         "color": "#10a7ef",
         "coinGeckoId": "sentinel",
         "ibc_info": {
@@ -695,7 +692,7 @@
         "symbol": "EEUR",
         "description": "e-Money EUR stablecoin. Audited and backed by fiat EUR deposits and government bonds.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/fa4787da3aec76c0f847dffa0f697a7397d27f7f89d95e42a7c9d4985f342547.png",
+        "image": "https://cdn.chainroot.io/images/tokens/8c52768e581d6ca2c73b6b9104c05d0e08c037291680f520b05f8176ab05ecc3.svg",
         "color": "#f4c808",
         "coinGeckoId": "e-money-eur",
         "ibc_info": {
@@ -839,7 +836,7 @@
         "symbol": "MED",
         "description": "Panacea is a public blockchain launched by MediBloc, which is the key infrastructure for reinventing the patient-centered healthcare data ecosystem",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/5704064b4fe82ba526a26b6039bfbc734149b5845d966525607f4843a05c586f.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/med.png",
         "color": "#2474ec",
         "coinGeckoId": "medibloc",
         "ibc_info": {
@@ -1054,7 +1051,7 @@
         "symbol": "BAND",
         "description": "The native token of BandChain",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/02cdeb8952f563896b380f902d92219ed7f4e4e7f04e25c02e0c9453e10de074.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/band.png",
         "color": "#4424e4",
         "coinGeckoId": "band-protocol",
         "ibc_info": {
@@ -1102,7 +1099,7 @@
         "symbol": "UMEE",
         "description": "The native token of Umee",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/89526384ab0c3ed299b470c409cc5c57a407a42dc9b58f1afbfbafc70b328c7c.png",
+        "image": "https://cdn.chainroot.io/images/tokens/9d5325ca8b382d8836719bb3889fd12729e3e2855edf892245b7e6e27679a40a.svg",
         "color": "#22f2e9",
         "coinGeckoId": "umee",
         "ibc_info": {
@@ -1126,7 +1123,7 @@
         "symbol": "GRAV",
         "description": "The native token of Gravity Bridge",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/grav.png",
+        "image": "https://cdn.chainroot.io/images/tokens/80113d9226d07b7d5f24a7b6f569d4971cdfed9481d0b80d4121b8c3bd7e0a8b.svg",
         "color": "#042ca4",
         "coinGeckoId": "graviton",
         "ibc_info": {
@@ -1241,12 +1238,11 @@
     {
         "type": "ibc",
         "denom": "ibc/5D1F516200EE8C6B2354102143B78A2DEDA25EDE771AC0F8DC3C1837C8FD4447",
-        "name": "Fetch.ai",
-        "symbol": "FET",
+        "name": "Fetch.ai (Fetch.ai)",
+        "symbol": "FET.fet",
         "description": "The native staking and governance token of the Fetch Hub.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/846ac0ebdc3c68620c7ab902303876843b8929f9d3ec16071a5076c4f1ee9f85.svg",
-        "color": "#1c2444",
+        "image": "https://cdn.chainroot.io/images/tokens/fet.png",
         "coinGeckoId": "fetch-ai",
         "ibc_info": {
             "path": "fetchai>osmosis",
@@ -1270,7 +1266,7 @@
         "description": "The native token of Asset Mantle",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/4658b05dcc839c7219f22d80ebf51c6af889c2b4cf44d9d089284053332e75ef.svg",
-        "color": "#edb548",
+        "color": "#fbab30",
         "coinGeckoId": "assetmantle",
         "ibc_info": {
             "path": "asset-mantle>osmosis",
@@ -1317,7 +1313,7 @@
         "symbol": "INJ",
         "description": "The INJ token is the native governance token for the Injective chain.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/c824ba4c934281bfa3a10052366f3c00fe94ed254da7f0e2b82da59a5c2872df.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/339d9960d0f3efdff233fb03b481817db33f70b48bc9b53db7720d0791492dc9.png",
         "color": "#04a2fc",
         "coinGeckoId": "injective-protocol",
         "ibc_info": {
@@ -1435,7 +1431,7 @@
         "symbol": "HOPE",
         "description": "Hope Galaxy is an NFT collection based on its own native Token $HOPE, a cw20 token on Juno chain.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/152b0f11f8458da0046f902ab16f7d3a585411b3b5db846c4a2974ecc6b51857.png",
+        "image": "https://cdn.chainroot.io/images/tokens/bdea5893944a072d5fac3eedea17c6fe3e4272ae1bd3a7e8abf79d357bc61645.svg",
         "color": "#e2877e",
         "ibc_info": {
             "path": "juno>osmosis",
@@ -2429,7 +2425,7 @@
         "symbol": "IST",
         "description": "IST is the stable token used by the Agoric chain for execution fees and commerce.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/dccb417ade9a3f5a9f7be3ffd9f32808c02d5dc02a6b6794ffa78bd8b006da36.png",
+        "image": "https://cdn.chainroot.io/images/tokens/fad17c87afd28b2ec6791b95fbb9038e1f51a2efebea8cfcb19f2d3db09941ef.svg",
         "color": "#d485e2",
         "coinGeckoId": "inter-stable-token",
         "ibc_info": {
@@ -2499,7 +2495,7 @@
         "symbol": "STRD",
         "description": "The native token of Stride",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/ec24ec10d44cf36ec24232f5dbb19ad5b61d1972098888b01291b63c1c66722e.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/e322bee0d934d0425b875ac8eeee7eb81429ff46d77b3eaaf60487ab1badb026.png",
         "color": "#e4047c",
         "coinGeckoId": "stride",
         "ibc_info": {
@@ -2522,7 +2518,7 @@
         "name": "Stride Staked ATOM",
         "symbol": "stATOM",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/8952f870f7fecceb24d59b6e5e2cfba7235d513ea0cf5f5db6989352605b52b3.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/5655c6da00f6891b2655207d2773ac979059a470051270ca1fd2e88726b34ac5.png",
         "color": "#e40474",
         "coinGeckoId": "stride-staked-atom",
         "ibc_info": {
@@ -2545,7 +2541,7 @@
         "name": "Stride Staked STARS",
         "symbol": "stSTARS",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/5d1484041bfb217158f6602a0a1756b6da4fea399d5d6e4847111c040eeeb9a0.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7a59cd844186f83aa4d9304b02958f964b7b2a1d616fd269db395dd98815740a.svg",
         "color": "#e40474",
         "coinGeckoId": "stride-staked-stars",
         "ibc_info": {
@@ -2615,7 +2611,7 @@
         "symbol": "AXL",
         "description": "The native token of Axelar",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/f76a0d5ddd92b16207551e3131d36155d4cdd231a00fdd81d704db3ca2506a23.png",
         "color": "#040404",
         "coinGeckoId": "axelar",
         "ibc_info": {
@@ -2709,7 +2705,7 @@
         "name": "Stride Staked OSMO",
         "symbol": "stOSMO",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/f332eb9577ccc44d5eac362ee1d07e25a931f7a386a14a505495159f9092695f.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/c013b7733082ad0da759ac1cc54d6e96d79616433f99c04adf2bf47a2f515905.png",
         "color": "#e40474",
         "coinGeckoId": "stride-staked-osmo",
         "ibc_info": {
@@ -2828,7 +2824,7 @@
         "symbol": "JKL",
         "description": "The native staking and governance token of Jackal.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/0208e55b9311df4d06d935433bf3cfa81c104d47d71490dd5a1cc1b15fcc602b.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/364fdc69d1f99fe3b4e14c13549e375b28b2a9d8541f03f206147c1d5e14f750.png",
         "color": "#dbdbcb",
         "coinGeckoId": "jackal-protocol",
         "ibc_info": {
@@ -3018,7 +3014,6 @@
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/4c10b64c57af7e4432da7e148b682df098440d7dbe34a89aadf4e8215c95200b.svg",
         "color": "#4aa29e",
-        "coinGeckoId": "arable-protocol",
         "ibc_info": {
             "path": "acrechain>osmosis",
             "client": {
@@ -3346,8 +3341,8 @@
         "symbol": "qSTARS",
         "description": "Quicksilver Liquid Staked STARS",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/9443b4f6e367c538903bf5c10cf7e5d66c0f1bf76dd6d57e17e2af30c38b1549.png",
-        "color": "#fc944c",
+        "image": "https://cdn.chainroot.io/images/tokens/0761af5ae3a81890a860dd6bf7e22932007edac59dbf181414ad7e4a3c3c68b5.svg",
+        "color": "#ff914d",
         "ibc_info": {
             "path": "quicksilver>osmosis",
             "client": {
@@ -3438,6 +3433,7 @@
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/2d857a5e2b35745b028f5c4cd9d5a3bd9dff79e86f63ca9b84fed1d88e409208.svg",
         "color": "#000000",
+        "coinGeckoId": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
         "ibc_info": {
             "path": "mars-protocol>osmosis",
             "client": {
@@ -3573,7 +3569,7 @@
         "description": "Quicksilver Liquid Staked ATOM",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/56743180a89a98b228b42d0528faef4a3aa87be1b675262e5e746201714eccfc.svg",
-        "color": "#fc944c",
+        "color": "#ff914d",
         "ibc_info": {
             "path": "quicksilver>osmosis",
             "client": {
@@ -3618,8 +3614,8 @@
         "symbol": "qREGEN",
         "description": "Quicksilver Liquid Staked REGEN",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/e9e7028e0ca5b0c83bf0556d074e9c26878ec8fa2225b5c7af2888f8926be9ef.png",
-        "color": "#fc944c",
+        "image": "https://cdn.chainroot.io/images/tokens/5bd8cb29cf0a9bb54ef5e23642bca491aab69794287dc04d206c707256104f5b.svg",
+        "color": "#ff914d",
         "ibc_info": {
             "path": "quicksilver>osmosis",
             "client": {
@@ -3711,8 +3707,8 @@
         "symbol": "qOSMO",
         "description": "Quicksilver Liquid Staked OSMO",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/80ba5cf041a7a23df8d476f293e1c7ae4483d4e719070630ad7aa3921e96c734.png",
-        "color": "#fc944c",
+        "image": "https://cdn.chainroot.io/images/tokens/7568062abbd4b57236e8a3317417a9c702d9b1adaa5c9fe1ed93e1e59594b8a2.svg",
+        "color": "#ff914d",
         "ibc_info": {
             "path": "quicksilver>osmosis",
             "client": {
@@ -4194,13 +4190,12 @@
     {
         "type": "ibc",
         "denom": "ibc/18FB5C09D9D2371F659D4846A956FA56225E377EE3C3652A2BF3542BF809159D",
-        "name": "Filecoin",
-        "symbol": "FIL",
+        "name": "Filecoin (Axelar)",
+        "symbol": "FIL.axl",
         "description": "Filecoin is a decentralized storage network designed to turn cloud storage into an algorithmic market. The network facilitates open markets for storing and retrieving data, where users pay to store their files on storage miners. Filecoin is built on top of the InterPlanetary File System (IPFS), a peer-to-peer storage network. Filecoin aims to store data in a decentralized manner, unlike traditional cloud storage providers.\n\nParticipants in the Filecoin network are incentivized to act honestly and store as much data as possible because they earn the Filecoin cryptocurrency (FIL) in exchange for their storage services. This setup ensures the integrity and accessibility of data stored. Filecoin's model allows for a variety of storage options, including long-term archival storage and more rapid retrieval services, making it a versatile solution for decentralized data storage. The project, developed by Protocol Labs, also focuses on ensuring that data is stored reliably and efficiently.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/83926edf631a2bc1ba8da05994f3683ea2a373b46a9aa9f0f3fff24dec8a6059.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/b31d6fd60b01bbc875aab480c8baced2f0a8f9f48c6ba77b614cb8e95b0fd36b.svg",
         "color": "#0493fc",
-        "coinGeckoId": "filecoin",
         "ibc_info": {
             "path": "filecoin>axelar>osmosis",
             "client": {
@@ -4361,7 +4356,7 @@
         "symbol": "PEPE.axl",
         "description": "Pepe is a community based memecoin with one mission: to make memecoins great again. Made to honor the iconic meme we all know and love, Pepe is here to take reign as the most memeable memecoin in existence, fueled purely by memetic power. Pepe is for the people.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/9f76cd18e7e4d66befa0d16cda4b294a8ed0812d342f5628069746abdfdc5598.png",
+        "image": "https://cdn.chainroot.io/images/tokens/f6b8a4f813caa61a6f956800c3c0719a549df02d548553a83a2ee1c8c55e71a4.svg",
         "ibc_info": {
             "path": "ethereum>axelar>osmosis",
             "client": {
@@ -4634,7 +4629,7 @@
         "symbol": "NTRN",
         "description": "The native token of Neutron chain.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/bcc7880c69cc88313d52a96ce2f7e780a98c5e8a5b86e7318667fd5eabe34c4c.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/49cd09acc9cd57f149b95eb89cdf93800719e571b45d3bbd8195e1c25ba5ffb9.png",
         "color": "#040404",
         "coinGeckoId": "neutron-3",
         "ibc_info": {
@@ -4862,8 +4857,8 @@
     {
         "type": "ibc",
         "denom": "ibc/4ABBEF4C8926DDDB320AE5188CFD63267ABBCEFC0583E4AE05D6E5AA2401DDAB",
-        "name": "Tether USD",
-        "symbol": "USDT",
+        "name": "Tether USD (Kava)",
+        "symbol": "USDT.kava",
         "description": "Tether gives you the joint benefits of open blockchain technology and traditional currency by converting your cash into a stable digital currency equivalent.",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/9b66c2f22347bbb3052aa71d17944cf856e9243e6c1aa4c63a13300be018aa8e.svg",
@@ -4924,8 +4919,8 @@
         "symbol": "qSOMM",
         "description": "Quicksilver Liquid Staked SOMM",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/29160351bb39c9af585dc503ef7d11c8b4bcb9e177f3b88fb63af21c8f4e6bd4.png",
-        "color": "#fc944c",
+        "image": "https://cdn.chainroot.io/images/tokens/413953f3abe13745f8b2a8ce42f89d2c4a3f66fcf28a1922224132ecd3d3a49a.svg",
+        "color": "#ff914d",
         "ibc_info": {
             "path": "quicksilver>osmosis",
             "client": {
@@ -5059,12 +5054,11 @@
     {
         "type": "ibc",
         "denom": "ibc/B1C287C2701774522570010EEBCD864BCB7AB714711B3AA218699FDD75E832F5",
-        "name": "Sui",
-        "symbol": "SUI",
+        "name": "Sui (Wormhole)",
+        "symbol": "SUI.wh",
         "description": "Sui’s native asset is called SUI.",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/15ef18668000d5e55d19c890b5ab1c3e8f71a28c5cefae7b29c3bb799bb0ddf8.svg",
-        "coinGeckoId": "sui",
+        "image": "https://cdn.chainroot.io/images/tokens/584b8c9807b5855b4d3979888d45ec27a24eb2f7ffba7591cf620209241be4b0.svg",
         "ibc_info": {
             "path": "sui>gateway>osmosis",
             "client": {
@@ -5082,12 +5076,11 @@
     {
         "type": "ibc",
         "denom": "ibc/A4D176906C1646949574B48C1928D475F2DF56DE0AC04E1C99B08F90BC21ABDE",
-        "name": "Aptos Coin",
-        "symbol": "APT",
+        "name": "Aptos Coin (Wormhole)",
+        "symbol": "APT.wh",
         "description": "Aptos token (APT) is the Aptos blockchain native token used for paying network and transaction fees.",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/b71c7307df71f286600ae45190de5bcc0a40112271127a867bcfad51adda8a3f.svg",
-        "coinGeckoId": "aptos",
+        "image": "https://cdn.chainroot.io/images/tokens/744028a462e3c88c372aedbca78ddfe7b2aec6525e85b9b17eedf7cbf71b1664.svg",
         "ibc_info": {
             "path": "aptos>gateway>osmosis",
             "client": {
@@ -5199,7 +5192,7 @@
         "symbol": "USDC",
         "description": "USDC is a fully collateralized US Dollar stablecoin developed by CENTRE, the open source project with Circle being the first of several forthcoming issuers.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/d5b4a9ae52bab105a3a3d04814f9aa2e21dbc8a71181221172ebbe52cefd5c0b.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
         "color": "#2775CA",
         "coinGeckoId": "usd-coin",
         "ibc_info": {
@@ -5361,7 +5354,7 @@
         "symbol": "SGE",
         "description": "The native token of SGE Network",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/e0cbf77764e3b996a29eed290f96bb3fb3360d40881303d2767223d2093e0508.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/411545fe9d4bd48f67bcb2945d4a55a9fb57c0da806cd4b2ffafdf0766d1d2ea.png",
         "color": "#C0A15B",
         "coinGeckoId": "six-sigma",
         "ibc_info": {
@@ -5499,7 +5492,7 @@
         "symbol": "TIA",
         "description": "The native token of the Celestia blockchain.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/63b9c41acf8957bc42561cd85132fbc75177d2879e5de3873470bd2bb4ec41b3.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/tia.png",
         "color": "#7c2cfb",
         "coinGeckoId": "celestia",
         "ibc_info": {
@@ -5519,8 +5512,8 @@
     {
         "type": "ibc",
         "denom": "ibc/831F0B1BBB1D08A2B75311892876D71565478C532967545476DF4C2D7492E48C",
-        "name": "dYdX Protocol",
-        "symbol": "DYDX",
+        "name": "dYdX Protocol (dYdX Protocol)",
+        "symbol": "DYDX.dydx",
         "description": "DYDX is a decentralized trading platform focused on derivatives and perpetual contracts, offering a secure and efficient trading experience without intermediaries.",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/677cade7b259aeee5fa1fc0de4192d85b896a2275d20f1997fadcac34c45abad.png",
@@ -5542,7 +5535,7 @@
     {
         "type": "ibc",
         "denom": "ibc/2B30802A0B03F91E4E16D6175C9B70F2911377C1CAE9E50FF011C821465463F9",
-        "name": "f(x)Core",
+        "name": "Function X",
         "symbol": "FX",
         "description": "The native staking token of the Function X",
         "decimals": 18,
@@ -5991,6 +5984,7 @@
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/56079d21b1a05e6e19c016d16319da1de62f636b19c83846caee567418bf58da.svg",
         "color": "#2b2434",
+        "coinGeckoId": "racoon",
         "ibc_info": {
             "path": "migaloo>osmosis",
             "client": {
@@ -6035,7 +6029,7 @@
         "symbol": "ISLM",
         "description": "The native EVM, governance and staking token of the Haqq Network",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/9451fa4fa2754738b5b29fdc13ca4d870d20bcd955530090babaed4baef74e5a.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/01069ec6416ca6c2aaed1ad4c09a0636202c44444a6d40f7bccba412c90d73ce.png",
         "color": "#04cd80",
         "coinGeckoId": "islamic-coin",
         "ibc_info": {
@@ -6461,9 +6455,8 @@
         "symbol": "stTIA",
         "description": "Stride's liquid staked TIA",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/stutia.png",
+        "image": "https://cdn.chainroot.io/images/tokens/df43139655b8c5db7a7b1fb674801711979b1382eed4c99db80f30477b0b031c.svg",
         "color": "#e40474",
-        "coinGeckoId": "stride-staked-tia",
         "ibc_info": {
             "path": "stride>osmosis",
             "client": {
@@ -6588,6 +6581,7 @@
         "description": "Astroport is a neutral marketplace where anyone, from anywhere in the galaxy, can dock to trade their wares.",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/4d0dd6374e75c0e56c3924fd4252b881507580341e732330558709c9b3d7c277.svg",
+        "coinGeckoId": "astroport-fi",
         "ibc_info": {
             "path": "terra>osmosis",
             "client": {
@@ -6642,7 +6636,7 @@
         "symbol": "HEART",
         "description": "The native staking and governance token of Humans.ai.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/humans.png",
+        "image": "https://cdn.chainroot.io/images/tokens/4d4277a12fba13e326af9ff64828a1a76fb00bc000ef321467364fae2aa766fd.svg",
         "color": "#f3f3f3",
         "coinGeckoId": "humans-ai",
         "ibc_info": {
@@ -6762,7 +6756,6 @@
         "decimals": 9,
         "image": "https://cdn.chainroot.io/images/tokens/16bee07ac8b6b0115d265ec492e23fbea7a0f9d5a46353a18857433abc30dc49.png",
         "color": "#7f22bc",
-        "coinGeckoId": "source-protocol",
         "ibc_info": {
             "path": "bnb-smart-chain>planq>source>osmosis",
             "client": {
@@ -6827,12 +6820,11 @@
     {
         "type": "ibc",
         "denom": "ibc/BB0AFE2AFBD6E883690DAE4B9168EAC2B306BCC9C9292DACBB4152BBB08DB25F",
-        "name": "AIOZ Network",
-        "symbol": "AIOZ",
+        "name": "AIOZ Network (AIOZ Network)",
+        "symbol": "AIOZ.aioz",
         "description": "The native staking and governance token of the AIOZ Network.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/ec4ca810714b6098648de39a1ba29141dcfa99cda5daee2d8fffcca4f4a89458.svg",
-        "color": "#24241c",
+        "image": "https://cdn.chainroot.io/images/tokens/815c8c29316aaa9c394e76d4f635617ed9f2cd2bd51d2cb8c1722018ce310799.svg",
         "coinGeckoId": "aioz-network",
         "ibc_info": {
             "path": "aioz>osmosis",
@@ -7272,7 +7264,7 @@
         "symbol": "SHIDO",
         "description": "The native EVM and Wasm, governance and staking token of the Shido Chain",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/50b7580af70f9ae21ac163c26e9b7aba33dc4b75f24032140bc6ff59cc1544e7.png",
+        "image": "https://cdn.chainroot.io/images/tokens/02c7008a82717e7aab2ba1c3c84e453b69e537c4746ba32fee36b06228c7a493.svg",
         "color": "#046ffc",
         "coinGeckoId": "shido-2",
         "ibc_info": {
@@ -7738,7 +7730,7 @@
         "symbol": "SEDA",
         "description": "The native token of SEDA Chain.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/854c0fae03625f29d2d0bff73fe8632262ac4502bc451292a47148e19f85810c.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/6a80b6537d9748fed97ab2ac8ccc8487c5f733d8cb27d90eae70415571593c8a.png",
         "color": "#8178d1",
         "coinGeckoId": "seda-2",
         "ibc_info": {
@@ -7849,7 +7841,7 @@
         "description": "Quicksilver Liquid Staked JUNO",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/e01d23b1f7107ac3d0433b29e0972de06985dabce6d2f2f233e1ea6eb22180ab.svg",
-        "color": "#fc944c",
+        "color": "#ff914d",
         "ibc_info": {
             "path": "quicksilver>osmosis",
             "client": {
@@ -7895,7 +7887,7 @@
         "description": "Quicksilver Liquid Staked DYDX",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/2e889365ac22953a12013b2779140adcbb7d08a9d548ab7c3d758ab35df4d75f.svg",
-        "color": "#fc944c",
+        "color": "#ff914d",
         "ibc_info": {
             "path": "quicksilver>osmosis",
             "client": {
@@ -7918,7 +7910,7 @@
         "description": "Quicksilver Liquid Staked BLD",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/07cfa1aa09ed667b006951376b3515b815660e30e40c32c7d80123dbedf7f908.svg",
-        "color": "#fc944c",
+        "color": "#ff914d",
         "ibc_info": {
             "path": "quicksilver>osmosis",
             "client": {
@@ -8253,11 +8245,11 @@
     {
         "type": "native",
         "denom": "factory/osmo1em6xs47hd82806f5cxgyufguxrrc7l0aqx7nzzptjuqgswczk8csavdxek/alloyed/allUSDT",
-        "name": "Tether USD (alloyed)",
-        "symbol": "allUSDT",
+        "name": "Tether USD",
+        "symbol": "USDT",
         "description": "An alloy of USDT asset variants on Osmosis.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
         "color": "#009393",
         "coinGeckoId": "tether"
     },
@@ -8301,7 +8293,7 @@
         "symbol": "BTC",
         "description": "An alloy of BTC asset variants on Osmosis.",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/ca6caccf8a3b0320119fd0a1d1057fb6ed914664486ff3bfcf13d70583cda962.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/191d098a687efaf61e3166795e7824fd3b5840831cd15782c5b8544c7d65573f.png",
         "color": "#f4941c",
         "coinGeckoId": "bitcoin"
     },
@@ -8514,7 +8506,7 @@
         "symbol": "USDY",
         "description": "Ondo US Dollar Yield",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/c01fc48a18e0da9126874eded3f443fb524236e2319f62d15e53e427a063b8ba.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/30311d0b53877b6ee0b4b0cc5196dbeacddfe9391a3eff03832a664eca5c77c0.png",
         "color": "#142c5c",
         "coinGeckoId": "ondo-us-dollar-yield",
         "ibc_info": {
@@ -8571,7 +8563,7 @@
         "symbol": "ETH",
         "description": "An alloy of ETH asset variants on Osmosis.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/af33707625a9a948852514d2ffd2f99d2d8cfc603bca373190a152522fdb1c0c.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/eth.png",
         "color": "#303030",
         "coinGeckoId": "ethereum"
     },
@@ -8582,7 +8574,7 @@
         "symbol": "SOL",
         "description": "An alloy of SOL asset variants on Osmosis.",
         "decimals": 9,
-        "image": "https://cdn.chainroot.io/images/tokens/2bacd102680cfe69bba0bcd8e5f97133935ea18cd46495bb54d95b364f93d057.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/sol.png",
         "coinGeckoId": "solana"
     },
     {
@@ -8639,8 +8631,7 @@
         "symbol": "TRX.rt",
         "description": "TRONIX is the mainnet native token of the TRON Protocol issued by TRON DAO, known as TRX.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/98865336a36e867c3063829cdf890653c4b0de113ed9b93f6c10b90013bc2718.svg",
-        "color": "#FF060A",
+        "image": "https://cdn.chainroot.io/images/tokens/54e2d76c479528456420dd0617019cb9d9cd1e0bcf856eeeb02f9f6a0f9091df.svg",
         "bridge_info": {
             "path": "tron>osmosis"
         }
@@ -9498,11 +9489,11 @@
     {
         "type": "ibc",
         "denom": "ibc/616C2EA69BC328F245CE449785CB0B526B462C48F19DCF9B3D30699579B4308A",
-        "name": "Coinbase Wrapped BTC (Axelar)",
-        "symbol": "cbBTC.axl",
+        "name": "Coinbase Wrapped BTC (Base via Axelar)",
+        "symbol": "$cbBTC.base.axl",
         "description": "Coinbase Wrapped Bitcoin on Axelar",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/45fecce78e2011bd5a65c32362f5e34901f2c373d61fd60c1b7b983ce4039132.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/d6fc096ab5c066d1a4b316c259aa4d37e57b1b27d8fc1fc1be0aca35a390700d.svg",
         "ibc_info": {
             "path": "base>axelar>osmosis",
             "client": {
@@ -9577,7 +9568,7 @@
         "symbol": "DOGE",
         "description": "An alloy of DOGE asset variants on Osmosis.",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/cbbed3123349a268d5aa3c143888036b1204f2554635f9365a0ead80e81be317.png",
+        "image": "https://cdn.chainroot.io/images/tokens/c9108ff8dc9254a6d7f24fa45839add1d69940a91d17424b6d0759197dd7f925.svg",
         "color": "#bda148",
         "coinGeckoId": "dogecoin"
     },
@@ -9610,7 +9601,7 @@
         "symbol": "OM",
         "description": "The native token of MANTRA",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/6f04ed152724ef3ef7fbcceb0a038b5a97b82ce8575d96e5b6de014fe6b0a363.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/om.png",
         "color": "#fba0c1",
         "coinGeckoId": "mantra-dao",
         "ibc_info": {
@@ -9634,7 +9625,8 @@
         "symbol": "ATONE",
         "description": "The native staking and governance token of AtomOne",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/36100bb5e0c879375bade1208ee94b1783b0a02d8e0bbeaca29984e7f38b1ac1.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/atone.png",
+        "coinGeckoId": "atomone",
         "ibc_info": {
             "path": "atomone>osmosis",
             "client": {
@@ -9657,7 +9649,8 @@
         "description": "The Spice memecoin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/2465aa073c27909c6a7cec4fff3d4d4eec4ff075af940c2f15f6f43da6a0221b.png",
-        "color": "#e5ba44"
+        "color": "#e5ba44",
+        "coinGeckoId": "spice-2"
     },
     {
         "type": "ibc",
@@ -9708,9 +9701,9 @@
     {
         "type": "ibc",
         "denom": "ibc/3B95D63B520C283BCA86F8CD426D57584039463FD684A5CBA31D2780B86A1995",
-        "name": "Dungeon Coin",
+        "name": "Dragon Coin",
         "symbol": "DGN",
-        "description": "Dungeon native token",
+        "description": "Dragon Token is the native staking and governance token of Dungeon Chain, serving as the backbone of the ecosystem. Its primary roles include staking, where users stake Dragon Tokens to secure the network, enhance its functionality, and earn rewards in return; governance, granting token holders voting rights to influence key decisions such as game onboarding, protocol updates, and community-driven initiatives; and ecosystem growth, facilitating transactions, incentivizing developers, and promoting the creation of new interchain games. Dragon Token ensures a decentralized, fair, and community-driven ecosystem, fostering the evolution of blockchain-based gaming. It plays a crucial role in driving the growth of Dungeon Chain by empowering both developers and players to participate actively in the ecosystem's governance and success.",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/997fda1abc37fcfd7d010d8a05fa4528a17c6e12ec225bac47e9184456b6142b.png",
         "coinGeckoId": "dragon-coin-2",
@@ -9730,47 +9723,767 @@
     },
     {
         "type": "ibc",
-        "denom": "ibc/A6712952E566B8A9F29D0A533F043C3CE3CF9870B01A2180E390133119C14A71",
-        "name": "Kima Network",
-        "symbol": "KIMA",
-        "description": "Kima is an asset-agnostic interoperability infrastructure that connects blockchain networks and legacy financial systems, enabling secure, scalable cross-chain transactions and seamless communication across ecosystems.",
+        "denom": "ibc/1B454982D3746951510D3845145B83628D4ED380D95722C8077776C4689F973A",
+        "name": "Synternet",
+        "symbol": "SYNT",
+        "description": "Synternet is a blockchain that powers modular, interoperable data infrastructure across all major chains.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/2646cfedce7f1e49c16dc09039f9570abc5c5229da382f491b9bea65b071ebaf.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/09ca1cd2b4cce4cab4ab9eeca6948108341dfa65678ae55f2dc0e01d572fe8f4.svg",
+        "color": "#272d45",
         "ibc_info": {
-            "path": "kimanetwork>osmosis",
+            "path": "synternet>osmosis",
             "client": {
-                "channel": "channel-83350",
+                "channel": "channel-85186",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-1",
+                "port": "transfer",
+                "chain": "synternet",
+                "denom": "usynt"
+            }
+        }
+    },
+    {
+        "type": "native",
+        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/bomu",
+        "name": "$bomu",
+        "symbol": "BOMU",
+        "description": "Sssshhh…",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/fc3aaa441c407926bb1973089eecd3a5f8829f62187aa6e5d739d6845988799e.png"
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/C1B4D4804EB8F95FFB75E6395A301F0AD6D7DDE5C3A45571B70E46A368DD353E",
+        "name": "dATOM",
+        "symbol": "dATOM",
+        "description": "Drop staked ATOM",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/f83dc67714a5c47477a09e801198f14e04d2eef8a9fdf99372a2cd62981717e3.svg",
+        "coinGeckoId": "drop-staked-atom",
+        "ibc_info": {
+            "path": "neutron>osmosis",
+            "client": {
+                "channel": "channel-874",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-10",
+                "port": "transfer",
+                "chain": "neutron",
+                "denom": "factory/neutron1k6hr0f83e7un2wjf29cspk7j69jrnskk65k3ek2nj9dztrlzpj6q00rtsa/udatom"
+            }
+        }
+    },
+    {
+        "type": "native",
+        "denom": "factory/osmo1n6asrjy9754q8y9jsxqf557zmsv3s3xa5m9eg5/usherpa",
+        "name": "Sherpa",
+        "symbol": "SHERPA",
+        "description": "The Sherpa memecoin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/b4cdd48718528085d50b67aec3ee9e80d66cc3033d7234d798ad57c06b56e06f.png",
+        "color": "#fe9cdf"
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/35F2FB6D55E1F4249D81E0E2B4F9F7961BEBE402517609043FD94796412755F0",
+        "name": "amATOM",
+        "symbol": "amATOM",
+        "description": "The advance token for ATOM denominated vaults on Amulet Protocol",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/af45ac165ff5c94e3a3711c17af388261b71852fddc5950f1524d904e468e280.svg",
+        "ibc_info": {
+            "path": "neutron>osmosis",
+            "client": {
+                "channel": "channel-874",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-10",
+                "port": "transfer",
+                "chain": "neutron",
+                "denom": "factory/neutron1shwxlkpdjd8h5wdtrykypwd2v62z5glr95yp0etdcspkkjwm5meq82ndxs/amatom"
+            }
+        }
+    },
+    {
+        "type": "native",
+        "denom": "factory/osmo1qnglc04tmhg32uc4kxlxh55a5cmhj88cpa3rmtly484xqu82t79sfv94w0/alloyed/allXRP",
+        "name": "Ripple",
+        "symbol": "XRP",
+        "description": "An alloy of XRP asset variants on Osmosis.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/fa2e0fc5aead6e2b42c7f6a8dd35859012b882175ea92867f1a1d566256bd14e.svg",
+        "color": "#040404",
+        "coinGeckoId": "ripple"
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/2E3784772E70F7B3A638BA88F65C8BE125D3CDB6E28C6AABC51098C94F5E16A5",
+        "name": "xion",
+        "symbol": "XION",
+        "description": "XION is the first walletless L1 blockchain purpose built for consumer adoption through chain abstraction.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/xion.png",
+        "coinGeckoId": "xion-2",
+        "ibc_info": {
+            "path": "xion>osmosis",
+            "client": {
+                "channel": "channel-89321",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-1",
+                "port": "transfer",
+                "chain": "xion",
+                "denom": "uxion"
+            }
+        }
+    },
+    {
+        "type": "native",
+        "denom": "factory/osmo1ss0n3ghv5rr4z4y54fnkprc69tegmdm3ejlkgr2z4utnyg7eljgs9pztvs/alloyed/allFIL",
+        "name": "Filecoin",
+        "symbol": "FIL",
+        "description": "An alloy of FIL asset variants on Osmosis.",
+        "decimals": 12,
+        "image": "https://cdn.chainroot.io/images/tokens/83926edf631a2bc1ba8da05994f3683ea2a373b46a9aa9f0f3fff24dec8a6059.svg",
+        "color": "#0493fc",
+        "coinGeckoId": "filecoin"
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/DDE1238DCBC338C0FD0700A72CBD64C017B7A646C4A46789ADFB5D47F1E52E38",
+        "name": "Toncoin (Int3)",
+        "symbol": "TON.int3",
+        "description": "TON on Int3face",
+        "decimals": 9,
+        "image": "https://cdn.chainroot.io/images/tokens/3f2d815194135013a4a5cf3cabb65b846af59d6bb796d339a924d8fde0c710fb.svg",
+        "ibc_info": {
+            "path": "ton>int3face>osmosis",
+            "client": {
+                "channel": "channel-82819",
                 "port": "transfer"
             },
             "counterparty": {
                 "channel": "channel-0",
                 "port": "transfer",
-                "chain": "kimanetwork",
-                "denom": "uKIMA"
+                "chain": "int3face",
+                "denom": "factory/int31zlefkpe3g0vvm9a4h0jf9000lmqutlh99h7fsd/ton-ton"
             }
         }
     },
     {
         "type": "ibc",
-        "denom": "ibc/42D0FBF9DDC72D7359D309A93A6DF9F6FDEE3987EA1C5B3CDE95C06FCE183F12",
-        "name": "furya",
-        "symbol": "FURY",
-        "description": "The native token of Furya",
-        "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/d63b0d14c0fa8b6974eb98941976dd1dcc1de0a83ffd15f55969eee9c9d5239d.svg",
-        "color": "#040404",
-        "coinGeckoId": "fanfury",
+        "denom": "ibc/CD20AC50CE57F1CF2EA680D7D47733DA9213641D2D116C5806A880F508609A7A",
+        "name": "MOBIX",
+        "symbol": "MOBX",
+        "description": "The MOBX coin rewards the use of eco-friendly micromobility transportation.",
+        "decimals": 9,
+        "image": "https://cdn.chainroot.io/images/tokens/8deccc379fc105f4ead8d96f765761eb8b6ae199dd480e1e211cd175a11ba313.svg",
+        "color": "#04ae9b",
         "ibc_info": {
-            "path": "furya>osmosis",
+            "path": "fetchai>osmosis",
             "client": {
-                "channel": "channel-8690",
+                "channel": "channel-229",
                 "port": "transfer"
             },
             "counterparty": {
-                "channel": "channel-3",
+                "channel": "channel-10",
                 "port": "transfer",
-                "chain": "furya",
-                "denom": "ufury"
+                "chain": "fetchai",
+                "denom": "nanomobx"
+            }
+        }
+    },
+    {
+        "type": "bridge",
+        "denom": "factory/osmo10c4y9csfs8q7mtvfg4p9gd8d0acx0hpc2mte9xqzthd7rd3348tsfhaesm/sICP-native-ICP",
+        "name": "Internet Computer",
+        "symbol": "ICP",
+        "description": "Internet Computer bridged via Omnity Network.",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/17608adc6306d0815294f28597e013ca6b66e91a549b1a9dacf0350eda19c563.svg",
+        "color": "#29ABE2",
+        "coinGeckoId": "internet-computer",
+        "bridge_info": {
+            "path": "internetcomputer>osmosis"
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/643EBFFC9D4533E93A5CF144FE786A6FB326F4C0C6224F7CB7563CC374EE56EE",
+        "name": "Elys Network",
+        "symbol": "ELYS",
+        "description": "The native token of Elys Network",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/786e2504afc6da98707011a7170b0aa3ef3eb923376c598825e5f35e49494e9f.png",
+        "coinGeckoId": "elys-network",
+        "ibc_info": {
+            "path": "elys>osmosis",
+            "client": {
+                "channel": "channel-91017",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-6",
+                "port": "transfer",
+                "chain": "elys",
+                "denom": "uelys"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/D28B585D6B67E2F1479BBA3E949C687289C94D33FFA0720E3A8CB0B244AD8BC6",
+        "name": "Aaron Network",
+        "symbol": "AARON",
+        "description": "Aaron Network is an innovative platform for secure and private messaging, integrated into the blockchain ecosystem. We also offer a unique address reputation scoring system, ensuring that every user can interact with others confidently.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/35bb503eeda5ad82065caec44e722e2ccc45b9be044d832f430520b41a0acbe8.png",
+        "ibc_info": {
+            "path": "aaronetwork>osmosis",
+            "client": {
+                "channel": "channel-91942",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-7",
+                "port": "transfer",
+                "chain": "aaronetwork",
+                "denom": "uaaron"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/794CF0A448ECA518B9FEAB3356BD283E8762460F8FE87A013E6F9DBA6C53601C",
+        "name": "Chihuahua",
+        "symbol": "CHIHUAHUA",
+        "description": "Chihuahua coin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/2be42685591386cafd5afe432990f9a052a93199492f015739eea20ff67ceeac.png",
+        "color": "#444444",
+        "ibc_info": {
+            "path": "chihuahua>osmosis",
+            "client": {
+                "channel": "channel-113",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-7",
+                "port": "transfer",
+                "chain": "chihuahua",
+                "denom": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/Chihuahua"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/3D00ACF371FC6B7BC871399B1909DDE18749FA19DE6B7A4F74E1D96BC073B3BC",
+        "name": "wirelibertyfence",
+        "symbol": "WLF",
+        "description": "WLF coin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/48b21cafbc2bbd451c25b4d9417a349e7f13c486a2fe364202d4d0dc3a852e29.png",
+        "color": "#BD963D",
+        "ibc_info": {
+            "path": "chihuahua>osmosis",
+            "client": {
+                "channel": "channel-113",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-7",
+                "port": "transfer",
+                "chain": "chihuahua",
+                "denom": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/wirelibertyfence"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/DC1DF96AB7F5109433C3D5FDADE83F8EC2D522B80FAB0593BC1A2781F36AD633",
+        "name": "Ninja Blaze",
+        "symbol": "NBZ",
+        "description": "Ninja Blaze is a decentralized multi-chain gaming platform powered by Injective Blockchain.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/3d766641ac0ce568f1f483abd3742f61bfcfb1e5a4a4a1a124f49cde7303d3a2.svg",
+        "color": "#9890f9",
+        "ibc_info": {
+            "path": "injective>osmosis",
+            "client": {
+                "channel": "channel-122",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-8",
+                "port": "transfer",
+                "chain": "injective",
+                "denom": "factory/inj1llr45x92t7jrqtxvc02gpkcqhqr82dvyzkr4mz/NBZ"
+            }
+        }
+    },
+    {
+        "type": "bridge",
+        "denom": "factory/osmo10c4y9csfs8q7mtvfg4p9gd8d0acx0hpc2mte9xqzthd7rd3348tsfhaesm/dogecoin-native-DOGE",
+        "name": "Chain-key Dogecoin",
+        "symbol": "ckDOGE",
+        "description": "A multi-chain dogecoin twin, trustlessly created by chain-key cryptography and Internet Computer smart contracts that directly hold raw dogecoin.",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/64bb548611bbfc2befc489eb5c9002add42008ec369f4eebbae52242de615741.svg",
+        "bridge_info": {
+            "path": "dogecoin>osmosis"
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/C7A810C6ED1FC3FFC7C834A534D400EADC94FF7D3BE13DDD4C042AEF1816DFB4",
+        "name": "dTIA",
+        "symbol": "dTIA",
+        "description": "Drop staked TIA",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/774ae9012fb7f2750aa13b380e6f0fbd9cdf0c9d66a6913df39237a3cadd624c.svg",
+        "ibc_info": {
+            "path": "neutron>osmosis",
+            "client": {
+                "channel": "channel-874",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-10",
+                "port": "transfer",
+                "chain": "neutron",
+                "denom": "factory/neutron1ut4c6pv4u6vyu97yw48y8g7mle0cat54848v6m97k977022lzxtsaqsgmq/udtia"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/6569248F0ADF74C0751A48AE8D19F28B40565629265956DA4BEBFBFD73F72F0A",
+        "name": "Neptune Receipt USDT",
+        "symbol": "nUSDT",
+        "description": "A receipt token for lent USDT issued by the Neptune Protocol.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/31fa83f2c277d46cf157f1c87beabbcc5bb0998c5acfdd54dee9c075d61421f9.png",
+        "color": "#54ac94",
+        "ibc_info": {
+            "path": "injective>osmosis",
+            "client": {
+                "channel": "channel-122",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-8",
+                "port": "transfer",
+                "chain": "injective",
+                "denom": "inj1cy9hes20vww2yr6crvs75gxy5hpycya2hmjg9s"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/7D22B3B8C52261AB0A5F8360B5F472C9A14A05ADFEF858C3573D09AFF10CE1BE",
+        "name": "Neptune Receipt USDC",
+        "symbol": "nUSDC",
+        "description": "A receipt token for lent USDC issued by the Neptune Protocol.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/89a2b79afa034ab5cd9d3f678172b6a07101e87fe8201f8a86e4728a1ad3c488.png",
+        "color": "#2775ca",
+        "ibc_info": {
+            "path": "injective>osmosis",
+            "client": {
+                "channel": "channel-122",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-8",
+                "port": "transfer",
+                "chain": "injective",
+                "denom": "inj1dafy7fv7qczzatd98dv8hekx6ssckrflswpjaz"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/2C43B074A5C7C3FB32EB8FA85239FCF887312BC960F373BC1EF1EE8517A0B996",
+        "name": "kUSD",
+        "symbol": "kUSD",
+        "description": "A Stablecoin native to the Kopi blockchain",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/5f5b2d6a637951450aad77318639721cdf27a3b631f9dbd9bb5b98aa701c3fd0.svg",
+        "ibc_info": {
+            "path": "kopi>osmosis",
+            "client": {
+                "channel": "channel-97998",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-10",
+                "port": "transfer",
+                "chain": "kopi",
+                "denom": "ukusd"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/86E7DAA73DD4AEA7319C77A81CF202A02BD094AE8550EEEAB06DF31749B6E05C",
+        "name": "Kopi",
+        "symbol": "XKP",
+        "description": "The native token of kopi",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/55d230ba9934e0a4b823abacc4e3ec787b6f2062560e9bbf49dcb90140caa639.svg",
+        "ibc_info": {
+            "path": "kopi>osmosis",
+            "client": {
+                "channel": "channel-97998",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-10",
+                "port": "transfer",
+                "chain": "kopi",
+                "denom": "ukopi"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/BA47828ADDC3700F50B35696390F4C53E35CBB42E84FF768BB75C3F6BAEFD9F1",
+        "name": "Quicksilver Liquid Staked ARCH",
+        "symbol": "qARCH",
+        "description": "Quicksilver Liquid Staked ARCH",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/ae6ecd7f88f10684b6f02f889d5123bae94c910b41ec6c1ad68eeebac322f261.svg",
+        "color": "#ff914d",
+        "ibc_info": {
+            "path": "quicksilver>osmosis",
+            "client": {
+                "channel": "channel-522",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-2",
+                "port": "transfer",
+                "chain": "quicksilver",
+                "denom": "aqarch"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/C66CF6F56DC47AECFA2C593C371D5D6218CF9DF709B6F0DAB7C33A9766889E55",
+        "name": "Quicksilver Liquid Staked PICA",
+        "symbol": "qPICA",
+        "description": "Quicksilver Liquid Staked PICA",
+        "decimals": 12,
+        "image": "https://cdn.chainroot.io/images/tokens/4f4a04599a79711131b739ac33bedd16e9f7ec2368623bfba0a7ef95554c1ee5.svg",
+        "color": "#ff914d",
+        "ibc_info": {
+            "path": "quicksilver>osmosis",
+            "client": {
+                "channel": "channel-522",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-2",
+                "port": "transfer",
+                "chain": "quicksilver",
+                "denom": "pqpica"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/E8CB12995A190336CA7A647B618E97DF6CA1E1A3FD7685B1AA9C1C80FC63858E",
+        "name": "Quicksilver Liquid Staked TIA",
+        "symbol": "qTIA",
+        "description": "Quicksilver Liquid Staked TIA",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/3a64bc0ce70ce7ba29b8140a5827da45e66b5f38cf1ab1be4fa704bb3ea104ec.svg",
+        "color": "#ff914d",
+        "ibc_info": {
+            "path": "quicksilver>osmosis",
+            "client": {
+                "channel": "channel-522",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-2",
+                "port": "transfer",
+                "chain": "quicksilver",
+                "denom": "uqtia"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/9880C90A843C647E7A5D7C108CBB3D6E3D671F3F6BB930558F81B3B24D334162",
+        "name": "Quicksilver Liquid Staked FLIX",
+        "symbol": "qFLIX",
+        "description": "Quicksilver Liquid Staked FLIX",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/36f3132ff63b785d780c61d3a5bf2b2839f47f229db14bba59f0d00bd970fb19.svg",
+        "color": "#ff914d",
+        "ibc_info": {
+            "path": "quicksilver>osmosis",
+            "client": {
+                "channel": "channel-522",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-2",
+                "port": "transfer",
+                "chain": "quicksilver",
+                "denom": "uqflix"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/C3FD0795C73D0D61C09374F99D3F23E746194D22A64B6A44FF0530BCF2419053",
+        "name": "Quicksilver Liquid Staked LUNA",
+        "symbol": "qLUNA",
+        "description": "Quicksilver Liquid Staked LUNA",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/a66294181ca9ee3438b396d682944ee2f608e204b7b1e97f924c61f5e2e40de9.svg",
+        "color": "#ff914d",
+        "ibc_info": {
+            "path": "quicksilver>osmosis",
+            "client": {
+                "channel": "channel-522",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-2",
+                "port": "transfer",
+                "chain": "quicksilver",
+                "denom": "uqluna"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/3C85C44DCB6BCC4FFB9D295EE79ED412E1FAD5D775C99E6AA51CCEF5CA32409C",
+        "name": "Quicksilver Liquid Staked INJ",
+        "symbol": "qINJ",
+        "description": "Quicksilver Liquid Staked INJ",
+        "decimals": 0,
+        "image": "https://cdn.chainroot.io/images/tokens/a687083990f5876f1f5fe23dc3a251459532b6ffc7a4ed0e99f32c99f32009c7.svg",
+        "color": "#ff914d",
+        "ibc_info": {
+            "path": "quicksilver>osmosis",
+            "client": {
+                "channel": "channel-522",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-2",
+                "port": "transfer",
+                "chain": "quicksilver",
+                "denom": "qinj"
+            }
+        }
+    },
+    {
+        "type": "native",
+        "denom": "factory/osmo1nqu7rc5mj5p2cgyfp7gl3lw7kw99cltple3xtzl2cs5fyw0r2tasr7xv48/alloyed/allSUI",
+        "name": "Sui",
+        "symbol": "SUI",
+        "description": "An alloy of SUI asset variants on Osmosis.",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/15ef18668000d5e55d19c890b5ab1c3e8f71a28c5cefae7b29c3bb799bb0ddf8.svg",
+        "coinGeckoId": "sui"
+    },
+    {
+        "type": "native",
+        "denom": "factory/osmo1zynnzvwdu72zc4mxqnnp348ksfmayldqyfs8khdud3myr7m5h8nsqwta2v/alloyed/allAPT",
+        "name": "Aptos Coin",
+        "symbol": "APT",
+        "description": "An alloy of APTOS asset variants on Osmosis.",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/ee5d7d8ad0c650f4df2a1023e8a4497b25db5885621d92078eeead860de2db8b.svg",
+        "coinGeckoId": "aptos"
+    },
+    {
+        "type": "native",
+        "denom": "factory/osmo1zetxzc5nka4jm203ljjtjf933jwjh45ge6spfeef447rnnhqxc4qrazrcz/alloyed/allBNB",
+        "name": "Binance Coin",
+        "symbol": "BNB",
+        "description": "An alloy of BNB asset variants on Osmosis.",
+        "decimals": 12,
+        "image": "https://cdn.chainroot.io/images/tokens/a9b3956da08457d9e3bbd324fc21a950102261077428e261a523ab07ffc60331.svg",
+        "color": "#f3bb0c",
+        "coinGeckoId": "binancecoin"
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/8765FF0D37A7A85357ED28061EDEBC736743216DB06FE92231957CE158FB351E",
+        "name": "Side Bitcoin",
+        "symbol": "sBTC",
+        "description": "BTC-pegged token on Side Chain.",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/383386fc1cbd69270417106c62bbb513e6eb815f2b6e9252c2d3ff198409f4ee.svg",
+        "color": "#f7771a",
+        "ibc_info": {
+            "path": "bitcoin>sidechain>osmosis",
+            "client": {
+                "channel": "channel-98081",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-0",
+                "port": "transfer",
+                "chain": "sidechain",
+                "denom": "sat"
+            }
+        }
+    },
+    {
+        "type": "native",
+        "denom": "factory/osmo1zem8r6dv6u38f6qpg546zy30946av8h5srgug0s4gcyy6cfecf3seac083/alloyed/allDYDX",
+        "name": "dYdX Protocol",
+        "symbol": "DYDX",
+        "description": "An alloy of DYDX asset variants on Osmosis.",
+        "decimals": 12,
+        "image": "https://cdn.chainroot.io/images/tokens/6ae4668bb3f56fdc7c6618ad62b1312d744a0042917d437a3361f6900792bda2.svg",
+        "coinGeckoId": "dydx-chain"
+    },
+    {
+        "type": "native",
+        "denom": "factory/osmo1mdvn6lmykp2z345ncpf647dztslyll8cyhwj9pltrc0lf7nva3cqvrp6qs/alloyed/allFET",
+        "name": "Fetch.ai",
+        "symbol": "FET",
+        "description": "An alloy of FET asset variants on Osmosis.",
+        "decimals": 12,
+        "image": "https://cdn.chainroot.io/images/tokens/846ac0ebdc3c68620c7ab902303876843b8929f9d3ec16071a5076c4f1ee9f85.svg",
+        "color": "#1c2444",
+        "coinGeckoId": "fetch-ai"
+    },
+    {
+        "type": "native",
+        "denom": "factory/osmo17ceugf0nnkk228k2sulemn0s9pl3yg554462eexxs3pgq8p629us98gqae/alloyed/allAIOZ",
+        "name": "AIOZ Network",
+        "symbol": "AIOZ",
+        "description": "An alloy of AIOZ asset variants on Osmosis.",
+        "decimals": 12,
+        "image": "https://cdn.chainroot.io/images/tokens/ec4ca810714b6098648de39a1ba29141dcfa99cda5daee2d8fffcca4f4a89458.svg",
+        "color": "#24241c",
+        "coinGeckoId": "aioz-network"
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/E72E62E74112F379BB760D02515DA215408CCBF401CD4C9BC0A3DBD72A7076E1",
+        "name": "SAM",
+        "symbol": "SAM",
+        "description": "The SAM token is a native memecoin on Oraichain.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/8f7fbc676cb063aba5c6a82c3d5d993836b0e9b6404ce004eeaf073af856a531.svg",
+        "coinGeckoId": "sam-2",
+        "ibc_info": {
+            "path": "orai-chain>osmosis",
+            "client": {
+                "channel": "channel-216",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-13",
+                "port": "transfer",
+                "chain": "orai-chain",
+                "denom": "factory/orai15rmny3cxv33rnzdr2lfdhjtslyzmrr0vdd28kp/SAM"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/6178310C049238B538203D57BFF17481C7E8E11C9D7EA204D2C9B1E67D914F78",
+        "name": "EMPR",
+        "symbol": "EMPR",
+        "description": "Staking coin of Emporion",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/9d2f453f677eab25851be44f1e2b66b11e67ac4cb31961b7ddb237f7cb752b9b.png",
+        "ibc_info": {
+            "path": "juno>osmosis",
+            "client": {
+                "channel": "channel-42",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-0",
+                "port": "transfer",
+                "chain": "juno",
+                "denom": "factory/juno1zjqsel42pj5e6wvxxw7hjs9gn06yqz4m3ffyua3x2v44m4l8trjsr92q9s/empr"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/512F2595204C4BCAC1C000A394CAB9529A4E519C97ED465B9230B563D2D4AFBA",
+        "name": "Ali-Rev-Gator",
+        "symbol": "BIKE",
+        "description": "The OG meme coin on MANTRA Chain",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/c78c0f3cfbb5358cfd28de188f87b61aebd2833349e88f55da668b1e5cfa5cf0.png",
+        "color": "#80c75d",
+        "ibc_info": {
+            "path": "mantra>osmosis",
+            "client": {
+                "channel": "channel-85077",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-0",
+                "port": "transfer",
+                "chain": "mantra",
+                "denom": "factory/mantra1vtpg8z82gz9qe3adf7t9z0qwuvkpzmqu9ds4ej/BIKE"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/73C91DAE5E8AAC34C95BE8B969365449FFFC2D900A5FDEF40BA339EB34CE5752",
+        "name": "Pryzm",
+        "symbol": "PRYZM",
+        "description": "The native token of PRYZM",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/44327627915d6ca6a220ad92670d445e4698fa5c243639d00659eb7c61248b84.svg",
+        "color": "#c6ddf5",
+        "ibc_info": {
+            "path": "pryzm>osmosis",
+            "client": {
+                "channel": "channel-75755",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-2",
+                "port": "transfer",
+                "chain": "pryzm",
+                "denom": "upryzm"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/48047CBAA27D0526BA9E6BEC9D77D9B796AA95E35C95891C7F19C3F0D32473F6",
+        "name": "HOOD",
+        "symbol": "HOOD",
+        "description": "The community token for The Fortunate Few, a multi chain NFT community platform.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/c577d20e4c297837842d5444321375ad94b49a7b2d44828918cb74483a397f07.png",
+        "ibc_info": {
+            "path": "stargaze>osmosis",
+            "client": {
+                "channel": "channel-75",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-0",
+                "port": "transfer",
+                "chain": "stargaze",
+                "denom": "factory/stars1rru5m2wh3fylpheqh8h5g968jwhe7rctkfm7u0gwk7ka4vx3q5tqukjl4z/hood"
             }
         }
     },
@@ -9794,30 +10507,6 @@
                 "port": "transfer",
                 "chain": "pundix",
                 "denom": "ibc/55367B7B6572631B78A93C66EF9FDFCE87CDE372CC4ED7848DA78C1EB1DCDD78"
-            }
-        }
-    },
-    {
-        "type": "ibc",
-        "denom": "ibc/320F8D6EC17E14436D19C6D844BB9A5AE9B9A209F6D18364A2191FF08E8732A9",
-        "name": "dHealth",
-        "symbol": "DHP",
-        "description": "The native token of dHealth",
-        "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/7cc85722553231f1c8305a3af2c3061ab96c2f10b8e0cb492648eca66bc7e3f5.svg",
-        "color": "#140c7c",
-        "coinGeckoId": "dhealth",
-        "ibc_info": {
-            "path": "dhealth>osmosis",
-            "client": {
-                "channel": "channel-38776",
-                "port": "transfer"
-            },
-            "counterparty": {
-                "channel": "channel-1",
-                "port": "transfer",
-                "chain": "dhealth",
-                "denom": "udhp"
             }
         }
     },
@@ -9924,7 +10613,8 @@
         "name": "Mars Looped USDC Vault",
         "symbol": "earnUSDC",
         "description": "USDC supplied on Mars looped using Membrane by a vault that also has an entry fee",
-        "decimals": 6
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/unknown.png"
     },
     {
         "type": "native",
@@ -9932,65 +10622,8 @@
         "name": "Earn CDT Vault",
         "symbol": "earnCDT",
         "description": "Auto-compounding vault for Membrane's Stability Pool used to ease the UX of compounding CDT",
-        "decimals": 6
-    },
-    {
-        "type": "ibc",
-        "denom": "ibc/2E3784772E70F7B3A638BA88F65C8BE125D3CDB6E28C6AABC51098C94F5E16A5",
-        "name": "Xion",
-        "symbol": "XION",
-        "description": "Xion Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/xion.png",
-        "coinGeckoId": "xion-2",
-        "ibc_info": {
-            "path": "xion>osmosis",
-            "client": {
-                "channel": "channel-89321",
-                "port": "transfer"
-            },
-            "counterparty": {
-                "channel": "channel-1",
-                "port": "transfer",
-                "chain": "xion",
-                "denom": "uxion"
-            }
-        }
-    },
-    {
-        "type": "bridge",
-        "denom": "factory/osmo10c4y9csfs8q7mtvfg4p9gd8d0acx0hpc2mte9xqzthd7rd3348tsfhaesm/sICP-native-ICP",
-        "name": "Internet Computer",
-        "symbol": "ICP",
-        "description": "ICP ffrom dfinity",
-        "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/198cfccb38a8aa5aaed84d33574d8919333f772f4c1e222ecc8bb55b3799f2c7.png",
-        "coinGeckoId": "internet-computer",
-        "bridge_info": {
-            "path": "internetcomputer>osmosis"
-        }
-    },
-    {
-        "type": "ibc",
-        "denom": "ibc/794CF0A448ECA518B9FEAB3356BD283E8762460F8FE87A013E6F9DBA6C53601C",
-        "name": "Chihuahua",
-        "symbol": "CHIHUAHUA",
-        "description": "Chihuahua coin",
-        "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/2be42685591386cafd5afe432990f9a052a93199492f015739eea20ff67ceeac.png",
-        "ibc_info": {
-            "path": "chihuahua>osmosis",
-            "client": {
-                "channel": "channel-113",
-                "port": "transfer"
-            },
-            "counterparty": {
-                "channel": "channel-7",
-                "port": "transfer",
-                "chain": "chihuahua",
-                "denom": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/Chihuahua"
-            }
-        }
+        "image": "https://cdn.chainroot.io/images/tokens/unknown.png"
     },
     {
         "type": "native",
@@ -9999,53 +10632,8 @@
         "symbol": "ashION",
         "description": "ashION - Burned ION",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/dc6dff0aeb7260d522b7bca9ef5d5f454f659f9f2bf6435713215578465c7d0a.png",
+        "image": "https://cdn.chainroot.io/images/tokens/63a61e5db462f0bf7db2503c8b243f38bf6170e1c3272b8c61ebe6cc74cf6d5f.png",
         "color": "#ebb093"
-    },
-    {
-        "type": "ibc",
-        "denom": "ibc/3D00ACF371FC6B7BC871399B1909DDE18749FA19DE6B7A4F74E1D96BC073B3BC",
-        "name": "WireLibertyFence",
-        "symbol": "WLF",
-        "description": "WLF coin",
-        "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/e632bc6024a0e61fea09a2a9f1cfa326a949f7d5e022cabf3ee2066cdfa6b8df.png",
-        "ibc_info": {
-            "path": "chihuahua>osmosis",
-            "client": {
-                "channel": "channel-113",
-                "port": "transfer"
-            },
-            "counterparty": {
-                "channel": "channel-7",
-                "port": "transfer",
-                "chain": "chihuahua",
-                "denom": "factory/chihuahua1mzcfzh4ufk2cta59pm9a6wdyvv8c4v5epqzj46/wirelibertyfence"
-            }
-        }
-    },
-    {
-        "type": "ibc",
-        "denom": "ibc/DC1DF96AB7F5109433C3D5FDADE83F8EC2D522B80FAB0593BC1A2781F36AD633",
-        "name": "Ninja Blaze Token",
-        "symbol": "NBZ",
-        "description": "Ninja Blaze Token",
-        "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/5111f7cf7eff583a7f01701b8c9095fd1adb23d1de3922e3c7022afde23ac342.png",
-        "coinGeckoId": "",
-        "ibc_info": {
-            "path": "injective>osmosis",
-            "client": {
-                "channel": "channel-122",
-                "port": "transfer"
-            },
-            "counterparty": {
-                "channel": "channel-8",
-                "port": "transfer",
-                "chain": "injective",
-                "denom": "factory/inj1llr45x92t7jrqtxvc02gpkcqhqr82dvyzkr4mz/NBZ"
-            }
-        }
     },
     {
         "type": "native",
@@ -10054,51 +10642,27 @@
         "symbol": "CULT",
         "description": "CULT - Less Brainwashing, More Utility",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/2e4b36c8293a0e7bb8ca569003a0e5953275b374073c27ed7c2f184cf4064bf7.png"
+        "image": "https://cdn.chainroot.io/images/tokens/cb61bc63075df38f2fcbf4925fa56676a22a97e2a1015feeaafcaae33fded86b.png"
     },
     {
         "type": "ibc",
-        "denom": "ibc/C7A810C6ED1FC3FFC7C834A534D400EADC94FF7D3BE13DDD4C042AEF1816DFB4",
-        "name": "dTIA",
-        "symbol": "dTIA",
-        "description": "Drop staked TIA",
+        "denom": "ibc/EA0C8F1121425943740B2D1B1DC5BDD717D49A9D5A639DC7074C10E9212CC794",
+        "name": "Pleb Coin",
+        "symbol": "PLEB",
+        "description": "Tek ovah!",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/dtia.png",
-        "coinGeckoId": "drop-staked-tia",
+        "image": "https://cdn.chainroot.io/images/tokens/a8f134b8c08f3a1f36983562c816e19a89446a264ddfc81cd05b35a53ffefa82.png",
         "ibc_info": {
-            "path": "neutron>osmosis",
+            "path": "stargaze>osmosis",
             "client": {
-                "channel": "channel-874",
+                "channel": "channel-75",
                 "port": "transfer"
             },
             "counterparty": {
-                "channel": "channel-10",
+                "channel": "channel-0",
                 "port": "transfer",
-                "chain": "neutron",
-                "denom": "factory/neutron1ut4c6pv4u6vyu97yw48y8g7mle0cat54848v6m97k977022lzxtsaqsgmq/udtia"
-            }
-        }
-    },
-    {
-        "type": "ibc",
-        "denom": "ibc/C1B4D4804EB8F95FFB75E6395A301F0AD6D7DDE5C3A45571B70E46A368DD353E",
-        "name": "dATOM",
-        "symbol": "dATOM",
-        "description": "A liquid staking derivative of staked ATOM, powered by DROP on Neutron.",
-        "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/datom.png",
-        "coinGeckoId": "drop-staked-atom",
-        "ibc_info": {
-            "path": "neutron>osmosis",
-            "client": {
-                "channel": "channel-874",
-                "port": "transfer"
-            },
-            "counterparty": {
-                "channel": "channel-10",
-                "port": "transfer",
-                "chain": "neutron",
-                "denom": "factory/neutron1k6hr0f83e7un2wjf29cspk7j69jrnskk65k3ek2nj9dztrlzpj6q00rtsa/udatom"
+                "chain": "stargaze",
+                "denom": "factory/stars1k7qsxdxh8calmt4txk75e6hdntefslegwddqnlwjjqgjkmcfqy0qa97sn8/pleb"
             }
         }
     },
@@ -10109,7 +10673,7 @@
         "symbol": "BITCOIN",
         "description": "Cosmos Bitcoin",
         "decimals": 6,
-        "image": " https://cdn.chainroot.io/images/tokens/4aeaf8bce2b2de17476086dcfbc501093244bc0001a2a8f9dbbc41a010882831.png",
+        "image": "https://cdn.chainroot.io/images/tokens/1998c7ec28d74c851b568df0e8f54124a9f26a07d91232d5d7e58c2216f9a215.png",
         "ibc_info": {
             "path": "injective>osmosis",
             "client": {
@@ -10126,34 +10690,12 @@
     },
     {
         "type": "ibc",
-        "denom": "ibc/54C7B977B96DFC56D877A7F74D22BD26B5E42CA6171F120F5A36AC82BFD4711A",
-        "name": "BRICS",
-        "symbol": "BRICS",
-        "description": "BRICS coin",
-        "decimals": 6,
-        "image": " https://cdn.chainroot.io/images/tokens/b88648326e4b3f548e28f2104d71ffc8e8652f526f3366628d2be9a6efda3eb4.png",
-        "ibc_info": {
-            "path": "injective>osmosis",
-            "client": {
-                "channel": "channel-122",
-                "port": "transfer"
-            },
-            "counterparty": {
-                "channel": "channel-8",
-                "port": "transfer",
-                "chain": "injective",
-                "denom": "factory/inj1s9hr5zfz3xrkzchde94hd2d0edjs4q5mrqrz6x/BRICS"
-            }
-        }
-    },
-    {
-        "type": "ibc",
         "denom": "ibc/1B23B6F7DAC37267F04E82466AB798CC59F941BD4AE5653C497730F174F14849",
         "name": "Crypto",
         "symbol": "CRYPTO",
-        "description": "Crypto coin",
+        "description": "Crypto",
         "decimals": 6,
-        "image": " https://cdn.chainroot.io/images/tokens/99e22bb45e2c6cd823b3a9aedee5cef55073950acb2a674f9a1ab6ef99b0a0a6.png",
+        "image": "https://cdn.chainroot.io/images/tokens/1bec6400566dca1b318a35cb847acab8a92669fed442951ad99fbb97cf72fd06.png",
         "ibc_info": {
             "path": "injective>osmosis",
             "client": {
@@ -10170,12 +10712,34 @@
     },
     {
         "type": "ibc",
-        "denom": "ibc/A436BC9498153DC580B56BD27043BBFE08A1754696C05FFF00B2A41EC796D180",
-        "name": "INC",
-        "symbol": "INC",
-        "description": "Instant Noodles coin",
+        "denom": "ibc/54C7B977B96DFC56D877A7F74D22BD26B5E42CA6171F120F5A36AC82BFD4711A",
+        "name": "Brics coin",
+        "symbol": "BRICS",
+        "description": "Bricscoin",
         "decimals": 6,
-        "image": " https://cdn.chainroot.io/images/tokens/288b6bdca30ad57dce8c287a0d4656d33c1238360d147f7a1ea36068e4626ee6.png",
+        "image": "https://cdn.chainroot.io/images/tokens/10e7c48d5f8960489f8b7fb14b208de12f51004725040507bca538de7533ce51.png",
+        "ibc_info": {
+            "path": "injective>osmosis",
+            "client": {
+                "channel": "channel-122",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-8",
+                "port": "transfer",
+                "chain": "injective",
+                "denom": "factory/inj1s9hr5zfz3xrkzchde94hd2d0edjs4q5mrqrz6x/BRICS"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/A436BC9498153DC580B56BD27043BBFE08A1754696C05FFF00B2A41EC796D180",
+        "name": "Instant Noodles Coin",
+        "symbol": "INC",
+        "description": "Instant Noodles Coin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/91aeb2f280b15d86812095b31070a43559f8d3d3ff2d8a99bd423230ac06e3ff.png",
         "ibc_info": {
             "path": "injective>osmosis",
             "client": {
@@ -10192,26 +10756,33 @@
     },
     {
         "type": "ibc",
-        "denom": "ibc/E72E62E74112F379BB760D02515DA215408CCBF401CD4C9BC0A3DBD72A7076E1",
-        "name": "SAM",
-        "symbol": "SAM",
-        "description": "The SAM token is a native memecoin on Oraichain",
+        "denom": "ibc/1A3DE66CCE39FA151DA710B21E06C8FBC47178C1DCE7BB35D2A79466F754CD51",
+        "name": "Manifest native token",
+        "symbol": "MFX",
+        "description": "Manifest native token",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/2bc1f3a70629c200ca6b8754784d37d9fc3eb0ea96b7e1088fae0026cc7db686.png",
-        "color": "#000000",
-        "coinGeckoId": "sam-2",
+        "image": "https://cdn.chainroot.io/images/tokens/b9c74a0dc88e572a2981732c3bf6930cac5a2e7fe35813f3b4eb413d010f401e.png",
         "ibc_info": {
-            "path": "orai-chain>osmosis",
+            "path": "manifest>osmosis",
             "client": {
-                "channel": "channel-216",
+                "channel": "channel-100418",
                 "port": "transfer"
             },
             "counterparty": {
-                "channel": "channel-13",
+                "channel": "channel-0",
                 "port": "transfer",
-                "chain": "orai-chain",
-                "denom": "factory/orai15rmny3cxv33rnzdr2lfdhjtslyzmrr0vdd28kp/SAM"
+                "chain": "manifest",
+                "denom": "umfx"
             }
         }
+    },
+    {
+        "type": "native",
+        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/t7s",
+        "name": "The Seven Green Shade",
+        "symbol": "T7S",
+        "description": "T7S is the heartbeat of the Seven Shaders universe—powering NFTs, AI adventures, and gaming rewards. One token, endless possibilities.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/0e091992b89b9a44bb2fe553bdd8f86dc00531a18a84aaf5320e8ec34a8233dd.png"
     }
 ]

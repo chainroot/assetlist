@@ -1,0 +1,13 @@
+[
+    {
+        "type": "native",
+        "denom": "ulom",
+        "name" : "Lombard",
+        "symbol": "LOM",
+        "description": "The native token of Lombard Testnet Chain",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/ca34451776244d7818ba5bdceb6d5bfe6de29db12081bc190f80958c462df1d8.png",
+        "coinGeckoId": "",
+        "color": ""
+    }
+]

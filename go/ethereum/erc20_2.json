@@ -2873,7 +2873,7 @@
         "symbol": "wstETH",
         "description": "Wrapped liquid staked Ether 2.0",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/74a1607af0c169e9aef9328defc72ce6b12291d1bd22a1c53322666516b41f5c.png",
+        "image": "https://cdn.chainroot.io/images/tokens/wsteth.png",
         "coinGeckoId": "wrapped-steth"
     },
     {
@@ -2883,7 +2883,7 @@
         "symbol": "LDO",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/542eaf82b41c19debc8138c01e39a356c76b465c728860b41bbffebe64e03c72.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ldo.png",
         "coinGeckoId": "lido-dao"
     },
     {
@@ -4235,5 +4235,15 @@
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/zeta.png",
         "coinGeckoId": "zetachain"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
+        "name": "Cronos",
+        "symbol": "CRO",
+        "description": "Cronos",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/cro.png",
+        "coinGeckoId": "crypto-com-chain"
     }
 ]

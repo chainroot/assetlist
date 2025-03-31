@@ -21,6 +21,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/FAEC929814E0D916C019EB4B8BE58360EC3B6AB6A2B3185CB1EA0B54832DEE68",
+    "symbol": "WMATIC",
+    "name": "wmatic",
+    "description": "Wrapped Matic on Axelar",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/bf81bb5509d397d93705112cdf2b191085c96ae16f64f144aace3128bbbce029.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/C86651B4D30C1739BF8B061E36F4473A0C9D60380B52D01E56A6874037A5D060",
     "symbol": "DAI",
     "name": "dai",
@@ -41,16 +51,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/FAEC929814E0D916C019EB4B8BE58360EC3B6AB6A2B3185CB1EA0B54832DEE68",
-    "symbol": "WMATIC",
-    "name": "wmatic",
-    "description": "Wrapped Matic on Axelar",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/bf81bb5509d397d93705112cdf2b191085c96ae16f64f144aace3128bbbce029.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/DB589A0C82618E56E5C90B77578CCBDB921CFEC8E6F6CF46032C43C1B06F92B8",
     "symbol": "INJ",
     "name": "INJ",
@@ -61,16 +61,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/3F972A6BFE64248AF19C9328FA59A1270CBC57D4545A099860E035C2BA4C79FD",
-    "symbol": "sfrxETH",
-    "name": "sfrxeth",
-    "description": "",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/16495ceff14fbca3a8e2ce368fadb166405d3ca766681ce4234ac193c151e63d.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/04CE51E6E02243E565AE676DD60336E48D455F8AAD0611FA0299A22FDAC448D6",
     "symbol": "WETH",
     "name": "weth",
@@ -78,6 +68,16 @@
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/15dcdac9407b9a3fc6702bd2abde9fb3b47671997bc46fb594d65e4e982786c7.png",
     "coinGeckoId": "axlweth"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/3F972A6BFE64248AF19C9328FA59A1270CBC57D4545A099860E035C2BA4C79FD",
+    "symbol": "sfrxETH",
+    "name": "sfrxeth",
+    "description": "",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/16495ceff14fbca3a8e2ce368fadb166405d3ca766681ce4234ac193c151e63d.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -121,22 +121,22 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/E33DAD9F331F485D19DAE5B3BFD874707F118B8D5C7310AD8BFA2BB7AE001291",
-    "symbol": "WMATIC",
-    "name": "wmatic",
-    "description": "Wrapped Matic on Axelar",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/bf81bb5509d397d93705112cdf2b191085c96ae16f64f144aace3128bbbce029.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/2387E8C5F7C260E4D7FFE23AE78246160D1573FA778FCBB8C58D4EC0A5219416",
     "symbol": "DAI",
     "name": "dai",
     "description": "Dai stablecoin on Axelar",
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/db618306455a7810b99692ac2f71e55e56619b8ad2b260b6a93ab837e460e694.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/E33DAD9F331F485D19DAE5B3BFD874707F118B8D5C7310AD8BFA2BB7AE001291",
+    "symbol": "WMATIC",
+    "name": "wmatic",
+    "description": "Wrapped Matic on Axelar",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/bf81bb5509d397d93705112cdf2b191085c96ae16f64f144aace3128bbbce029.svg",
     "coinGeckoId": ""
   },
   {
@@ -171,6 +171,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/73E90F42AF8EE91A0EE668468CA840A99D60261D3EC6121D2CBEF35299369F25",
+    "symbol": "wstETH",
+    "name": "wstETH",
+    "description": "wstETH on Neutron",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/195ac6e06829bd28be1067a0c4eedc8e749efd9bc4ab6326fbaf227bcca070c8.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/0B701D4A611944994C54BF6F7BD2183C72D007F77FAC1BF78E31CCD4ADDF0D20",
     "symbol": "DYDX",
     "name": "dydx",
@@ -188,16 +198,6 @@
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/af33707625a9a948852514d2ffd2f99d2d8cfc603bca373190a152522fdb1c0c.svg",
     "coinGeckoId": "ethereum"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/73E90F42AF8EE91A0EE668468CA840A99D60261D3EC6121D2CBEF35299369F25",
-    "symbol": "wstETH",
-    "name": "wstETH",
-    "description": "wstETH on Neutron",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/195ac6e06829bd28be1067a0c4eedc8e749efd9bc4ab6326fbaf227bcca070c8.svg",
-    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -311,7 +311,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/FF27963D549C28CB3A623A899891E321A899A824F403401C54CD511AC196B066",
+    "denom": "ibc/5B990949E1B8F2B7D0F79B93D02845A6CDA73193D5A4A01CA994007BC9F622AD",
     "symbol": "INJ",
     "name": "INJ",
     "description": "Injective is a decentralized exchange protocol that enables fast, secure, and fully decentralized trading of derivatives, futures, and spot markets.",
@@ -321,7 +321,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/5B990949E1B8F2B7D0F79B93D02845A6CDA73193D5A4A01CA994007BC9F622AD",
+    "denom": "ibc/FF27963D549C28CB3A623A899891E321A899A824F403401C54CD511AC196B066",
     "symbol": "INJ",
     "name": "INJ",
     "description": "Injective is a decentralized exchange protocol that enables fast, secure, and fully decentralized trading of derivatives, futures, and spot markets.",
@@ -341,6 +341,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/92BC8E5C50E6664B4DA748B62C1FFBE321967E1F8868EE03B005977F9AA7C0B8",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/63AA230956B5ED0E0433DF6714C6DB7D1B91974589A520C205C6436E56DF0A2C",
     "symbol": "BLD",
     "name": "bld",
@@ -352,26 +362,6 @@
   {
     "type": "ibc",
     "denom": "ibc/49788C29CD84E08D25CA7BE960BC1F61E88FEFC6333F58557D236D693398466A",
-    "symbol": "USDC",
-    "name": "usdc",
-    "description": "Circle's stablecoin on Axelar",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
-    "coinGeckoId": "axlusdc"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/C8B3026C2844D204F3A49F91058DC947F01F2FC36AFF17850FFC8701504BDDEE",
-    "symbol": "stATOM",
-    "name": "statom",
-    "description": "",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/8952f870f7fecceb24d59b6e5e2cfba7235d513ea0cf5f5db6989352605b52b3.svg",
-    "coinGeckoId": "stride-staked-atom"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/92BC8E5C50E6664B4DA748B62C1FFBE321967E1F8868EE03B005977F9AA7C0B8",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
@@ -398,6 +388,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/bef990e9d2a34c122cdc2c771e179c100f59ade122dfe4c70358c1b4b97c3305.png",
     "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/C8B3026C2844D204F3A49F91058DC947F01F2FC36AFF17850FFC8701504BDDEE",
+    "symbol": "stATOM",
+    "name": "statom",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/8952f870f7fecceb24d59b6e5e2cfba7235d513ea0cf5f5db6989352605b52b3.svg",
+    "coinGeckoId": "stride-staked-atom"
   },
   {
     "type": "ibc",
@@ -431,16 +431,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/223420B0E8CF9CC47BCAB816AB3A20AE162EED27C1177F4B2BC270C83E11AD8D",
-    "symbol": "USDT",
-    "name": "usdt",
-    "description": "Tether's USD stablecoin on Axelar",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
-    "coinGeckoId": "axelar-usdt"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/D1CB2804AA5EB64D503F28E8DF3552F8A4D642802B66EFE50DE432B755F37AE1",
     "symbol": "AXL",
     "name": "axl",
@@ -461,6 +451,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/223420B0E8CF9CC47BCAB816AB3A20AE162EED27C1177F4B2BC270C83E11AD8D",
+    "symbol": "USDT",
+    "name": "usdt",
+    "description": "Tether's USD stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
+    "coinGeckoId": "axelar-usdt"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/84B9BEDF23F4A33A5DCB82C3D3B5348927418DBC6487EF8821DFEAFE06C77DF5",
     "symbol": "USDT",
     "name": "usdt",
@@ -468,16 +468,6 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
     "coinGeckoId": "tether"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/88178A7DF538EF97AC4585C949304C3DE4FC04AA91F8F1372281E921D3F44A0D",
-    "symbol": "JUNO",
-    "name": "juno",
-    "description": "The native token of JUNO Chain",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/79f9def0d7428ed8b761a7c42dc5f7a3492367f014258935d72cbbe2d813a552.svg",
-    "coinGeckoId": "juno-network"
   },
   {
     "type": "ibc",
@@ -491,16 +481,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/D5F6DF9E7E77C6B731A63B253C10B9AE636195D984A3A1558DD55759EA0B517F",
-    "symbol": "MARS.old",
-    "name": "mars",
-    "description": "Mars Protocol token (pre-migration)",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/2d857a5e2b35745b028f5c4cd9d5a3bd9dff79e86f63ca9b84fed1d88e409208.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/BA460328D9ABA27E643A924071FDB3836E4CE8084C6D2380F25EFAB85CF8EB11",
     "symbol": "IST",
     "name": "ist",
@@ -511,6 +491,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/D5F6DF9E7E77C6B731A63B253C10B9AE636195D984A3A1558DD55759EA0B517F",
+    "symbol": "MARS.old",
+    "name": "mars",
+    "description": "Mars Protocol token (pre-migration)",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/2d857a5e2b35745b028f5c4cd9d5a3bd9dff79e86f63ca9b84fed1d88e409208.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/6BC338370FACE4AF3D8E8F6E99350A251A608311958922BA6DD0032B82642C47",
     "symbol": "UMEE",
     "name": "umee",
@@ -518,6 +508,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/9d5325ca8b382d8836719bb3889fd12729e3e2855edf892245b7e6e27679a40a.svg",
     "coinGeckoId": "umee"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/88178A7DF538EF97AC4585C949304C3DE4FC04AA91F8F1372281E921D3F44A0D",
+    "symbol": "JUNO",
+    "name": "juno",
+    "description": "The native token of JUNO Chain",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/79f9def0d7428ed8b761a7c42dc5f7a3492367f014258935d72cbbe2d813a552.svg",
+    "coinGeckoId": "juno-network"
   },
   {
     "type": "ibc",
@@ -541,16 +541,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/4128D5DDF2EF8776B5C704C3153E1CBEC5DABC04DB0CC6221EDCC342EB04779C",
-    "symbol": "LUNC",
-    "name": "luna",
-    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
-    "coinGeckoId": "terra-luna"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/589CDC453BD6E119A3D4662B943DAEF010D4F543FEA7FC83619D0E630C903488",
     "symbol": "stTIA",
     "name": "stTIA",
@@ -561,6 +551,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/4128D5DDF2EF8776B5C704C3153E1CBEC5DABC04DB0CC6221EDCC342EB04779C",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/F7F4D0035FB3F10A244A0B48990D4891793188B5D59297AE2C0293291CB1B340",
     "symbol": "NCT",
     "name": "nct",
@@ -568,16 +568,6 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/2d33fb4012a679dadde0f08ecb6a3615e05d219346a6993bf908e8c8b469e94e.svg",
     "coinGeckoId": "toucan-protocol-nature-carbon-tonne"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/153B97FE395140EAAA2D7CAC537AF1804AEC5F0595CBC5F1603094018D158C0C",
-    "symbol": "WBTC",
-    "name": "wbtc",
-    "description": "Wrapped Bitcoin on Axelar",
-    "decimals": 8,
-    "image": "https://cdn.chainroot.io/images/tokens/26347a436b3a51d83910af6c2e0b556d8f5f22387a785779b64c38a72da9b9bb.png",
-    "coinGeckoId": "axlwbtc"
   },
   {
     "type": "ibc",
@@ -608,6 +598,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/4c5f41c1d09e29aaf50ed10f7f7ff2cce2d2e0db2ccf95eef8c7f0379136970b.svg",
     "coinGeckoId": "sommelier"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/153B97FE395140EAAA2D7CAC537AF1804AEC5F0595CBC5F1603094018D158C0C",
+    "symbol": "WBTC",
+    "name": "wbtc",
+    "description": "Wrapped Bitcoin on Axelar",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/26347a436b3a51d83910af6c2e0b556d8f5f22387a785779b64c38a72da9b9bb.png",
+    "coinGeckoId": "axlwbtc"
   },
   {
     "type": "ibc",
@@ -651,13 +651,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/CE99B4D2A172275C064595B750827855E04D5E068FB7C642C8469CA9B5DB0EE1",
-    "symbol": "WBTC",
-    "name": "wbtc",
-    "description": "Wrapped Bitcoin (WBTC) is an ERC20 token backed 1:1 with Bitcoin. Completely transparent. 100% verifiable. Community led.",
-    "decimals": 8,
-    "image": "https://cdn.chainroot.io/images/tokens/f0fb98be5c52c4f7f8abdd928840665189bec026b7aa0dba392fa83a4b225f4e.svg",
-    "coinGeckoId": "wrapped-bitcoin"
+    "denom": "ibc/BB1E723A6BC90AA1186149F75FFA23B87CFE38D72DC76FD9CA1859981BBE54DB",
+    "symbol": "USDT",
+    "name": "usdt",
+    "description": "Tether USDt from Ethereum via Peggy bridge.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -741,6 +741,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/CE99B4D2A172275C064595B750827855E04D5E068FB7C642C8469CA9B5DB0EE1",
+    "symbol": "WBTC",
+    "name": "wbtc",
+    "description": "Wrapped Bitcoin (WBTC) is an ERC20 token backed 1:1 with Bitcoin. Completely transparent. 100% verifiable. Community led.",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/f0fb98be5c52c4f7f8abdd928840665189bec026b7aa0dba392fa83a4b225f4e.svg",
+    "coinGeckoId": "wrapped-bitcoin"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/43C82ECE074C1A96338371706E18FDFFECFE9E0CE2E3F90F735B12C10067BA1F",
     "symbol": "MARS",
     "name": "MARS",
@@ -788,16 +798,6 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
     "coinGeckoId": "axlusdc"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/BB1E723A6BC90AA1186149F75FFA23B87CFE38D72DC76FD9CA1859981BBE54DB",
-    "symbol": "USDT",
-    "name": "usdt",
-    "description": "Tether USDt from Ethereum via Peggy bridge.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
-    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -911,16 +911,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/312F13C9A9ECCE611FE8112B5ABCF0A14DE2C3937E38DEBF6B73F2534A83464E",
-    "symbol": "USTC",
-    "name": "ust",
-    "description": "The USD stablecoin of Terra Classic.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/bbf7ad631fa51027777b71c54feda0517f9f112a5f42edad9c584fb9724561cb.svg",
-    "coinGeckoId": "terrausd"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/2CB7467E9AF4AEC7EC0706269E23E11B1D50EA23C64B2EC2C3937F5EF6185CCC",
     "symbol": "USDT",
     "name": "usdt",
@@ -938,6 +928,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/516ed75052338f9ed271f0b26f6090dfa1ed4acb81067b03b45c97222853a3da.svg",
     "coinGeckoId": "white-whale"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/312F13C9A9ECCE611FE8112B5ABCF0A14DE2C3937E38DEBF6B73F2534A83464E",
+    "symbol": "USTC",
+    "name": "ust",
+    "description": "The USD stablecoin of Terra Classic.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/bbf7ad631fa51027777b71c54feda0517f9f112a5f42edad9c584fb9724561cb.svg",
+    "coinGeckoId": "terrausd"
   },
   {
     "type": "ibc",
@@ -1111,16 +1111,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/AB63225941B84A250E96878400F4BD686981EFA2560A7098D6BA8C28ECFDD0FE",
-    "symbol": "USDC",
-    "name": "usdc",
-    "description": "Circle's stablecoin on Axelar",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
-    "coinGeckoId": "axlusdc"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/0EFC7B44625187BFB60AF09FF28A25FA49B68B959A505CC5313DF0498D8CF528",
     "symbol": "STRD",
     "name": "strd",
@@ -1128,6 +1118,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/ec24ec10d44cf36ec24232f5dbb19ad5b61d1972098888b01291b63c1c66722e.svg",
     "coinGeckoId": "stride"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/AB63225941B84A250E96878400F4BD686981EFA2560A7098D6BA8C28ECFDD0FE",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
   },
   {
     "type": "ibc",
@@ -1331,16 +1331,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/F3CC34BE29B1709E8625298B7E06309374D158466E29936C3ACBF601244A6FF5",
-    "symbol": "QCK",
-    "name": "qck",
-    "description": "QCK - native token of Quicksilver",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/f87699fa8000635dee47c4014c153040dd1f107d74277ecbd3da317e71828fcc.png",
-    "coinGeckoId": "quicksilver"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/5CC7BFD5BF9570C27940FA27C9AFB010F6925644843676FC5B8FD5551B87808A",
     "symbol": "stUMEE",
     "name": "stumee",
@@ -1348,6 +1338,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/31b803329c10e28b92f3160d420f19812518dd61e3e9ff8aec53d8c16a2dfcaf.svg",
     "coinGeckoId": "stride-staked-umee"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/F3CC34BE29B1709E8625298B7E06309374D158466E29936C3ACBF601244A6FF5",
+    "symbol": "QCK",
+    "name": "qck",
+    "description": "QCK - native token of Quicksilver",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f87699fa8000635dee47c4014c153040dd1f107d74277ecbd3da317e71828fcc.png",
+    "coinGeckoId": "quicksilver"
   },
   {
     "type": "ibc",
@@ -1361,22 +1361,22 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/CA0BEF2524A37205009210EFCFB09585FBA9648C5F065FA078944A5C6704E8DC",
-    "symbol": "qJUNO",
-    "name": "qjuno",
-    "description": "Quicksilver Liquid Staked JUNO",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/e01d23b1f7107ac3d0433b29e0972de06985dabce6d2f2f233e1ea6eb22180ab.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/D98C326E47C99D94BB1FE8195499A659F83E75B8716D520F581B318A7B35F725",
     "symbol": "NOIS",
     "name": "nois",
     "description": "The native token of Nois",
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/680e6a002ffc6dfb3de89587642c425b43a882492fecd64c5dd7f4643ce6a541.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/CA0BEF2524A37205009210EFCFB09585FBA9648C5F065FA078944A5C6704E8DC",
+    "symbol": "qJUNO",
+    "name": "qjuno",
+    "description": "Quicksilver Liquid Staked JUNO",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/e01d23b1f7107ac3d0433b29e0972de06985dabce6d2f2f233e1ea6eb22180ab.svg",
     "coinGeckoId": ""
   }
 ]

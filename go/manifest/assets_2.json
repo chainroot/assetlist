@@ -1,0 +1,45 @@
+[
+    {
+        "type": "native",
+        "denom": "umfx",
+        "name": "Manifest Token",
+        "symbol": "MFX",
+        "description": "Manifest native token",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/7732350065c2438d8dac39a3ddc3753826a7a55200e597285f617051630aebba.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "upoa",
+        "name": "Manifest Proof of Authority Token",
+        "symbol": "POA",
+        "description": "Proof of Authority token for the Manifest network",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/b9c74a0dc88e572a2981732c3bf6930cac5a2e7fe35813f3b4eb413d010f401e.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
+        "name" : "Osmosis",
+        "symbol": "OSMO",
+        "description": "Osmosis Staking Coin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/7eec0e7b17cfe55e8fdfd8138458d26c83298dc2a12f85f9261af2a5fd9b3f46.png",
+        "coinGeckoId": "osmosis",
+        "ibc_info" : {
+            "path": "osmosis>manifest",
+            "client" : {
+                "channel": "channel-0",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-100418",
+                "port": "transfer",
+                "chain": "osmosis",
+                "denom": "uosmo"
+            }
+        }
+    }
+]

@@ -171,6 +171,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/E655D23D7622663774BAD4A01353C7940BB3FC68A4B8DD3DCA524AD3C62CE694",
+    "symbol": "wstETH",
+    "name": "wstETH",
+    "description": "wstETH on Neutron",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/195ac6e06829bd28be1067a0c4eedc8e749efd9bc4ab6326fbaf227bcca070c8.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/7A58490427EF0092E2BFFB4BEEBA38E29B09E9B98557DFC78335B43F15CF2676",
     "symbol": "stSTARS",
     "name": "ststars",
@@ -281,16 +291,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/14D1406D84227FDF4B055EA5CB2298095BBCA3F3BC3EF583AE6DF36F0FB179C8",
-    "symbol": "TIA",
-    "name": "tia",
-    "description": "Celestia is a modular blockchain network focused on data availability, allowing developers to deploy their own customizable blockchains with ease.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/63b9c41acf8957bc42561cd85132fbc75177d2879e5de3873470bd2bb4ec41b3.svg",
-    "coinGeckoId": "celestia"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/7FC1E7E7E74645C70C636BCA925C29849BAD8AE4F3D2FD1B70F9542CB9A854D4",
     "symbol": "BAD",
     "name": "bad",
@@ -298,6 +298,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/bb5259ff3b3c00c33666a10e6254809919323a792b6dc870a5c1a710d2c94c07.png",
     "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/14D1406D84227FDF4B055EA5CB2298095BBCA3F3BC3EF583AE6DF36F0FB179C8",
+    "symbol": "TIA",
+    "name": "tia",
+    "description": "Celestia is a modular blockchain network focused on data availability, allowing developers to deploy their own customizable blockchains with ease.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/63b9c41acf8957bc42561cd85132fbc75177d2879e5de3873470bd2bb4ec41b3.svg",
+    "coinGeckoId": "celestia"
   },
   {
     "type": "ibc",
@@ -421,6 +431,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/4E192F1CA91D0A7B4CA369DFD18134DB48603C36E72DE8E77570165BA5BA7AB3",
+    "symbol": "SIN",
+    "name": "SIN",
+    "description": "SinGarden token",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f5f7076336df283a0df0658fea5916c06226b1e9e17586e1c6e297a934a44ebe.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/CAD8A9F306CAAC55731C66930D6BEE539856DD12E59061C965E44D82AA26A0E7",
     "symbol": "HUAHUA",
     "name": "huahua",
@@ -428,6 +448,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/9f226984a0945cdd8fbe6b52a6285a82b061b6e895fe99f42ce775d42efa8c06.svg",
     "coinGeckoId": "chihuahua-token"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/0F78E9BB57967216988AAE26A301792CDBE488DDA321D6FB7337373F35BF0B20",
+    "symbol": "NTRN",
+    "name": "ntrn",
+    "description": "Neutron is a smart contract blockchain within the Cosmos ecosystem, leveraging the Cosmos Hub's security to provide cross-chain DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/bcc7880c69cc88313d52a96ce2f7e780a98c5e8a5b86e7318667fd5eabe34c4c.svg",
+    "coinGeckoId": "neutron-3"
   },
   {
     "type": "ibc",
@@ -441,16 +471,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/12F659774A2765A8B9B249698A152C47D24F1CC0992B8609E78CB286CAF98C38",
-    "symbol": "PAGE",
-    "name": "page",
-    "description": "The PAGE token is used for actions in the PageDAO NFT literary ecosystem and for DAO governance.",
-    "decimals": 8,
-    "image": "https://cdn.chainroot.io/images/tokens/2202aba8b4e6e1ebecfaa17e15f72d6d8922e33777fca5e875d99b6e14908764.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/B201D1A2BAD50A473312F7B8683D1D16EE0116B21523883BFFB158CB01528A42",
     "symbol": "TIA",
     "name": "tia",
@@ -458,6 +478,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/63b9c41acf8957bc42561cd85132fbc75177d2879e5de3873470bd2bb4ec41b3.svg",
     "coinGeckoId": "celestia"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/12F659774A2765A8B9B249698A152C47D24F1CC0992B8609E78CB286CAF98C38",
+    "symbol": "PAGE",
+    "name": "page",
+    "description": "The PAGE token is used for actions in the PageDAO NFT literary ecosystem and for DAO governance.",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/2202aba8b4e6e1ebecfaa17e15f72d6d8922e33777fca5e875d99b6e14908764.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -528,16 +558,6 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/8c41a49f8a121387817f0fd11a45f39da6ea8a8952026c46760f2c001316e207.svg",
     "coinGeckoId": "stargaze"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/0F78E9BB57967216988AAE26A301792CDBE488DDA321D6FB7337373F35BF0B20",
-    "symbol": "NTRN",
-    "name": "ntrn",
-    "description": "Neutron is a smart contract blockchain within the Cosmos ecosystem, leveraging the Cosmos Hub's security to provide cross-chain DeFi applications.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/bcc7880c69cc88313d52a96ce2f7e780a98c5e8a5b86e7318667fd5eabe34c4c.svg",
-    "coinGeckoId": "neutron-3"
   },
   {
     "type": "ibc",
@@ -621,16 +641,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/3424C7A72C5E6FBE6B0D4EDD6E4B7A086B9B1536B22EFE18E8D81E94D39444F0",
-    "symbol": "USDC",
-    "name": "usdc",
-    "description": "Circle's stablecoin on Axelar",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
-    "coinGeckoId": "axlusdc"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/61FB7FABAEDD6FEFCB220C45C919E93DCF4D7BC4D1938F1E959EF372312B9E34",
     "symbol": "LUNC",
     "name": "luna",
@@ -638,6 +648,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
     "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/3424C7A72C5E6FBE6B0D4EDD6E4B7A086B9B1536B22EFE18E8D81E94D39444F0",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
   },
   {
     "type": "ibc",
@@ -701,16 +721,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/F5FABF52B54E65064B57BF6DBD8E5FAD22CEE9F4B8A57ADBB20CCD0173AA72A4",
-    "symbol": "USDC",
-    "name": "usdc",
-    "description": "Circle's stablecoin on Axelar",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
-    "coinGeckoId": "axlusdc"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/B55B08EF3667B0C6F029C2CC9CAA6B00788CF639EBB84B34818C85CBABA33ABD",
     "symbol": "SCRT",
     "name": "scrt",
@@ -721,57 +731,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/80CFA528F4333B7B83D751AF18A440AB637853B3DEF099EF6FC86A5E8B811D71",
-    "symbol": "OSMO",
-    "name": "osmo",
-    "description": "The native token of Osmosis",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/e053406240eac4d978a66008f0551daa497be489fba6c5840e5cd073bd6fcd94.svg",
-    "coinGeckoId": "osmosis"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/CFDAD73BCC1992E4C1A1E327080D9C4DB3405193D3CD5201685A29135FBD0DBB",
-    "symbol": "ATOM",
-    "name": "atom",
-    "description": "ATOM is the native cryptocurrency of the Cosmos network, designed to facilitate interoperability between multiple blockchains through its innovative hub-and-spoke model.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
-    "coinGeckoId": "cosmos"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/FD3B4530AC2B3504ED3CD9F7A7D19224D4D7CBB4F2A849FE26153E69B2CD260F",
-    "symbol": "stkSTARS",
-    "name": "stkstars",
-    "description": "PSTAKE Liquid-Staked STARS",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/bf831df33f8f230876b87b108a3394fedf5414a6ea495d20f97ccc9f5cb332da.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/8E289D1D497DC7C1612DAD8468D1531C9DA5B062882D7423B82074395DB66F06",
-    "symbol": "STARS",
-    "name": "stars",
-    "description": "Stargaze is a decentralized blockchain platform designed specifically for non-fungible tokens (NFTs), enabling creators to mint, trade, and interact with NFTs in a fully decentralized environment.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/8c41a49f8a121387817f0fd11a45f39da6ea8a8952026c46760f2c001316e207.svg",
-    "coinGeckoId": "stargaze"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/2DDFDF63F939D87C6EC0CA3341E66A197FC4D04B88C639C6BD942500415FC544",
-    "symbol": "STARS",
-    "name": "stars",
-    "description": "Stargaze is a decentralized blockchain platform designed specifically for non-fungible tokens (NFTs), enabling creators to mint, trade, and interact with NFTs in a fully decentralized environment.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/8c41a49f8a121387817f0fd11a45f39da6ea8a8952026c46760f2c001316e207.svg",
-    "coinGeckoId": "stargaze"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/6D2FF836066917EF978DEB97C895EDBF22F641302D92ED146E3BDC1630F18930",
+    "denom": "ibc/F5FABF52B54E65064B57BF6DBD8E5FAD22CEE9F4B8A57ADBB20CCD0173AA72A4",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
@@ -788,6 +748,66 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
     "coinGeckoId": "cosmos"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/6D2FF836066917EF978DEB97C895EDBF22F641302D92ED146E3BDC1630F18930",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/8E289D1D497DC7C1612DAD8468D1531C9DA5B062882D7423B82074395DB66F06",
+    "symbol": "STARS",
+    "name": "stars",
+    "description": "Stargaze is a decentralized blockchain platform designed specifically for non-fungible tokens (NFTs), enabling creators to mint, trade, and interact with NFTs in a fully decentralized environment.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/8c41a49f8a121387817f0fd11a45f39da6ea8a8952026c46760f2c001316e207.svg",
+    "coinGeckoId": "stargaze"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/FD3B4530AC2B3504ED3CD9F7A7D19224D4D7CBB4F2A849FE26153E69B2CD260F",
+    "symbol": "stkSTARS",
+    "name": "stkstars",
+    "description": "PSTAKE Liquid-Staked STARS",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/bf831df33f8f230876b87b108a3394fedf5414a6ea495d20f97ccc9f5cb332da.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/2DDFDF63F939D87C6EC0CA3341E66A197FC4D04B88C639C6BD942500415FC544",
+    "symbol": "STARS",
+    "name": "stars",
+    "description": "Stargaze is a decentralized blockchain platform designed specifically for non-fungible tokens (NFTs), enabling creators to mint, trade, and interact with NFTs in a fully decentralized environment.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/8c41a49f8a121387817f0fd11a45f39da6ea8a8952026c46760f2c001316e207.svg",
+    "coinGeckoId": "stargaze"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/CFDAD73BCC1992E4C1A1E327080D9C4DB3405193D3CD5201685A29135FBD0DBB",
+    "symbol": "ATOM",
+    "name": "atom",
+    "description": "ATOM is the native cryptocurrency of the Cosmos network, designed to facilitate interoperability between multiple blockchains through its innovative hub-and-spoke model.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
+    "coinGeckoId": "cosmos"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/80CFA528F4333B7B83D751AF18A440AB637853B3DEF099EF6FC86A5E8B811D71",
+    "symbol": "OSMO",
+    "name": "osmo",
+    "description": "The native token of Osmosis",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/e053406240eac4d978a66008f0551daa497be489fba6c5840e5cd073bd6fcd94.svg",
+    "coinGeckoId": "osmosis"
   },
   {
     "type": "ibc",
@@ -1061,16 +1081,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/2CA80AFF9E74A84AC2827A8BB3F09EB6EE7F726C5EEEB980D548D44CCA1EFEE9",
-    "symbol": "LUNC",
-    "name": "luna",
-    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
-    "coinGeckoId": "terra-luna"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/34EE84137AE92A1D18E19FE32C5DB05FE7A699ACAAE1924AD4DB451B010979E1",
     "symbol": "DVPN",
     "name": "dvpn",
@@ -1081,13 +1091,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/F3CC34BE29B1709E8625298B7E06309374D158466E29936C3ACBF601244A6FF5",
-    "symbol": "QCK",
-    "name": "qck",
-    "description": "QCK - native token of Quicksilver",
+    "denom": "ibc/2CA80AFF9E74A84AC2827A8BB3F09EB6EE7F726C5EEEB980D548D44CCA1EFEE9",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/f87699fa8000635dee47c4014c153040dd1f107d74277ecbd3da317e71828fcc.png",
-    "coinGeckoId": "quicksilver"
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
   },
   {
     "type": "ibc",
@@ -1101,13 +1111,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/E655D23D7622663774BAD4A01353C7940BB3FC68A4B8DD3DCA524AD3C62CE694",
-    "symbol": "wstETH",
-    "name": "wstETH",
-    "description": "wstETH on Neutron",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/195ac6e06829bd28be1067a0c4eedc8e749efd9bc4ab6326fbaf227bcca070c8.svg",
-    "coinGeckoId": ""
+    "denom": "ibc/F3CC34BE29B1709E8625298B7E06309374D158466E29936C3ACBF601244A6FF5",
+    "symbol": "QCK",
+    "name": "qck",
+    "description": "QCK - native token of Quicksilver",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f87699fa8000635dee47c4014c153040dd1f107d74277ecbd3da317e71828fcc.png",
+    "coinGeckoId": "quicksilver"
   },
   {
     "type": "ibc",
