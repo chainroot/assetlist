@@ -1,4 +1,7 @@
 on:
+  push:
+    branches:
+      - "*"
   schedule:
     - cron: "0 0 * * *" # Runs every day
   workflow_dispatch:
@@ -74,6 +77,9 @@ jobs:
         node scripts/schema-generator/dist/schema-convertor.js pryzm_assetlist.json go/pryzm-testnet/assets_2.json
         sed -i 's/"coinGeckoId": ""/"coinGeckoId": "pryzmatics"/g' go/pryzm/assets_2.json
         sed -i 's/"coinGeckoId": ""/"coinGeckoId": "pryzmatics"/g' go/pryzm-testnet/assets_2.json
+        wget https://api-fantokens.bitsong.io/fantokens -O btsg-fantokens.json
+        node scripts/schema-generator/dist/schema-convertor.js bitsong btsg-fantokens.json go/bitsong/indexer_2.json
+        sed -i 's/"coinGeckoId": ""/"coinGeckoId": "bitsong"/g' go/bitsong/assets_2.json
 
 
     - name: Running staking denom
