@@ -69,10 +69,10 @@ jobs:
         cd ../..
         for dir in $DIRECTORIES; do
           mkdir -p go/$dir
-          node scripts/schema-generator/dist/schema-convertor.js "$dir"_assetlist.json go/$dir/assets_2.json
+          node scripts/schema-generator/dist/schema-convertor.js cr "$dir"_assetlist.json go/$dir/assets_2.json
         done
         mkdir -p go/pryzm-testnet
-        node scripts/schema-generator/dist/schema-convertor.js pryzm_assetlist.json go/pryzm-testnet/assets_2.json
+        node scripts/schema-generator/dist/schema-convertor.js cr pryzm_assetlist.json go/pryzm-testnet/assets_2.json
         sed -i 's/"coinGeckoId": ""/"coinGeckoId": "pryzmatics"/g' go/pryzm/assets_2.json
         sed -i 's/"coinGeckoId": ""/"coinGeckoId": "pryzmatics"/g' go/pryzm-testnet/assets_2.json
         wget https://api-fantokens.bitsong.io/fantokens -O btsg-fantokens.json
