@@ -67,8 +67,7 @@ const transformBitsong = (input: z.infer<typeof bitsongSchemaList>) => {
       description: asset.name,
       decimals: asset.decimals,
       image: asset.logo || "",
-      coinGeckoId: "btsg-ft",
-      ibc_info: "",
+      coinGeckoId: "btsg-ft"
     };
 
     return transformed;
