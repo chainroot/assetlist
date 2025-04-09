@@ -46,8 +46,7 @@ const bitsongSchema = z.object({
   symbol: z.string(),
   name: z.string(),
   decimals: z.number(),
-  logo: z.string(),
-  coingecko_id: z.string().nullable(),
+  logo: z.string().nullable().optional(),
 });
 
 const bitsongSchemaList = z.array(bitsongSchema);
@@ -67,9 +66,9 @@ const transformBitsong = (input: z.infer<typeof bitsongSchemaList>) => {
       symbol: asset.symbol,
       description: asset.name,
       decimals: asset.decimals,
-      image: asset.logo,
-      coinGeckoId: asset.coingecko_id,
-      ibc_info: null,
+      image: asset.logo || "",
+      coinGeckoId: "btsg-ft",
+      ibc_info: "",
     };
 
     return transformed;
@@ -108,12 +107,25 @@ const transformAssetList = (input: z.infer<typeof assetListSchema>) => {
 
 // CLI Input and Output Handling
 const args = process.argv.slice(2);
-if (args.length !== 2) {
-  console.error("Usage: node script.js <inputFile> <outputFile>");
+if (args.length < 2 || args.length > 3) {
+  console.error("Usage: node script.js [type] <inputFile> <outputFile>");
+  console.error("Type is optional and must be either 'cr' or 'bitsong' (defaults to 'cr')");
   process.exit(1);
 }
 
-const [type = "cr", inputFile, outputFile] = args;
+let type = "cr";
+let inputFile, outputFile;
+
+if (args.length === 3) {
+  [type, inputFile, outputFile] = args;
+} else {
+  [inputFile, outputFile] = args;
+}
+
+if (type !== "cr" && type !== "bitsong") {
+  console.error("Type must be either 'cr' or 'bitsong'");
+  process.exit(1);
+}
 
 try {
   const inputData = JSON.parse(fs.readFileSync(inputFile, "utf-8"));
