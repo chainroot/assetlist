@@ -3,7 +3,7 @@
         "type": "staking",
         "denom": "ustake",
         "name": "Stake",
-        "symbol": "STAKE",
+        "symbol": "NOBLE",
         "description": "Noble Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/eba76526d5b1c44ecc7cd16aefb04fc54f53361d1d31d783f7e85d5e1d068faa.png",
@@ -49,6 +49,16 @@
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/eure.png",
         "coinGeckoId": "monerium-eur-money"
+    },
+    {
+        "type": "native",
+        "denom": "uusdn",
+        "name": "Noble Dollar",
+        "symbol": "USDN",
+        "description": "USDN is a yielding stablecoin collateral-backed by short-duration U.S. Treasury Bills.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/usdn.png",
+        "coinGeckoId": ""
     },
     {
         "type": "native",

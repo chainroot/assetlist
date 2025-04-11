@@ -31,6 +31,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/EF3A8A0642F865E753994B3CE35D6DBD2DA2E81EF83EDCBD197DDB90DD09E1DD",
+    "symbol": "INJ",
+    "name": "INJ",
+    "description": "Injective is a decentralized exchange protocol that enables fast, secure, and fully decentralized trading of derivatives, futures, and spot markets.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/c824ba4c934281bfa3a10052366f3c00fe94ed254da7f0e2b82da59a5c2872df.svg",
+    "coinGeckoId": "injective-protocol"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/56BD4E7860D18C6A8565CCE8F1ECD381CC49ACB407D2A54E6D6A8673123A83BF",
     "symbol": "EVMOS",
     "name": "evmos",
@@ -201,16 +211,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/6C00E4AA0CC7618370F81F7378638AE6C48EFF8C9203CE1C2357012B440EBDB7",
-    "symbol": "USDT",
-    "name": "usdt",
-    "description": "",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
-    "coinGeckoId": "tether"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/921EC0DACAA71B9C0B8F1A10E817E6B6DE5D360D8215A4C50F168B6EAD7ABE0A",
     "symbol": "USDC",
     "name": "usdc",
@@ -268,6 +268,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
     "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/6C00E4AA0CC7618370F81F7378638AE6C48EFF8C9203CE1C2357012B440EBDB7",
+    "symbol": "USDT",
+    "name": "usdt",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
+    "coinGeckoId": "tether"
   },
   {
     "type": "ibc",
@@ -371,6 +381,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/552963B375860E3213984367FC0E78B8A88F9F7E75041A731ED6F4045A8E96F6",
+    "symbol": "TIA",
+    "name": "tia",
+    "description": "Celestia is a modular blockchain network focused on data availability, allowing developers to deploy their own customizable blockchains with ease.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/63b9c41acf8957bc42561cd85132fbc75177d2879e5de3873470bd2bb4ec41b3.svg",
+    "coinGeckoId": "celestia"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/F698E9343925ECF0083BCF4DDA54195D4080D941FB0E9D67EFBA428635482C8E",
     "symbol": "USDC",
     "name": "usdc",
@@ -451,13 +471,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/552963B375860E3213984367FC0E78B8A88F9F7E75041A731ED6F4045A8E96F6",
-    "symbol": "TIA",
-    "name": "tia",
-    "description": "Celestia is a modular blockchain network focused on data availability, allowing developers to deploy their own customizable blockchains with ease.",
+    "denom": "ibc/E7916A1E0CA82E2E2023083D197F3318E56C1F224C78217FB2856C59483C9A75",
+    "symbol": "SCRT",
+    "name": "scrt",
+    "description": "Secret Network is a privacy-focused blockchain that enables private and secure smart contracts, protecting sensitive data.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/63b9c41acf8957bc42561cd85132fbc75177d2879e5de3873470bd2bb4ec41b3.svg",
-    "coinGeckoId": "celestia"
+    "image": "https://cdn.chainroot.io/images/tokens/4e950180cbb20a28d82f99bc2243211928ef4995504af4b4029ba1f3031fde4a.svg",
+    "coinGeckoId": "secret"
   },
   {
     "type": "ibc",
@@ -468,36 +488,6 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
     "coinGeckoId": "cosmos"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4",
-    "symbol": "USDC",
-    "name": "usdc",
-    "description": "Circle's stablecoin on Axelar",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
-    "coinGeckoId": "axlusdc"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/16FF1B6621924520CD2BC9B95EB64786ABB4EA38CAC4951D0247050C8DFC5E72",
-    "symbol": "USDC",
-    "name": "usdc",
-    "description": "Circle's stablecoin on Axelar",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
-    "coinGeckoId": "axlusdc"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/DE1E92792C72BD79E5B91C367133F923B32A8E46E0A6986DB177AFFC00BA7E72",
-    "symbol": "USDC",
-    "name": "usdc",
-    "description": "Circle's stablecoin on Axelar",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
-    "coinGeckoId": "axlusdc"
   },
   {
     "type": "ibc",
@@ -522,6 +512,26 @@
   {
     "type": "ibc",
     "denom": "ibc/1C60D019E017EF82280EBE7D0B17844F77F025C116A5D1B1C7AA38E000C1DA1D",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/16FF1B6621924520CD2BC9B95EB64786ABB4EA38CAC4951D0247050C8DFC5E72",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/DE1E92792C72BD79E5B91C367133F923B32A8E46E0A6986DB177AFFC00BA7E72",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
@@ -598,16 +608,6 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
     "coinGeckoId": "axlusdc"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/E7916A1E0CA82E2E2023083D197F3318E56C1F224C78217FB2856C59483C9A75",
-    "symbol": "SCRT",
-    "name": "scrt",
-    "description": "Secret Network is a privacy-focused blockchain that enables private and secure smart contracts, protecting sensitive data.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/4e950180cbb20a28d82f99bc2243211928ef4995504af4b4029ba1f3031fde4a.svg",
-    "coinGeckoId": "secret"
   },
   {
     "type": "ibc",
@@ -758,6 +758,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
     "coinGeckoId": "cosmos"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
   },
   {
     "type": "ibc",
