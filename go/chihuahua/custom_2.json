@@ -161,16 +161,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/E452FABA9C51E85726BAB567EB582FEA1541B9D26543C6876996B61112DE72F7",
-    "symbol": "bWHALE",
-    "name": "bWHALE",
-    "description": "BackBone Labs Liquid Staked WHALE",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/28c4cd2961bb40ebd2cca253c6b8d5a0e9fdea3425a79112865cfe12c37268a6.png",
-    "coinGeckoId": "backbone-labs-staked-whale"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/4984B09C4BDF6D1AF32B22983AEF544732A0A517076A0B745BD87ED6EFC1CA2E",
     "symbol": "HUAHUA",
     "name": "huahua",
@@ -201,6 +191,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/E452FABA9C51E85726BAB567EB582FEA1541B9D26543C6876996B61112DE72F7",
+    "symbol": "bWHALE",
+    "name": "bWHALE",
+    "description": "BackBone Labs Liquid Staked WHALE",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/28c4cd2961bb40ebd2cca253c6b8d5a0e9fdea3425a79112865cfe12c37268a6.png",
+    "coinGeckoId": "backbone-labs-staked-whale"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/B02AD11CB71728802531D7690FF88BD65C2E9C383B7AFCE10EDD42F26DEEBA65",
     "symbol": "NEWT",
     "name": "newt",
@@ -208,16 +208,6 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/c8e76561d8e1514fe88756d28f63656e3a2b21cc350a217fac8a761916b8c35e.png",
     "coinGeckoId": "newt"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/21A3AFC6D3566634D3065D8CF3851A911542CDB8D4ED86369D412350B1AC7B0A",
-    "symbol": "GASH",
-    "name": "gash",
-    "description": "GASH",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/6f25a70f358e9bacedde63b6ac0f83c562e59fa89461bacfe3e1d5a0dcf47e49.png",
-    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -341,16 +331,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/F828D9783DF1B5EB971584F3BC5F483893E25A83ED45CAF4DEEF6E9433C13F3A",
-    "symbol": "PAGE",
-    "name": "page",
-    "description": "The PAGE token is used for actions in the PageDAO NFT literary ecosystem and for DAO governance.",
-    "decimals": 8,
-    "image": "https://cdn.chainroot.io/images/tokens/2202aba8b4e6e1ebecfaa17e15f72d6d8922e33777fca5e875d99b6e14908764.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/AAB9D6E11B004922E886CCCFD7546336D29A6F8B9CB43AEEC62D8B66200A9CED",
     "symbol": "ROAR",
     "name": "roar",
@@ -358,6 +338,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/b1eefb34a5b9ca56fcf188eea2837c1b6d05eb740a8ffcbe2293dc4d0a78b3ec.png",
     "coinGeckoId": "lion-dao"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/F828D9783DF1B5EB971584F3BC5F483893E25A83ED45CAF4DEEF6E9433C13F3A",
+    "symbol": "PAGE",
+    "name": "page",
+    "description": "The PAGE token is used for actions in the PageDAO NFT literary ecosystem and for DAO governance.",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/2202aba8b4e6e1ebecfaa17e15f72d6d8922e33777fca5e875d99b6e14908764.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -421,6 +411,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/9DC979ED1A893586DC54167F8621460A56C8B30B12EC331F92FD9F71C273DEEC",
+    "symbol": "USDC",
+    "name": "gusdc",
+    "description": "Gravity Bridge USDC",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/d5b4a9ae52bab105a3a3d04814f9aa2e21dbc8a71181221172ebbe52cefd5c0b.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/86E7F8E854A97E490225D423EBCEA096018B3FEDE025A8EAEC86F2D09A468345",
     "symbol": "HUAHUA",
     "name": "huahua",
@@ -438,16 +438,6 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/1595a34d03a89ceaaa0d00e2c31d143b92b9b6e38f3962b9459241c8c6eb7f8d.svg",
     "coinGeckoId": "iris-network"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/9DC979ED1A893586DC54167F8621460A56C8B30B12EC331F92FD9F71C273DEEC",
-    "symbol": "USDC",
-    "name": "gusdc",
-    "description": "Gravity Bridge USDC",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/d5b4a9ae52bab105a3a3d04814f9aa2e21dbc8a71181221172ebbe52cefd5c0b.svg",
-    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -561,6 +551,26 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/21A3AFC6D3566634D3065D8CF3851A911542CDB8D4ED86369D412350B1AC7B0A",
+    "symbol": "GASH",
+    "name": "gash",
+    "description": "GASH",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/6f25a70f358e9bacedde63b6ac0f83c562e59fa89461bacfe3e1d5a0dcf47e49.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/398B3A1DE10411F2BC51FE25AC367CF501385016C1B030C57E624EC46E158F15",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/8CF3A8F46A1087997D32AB6E06F372022D051DF97FBCAC01BE3F93E180584C22",
     "symbol": "WHALE",
     "name": "whale",
@@ -578,16 +588,6 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/516ed75052338f9ed271f0b26f6090dfa1ed4acb81067b03b45c97222853a3da.svg",
     "coinGeckoId": "white-whale"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/398B3A1DE10411F2BC51FE25AC367CF501385016C1B030C57E624EC46E158F15",
-    "symbol": "USDC",
-    "name": "usdc",
-    "description": "Circle's stablecoin on Axelar",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
-    "coinGeckoId": "axlusdc"
   },
   {
     "type": "ibc",

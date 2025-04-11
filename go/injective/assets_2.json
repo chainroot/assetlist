@@ -247,7 +247,7 @@
         "symbol": "DOT.glmr.axl",
         "description": "Wrapped Polkadot on Axelar",
         "decimals": 10,
-        "image": "https://cdn.chainroot.io/images/tokens/7e46dc1b3a2ee236919adb8723ca74b1b2a92de3689017d531355f1e877fe91a.png",
+        "image": "https://cdn.chainroot.io/images/tokens/xcdot.png",
         "coinGeckoId": "xcdot",
         "ibc_info": {
             "path": "moonbeam>axelar>injective",
@@ -653,6 +653,98 @@
                 "port": "transfer",
                 "chain": "gateway",
                 "denom": "factory/wormhole14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/4gn1J9pchUGh63ez1VwiuTmU4nfJ8Rr8o5HgBC5TMdMk"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/00BF66BAB34873B07FB9EEEBCFACEA11FB4BB348718862AA7782D6DECC1F44C8",
+        "name": "Xion",
+        "symbol": "XION",
+        "description": "Xion Staking Coin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/xion.png",
+        "coinGeckoId": "xion-2",
+        "ibc_info": {
+            "path": "xion>injective",
+            "client": {
+                "channel": "channel-387",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-4",
+                "port": "transfer",
+                "chain": "xion",
+                "denom": "uxion"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/AF921F0874131B56897A11AA3F33D5B29CD9C147A1D7C37FE8D918CB420956B2",
+        "name": "Saga",
+        "symbol": "SAGA",
+        "description": "Saga Staking Coin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/0eabc6906fc79b65e3ba608b9e74ae997e3cf1c39012db9bcfaf43de334dbacb.png",
+        "coinGeckoId": "saga-2",
+        "ibc_info": {
+            "path": "saga>injective",
+            "client": {
+                "channel": "channel-261",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-25",
+                "port": "transfer",
+                "chain": "saga",
+                "denom": "usaga"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/C1D3666F27EA64209584F18BC79648E0C1783BB6EEC04A8060E4A8E9881C841B",
+        "name": "fetch-ai",
+        "symbol": "FET",
+        "description": "Fetch Hub Staking Coin",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/fet.png",
+        "coinGeckoId": "fetch-ai",
+        "ibc_info": {
+            "path": "fetchai>injective",
+            "client": {
+                "channel": "channel-283",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-33",
+                "port": "transfer",
+                "chain": "fetchai",
+                "denom": "afet"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/775AB5A9D31074F245BB7864B7031AC7BDC9C6C0FD64A72528A8D07203CD71F3",
+        "name": "Mantra",
+        "symbol": "OM",
+        "description": "MANTRA Staking Coin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/om.png",
+        "coinGeckoId": "mantra-dao",
+        "ibc_info": {
+            "path": "mantra>injective",
+            "client": {
+                "channel": "channel-363",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-2",
+                "port": "transfer",
+                "chain": "mantra",
+                "denom": "afet"
             }
         }
     },
@@ -1462,7 +1554,7 @@
         "symbol": "WSTETH",
         "description": "Lido wstETH",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/74a1607af0c169e9aef9328defc72ce6b12291d1bd22a1c53322666516b41f5c.png",
+        "image": "https://cdn.chainroot.io/images/tokens/wsteth.png",
         "coinGeckoId": "wrapped-steth",
         "bridge_info": {
             "path": "ethereum>injective",
@@ -1652,7 +1744,7 @@
         "symbol": "SOLlegacy",
         "description": "Solana (legacy)",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/6c0b0ffebc3179d49d5e2d1979ff8aff80c4f8cde653bb8199170b3041c24653.png",
+        "image": "https://cdn.chainroot.io/images/tokens/sol.png",
         "coinGeckoId": "solana"
     },
     {
@@ -1782,7 +1874,7 @@
         "symbol": "HDRO",
         "description": "Hydro",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/ae1f225d868aef3607b6e2c4617b869d191978ea7d38f38b74e393ceb6c61976.png",
+        "image": "https://cdn.chainroot.io/images/tokens/hdro.png",
         "coinGeckoId": ""
     },
     {
