@@ -1,0 +1,85 @@
+[   
+    {
+        "type": "cw20",
+        "contract": "bbn1s7jzz7cyuqmy5xpr07yepka5ngktexsferu2cr4xeww897ftj77sv30f5s",
+        "name" : "eBABY",
+        "symbol": "eBABY",
+        "description": "ESCHER LST for Babylon",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/cc6bc74883d5156a9bbeafebea149746d5f3fcbba438c4d9ab0f4f4341d702b5.svg",
+        "coinGeckoId": "",
+        "color": "",
+        "wallet_preload": true
+    },
+    {
+        "type": "cw20",
+        "contract": "bbn17y5zvse30629t7r37xsdj73xsqp7qsdr7gpnh966wf5aslpn66rq5ekwsz",
+        "name" : "Cube Baby",
+        "symbol": "cBABY",
+        "description": "Liquid staking token from Cube by SatLayer",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/0a2566fa25fddc0a269b81cd0cea8096a30bdccf1cf30a35658954be258aa5b0.png",
+        "coinGeckoId": "cube-staked-baby",
+        "color": "#ff9a00"
+    },
+    {
+         "type": "cw20",
+         "contract": "bbn1300se0vwue77hn6s8wph64ey6d55zaf48jrveg9wafsquncn3e4scssgvd",
+         "name": "Wrapped Ether",
+         "symbol": "WETH",
+         "description": "Wrapped version of Ether on Babylon",
+         "decimals": 18,
+         "image": "https://cdn.chainroot.io/images/tokens/cb1a67084d0d18e407976dd9420c7cce6af5918ef043d29ae772c5e68f758a82.png",
+         "coinGeckoId": "weth"
+     },
+     {
+         "type": "cw20",
+         "contract": "bbn1tyvxlr8qjt7yx48lhhle7xzxfxkyqwzkaxey3jekrl0gql260jlqlxgfst",
+         "name": "Solv BTC",
+         "symbol": "SolvBTC",
+         "description": "SolvBTC is a universal Bitcoin reserve",
+         "decimals": 18,
+         "image": "https://cdn.chainroot.io/images/tokens/0fb50b398fb6a8cf27cf55da907838d49a3ab7a2f0855854b06e5fc033ecb117.png",
+         "coinGeckoId": "solv-btc"
+     },
+     {
+         "type": "cw20",
+         "contract": "bbn1ccylwef8yfhafxpmtzq4ps24kxce9cfnz0wnkucsvf2rylfh0jzswhk5ks",
+         "name": "Lorenzo stBTC",
+         "symbol": "stBTC",
+         "description": "Liquid staked BTC from Lorenzo",
+         "decimals": 18,
+         "image": "https://cdn.chainroot.io/images/tokens/e891eb3890189d1617bd516ea3b8e347873d6eb7b7b019201c499f17023b6041.png",
+         "coinGeckoId": "lorenzo-stbtc"
+     },
+     {
+         "type": "cw20",
+         "contract": "bbn1jr0xpgy90hqmaafdq3jtapr2p63tv59s9hcced5j4qqgs5ed9x7sr3sv0d",
+         "name": "pumpBTC",
+         "symbol": "pumpBTC",
+         "description": "Liquid staking token for Babylon",
+         "decimals": 8,
+         "image": "https://cdn.chainroot.io/images/tokens/6d6cf64e5ce2fb8089cbff3c78766ec8ecd6f7b998fedec524cfa782f68fc8b2.png",
+         "coinGeckoId": "pumpbtc"
+     },
+     {
+         "type": "cw20",
+         "contract": "bbn1fkz8dcvsqyfy3apfh8ufexdn4ag00w5jts99zjw9nkjue0zhs4ts6hfdz2",
+         "name": "uniBTC",
+         "symbol": "uniBTC",
+         "description": "Represents staked wBTC plus future Babylon staking rewards and Bedrock diamonds",
+         "decimals": 8,
+         "image": "https://cdn.chainroot.io/images/tokens/0f9cf84d6203f2ad0572e3383197fafa29b5a445de759b83edd035dfbb444aaa.png",
+         "coinGeckoId": "universal-btc"
+     },
+     {
+        "type": "cw20",
+        "contract": "bbn1z5gne4pe84tqerdrjta5sp966m98zgg5czqe4xu2yzxqfqv5tfkqed0jyy",
+        "name": "Lombard Staked Bitcoin",
+        "symbol": "LBTC.union",
+        "description": "Union bridged LBTC, staked version of Bitcoin from Lombard protocol",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/ad05ab33b29a4b36e83218e58de363af63721a2ccb37e75f932c2dc3511ece78.png",
+        "coinGeckoId": "lombard-staked-btc"
+    }
+]

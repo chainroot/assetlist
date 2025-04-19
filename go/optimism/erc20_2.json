@@ -83,7 +83,7 @@
         "symbol": "LDO",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/542eaf82b41c19debc8138c01e39a356c76b465c728860b41bbffebe64e03c72.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ldo.png",
         "coinGeckoId": "lido-dao",
         "wallet_preload": true
     },
@@ -236,7 +236,7 @@
         "symbol": "rETH",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/7aeb6a54a451fab6a52a070edb1e3c6972d98c28fbf25e28bb35fdb44133cfcc.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/161c19c5da6d2f52d33692c08504c62e95bb90a35a83e30557e093a0f86c9900.png",
         "coinGeckoId": "reth"
     },
     {
@@ -416,7 +416,7 @@
         "symbol": "rETH",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/cd57e83f2cd298f0b66547019c181c156be7d5f99e0a5e1c64d36b149595c67a.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/161c19c5da6d2f52d33692c08504c62e95bb90a35a83e30557e093a0f86c9900.png",
         "coinGeckoId": "reth"
     },
     {

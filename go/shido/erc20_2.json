@@ -7,7 +7,7 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/cfbdaf0f873a17e28449e8122d772f73524195bdb53123cc5599ebed7fc574f8.png",
-        "coinGeckoId": "",
+        "coinGeckoId": "wrapped-shido",
         "wallet_preload": true
     },
     {
@@ -28,17 +28,7 @@
         "symbol": "SALT",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/cfbdaf0f873a17e28449e8122d772f73524195bdb53123cc5599ebed7fc574f8.png",
-        "coinGeckoId": ""
-    },
-    {
-        "type": "erc20",
-        "contract": "0x8c248F053920f6b39bFdE892480d10C5E0A8a3df",
-        "name" : "Goat",
-        "symbol": "GOAT",
-        "description": "",
-        "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/189044432803545218bdebd19ea5e7a92cfa60154043e4f41a88ef9903f9db4f.png",
+        "image": "https://cdn.chainroot.io/images/tokens/9f105595e8f9f33956167e2b081149a0a1c9b6053a89b4d02f6c64b222c2b458.png",
         "coinGeckoId": ""
     },
     {
@@ -53,12 +43,12 @@
     },
     {
         "type": "erc20",
-        "contract": "0xA48054c9fc0026459031141E42052a9aB37034Fd",
+        "contract": "0x2835Ad9a421C14E1C571a5Bb492B86b7E8f5873A",
         "name" : "Shidokid",
         "symbol": "KIDDO",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/kiddo.png",
+        "image": "https://cdn.chainroot.io/images/tokens/e70ddc3d6d8e5effdcfbcacde52563b648319f132f784b4a76865aaf6a859ff1.png",
         "coinGeckoId": ""
     },
     {
@@ -79,16 +69,48 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/d2e5e0edca8bdd2e5184373821d9ca18928f127099b16428cc861f5be61c47f7.png",
+        "coinGeckoId": "kensei",
+        "wallet_preload": true
+    },
+    {
+        "type": "erc20",
+        "contract": "0x37385e458bb1b19c614c238e5109e59ac605df7a",
+        "name" : "Crazy Chicken",
+        "symbol": "CHICK",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/4454bc79a04ff145eca300db8a9d4ddd577fe55171a2d1f5d479f3bfc8093084.png",
         "coinGeckoId": ""
     },
     {
         "type": "erc20",
-        "contract": "0x29a9733cEbeF2219f48763B40859a0eec8B5C77F",
-        "name" : "Xshrimp",
-        "symbol": "SHRIMP",
+        "contract": "0xe550Bde2F0898552B38a41635d7a8DDB1Fd81276",
+        "name" : "Shido Dex",
+        "symbol": "SHDX",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/shrimp.png",
+        "image": "https://cdn.chainroot.io/images/tokens/0907c1762da3b2a660d900b79b874329970484285fca93ac7aab342968ade236.png",
+        "coinGeckoId": "",
+        "wallet_preload": true
+    },
+    {
+        "type": "erc20",
+        "contract": "0x796F48d17d38E5f0A7aFe7966448828bdc13e8B1",
+        "name" : "0xDead",
+        "symbol": "0xded",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/665d37c1dc26629c09a0c3082e06773a032a83d130b4a0f1e7d086df02837f55.png",
+        "coinGeckoId": ""
+    },    
+    {
+        "type": "erc20",
+        "contract": "0xF7B264B723059a05fBf13E32783F88db33A24365",
+        "name" : "Shidoshi",
+        "symbol": "SDS",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/81d24b9aa2eb488097e0066d5f2a245b2ec3ed034d446a7f10756fc9659e53dd.png",
         "coinGeckoId": ""
     }
 ]

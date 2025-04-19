@@ -6,7 +6,7 @@
     "symbol": "CLAY",
     "description": "Adam Clay FanToken",
     "decimals": 6,
-    "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/ft2D8E7041556CE93E1EFD66C07C45D551A6AAAE09.png",
+    "image": "https://cdn.chainroot.io/images/tokens/a486db4552586caac18dcd532dfd7f7e47a89489825d5db7e9fe8b1794a48847.png",
     "coinGeckoId": "btsg-ft"
   },
   {
@@ -16,7 +16,7 @@
     "symbol": "404DR",
     "description": "404Deep Records Fantoken",
     "decimals": 6,
-    "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/ft99091610CCC66F4277C66D14AF2BC4C5EE52E27A.png",
+    "image": "https://cdn.chainroot.io/images/tokens/574c9297726c613d23163566fcc372590d670082d8d03e41e5d6f30c12126f14.png",
     "coinGeckoId": "btsg-ft"
   },
   {
@@ -26,17 +26,7 @@
     "symbol": "RWNE",
     "description": "Rawanne Fantoken",
     "decimals": 6,
-    "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/ftE4903ECC861CA45F2C2BC7EAB8255D2E6E87A33A.png",
-    "coinGeckoId": "btsg-ft"
-  },
-  {
-    "type": "native",
-    "denom": "ft387C1C279D962ED80C09C1D592A92C4275FD7C5D",
-    "name": "N43 Fantoken",
-    "symbol": "N43",
-    "description": "N43 Fantoken",
-    "decimals": 6,
-    "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/ft387C1C279D962ED80C09C1D592A92C4275FD7C5D.png",
+    "image": "https://cdn.chainroot.io/images/tokens/912ba0706a9006100daf8c1e7eb06a85cdb78a5e0546ee0211302f1b1c4e0f80.png",
     "coinGeckoId": "btsg-ft"
   },
   {
@@ -51,12 +41,22 @@
   },
   {
     "type": "native",
+    "denom": "ft387C1C279D962ED80C09C1D592A92C4275FD7C5D",
+    "name": "N43 Fantoken",
+    "symbol": "N43",
+    "description": "N43 Fantoken",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/b270d5ba061e47f21d1be03dc58e40662b9ea2069a62d29ace9e0a35e681ff53.png",
+    "coinGeckoId": "btsg-ft"
+  },
+  {
+    "type": "native",
     "denom": "ft4B030260D99E3ABE2B604EA2B33BAF3C085CDA12",
     "name": "Luca Testa Fantoken",
     "symbol": "TESTA",
     "description": "Luca Testa Fantoken",
     "decimals": 6,
-    "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/ft4B030260D99E3ABE2B604EA2B33BAF3C085CDA12.png",
+    "image": "https://cdn.chainroot.io/images/tokens/dd343631d7af5a4d9a55e8b02684f63512c651e60968615cad685f117b2a3e7d.png",
     "coinGeckoId": "btsg-ft"
   },
   {
@@ -66,7 +66,7 @@
     "symbol": "VIBRA",
     "description": "Vibranium Fantoken",
     "decimals": 6,
-    "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/ft7020C2A8E984EEBCBB383E91CD6FBB067BB2272B.png",
+    "image": "https://cdn.chainroot.io/images/tokens/1c7fd73a5faec2e39fc480196e979db3a6e54f2975e9ae12212bbf2d71f20a57.png",
     "coinGeckoId": "btsg-ft"
   },
   {
@@ -76,7 +76,7 @@
     "symbol": "CMQZ",
     "description": "Carolina Marquez Fantoken",
     "decimals": 6,
-    "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/ftD4B6290EDEE1EC7B97AB5A1DC6C177EFD08ADCC3.png",
+    "image": "https://cdn.chainroot.io/images/tokens/af8c5310d3af89807721ba25ac0a94f29c25bca50bca34caacf8cb8380dd972e.png",
     "coinGeckoId": "btsg-ft"
   },
   {
@@ -86,7 +86,7 @@
     "symbol": "D9X",
     "description": "Delta 9 Fantoken",
     "decimals": 6,
-    "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/ft575B10B0CEE2C164D9ED6A96313496F164A9607C.png",
+    "image": "https://cdn.chainroot.io/images/tokens/44a141c32c53d45b14db7a69fe9cd1b45faa33d36e3cce0f165975d256f1ce9e.png",
     "coinGeckoId": "btsg-ft"
   },
   {
@@ -96,7 +96,7 @@
     "symbol": "ENMODA",
     "description": "Enmoda Fantoken",
     "decimals": 6,
-    "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/ft85AE1716C5E39EA6D64BBD7898C3899A7B500626.png",
+    "image": "https://cdn.chainroot.io/images/tokens/2abea893ba3be47f2d53e6c55423cf1a191e49e886668cc2f3fb58ecc0ef6433.png",
     "coinGeckoId": "btsg-ft"
   },
   {
@@ -106,7 +106,7 @@
     "symbol": "BJKS",
     "description": "BlackJack Fantoken",
     "decimals": 6,
-    "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/ft52EEB0EE509AC546ED92EAC8591F731F213DDD16.png",
+    "image": "https://cdn.chainroot.io/images/tokens/3dcb0d8184cbbbf3e1635c672ff0ac0f097a2cdb10bd7a2e54ec78dabfe6b59c.png",
     "coinGeckoId": "btsg-ft"
   },
   {
@@ -116,7 +116,7 @@
     "symbol": "FONTI",
     "description": "FONTI Fantoken",
     "decimals": 6,
-    "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/ft56664FC98A2CF5F4FBAC3566D1A11D891AD88305.png",
+    "image": "https://cdn.chainroot.io/images/tokens/43ff075c0f7017eebd7f1b025947c5026887dd1e2ecf4783e5e9a3b165935e39.png",
     "coinGeckoId": "btsg-ft"
   },
   {
@@ -126,7 +126,7 @@
     "symbol": "LOBO",
     "description": "Puro Lobo Fantoken",
     "decimals": 6,
-    "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/ft24C9FA4F10B0F235F4A815B15FC774E046A2B2EB.png",
+    "image": "https://cdn.chainroot.io/images/tokens/d7881c17019525cb0bfd5920f5a996da54011f8bfeec7f77082cea736c8a4de4.png",
     "coinGeckoId": "btsg-ft"
   },
   {
@@ -136,7 +136,7 @@
     "symbol": "KARINA",
     "description": "Karina Fantoken",
     "decimals": 6,
-    "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/ft2DD67F5D99E9A141142B48474FA7B6B3FF00A3FE.png",
+    "image": "https://cdn.chainroot.io/images/tokens/d2dd121049161bb647b01ce174485ba04c50be909001dc5dbe24cca2d2122aa7.png",
     "coinGeckoId": "btsg-ft"
   },
   {
@@ -146,7 +146,7 @@
     "symbol": "FASANO",
     "description": "Nicola Fasano Fantoken",
     "decimals": 6,
-    "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/bitsong/images/ft25B30C386CDDEBD1413D5AE1180956AE9EB3B9F7.png",
+    "image": "https://cdn.chainroot.io/images/tokens/3d6de6cbef73358f5ca84f6cb572e5c92e76a40aa52325d412006d05be444a6d.png",
     "coinGeckoId": "btsg-ft"
   },
   {

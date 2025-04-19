@@ -28,8 +28,19 @@
         "symbol": "WBERA",
         "description": "Wrapped Bera (WBERA)",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/e02fb75f7829719b384b0310911fcd1adddac48708015b9b9d4fe355c3eebbc2.png",
+        "image": "https://cdn.chainroot.io/images/tokens/wbera.png",
         "coinGeckoId": "wrapped-bera",
+        "wallet_preload": true
+    },
+    {
+        "type": "erc20",
+        "contract": "0x2CeC7f1ac87F5345ced3D6c74BBB61bfAE231Ffb",
+        "name" : "Stride BGT",
+        "symbol": "stBGT",
+        "description": "Stride Liquid Staked BGT",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/stbgt.png",
+        "coinGeckoId": "",
         "wallet_preload": true
     },
     {
@@ -209,7 +220,7 @@
         "symbol": "LBTC",
         "description": "Lombard Staked Bitcoin",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/6df8226e3cb4f669092a196c5c0f107e32dfbd1c16637dd945fd87813e823782.png",
+        "image": "https://cdn.chainroot.io/images/tokens/lbtc.png",
         "coinGeckoId": "lombard-staked-btc"
     },
     {

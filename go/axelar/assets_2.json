@@ -529,7 +529,7 @@
         "symbol": "DOT.axl",
         "description": "Wrapped Polkadot on Axelar",
         "decimals": 10,
-        "image": "https://cdn.chainroot.io/images/tokens/7e46dc1b3a2ee236919adb8723ca74b1b2a92de3689017d531355f1e877fe91a.png",
+        "image": "https://cdn.chainroot.io/images/tokens/xcdot.png",
         "coinGeckoId": "xcdot",
         "color": "#e4047c",
         "bridge_info": {
@@ -618,7 +618,7 @@
         "symbol": "wstETH.axl",
         "description": "Wrapped Lido Staked Ether on Axelar",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/74a1607af0c169e9aef9328defc72ce6b12291d1bd22a1c53322666516b41f5c.png",
+        "image": "https://cdn.chainroot.io/images/tokens/wsteth.png",
         "coinGeckoId": "wrapped-steth",
         "bridge_info": {
             "path": "ethereum>axelar",
