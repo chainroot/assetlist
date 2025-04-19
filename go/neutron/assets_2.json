@@ -896,6 +896,16 @@
     },
     {
         "type": "native",
+        "denom": "factory/neutron1frc0p5czd9uaaymdkug2njz7dc7j65jxukp9apmt9260a8egujkspms2t2/udntrn",
+        "name": "dNTRN",
+        "symbol": "dNTRN",
+        "description": "Drop staked NTRN",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/dntrn.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
         "denom": "factory/neutron1k6hr0f83e7un2wjf29cspk7j69jrnskk65k3ek2nj9dztrlzpj6q00rtsa/udatom",
         "name": "dATOM",
         "symbol": "dATOM",
@@ -1007,7 +1017,7 @@
         "symbol": "wstETH",
         "description": "wstETH on Neutron.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/74a1607af0c169e9aef9328defc72ce6b12291d1bd22a1c53322666516b41f5c.png",
+        "image": "https://cdn.chainroot.io/images/tokens/wsteth.png",
         "coinGeckoId": "wrapped-steth",
         "bridge_info": {
             "path": "ethereum>neutron",
@@ -1037,6 +1047,94 @@
                 "port": "transfer",
                 "chain": "injective",
                 "denom": "factory/inj1v3a4zznudwpukpr8y987pu5gnh4xuf7v36jhva/nept"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/F16C7C5B6F7E96ACDA73E35BCA3A3DE49DDF7164066A359C843E9709041CE6B9",
+        "name": "Dogecoin (Int3)",
+        "symbol": "DOGE.int3",
+        "description": "Dogecoin on Int3face",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/26c20aff04d63ad9f8e86d4c09f68f6c62949b4165700aca37a7b3980846f962.svg",
+        "ibc_info": {
+            "path": "dogecoin>int3face>neutron",
+            "client": {
+                "channel": "channel-6455",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-1",
+                "port": "transfer",
+                "chain": "int3face",
+                "denom": "factory/int31zlefkpe3g0vvm9a4h0jf9000lmqutlh99h7fsd/dogecoin-doge"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/D9E2128761E0A60C6C7C166BF30A23E9C2029576817F16CD4BD4F598A2077C04",
+        "name": "Bitcoin (Int3)",
+        "symbol": "BTC.int3",
+        "description": "Bitcoin on Int3face",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/6ca7d700a738507f53fe9b67516b02dbd8b77c07c6d4bf1e30db4197a11ec5dd.svg",
+        "ibc_info": {
+            "path": "bitcoin>int3face>neutron",
+            "client": {
+                "channel": "channel-6455",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-1",
+                "port": "transfer",
+                "chain": "int3face",
+                "denom": "factory/int31zlefkpe3g0vvm9a4h0jf9000lmqutlh99h7fsd/bitcoin-btc"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/1D45F4770FA033E69A3A3B751263FD774952C2452F65944A1CB914E58C74A35B",
+        "name": "Bitcoin Cash (Int3)",
+        "symbol": "BCH.int3",
+        "description": "Bitcoin-Cash on Int3face",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/5922bd4726481bd9f8b93334f122eecec1dd4f438609e9751d8fc739351efd20.svg",
+        "ibc_info": {
+            "path": "bitcoincash>int3face>neutron",
+            "client": {
+                "channel": "channel-6455",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-1",
+                "port": "transfer",
+                "chain": "int3face",
+                "denom": "factory/int31zlefkpe3g0vvm9a4h0jf9000lmqutlh99h7fsd/bitcoin-cash-bch"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/C4C791209A16419A4BB3C3177E5E8AE4477C9D7457842E7F531F91C513FA79A0",
+        "name": "Litecoin (Int3)",
+        "symbol": "LTC.int3",
+        "description": "Litecoin on Int3face",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/428f9b207408a17aab942e612a3ef662ab679546511dec400897d33d0079e68f.svg",
+        "ibc_info": {
+            "path": "litecoin>int3face>neutron",
+            "client": {
+                "channel": "channel-6455",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-1",
+                "port": "transfer",
+                "chain": "int3face",
+                "denom": "factory/int31zlefkpe3g0vvm9a4h0jf9000lmqutlh99h7fsd/litecoin-ltc"
             }
         }
     }
