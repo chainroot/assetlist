@@ -59,7 +59,7 @@
         "symbol": "wstETH.wh",
         "description": "Wrapped liquid staked Ether 2.0 (Wormhole)",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/74a1607af0c169e9aef9328defc72ce6b12291d1bd22a1c53322666516b41f5c.png",
+        "image": "https://cdn.chainroot.io/images/tokens/wsteth.png",
         "coinGeckoId": "wrapped-steth",
         "bridge_info" : {
             "path": "ethereum>gateway",

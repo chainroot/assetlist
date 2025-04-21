@@ -1,0 +1,13 @@
+[
+    {
+        "type": "native",
+        "denom": "ahp",
+        "name" : "Hippo Protocol Testnet",
+        "symbol": "HP",
+        "description": "Hippo Protocol Testnet Staking Coin",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/5783b014d4ffa27080d8bb6301c8b5a9d81a83b29acdcc93b9daf9dfa967f244.png",
+        "coinGeckoId": "",
+        "color": ""
+    }
+]

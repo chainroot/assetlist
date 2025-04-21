@@ -50,7 +50,7 @@
         "symbol": "WBERA",
         "description": "Wrapped Bera (WBERA)",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/b015feafccbf4c785526ab1eacd12f21d8c2d931c1c6ab17be925ea23a2579e9.png",
+        "image": "https://cdn.chainroot.io/images/tokens/wbera.png",
         "coinGeckoId": "",
         "wallet_preload": true
   },
