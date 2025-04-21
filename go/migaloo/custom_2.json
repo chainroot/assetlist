@@ -111,26 +111,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/AEE2F7EF838464848886097FA71AAB4A3A085F16D7585A0ED8B972383710B69F",
-    "symbol": "HUAHUA",
-    "name": "huahua",
-    "description": "Chihuahua is a community-driven blockchain project focused on creating a fun and engaging ecosystem with an emphasis on social interactions and community building.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/9f226984a0945cdd8fbe6b52a6285a82b061b6e895fe99f42ce775d42efa8c06.svg",
-    "coinGeckoId": "chihuahua-token"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/6A171A9A6DBBF5DDB976CD215EAA667641FA8EE35EDC95ACDBF68C810B62F0F5",
-    "symbol": "SHD",
-    "name": "shd",
-    "description": "The native token cw20 for Shade on Secret Network",
-    "decimals": 8,
-    "image": "https://cdn.chainroot.io/images/tokens/cc21653a32d2dddc9d3a38fb2cbad4f8997dbf7403f1e4e05c06000b639ee852.svg",
-    "coinGeckoId": "shade-protocol"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/E54A0C1E4A2A79FD4F92765F68E38939867C3DA36E2EA6BBB2CE81C43F4C8ADC",
     "symbol": "boneWHALEt",
     "name": "boneWHALEt",
@@ -151,6 +131,26 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/AEE2F7EF838464848886097FA71AAB4A3A085F16D7585A0ED8B972383710B69F",
+    "symbol": "HUAHUA",
+    "name": "huahua",
+    "description": "Chihuahua is a community-driven blockchain project focused on creating a fun and engaging ecosystem with an emphasis on social interactions and community building.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9f226984a0945cdd8fbe6b52a6285a82b061b6e895fe99f42ce775d42efa8c06.svg",
+    "coinGeckoId": "chihuahua-token"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/6A171A9A6DBBF5DDB976CD215EAA667641FA8EE35EDC95ACDBF68C810B62F0F5",
+    "symbol": "SHD",
+    "name": "shd",
+    "description": "The native token cw20 for Shade on Secret Network",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/cc21653a32d2dddc9d3a38fb2cbad4f8997dbf7403f1e4e05c06000b639ee852.svg",
+    "coinGeckoId": "shade-protocol"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/E0AE582E1C0CF2DCC6B0F8FAEDB9DE0229D2EA8E88F41F36CC54ADCB3DCDE427",
     "symbol": "COSMO",
     "name": "COSMO",
@@ -158,16 +158,6 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/bef990e9d2a34c122cdc2c771e179c100f59ade122dfe4c70358c1b4b97c3305.png",
     "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/BC5C0BAFD19A5E4133FDA0F3E04AE1FBEE75A4A226554B2CBB021089FF2E1F8A",
-    "symbol": "USDC",
-    "name": "usdc",
-    "description": "Circle's stablecoin on Axelar",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
-    "coinGeckoId": "axlusdc"
   },
   {
     "type": "ibc",
@@ -181,22 +171,22 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/BC5C0BAFD19A5E4133FDA0F3E04AE1FBEE75A4A226554B2CBB021089FF2E1F8A",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/B507F49B23C362BB40410FB8468E7D6456A158808C17D48FACC171AE0FD6B7A8",
     "symbol": "WBNB",
     "name": "wbnb",
     "description": "Wrapped BNB on Axelar",
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/a4c5292d659f8a8522b8997399f53769eba8ba05e74ae4ea936b2d65a1046932.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/EC48B819FC1D955ED1708A8E8E230B37217CC6D953448D3B4BCCF5B29BD1FCF9",
-    "symbol": "bOSMO",
-    "name": "bOSMO",
-    "description": "BackBone Labs Liquid Staked OSMO",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/90d13fdbebbb63d59ff0c4b3e5c7fb99870992798093bb6c906d87b367fffd0b.png",
     "coinGeckoId": ""
   },
   {
@@ -228,6 +218,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/516ed75052338f9ed271f0b26f6090dfa1ed4acb81067b03b45c97222853a3da.svg",
     "coinGeckoId": "white-whale"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/EC48B819FC1D955ED1708A8E8E230B37217CC6D953448D3B4BCCF5B29BD1FCF9",
+    "symbol": "bOSMO",
+    "name": "bOSMO",
+    "description": "BackBone Labs Liquid Staked OSMO",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/90d13fdbebbb63d59ff0c4b3e5c7fb99870992798093bb6c906d87b367fffd0b.png",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -331,16 +331,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/6E5BF71FE1BEBBD648C8A7CB7A790AEF0081120B2E5746E6563FC95764716D61",
-    "symbol": "WBTC",
-    "name": "wbtc",
-    "description": "Wrapped Bitcoin (WBTC) is an ERC20 token backed 1:1 with Bitcoin. Completely transparent. 100% verifiable. Community led.",
-    "decimals": 8,
-    "image": "https://cdn.chainroot.io/images/tokens/f0fb98be5c52c4f7f8abdd928840665189bec026b7aa0dba392fa83a4b225f4e.svg",
-    "coinGeckoId": "wrapped-bitcoin"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/A9A014F28A8C53BAB29BC945CD92282E222A68E4298C07661D2F333405D10A4F",
     "symbol": "WHALE",
     "name": "whale",
@@ -368,6 +358,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/e053406240eac4d978a66008f0551daa497be489fba6c5840e5cd073bd6fcd94.svg",
     "coinGeckoId": "osmosis"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/6E5BF71FE1BEBBD648C8A7CB7A790AEF0081120B2E5746E6563FC95764716D61",
+    "symbol": "WBTC",
+    "name": "wbtc",
+    "description": "Wrapped Bitcoin (WBTC) is an ERC20 token backed 1:1 with Bitcoin. Completely transparent. 100% verifiable. Community led.",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/f0fb98be5c52c4f7f8abdd928840665189bec026b7aa0dba392fa83a4b225f4e.svg",
+    "coinGeckoId": "wrapped-bitcoin"
   },
   {
     "type": "ibc",
@@ -401,16 +401,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/F7EC3CE77AB008AE3EFCFEDBA1CD07E7306AAA0A8800FADD4B2F1725C0DADB6B",
-    "symbol": "LAB",
-    "name": "LAB",
-    "description": "LAB - Everything is an Experiment",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/259850e3f46ba39cb14c2eab4b44223cc81a8e5da56cb9eb7408708886963057.png",
-    "coinGeckoId": "mad-scientists"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/958C08ABCF901F79A49D98851D670F6E322BE5B5A5266BC582645CAA4A2DF497",
     "symbol": "ATOM",
     "name": "atom",
@@ -418,6 +408,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
     "coinGeckoId": "cosmos"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/F7EC3CE77AB008AE3EFCFEDBA1CD07E7306AAA0A8800FADD4B2F1725C0DADB6B",
+    "symbol": "LAB",
+    "name": "LAB",
+    "description": "LAB - Everything is an Experiment",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/259850e3f46ba39cb14c2eab4b44223cc81a8e5da56cb9eb7408708886963057.png",
+    "coinGeckoId": "mad-scientists"
   },
   {
     "type": "ibc",
@@ -461,16 +461,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/84B8C4F1FE15019DBD937B5670905B6280BB7C0D031E9F4D9F50E33386D3CAE6",
-    "symbol": "CUB",
-    "name": "cub",
-    "description": "Lion Cub DAO is a useless meme community DAO on Terra",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/4c5d89e644e70a505228c4a4b9e0d73d158a53b543ee718fb2b990fabff519ea.png",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/D8E7FC8BFE1B74C3BF8175426CB8933211ECA0C721CF4CECFDBA74A4B928F667",
     "symbol": "STARS",
     "name": "stars",
@@ -481,6 +471,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/84B8C4F1FE15019DBD937B5670905B6280BB7C0D031E9F4D9F50E33386D3CAE6",
+    "symbol": "CUB",
+    "name": "cub",
+    "description": "Lion Cub DAO is a useless meme community DAO on Terra",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/4c5d89e644e70a505228c4a4b9e0d73d158a53b543ee718fb2b990fabff519ea.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/C158F1510B7C5FA14F728752F1518219959BF6A7025DAC66E12FCE10A27EA8BE",
     "symbol": "BMOS",
     "name": "bitmos",
@@ -488,6 +488,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/240d04ebcf62b90e1f33dc54c82c342516467e48a8e81a48872621cf36e7370e.png",
     "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/4BAC802E5324C6C8761055BBC64506CC0CFD56A880B5AB196FE0035819898231",
+    "symbol": "ROAR",
+    "name": "roar",
+    "description": "Lion DAO is a community DAO that lives on the Terra blockchain with the mission to reactivate the LUNAtic community and showcase Terra protocols & tooling",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/b1eefb34a5b9ca56fcf188eea2837c1b6d05eb740a8ffcbe2293dc4d0a78b3ec.png",
+    "coinGeckoId": "lion-dao"
   },
   {
     "type": "ibc",
@@ -511,16 +521,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/E2341B75AC852F89DF665F950D1C6F3EA57D69C4FEBF5ABC42E50F2468B7CD0F",
-    "symbol": "USDC",
-    "name": "usdc",
-    "description": "Circle's stablecoin on Axelar",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
-    "coinGeckoId": "axlusdc"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/3808384ECC813CAF207992BE997BD18E18560E473D5368F1B4B77C3822262C4D",
     "symbol": "USDC",
     "name": "usdc",
@@ -538,6 +538,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/516ed75052338f9ed271f0b26f6090dfa1ed4acb81067b03b45c97222853a3da.svg",
     "coinGeckoId": "white-whale"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/E2341B75AC852F89DF665F950D1C6F3EA57D69C4FEBF5ABC42E50F2468B7CD0F",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
   },
   {
     "type": "ibc",
@@ -611,13 +621,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/F59604886233035949068D82EC23E60140D6573EC4CE7F9E0C6440BA5522255E",
-    "symbol": "USDT",
-    "name": "usdt",
-    "description": "Tether USDt from Ethereum via Peggy bridge.",
+    "denom": "ibc/C61F8017CFCE008A31A10D0F68564A022D5EFB7D70B13A86A18E43ED317BF5F1",
+    "symbol": "WHALE",
+    "name": "whale",
+    "description": "Migaloo is a cosmwasm-powered, permissionless blockchain designed to build decentralized applications with a focus on interchain liquidity solutions.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
-    "coinGeckoId": ""
+    "image": "https://cdn.chainroot.io/images/tokens/516ed75052338f9ed271f0b26f6090dfa1ed4acb81067b03b45c97222853a3da.svg",
+    "coinGeckoId": "white-whale"
   },
   {
     "type": "ibc",
@@ -631,63 +641,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/8CD35AF6C56BDE2D521051D9541FEA6C48131AFFA5AD952B86AB970C10DFAB79",
-    "symbol": "USDC",
-    "name": "usdc",
-    "description": "Circle's stablecoin on Axelar",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
-    "coinGeckoId": "axlusdc"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/3EEF3E486C8CE8ECA37512967D7FAAD54728367336874AD03931AD12E4D9C53B",
-    "symbol": "HARBOR",
-    "name": "harbor",
-    "description": "Governance Token of Harbor protocol on Comdex network",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/1a502badbefa8cc68e70549b0f831717f060d42b772bfa51547c4f6be93509ee.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/4BAC802E5324C6C8761055BBC64506CC0CFD56A880B5AB196FE0035819898231",
-    "symbol": "ROAR",
-    "name": "roar",
-    "description": "Lion DAO is a community DAO that lives on the Terra blockchain with the mission to reactivate the LUNAtic community and showcase Terra protocols & tooling",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/b1eefb34a5b9ca56fcf188eea2837c1b6d05eb740a8ffcbe2293dc4d0a78b3ec.png",
-    "coinGeckoId": "lion-dao"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/75D09114F4BD7620953DFA0CAA32CC0B320BD135EBB0EBB3E979BFD51E3A4E6D",
+    "denom": "ibc/F59604886233035949068D82EC23E60140D6573EC4CE7F9E0C6440BA5522255E",
     "symbol": "USDT",
     "name": "usdt",
-    "description": "",
+    "description": "Tether USDt from Ethereum via Peggy bridge.",
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
-    "coinGeckoId": "tether"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/C34EA5ABFE211F826FE7E283E396A4F19CCD6F246020B1EC00DAEEE3E69B708A",
-    "symbol": "WHALE",
-    "name": "whale",
-    "description": "Migaloo is a cosmwasm-powered, permissionless blockchain designed to build decentralized applications with a focus on interchain liquidity solutions.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/516ed75052338f9ed271f0b26f6090dfa1ed4acb81067b03b45c97222853a3da.svg",
-    "coinGeckoId": "white-whale"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/C61F8017CFCE008A31A10D0F68564A022D5EFB7D70B13A86A18E43ED317BF5F1",
-    "symbol": "WHALE",
-    "name": "whale",
-    "description": "Migaloo is a cosmwasm-powered, permissionless blockchain designed to build decentralized applications with a focus on interchain liquidity solutions.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/516ed75052338f9ed271f0b26f6090dfa1ed4acb81067b03b45c97222853a3da.svg",
-    "coinGeckoId": "white-whale"
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -701,6 +661,26 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/3EEF3E486C8CE8ECA37512967D7FAAD54728367336874AD03931AD12E4D9C53B",
+    "symbol": "HARBOR",
+    "name": "harbor",
+    "description": "Governance Token of Harbor protocol on Comdex network",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/1a502badbefa8cc68e70549b0f831717f060d42b772bfa51547c4f6be93509ee.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/8CD35AF6C56BDE2D521051D9541FEA6C48131AFFA5AD952B86AB970C10DFAB79",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/5D58AC622C3025E68C3C8F0793BA66A1CD356B60A303E9B900E690C497238109",
     "symbol": "UMEE",
     "name": "umee",
@@ -708,6 +688,26 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/9d5325ca8b382d8836719bb3889fd12729e3e2855edf892245b7e6e27679a40a.svg",
     "coinGeckoId": "umee"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/C34EA5ABFE211F826FE7E283E396A4F19CCD6F246020B1EC00DAEEE3E69B708A",
+    "symbol": "WHALE",
+    "name": "whale",
+    "description": "Migaloo is a cosmwasm-powered, permissionless blockchain designed to build decentralized applications with a focus on interchain liquidity solutions.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/516ed75052338f9ed271f0b26f6090dfa1ed4acb81067b03b45c97222853a3da.svg",
+    "coinGeckoId": "white-whale"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/75D09114F4BD7620953DFA0CAA32CC0B320BD135EBB0EBB3E979BFD51E3A4E6D",
+    "symbol": "USDT",
+    "name": "usdt",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
+    "coinGeckoId": "tether"
   },
   {
     "type": "ibc",
@@ -771,16 +771,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/B6964DBB01B2036CC6F777153CF1A7A95B4AD941F2AFDC513818FB325097C33D",
-    "symbol": "KAVA",
-    "name": "kava",
-    "description": "Kava is a decentralized finance (DeFi) platform that provides a range of financial services, including lending, borrowing, and stablecoins, leveraging the Cosmos and Ethereum ecosystems.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/a516e8c8ce681c3cbdfd1cd699a5d9a002bec3d002344cb13c956f6e6d2ed9da.svg",
-    "coinGeckoId": "kava"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/CC63431A56E64FB3EDC52908F34E2A9253E3BBB86937EEC58A59CD5368F26307",
     "symbol": "WHALE",
     "name": "whale",
@@ -788,6 +778,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/516ed75052338f9ed271f0b26f6090dfa1ed4acb81067b03b45c97222853a3da.svg",
     "coinGeckoId": "white-whale"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/B6964DBB01B2036CC6F777153CF1A7A95B4AD941F2AFDC513818FB325097C33D",
+    "symbol": "KAVA",
+    "name": "kava",
+    "description": "Kava is a decentralized finance (DeFi) platform that provides a range of financial services, including lending, borrowing, and stablecoins, leveraging the Cosmos and Ethereum ecosystems.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/a516e8c8ce681c3cbdfd1cd699a5d9a002bec3d002344cb13c956f6e6d2ed9da.svg",
+    "coinGeckoId": "kava"
   },
   {
     "type": "ibc",

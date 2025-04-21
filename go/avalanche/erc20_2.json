@@ -306,7 +306,7 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/9c2134fd7f838c897426ca3d223d6e2fba78d4b518399ca05bae47dee4acf656.png",
-        "coinGeckoId": "frax"
+        "coinGeckoId": "husky-avax"
     },
     {
         "type": "erc20",

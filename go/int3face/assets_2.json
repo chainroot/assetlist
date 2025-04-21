@@ -1,0 +1,62 @@
+[
+    {
+        "type": "native",
+        "denom": "uint3",
+        "name" : "Int3face Token",
+        "symbol": "INT3",
+        "description": "Int3face blockchain native token.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/4b74f91d96ef8ddbfd31cb5e7e767a854ee5daadee816e0857d5162799b3b56d.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "factory/int31zlefkpe3g0vvm9a4h0jf9000lmqutlh99h7fsd/bitcoin-btc",
+        "name" : "Bitcoin",
+        "symbol": "BTC",
+        "description": "Bitcoin on Int3face.",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/int3btc.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "factory/int31zlefkpe3g0vvm9a4h0jf9000lmqutlh99h7fsd/bitcoin-cash-bch",
+        "name" : "Bitcoin Cash",
+        "symbol": "BCH",
+        "description": "Bitcoin-Cash on Int3face.",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/int3bch.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "factory/int31zlefkpe3g0vvm9a4h0jf9000lmqutlh99h7fsd/dogecoin-doge",
+        "name" : "Dogecoin",
+        "symbol": "DOGE",
+        "description": "Dogecoin on Int3face.",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/int3doge.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "factory/int31zlefkpe3g0vvm9a4h0jf9000lmqutlh99h7fsd/litecoin-ltc",
+        "name" : "Litecoin",
+        "symbol": "LTC",
+        "description": "Litecoin on Int3face.",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/int3ltc.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "factory/int31zlefkpe3g0vvm9a4h0jf9000lmqutlh99h7fsd/ton-ton",
+        "name" : "TON",
+        "symbol": "TON",
+        "description": "TON on Int3face.",
+        "decimals": 9,
+        "image": "https://cdn.chainroot.io/images/tokens/int3ton.png",
+        "coinGeckoId": ""
+    }
+]

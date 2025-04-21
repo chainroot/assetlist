@@ -304,7 +304,7 @@
         "symbol": "SOL",
         "description": "Wrapped SOL (Wormhole)",
         "decimals": 9,
-        "image": "https://cdn.chainroot.io/images/tokens/6c0b0ffebc3179d49d5e2d1979ff8aff80c4f8cde653bb8199170b3041c24653.png",
+        "image": "https://cdn.chainroot.io/images/tokens/sol.png",
         "coinGeckoId": "wrapped-solana",
         "bridge_info": {
             "path": "solana>sui"

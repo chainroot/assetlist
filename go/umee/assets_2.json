@@ -201,7 +201,7 @@
         "symbol": "DOT.axl",
         "description": "Wrapped Polkadot on Axelar",
         "decimals": 10,
-        "image": "https://cdn.chainroot.io/images/tokens/7e46dc1b3a2ee236919adb8723ca74b1b2a92de3689017d531355f1e877fe91a.png",
+        "image": "https://cdn.chainroot.io/images/tokens/xcdot.png",
         "coinGeckoId": "xcdot",
         "ibc_info": {
             "path": "moonbeam>axelar>umee",

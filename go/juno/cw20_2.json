@@ -513,7 +513,7 @@
         "contract": "juno1qmlchtmjpvu0cr7u0tad2pq8838h6farrrjzp39eqa9xswg7teussrswlq",
         "name" : "nRide Token",
         "symbol": "NRIDE",
-        "description": "nRide Token",
+        "description": "nRide is developing an uber-like ride-hailing protocol, leveraging cosmwasm smart-contracts for payment, driver registration and text-messaging between the rider and the driver, to create a trustless public transportation environment for any cab or taxi company to use.",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/49fc1b6d27119a771c60ab32bb26f291613dcd10697d0fdc2f45332b2c960e60.png",
         "coinGeckoId": "",
