@@ -8,6 +8,7 @@
   "artela-testnet": "uart",
   "asset-mantle": "umntl",
   "atomone": "uatone",
+  "atomone-testnet": "uatone",
   "aura": "uaura",
   "axelar": "uaxl",
   "axelar-testnet": "uaxl",

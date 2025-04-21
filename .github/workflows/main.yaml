@@ -21,7 +21,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      DIRECTORIES: "aura gitopia pryzm seda paloma"
+      DIRECTORIES: "aura gitopia pryzm seda paloma atomone-testnet"
 
     steps:
     - uses: actions/checkout@v4
@@ -62,7 +62,12 @@ jobs:
         rm go/pryzm/assets_2.json
         mv go/terra go/terra2
         for dir in $DIRECTORIES; do
-          wget -O "$dir"_assetlist.json https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/$dir/assetlist.json
+          if [[ "$dir" == *-testnet ]]; then
+            testnet_dir=$(echo "$dir" | sed 's/-testnet/testnet/')
+            wget -O "$dir"_assetlist.json https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/testnets/$testnet_dir/assetlist.json
+          else
+            wget -O "$dir"_assetlist.json https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/$dir/assetlist.json
+          fi
         done
         cd scripts/schema-generator
         tsc
