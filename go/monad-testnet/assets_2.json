@@ -1,0 +1,12 @@
+[
+    {
+        "type": "native",
+        "denom": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name" : "Monad Testnet",
+        "symbol": "MON",
+        "description": "Monad Testnet Native Coin",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/mon.png",
+        "coinGeckoId": ""
+    }
+]
