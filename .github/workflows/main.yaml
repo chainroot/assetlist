@@ -60,7 +60,7 @@ jobs:
     - name: Download pryzm assetlist and running schema convertor
       run: |
         rm go/pryzm/assets_2.json
-        mv go/terra go/terra2
+        mv go/terra/* go/terra2
         for dir in $DIRECTORIES; do
           if [[ "$dir" == *-testnet ]]; then
             testnet_dir=$(echo "$dir" | sed 's/-testnet/testnet/')
