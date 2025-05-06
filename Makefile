@@ -4,7 +4,7 @@ TARGET_DIR = go
 
 .PHONY: def update-registry update-chain-data update-images
 # Find all asset_list.json files and their corresponding target directories
-FILES_TO_COPY = assets_2.json erc20_2.json cw20_2.json
+FILES_TO_COPY = assets_2.json erc20_2.json cw20_2.json param_2.json
 
 def: update-chainlist update-chain-data update-images
 
