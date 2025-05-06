@@ -90,7 +90,7 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/0907c1762da3b2a660d900b79b874329970484285fca93ac7aab342968ade236.png",
-        "coinGeckoId": "",
+        "coinGeckoId": "shido-dex",
         "wallet_preload": true
     },
     {

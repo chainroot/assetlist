@@ -4,10 +4,10 @@
         "denom": "uosmo",
         "name": "Osmosis",
         "symbol": "OSMO",
-        "description": "The native token of Osmosis",
+        "description": "Osmosis Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/7eec0e7b17cfe55e8fdfd8138458d26c83298dc2a12f85f9261af2a5fd9b3f46.png",
-        "color": "#760dbb",
+        "color": "#AF38FD",
         "coinGeckoId": "osmosis"
     },
     {
@@ -381,7 +381,7 @@
         "symbol": "KAVA",
         "description": "The native staking and governance token of Kava",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/a516e8c8ce681c3cbdfd1cd699a5d9a002bec3d002344cb13c956f6e6d2ed9da.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/a46273005a34ab2209dec91202490e01024b231a043ef473bfaa4fc3529f362c.png",
         "color": "#e64942",
         "coinGeckoId": "kava",
         "ibc_info": {
@@ -740,7 +740,7 @@
         "symbol": "IXO",
         "description": "The native token of IXO Chain",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/a5a5256049c6a61a21f09335929ec847f4ee322d7c7ce734f031ed6b75aa147e.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/ixo.png",
         "color": "#2c4484",
         "coinGeckoId": "ixo",
         "ibc_info": {
@@ -4387,7 +4387,7 @@
         "symbol": "cbETH",
         "description": "Coinbase Wrapped Staked ETH (“cbETH”) is a utility token and liquid representation of ETH staked through Coinbase. cbETH gives customers the option to sell, transfer, or otherwise use their staked ETH in dapps while it remains locked by the Ethereum protocol.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/18eaddb26d2ed4d2fc5a2d5020aa27e102145c0f6e2ce5f9e025efc176b5ed9a.png",
+        "image": "https://cdn.chainroot.io/images/tokens/cbeth.png",
         "color": "#c9dbfc",
         "coinGeckoId": "coinbase-wrapped-staked-eth",
         "ibc_info": {
@@ -4411,7 +4411,7 @@
         "symbol": "rETH",
         "description": "Rocket Pool is a decentralised Ethereum Proof of Stake pool.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/10c519d28894904b2470a2c98532a7613c09bb649190371c172e53112077cd94.png",
+        "image": "https://cdn.chainroot.io/images/tokens/161c19c5da6d2f52d33692c08504c62e95bb90a35a83e30557e093a0f86c9900.png",
         "color": "#fba487",
         "coinGeckoId": "rocket-pool-eth",
         "ibc_info": {

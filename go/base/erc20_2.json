@@ -72,7 +72,7 @@
         "symbol": "cbETH",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/d4b94a36832dadcec2c549b16bc6061cc1d4f54431ad116cabe2d071df98d268.png",
+        "image": "https://cdn.chainroot.io/images/tokens/cbeth.png",
         "coinGeckoId": "coinbase-wrapped-staked-eth",
         "wallet_preload": true
     },
@@ -743,7 +743,7 @@
         "symbol": "milkTIA",
         "description": "",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/836f68501571eeef872c986f8f8a9b3a0d520b8d33d7eb267da348dcad580631.png?1702989842",
+        "image": "https://cdn.chainroot.io/images/tokens/3a69ac743970a98f89aa63b371e2bc281ee52973c2be4b818b54295b1cf93d00.png",
         "coinGeckoId": "milkyway-staked-tia"
     },
     {

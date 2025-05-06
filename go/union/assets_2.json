@@ -1,0 +1,22 @@
+[
+    {
+        "type": "native",
+        "denom": "upoa",
+        "name": "Proof of Authority Token on Union",
+        "symbol": "POA",
+        "description": "Proof of Authority token for the Union.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/poa.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "ugas",
+        "name": "Gas Token",
+        "symbol": "GAS",
+        "description": "Gas Token on Union",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/gas.png",
+        "coinGeckoId": ""
+    }
+]

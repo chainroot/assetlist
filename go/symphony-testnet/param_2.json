@@ -1,0 +1,51 @@
+{
+    "chain_name": "Symphony Testnet",
+    "chain_id_cosmos": "symphony-testnet-4",
+    "chain_image": "https://cdn.chainroot.io/images/tokens/a43b82bb2d371be3085ac00eed27896df8dabfa6d4aa2a12174c42aa9d0436d1.png",
+    "staking_asset_denom" : "note",
+    "staking_asset_symbol": "MLD",
+    "staking_asset_image": "https://cdn.chainroot.io/images/tokens/8590d40dd2996c2592b5d62296b041790e42fe01496de5a787a3041383af7b1e.png",
+    "bech_account_prefix": "symphony",
+    "bech_validator_prefix": "symphonyvaloper",
+    "origin_genesis_time": "2024-06-07T14:57:42.831707703Z",
+    "api_name": "symphony-testnet",
+    "account_type": [
+        {
+            "hd_path": "m/44'/118'/0'/0/X",
+            "pubkey_style": "secp256k1",
+            "pubkey_type": "/cosmos.crypto.secp256k1.PubKey"
+        }
+    ],
+    "cosmos_fee_info": {
+        "base": "1",
+        "rate": [
+            "0.0025note",
+            "0.025note"
+        ],
+        "is_simulable": true,
+        "simulated_gas_multiply": 1.5,
+        "init_gas_limit": 300000,
+        "fee_threshold": ""
+    },
+    "grpc_endpoint": [
+        {
+            "provider": "Orchestra Labs",
+            "url": "https://rpc.testnet.symphonychain.org"
+        }
+    ],
+    "about": {
+        "website": "https://orchestralabs.org/",
+        "docs": "https://orchestralabs.org/documentation",
+        "github": "https://github.com/Orchestra-Labs",
+        "medium": "https://medium.com/@orchestra_labs",
+        "twitter": "https://twitter.com/orchestra_labs",
+        "coingecko": ""
+    },
+    "forum": {
+        "main": "",
+        "governance": ""
+    },
+    "description": {
+        "en": "The stablecoin chain."
+    }
+}

@@ -6,8 +6,8 @@
         "symbol": "MILK",
         "description": "Milkyway Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/milk.png",
-        "coinGeckoId": ""
+        "image": "https://cdn.chainroot.io/images/tokens/eda7cdab6156c37879695500bbc2ba9b9d250cbfe82021699b7fa90b71508ae2.png",
+        "coinGeckoId": "milkyway-2"
     },
     {
         "type": "ibc",
@@ -123,5 +123,15 @@
                 "denom": "ibc/C7A810C6ED1FC3FFC7C834A534D400EADC94FF7D3BE13DDD4C042AEF1816DFB4"
             }
         }
+    },
+    {
+        "type": "native",
+        "denom": "factory/milk1qg5ega6dykkxc307y25pecuufrjkxkaggkkxh7nad0vhyhtuhw3ssgcye4/umilkBBN",
+        "name" : "milkBABY",
+        "symbol": "milkBABY",
+        "description": "MilkyWay's liquid staked BABY",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/eb242b99beccaaf02ceb6d7f8188d28bf7e358d99c44368e5078393e6b0abf60.png",
+        "coinGeckoId": ""
     }
 ]

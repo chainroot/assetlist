@@ -60,7 +60,7 @@
         "symbol": "milkTIA",
         "description": "MilkTIA token on Carbon",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/4d07206805deec8a29c9883eba639806f24a8249e242a10b818d45c4391b4c4a.png",
+        "image": "https://cdn.chainroot.io/images/tokens/3a69ac743970a98f89aa63b371e2bc281ee52973c2be4b818b54295b1cf93d00.png",
         "coinGeckoId": "milkyway-staked-tia",
         "ibc_info": {
             "path": "osmosis>carbon",

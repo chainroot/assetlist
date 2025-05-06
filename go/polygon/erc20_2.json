@@ -156,7 +156,7 @@
         "symbol": "DG",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/decentralgame_32.png?v=5",
+        "image": "https://cdn.chainroot.io/images/tokens/7bc6e7a6f03fe6a1168a82051b3f964588d3512c41daf7ce90535cb18db3d316.png?v=5",
         "coinGeckoId": "decentral-games"
     },
     {
@@ -686,7 +686,7 @@
         "symbol": "milkTIA",
         "description": "",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/836f68501571eeef872c986f8f8a9b3a0d520b8d33d7eb267da348dcad580631.png?1702989842",
+        "image": "https://cdn.chainroot.io/images/tokens/3a69ac743970a98f89aa63b371e2bc281ee52973c2be4b818b54295b1cf93d00.png",
         "coinGeckoId": "milkyway-staked-tia"
     },
     {

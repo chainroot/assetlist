@@ -241,16 +241,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/BEE9A8F835D60717548FFE9AC9E90F18AB8096574EB1211F88074CB3511B7860",
-    "symbol": "WBTC",
-    "name": "wbtc",
-    "description": "Wrapped Bitcoin (WBTC) is an ERC20 token backed 1:1 with Bitcoin. Completely transparent. 100% verifiable. Community led.",
-    "decimals": 8,
-    "image": "https://cdn.chainroot.io/images/tokens/f0fb98be5c52c4f7f8abdd928840665189bec026b7aa0dba392fa83a4b225f4e.svg",
-    "coinGeckoId": "wrapped-bitcoin"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/097963B1B72F3C5E44B1C2DF4A493FD47E883AC650137040203372EF6CFAC1EB",
     "symbol": "WIND",
     "name": "wind",
@@ -258,6 +248,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/b5b0e449acd98f5a0524bb3df2aacbf87c6ef48cfb2e967df3947901253866f5.png",
     "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/BEE9A8F835D60717548FFE9AC9E90F18AB8096574EB1211F88074CB3511B7860",
+    "symbol": "WBTC",
+    "name": "wbtc",
+    "description": "Wrapped Bitcoin (WBTC) is an ERC20 token backed 1:1 with Bitcoin. Completely transparent. 100% verifiable. Community led.",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/f0fb98be5c52c4f7f8abdd928840665189bec026b7aa0dba392fa83a4b225f4e.svg",
+    "coinGeckoId": "wrapped-bitcoin"
   },
   {
     "type": "ibc",
@@ -441,16 +441,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/EF392FCB1D863D7DC58034FE2806000F543DDFC9FC9B8B92969B5AE4906CD57E",
-    "symbol": "stJUNO",
-    "name": "stjuno",
-    "description": "",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/553e200543ab8c9fe84dd9f1bc86fc0fe075eb14ff4254f71d49fa3a56bd37cb.svg",
-    "coinGeckoId": "stride-staked-juno"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/7556FEABFEC083479301DB7846F3FD63A2D0BED5A0737DDCEDDD1CD7FD7FFC68",
     "symbol": "TEST",
     "name": "test",
@@ -458,5 +448,15 @@
     "decimals": 6,
     "image": "",
     "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/EF392FCB1D863D7DC58034FE2806000F543DDFC9FC9B8B92969B5AE4906CD57E",
+    "symbol": "stJUNO",
+    "name": "stjuno",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/553e200543ab8c9fe84dd9f1bc86fc0fe075eb14ff4254f71d49fa3a56bd37cb.svg",
+    "coinGeckoId": "stride-staked-juno"
   }
 ]
