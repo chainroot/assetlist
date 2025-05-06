@@ -1,0 +1,13 @@
+[
+    {
+        "type": "native",
+        "denom": "hua",
+        "name" : "Imua",
+        "symbol": "IMUA",
+        "description": "Imua Staking Coin",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/imua.png",
+        "coinGeckoId": "",
+        "color": ""
+    }
+]

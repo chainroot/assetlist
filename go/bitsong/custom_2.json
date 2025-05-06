@@ -31,6 +31,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/B6931AECA0EB0ADBC47825E24AA8BE02BD8ABDBB0AC62A56C6A2936DFB4A9413",
+    "symbol": "BTSG",
+    "name": "btsg",
+    "description": "BitSong Native Token",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/1dc938038b71c5f1a85de37216ba7471ea9ac6be735980308d4b0def67ffd18b.svg",
+    "coinGeckoId": "bitsong"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/340CE64FB1F701AB474B00BCC87FC52505669E7996700D29717F48041CCDFCCE",
     "symbol": "BTSG",
     "name": "btsg",

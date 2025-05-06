@@ -76,10 +76,40 @@
         "type": "cw20",
         "contract": "bbn1z5gne4pe84tqerdrjta5sp966m98zgg5czqe4xu2yzxqfqv5tfkqed0jyy",
         "name": "Lombard Staked Bitcoin",
-        "symbol": "LBTC.union",
-        "description": "Union bridged LBTC, staked version of Bitcoin from Lombard protocol",
+        "symbol": "LBTC",
+        "description": "Staked version of Bitcoin from Lombard protocol",
         "decimals": 8,
         "image": "https://cdn.chainroot.io/images/tokens/ad05ab33b29a4b36e83218e58de363af63721a2ccb37e75f932c2dc3511ece78.png",
         "coinGeckoId": "lombard-staked-btc"
+    },
+    {
+        "type": "cw20",
+        "contract": "bbn1j2nchmpuhkq0yj93g84txe33j5lhw2y7p3anhqjhvamqxsev6rmsneu85x",
+        "name": "SatLayer uniBTC Bridged",
+        "symbol": "satUniBTC.e",
+        "description": "Staked version of uniBTC from SatLayer",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/0f9cf84d6203f2ad0572e3383197fafa29b5a445de759b83edd035dfbb444aaa.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "cw20",
+        "contract": "bbn1rl75n93kk075clrt72hqa7md6mwl78u28sghs380xuvlmksw6x3q07n2tc",
+        "name": "SatLayer xSatSolvBTC Bridged",
+        "symbol": "satSolvBTC.e",
+        "description": "Staked version of xSolvBTC from SatLayer",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/0fb50b398fb6a8cf27cf55da907838d49a3ab7a2f0855854b06e5fc033ecb117.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "cw20",
+        "contract": "bbn1rluxqjaqsczmdaxl4kr0qa42pp78zszlmdrt248hel59z3fh8y9qrh4dvq",
+        "name": "SatLayer LBTC Bridged",
+        "symbol": "satLBTC.e",
+        "description": "Staked version of LBTC from SatLayer",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/ad05ab33b29a4b36e83218e58de363af63721a2ccb37e75f932c2dc3511ece78.png",
+        "coinGeckoId": ""
     }
 ]

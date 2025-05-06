@@ -231,16 +231,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/BEFB9AB13AB43157A0AF6214AD4B1F565AC0CA0C1760B8337BE7B9E2996F7752",
-    "symbol": "ampOSMO",
-    "name": "ampOSMO",
-    "description": "ERIS liquid staked OSMO",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/4f1d5c10b76429b930842f9d45f16c44caff0efe889f863b173eb9dcd64734b3.png",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/0A84F9F8D56C3A3B81457D633C0C8B8E01CFD37F0BEDBF6A809C602F19D01075",
     "symbol": "WHALE",
     "name": "whale",
@@ -267,6 +257,16 @@
     "description": "ashWIND",
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/6e20eb39a75019fedab43d051feb8e84893099b0f1aa49ea4149a372a134a4d8.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/BEFB9AB13AB43157A0AF6214AD4B1F565AC0CA0C1760B8337BE7B9E2996F7752",
+    "symbol": "ampOSMO",
+    "name": "ampOSMO",
+    "description": "ERIS liquid staked OSMO",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/4f1d5c10b76429b930842f9d45f16c44caff0efe889f863b173eb9dcd64734b3.png",
     "coinGeckoId": ""
   },
   {
@@ -361,16 +361,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/6E5BF71FE1BEBBD648C8A7CB7A790AEF0081120B2E5746E6563FC95764716D61",
-    "symbol": "WBTC",
-    "name": "wbtc",
-    "description": "Wrapped Bitcoin (WBTC) is an ERC20 token backed 1:1 with Bitcoin. Completely transparent. 100% verifiable. Community led.",
-    "decimals": 8,
-    "image": "https://cdn.chainroot.io/images/tokens/f0fb98be5c52c4f7f8abdd928840665189bec026b7aa0dba392fa83a4b225f4e.svg",
-    "coinGeckoId": "wrapped-bitcoin"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/0DBB72DF4C1E2D564A6DC38929383E4D163968EE0899FE51D6CB42C799852C92",
     "symbol": "WHALE",
     "name": "whale",
@@ -418,6 +408,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/259850e3f46ba39cb14c2eab4b44223cc81a8e5da56cb9eb7408708886963057.png",
     "coinGeckoId": "mad-scientists"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/6E5BF71FE1BEBBD648C8A7CB7A790AEF0081120B2E5746E6563FC95764716D61",
+    "symbol": "WBTC",
+    "name": "wbtc",
+    "description": "Wrapped Bitcoin (WBTC) is an ERC20 token backed 1:1 with Bitcoin. Completely transparent. 100% verifiable. Community led.",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/f0fb98be5c52c4f7f8abdd928840665189bec026b7aa0dba392fa83a4b225f4e.svg",
+    "coinGeckoId": "wrapped-bitcoin"
   },
   {
     "type": "ibc",
@@ -481,16 +481,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/C158F1510B7C5FA14F728752F1518219959BF6A7025DAC66E12FCE10A27EA8BE",
-    "symbol": "BMOS",
-    "name": "bitmos",
-    "description": "Bitmos opens doors for BRC20 tokens to thrive alongside established players in the Cosmos Network, revolutionizing decentralized finance (DeFi) for all.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/240d04ebcf62b90e1f33dc54c82c342516467e48a8e81a48872621cf36e7370e.png",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/4BAC802E5324C6C8761055BBC64506CC0CFD56A880B5AB196FE0035819898231",
     "symbol": "ROAR",
     "name": "roar",
@@ -498,6 +488,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/b1eefb34a5b9ca56fcf188eea2837c1b6d05eb740a8ffcbe2293dc4d0a78b3ec.png",
     "coinGeckoId": "lion-dao"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/C158F1510B7C5FA14F728752F1518219959BF6A7025DAC66E12FCE10A27EA8BE",
+    "symbol": "BMOS",
+    "name": "bitmos",
+    "description": "Bitmos opens doors for BRC20 tokens to thrive alongside established players in the Cosmos Network, revolutionizing decentralized finance (DeFi) for all.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/240d04ebcf62b90e1f33dc54c82c342516467e48a8e81a48872621cf36e7370e.png",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -621,43 +621,23 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/C61F8017CFCE008A31A10D0F68564A022D5EFB7D70B13A86A18E43ED317BF5F1",
-    "symbol": "WHALE",
-    "name": "whale",
-    "description": "Migaloo is a cosmwasm-powered, permissionless blockchain designed to build decentralized applications with a focus on interchain liquidity solutions.",
+    "denom": "ibc/5D58AC622C3025E68C3C8F0793BA66A1CD356B60A303E9B900E690C497238109",
+    "symbol": "UMEE",
+    "name": "umee",
+    "description": "The native token of Umee",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/516ed75052338f9ed271f0b26f6090dfa1ed4acb81067b03b45c97222853a3da.svg",
-    "coinGeckoId": "white-whale"
+    "image": "https://cdn.chainroot.io/images/tokens/9d5325ca8b382d8836719bb3889fd12729e3e2855edf892245b7e6e27679a40a.svg",
+    "coinGeckoId": "umee"
   },
   {
     "type": "ibc",
-    "denom": "ibc/29278C138D7BDA1A32C544A6CAEBA89FD02BA0DD56937C331924985BCF1524CA",
-    "symbol": "CMDX",
-    "name": "cmdx",
-    "description": "Native Token of Comdex Protocol",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/18ef9a7a59ab88889f56c3723f72a35db05f8bc967c41f08ff64cd3ecdbe3818.svg",
-    "coinGeckoId": "comdex"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/F59604886233035949068D82EC23E60140D6573EC4CE7F9E0C6440BA5522255E",
+    "denom": "ibc/75D09114F4BD7620953DFA0CAA32CC0B320BD135EBB0EBB3E979BFD51E3A4E6D",
     "symbol": "USDT",
     "name": "usdt",
-    "description": "Tether USDt from Ethereum via Peggy bridge.",
+    "description": "",
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/D4BDCBF1F3608A4DBA20E8BA37461412AD58B783D225AB1BCD900FD68B043396",
-    "symbol": "ROAR",
-    "name": "roar",
-    "description": "Lion DAO is a community DAO that lives on the Terra blockchain with the mission to reactivate the LUNAtic community and showcase Terra protocols & tooling",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/b1eefb34a5b9ca56fcf188eea2837c1b6d05eb740a8ffcbe2293dc4d0a78b3ec.png",
-    "coinGeckoId": "lion-dao"
+    "coinGeckoId": "tether"
   },
   {
     "type": "ibc",
@@ -671,6 +651,26 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/29278C138D7BDA1A32C544A6CAEBA89FD02BA0DD56937C331924985BCF1524CA",
+    "symbol": "CMDX",
+    "name": "cmdx",
+    "description": "Native Token of Comdex Protocol",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/18ef9a7a59ab88889f56c3723f72a35db05f8bc967c41f08ff64cd3ecdbe3818.svg",
+    "coinGeckoId": "comdex"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/D4BDCBF1F3608A4DBA20E8BA37461412AD58B783D225AB1BCD900FD68B043396",
+    "symbol": "ROAR",
+    "name": "roar",
+    "description": "Lion DAO is a community DAO that lives on the Terra blockchain with the mission to reactivate the LUNAtic community and showcase Terra protocols & tooling",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/b1eefb34a5b9ca56fcf188eea2837c1b6d05eb740a8ffcbe2293dc4d0a78b3ec.png",
+    "coinGeckoId": "lion-dao"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/8CD35AF6C56BDE2D521051D9541FEA6C48131AFFA5AD952B86AB970C10DFAB79",
     "symbol": "USDC",
     "name": "usdc",
@@ -678,16 +678,6 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
     "coinGeckoId": "axlusdc"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/5D58AC622C3025E68C3C8F0793BA66A1CD356B60A303E9B900E690C497238109",
-    "symbol": "UMEE",
-    "name": "umee",
-    "description": "The native token of Umee",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/9d5325ca8b382d8836719bb3889fd12729e3e2855edf892245b7e6e27679a40a.svg",
-    "coinGeckoId": "umee"
   },
   {
     "type": "ibc",
@@ -701,13 +691,23 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/75D09114F4BD7620953DFA0CAA32CC0B320BD135EBB0EBB3E979BFD51E3A4E6D",
+    "denom": "ibc/F59604886233035949068D82EC23E60140D6573EC4CE7F9E0C6440BA5522255E",
     "symbol": "USDT",
     "name": "usdt",
-    "description": "",
+    "description": "Tether USDt from Ethereum via Peggy bridge.",
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
-    "coinGeckoId": "tether"
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/C61F8017CFCE008A31A10D0F68564A022D5EFB7D70B13A86A18E43ED317BF5F1",
+    "symbol": "WHALE",
+    "name": "whale",
+    "description": "Migaloo is a cosmwasm-powered, permissionless blockchain designed to build decentralized applications with a focus on interchain liquidity solutions.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/516ed75052338f9ed271f0b26f6090dfa1ed4acb81067b03b45c97222853a3da.svg",
+    "coinGeckoId": "white-whale"
   },
   {
     "type": "ibc",

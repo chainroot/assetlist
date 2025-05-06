@@ -379,7 +379,7 @@
         "name" : "Balanced Dollar",
         "symbol": "bnUSD",
         "description": "",
-        "decimals": 6,
+        "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/d515b30f5001d4b735024d03893b18dc302991e0f37b70c1c7becd2d1462e0d9.png",
         "coinGeckoId": "balanced-dollars",
         "color": ""

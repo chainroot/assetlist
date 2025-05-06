@@ -4,7 +4,7 @@
         "denom": "untrn",
         "name": "Neutron",
         "symbol": "NTRN",
-        "description": "The Native Main Dao Asset on Neutron Chain",
+        "description": "Neutron Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/49cd09acc9cd57f149b95eb89cdf93800719e571b45d3bbd8195e1c25ba5ffb9.png",
         "coinGeckoId": "neutron-3",

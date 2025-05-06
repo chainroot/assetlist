@@ -51,6 +51,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/23697A0A8E5A7686ED1C9B3A1449BC36944A68E8B6B2CE6D81D1913CB43FC4AE",
+    "symbol": "TIA",
+    "name": "tia",
+    "description": "Celestia is a modular blockchain network focused on data availability, allowing developers to deploy their own customizable blockchains with ease.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/63b9c41acf8957bc42561cd85132fbc75177d2879e5de3873470bd2bb4ec41b3.svg",
+    "coinGeckoId": "celestia"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/0D2ABDF58A5DBA3D2A90398F8737D16ECAC0DDE58F9792B2918495D499400672",
     "symbol": "SOURCE",
     "name": "source",
@@ -78,16 +88,6 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/fa2f0049c733c83a51bf71cf5e841b832087b49e3e79c871c6ba19f17c6a9f56.png",
     "coinGeckoId": "andromeda-2"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/23697A0A8E5A7686ED1C9B3A1449BC36944A68E8B6B2CE6D81D1913CB43FC4AE",
-    "symbol": "TIA",
-    "name": "tia",
-    "description": "Celestia is a modular blockchain network focused on data availability, allowing developers to deploy their own customizable blockchains with ease.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/63b9c41acf8957bc42561cd85132fbc75177d2879e5de3873470bd2bb4ec41b3.svg",
-    "coinGeckoId": "celestia"
   },
   {
     "type": "ibc",
