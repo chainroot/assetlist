@@ -241,16 +241,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/097963B1B72F3C5E44B1C2DF4A493FD47E883AC650137040203372EF6CFAC1EB",
-    "symbol": "WIND",
-    "name": "wind",
-    "description": "",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/b5b0e449acd98f5a0524bb3df2aacbf87c6ef48cfb2e967df3947901253866f5.png",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/BEE9A8F835D60717548FFE9AC9E90F18AB8096574EB1211F88074CB3511B7860",
     "symbol": "WBTC",
     "name": "wbtc",
@@ -258,6 +248,16 @@
     "decimals": 8,
     "image": "https://cdn.chainroot.io/images/tokens/f0fb98be5c52c4f7f8abdd928840665189bec026b7aa0dba392fa83a4b225f4e.svg",
     "coinGeckoId": "wrapped-bitcoin"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/097963B1B72F3C5E44B1C2DF4A493FD47E883AC650137040203372EF6CFAC1EB",
+    "symbol": "WIND",
+    "name": "wind",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/b5b0e449acd98f5a0524bb3df2aacbf87c6ef48cfb2e967df3947901253866f5.png",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",

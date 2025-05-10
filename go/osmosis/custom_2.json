@@ -1,17 +1,17 @@
 [
   {
     "type": "ibc",
-    "denom": "ibc/A80F928DBB25E69A7A1D1491255079AD327B2B9C82D281B309531FCE9C082ADC",
-    "symbol": "USDC",
-    "name": "usdc",
-    "description": "Circle's stablecoin on Axelar",
+    "denom": "ibc/EBFD05900EF1A7EE934D4A8E754E49EF7B4EA339287FD671B0737CB059771087",
+    "symbol": "MIDDLE",
+    "name": "middle",
+    "description": "Join us in fighting against world hunger",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
-    "coinGeckoId": "axlusdc"
+    "image": "https://cdn.chainroot.io/images/tokens/e005d6f7b7bf417de9f81257c66c69f02b399d3ee2f6faceac285168135991f4.png",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
-    "denom": "ibc/6BFB8582F51460D857CF952FE8A5CE3598AACD466C05A1FF5C8988665CBDADBB",
+    "denom": "ibc/C1E6A390F27B47791F6FC8275E058B7598F417CA6BA5658A00645AEC61C3651F",
     "symbol": "LUNC",
     "name": "luna",
     "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
@@ -21,7 +21,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/DC1BF4DDFAA5F9D7DE0CF7002A21B7E22B6BD237BB598B9141DF4D25A05B76DA",
+    "denom": "ibc/8B13ACC368A996A7D78B5520D53BF8CD44A57B2E36F8F38D301136F66A53C959",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
@@ -31,13 +31,63 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/79797E415472AAEED5011D68E36621843AED11BB93B1D61FD40230F5D3810CAD",
+    "denom": "ibc/5587F2BF45A1BBD4E0EB07EFED4A88197427D54FAFC645FB93D9584DA55BF11C",
+    "symbol": "stTIA",
+    "name": "stTIA",
+    "description": "Stride's liquid staked TIA",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/df43139655b8c5db7a7b1fb674801711979b1382eed4c99db80f30477b0b031c.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/32930354257147078AB1B0B178E49C96AB8E94D804A5D57514444B3BD8F32C04",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
     "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/150EA1850B815E47D6A636E1C1B141407F0ADCC9968204D96E47AFAC52861706",
+    "symbol": "stUMEE",
+    "name": "stumee",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/31b803329c10e28b92f3160d420f19812518dd61e3e9ff8aec53d8c16a2dfcaf.svg",
+    "coinGeckoId": "stride-staked-umee"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/F420F5F8A87FCB8B9EE5504276DE4048E2E852BB0A63DACCB6FB70C32C2690EC",
+    "symbol": "JUNO",
+    "name": "juno",
+    "description": "The native token of JUNO Chain",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/79f9def0d7428ed8b761a7c42dc5f7a3492367f014258935d72cbbe2d813a552.svg",
+    "coinGeckoId": "juno-network"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/B818181951D853A0DBEABF66181ECF557A17E0CD9CE69BEFAF933B696DF59365",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/7451074F46885686D3B47B12A6BF74F6D36847ED1891AC612FCFAEB7FB551E14",
+    "symbol": "stATOM",
+    "name": "statom",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/8952f870f7fecceb24d59b6e5e2cfba7235d513ea0cf5f5db6989352605b52b3.svg",
+    "coinGeckoId": "stride-staked-atom"
   },
   {
     "type": "ibc",
@@ -51,13 +101,43 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/BF75AE1500CB7EC458E91A11731F1B6AC1F1FE1FA937A88564955ED6A83CA2FB",
-    "symbol": "wstETH",
-    "name": "wormhole/5TSQTEhJ5Q6r1YqCmCxTRSPiV2pGx5rZUQf6g2XH4e1b/8",
-    "description": "Wrapped liquid staked Ether 2.0 (Wormhole), wstETH, factory/wormhole14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/5TSQTEhJ5Q6r1YqCmCxTRSPiV2pGx5rZUQf6g2XH4e1b",
-    "decimals": 8,
-    "image": "https://cdn.chainroot.io/images/tokens/195ac6e06829bd28be1067a0c4eedc8e749efd9bc4ab6326fbaf227bcca070c8.svg",
-    "coinGeckoId": ""
+    "denom": "ibc/FD56AFA057C95871BC72302BA9084D2106FDD84A42D5BF0B938A75B1495C8A71",
+    "symbol": "SOMM",
+    "name": "somm",
+    "description": "Somm Token (SOMM) is the native staking token of the Sommelier Chain",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/4c5f41c1d09e29aaf50ed10f7f7ff2cce2d2e0db2ccf95eef8c7f0379136970b.svg",
+    "coinGeckoId": "sommelier"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/4EFD27C84957A698938857B87FE4EBC28FFDB11A2A2F38503D029910B048CDD2",
+    "symbol": "ATOM",
+    "name": "atom",
+    "description": "ATOM is the native cryptocurrency of the Cosmos network, designed to facilitate interoperability between multiple blockchains through its innovative hub-and-spoke model.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
+    "coinGeckoId": "cosmos"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/F6E25D2C69EB5280FFB75B2A383F0F4F081E183AE0F8031552D6836DE21C35E4",
+    "symbol": "ATOM",
+    "name": "atom",
+    "description": "ATOM is the native cryptocurrency of the Cosmos network, designed to facilitate interoperability between multiple blockchains through its innovative hub-and-spoke model.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
+    "coinGeckoId": "cosmos"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/3A4EDC24AEC3DF0CEF00DCCD67FB72072F94D79CABFFB307213D0D0CD3FB9003",
+    "symbol": "ATOM",
+    "name": "atom",
+    "description": "ATOM is the native cryptocurrency of the Cosmos network, designed to facilitate interoperability between multiple blockchains through its innovative hub-and-spoke model.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
+    "coinGeckoId": "cosmos"
   },
   {
     "type": "ibc",
@@ -71,33 +151,33 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/C7384093844BBCAC0C8E68B8A6B0C505B5D3A70065F73CD09E0FAD4DB3684FFF",
-    "symbol": "JUNO",
-    "name": "juno",
-    "description": "The native token of JUNO Chain",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/79f9def0d7428ed8b761a7c42dc5f7a3492367f014258935d72cbbe2d813a552.svg",
-    "coinGeckoId": "juno-network"
+    "denom": "ibc/1753B6095D8620AE0B28828DD43A098DC8B75D67CFEFD61A5BDDE9C6F4B060FA",
+    "symbol": "WFTM",
+    "name": "ftm",
+    "description": "Wrapped FTM on Axelar.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/e13335e4c2c5f64f9278c30407fe2283a73c9dc711425a43b4607c8331101bcd.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
-    "denom": "ibc/6B6476E4E4A47E4D30447B53642F583BB5F57603B2FB7E47C07EB2C188003B99",
-    "symbol": "EEUR",
-    "name": "eur",
-    "description": "e-Money EUR stablecoin. Audited and backed by fiat EUR deposits and government bonds.",
+    "denom": "ibc/85CBF6C43E7164B221A185EA11B4C2FF720F5A9849001F758CA1FBC48BEE06C3",
+    "symbol": "USDT",
+    "name": "usdt",
+    "description": "Tether's USD stablecoin on Axelar",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/8c52768e581d6ca2c73b6b9104c05d0e08c037291680f520b05f8176ab05ecc3.svg",
-    "coinGeckoId": "e-money-eur"
+    "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
+    "coinGeckoId": "axelar-usdt"
   },
   {
     "type": "ibc",
-    "denom": "ibc/4D56727F6B1D163D066DD1E52922DDF301A137E43F95BFB9D6B5828ECC877496",
-    "symbol": "stJUNO",
-    "name": "stjuno",
-    "description": "",
+    "denom": "ibc/686B4FE801A81ED9B46CC2E24FF3A7EA2E6A1E1A2A4D73BD7F2BC2866007AB0A",
+    "symbol": "ESEK",
+    "name": "sek",
+    "description": "e-Money SEK stablecoin. Audited and backed by fiat SEK deposits and government bonds.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/553e200543ab8c9fe84dd9f1bc86fc0fe075eb14ff4254f71d49fa3a56bd37cb.svg",
-    "coinGeckoId": "stride-staked-juno"
+    "image": "https://cdn.chainroot.io/images/tokens/0840871a699f3447da948190f0254c60414b7349e53a8f7216c27aaf2c0f369f.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -111,27 +191,37 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/FB57581C2E698C45AE811B2C31697EB3D3C34CD55F8996DDE1B9447D6E879ACD",
-    "symbol": "bNEO",
-    "name": "bneo",
-    "description": "bNEO token on Carbon",
-    "decimals": 8,
-    "image": "https://cdn.chainroot.io/images/tokens/d1f8f522eb18575507ad98d8a555002de054d3f909691503b59959b2ece2e942.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/A0286BD36D531FA181F723E905C61F0711F2F2973116F562AC6493A87BCAB959",
+    "denom": "ibc/3A358112B03AC25FAC52BEFF0C9A7BCE1A9EAC781EDADB5DCEE317B56EC0617C",
     "symbol": "USDC",
-    "name": "gusdc",
-    "description": "Gravity Bridge USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/d5b4a9ae52bab105a3a3d04814f9aa2e21dbc8a71181221172ebbe52cefd5c0b.svg",
-    "coinGeckoId": ""
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
   },
   {
     "type": "ibc",
-    "denom": "ibc/EA44A14190AD477FBAD9A1BFDE6301CEB63900B903B542F1B1430A8673CEABD8",
+    "denom": "ibc/1A322BBF046C36F73DE6A59489F848A1C8043C575BEC2CF1D506D853647282C1",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/DA6D390DC542DB6308129DE633CA0517FD83B1B79FE13CF5967648DF2432EAD0",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/86CEDCC50ABEDB49A745C57B4BAEEF432DBCA74F4B371D47E9B1E64FC2215E90",
     "symbol": "OSMO",
     "name": "osmo",
     "description": "The native token of Osmosis",
@@ -141,52 +231,72 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/D1FA84E693180A38A46CD72B0AF033A6C233AFCA384200D4DBFBFB296775D300",
-    "symbol": "BOOT",
-    "name": "boot",
-    "description": "The staking token of Bostrom",
-    "decimals": 0,
-    "image": "https://cdn.chainroot.io/images/tokens/9ae9d236f9612ebf72828cf90e5b51b9b993cdab6bd04e72762cc121eddcc871.svg",
-    "coinGeckoId": "bostrom"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/F66FFC1DFBE33CBB5C7BBEFFA43E5B0E0818C60148122C55FEA18865B8908069",
-    "symbol": "JUNO",
-    "name": "juno",
-    "description": "The native token of JUNO Chain",
+    "denom": "ibc/B43F6AF5DE48D73CD67A9B862180AEA4E56378CD86B15DCFB06A01308DE5450A",
+    "symbol": "ATOM",
+    "name": "atom",
+    "description": "ATOM is the native cryptocurrency of the Cosmos network, designed to facilitate interoperability between multiple blockchains through its innovative hub-and-spoke model.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/79f9def0d7428ed8b761a7c42dc5f7a3492367f014258935d72cbbe2d813a552.svg",
-    "coinGeckoId": "juno-network"
+    "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
+    "coinGeckoId": "cosmos"
   },
   {
     "type": "ibc",
-    "denom": "ibc/3F22A613E50801663258134742BEC2B9CFC66FAAB69903ABAE46E7C588926F91",
-    "symbol": "stATOM",
-    "name": "statom",
-    "description": "",
+    "denom": "ibc/6AD6D63B70C00DE0BE56771E1118649EA989BE98754E2F8CD6E234F457946D0B",
+    "symbol": "MED",
+    "name": "med",
+    "description": "Panacea is a public blockchain launched by MediBloc, which is the key infrastructure for reinventing the patient-centered healthcare data ecosystem",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/8952f870f7fecceb24d59b6e5e2cfba7235d513ea0cf5f5db6989352605b52b3.svg",
-    "coinGeckoId": "stride-staked-atom"
+    "image": "https://cdn.chainroot.io/images/tokens/5704064b4fe82ba526a26b6039bfbc734149b5845d966525607f4843a05c586f.svg",
+    "coinGeckoId": "medibloc"
   },
   {
     "type": "ibc",
-    "denom": "ibc/53AA89DDE289C457921C7994FFFE87763435C815F805B1975E7487289E2D5D70",
-    "symbol": "WBTC",
-    "name": "wbtc",
-    "description": "Wrapped Bitcoin on Axelar",
-    "decimals": 8,
-    "image": "https://cdn.chainroot.io/images/tokens/26347a436b3a51d83910af6c2e0b556d8f5f22387a785779b64c38a72da9b9bb.png",
-    "coinGeckoId": "axlwbtc"
+    "denom": "ibc/7B36215E36BB739ECAE9D1D996C4BDC58D72D8AC4BA96ACDA8A7477200D8C19E",
+    "symbol": "TIA",
+    "name": "tia",
+    "description": "Celestia is a modular blockchain network focused on data availability, allowing developers to deploy their own customizable blockchains with ease.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/63b9c41acf8957bc42561cd85132fbc75177d2879e5de3873470bd2bb4ec41b3.svg",
+    "coinGeckoId": "celestia"
   },
   {
     "type": "ibc",
-    "denom": "ibc/DB3CE83F4195CF2186F6FE114457A98139CA9ADC25A6AB317C727810BFDDFCA2",
-    "symbol": "HEART",
-    "name": "heart",
-    "description": "The native staking and governance token of Humans.ai.",
+    "denom": "ibc/15F6032F48C82692827456FE6A475D6AD29A4F5590EC6D7853F00EF7AB189B33",
+    "symbol": "NOM",
+    "name": "nom",
+    "description": "The native token of Onomy Protocol",
     "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/4d4277a12fba13e326af9ff64828a1a76fb00bc000ef321467364fae2aa766fd.svg",
-    "coinGeckoId": "humans-ai"
+    "image": "https://cdn.chainroot.io/images/tokens/6a875e238b3ac2b57c22f5b35df99571b887f3b8e36729dd7f50dd80b40fa409.svg",
+    "coinGeckoId": "onomy-protocol"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/C06A34E2B426A0AE967371470557E0B6F4102CC9CDC79F47F53DDB6871E38C28",
+    "symbol": "KAVA",
+    "name": "kava",
+    "description": "Kava is a decentralized finance (DeFi) platform that provides a range of financial services, including lending, borrowing, and stablecoins, leveraging the Cosmos and Ethereum ecosystems.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/a516e8c8ce681c3cbdfd1cd699a5d9a002bec3d002344cb13c956f6e6d2ed9da.svg",
+    "coinGeckoId": "kava"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/99C472A8DC95EEFA506537D024FC9DD641C6A637328EC27106E181C623A1A490",
+    "symbol": "AKT",
+    "name": "akt",
+    "description": "Akash Network is a decentralized cloud computing marketplace that connects users with unused computing resources, offering a cost-effective alternative to traditional cloud providers.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/33d728dfd3351a640e4f316dcadbc5e50dfdb4a3798bb74e9485f74585cf0245.svg",
+    "coinGeckoId": "akash-network"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/A4036FDF6801B20F34B1CB8B7CDB1B22E34651500E4416081A215113AC037674",
+    "symbol": "OSMO",
+    "name": "osmo",
+    "description": "The native token of Osmosis",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/e053406240eac4d978a66008f0551daa497be489fba6c5840e5cd073bd6fcd94.svg",
+    "coinGeckoId": "osmosis"
   }
 ]

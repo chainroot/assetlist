@@ -301,16 +301,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/7FC1E7E7E74645C70C636BCA925C29849BAD8AE4F3D2FD1B70F9542CB9A854D4",
-    "symbol": "BAD",
-    "name": "bad",
-    "description": "Baddest coin on Cosmos",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/bb5259ff3b3c00c33666a10e6254809919323a792b6dc870a5c1a710d2c94c07.png",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/3BD86E80E000B52DA57C474A6A44E37F73D34E38A1FA79EE678E08D119FC555B",
     "symbol": "OM",
     "name": "om",
@@ -318,6 +308,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/6f04ed152724ef3ef7fbcceb0a038b5a97b82ce8575d96e5b6de014fe6b0a363.svg",
     "coinGeckoId": "mantra-dao"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/7FC1E7E7E74645C70C636BCA925C29849BAD8AE4F3D2FD1B70F9542CB9A854D4",
+    "symbol": "BAD",
+    "name": "bad",
+    "description": "Baddest coin on Cosmos",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/bb5259ff3b3c00c33666a10e6254809919323a792b6dc870a5c1a710d2c94c07.png",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
