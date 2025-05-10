@@ -1,6 +1,6 @@
 {
     "chain_name": "Bitcoin Signet",
-    "chain_image": "https://cdn.chainroot.io/images/tokens/chain_bitcoin-signet.png",
+    "chain_image": "https://cdn.chainroot.io/images/tokens/chain_bitcoin-testnet.png",
     "main_asset_denom" : "sbtc",
     "main_asset_symbol" : "sBTC",
     "main_asset_image": "https://cdn.chainroot.io/images/tokens/btc.png",

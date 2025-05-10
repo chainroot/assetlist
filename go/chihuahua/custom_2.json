@@ -171,16 +171,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/1ABC53B2BB5F76F5DE57F6A6640DAC100F5D078075768115FC3B8E83C54FD9FF",
-    "symbol": "ampWHALE",
-    "name": "ampWHALE",
-    "description": "ampWHALE",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/f003573c99e022772de4fcbd6c45eab4cae1c26fe00fd23ee128a86257542c8c.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/432CB7245E79C5C064FEC36914CD1614E4CAE9A66E5C5335AB7E750830261300",
     "symbol": "ROAR",
     "name": "roar",
@@ -188,6 +178,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/b1eefb34a5b9ca56fcf188eea2837c1b6d05eb740a8ffcbe2293dc4d0a78b3ec.png",
     "coinGeckoId": "lion-dao"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/1ABC53B2BB5F76F5DE57F6A6640DAC100F5D078075768115FC3B8E83C54FD9FF",
+    "symbol": "ampWHALE",
+    "name": "ampWHALE",
+    "description": "ampWHALE",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f003573c99e022772de4fcbd6c45eab4cae1c26fe00fd23ee128a86257542c8c.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",

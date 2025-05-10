@@ -591,22 +591,22 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/2B48E372A36B34F7F81AE717F3805535CB553E3419DF0545B39516E8A941D3DE",
-    "symbol": "wstETH",
-    "name": "wstETH",
-    "description": "wstETH on Neutron",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/195ac6e06829bd28be1067a0c4eedc8e749efd9bc4ab6326fbaf227bcca070c8.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/190648E2CCB7B78F2A171C6E43F126DCF7E977ED073AC7D6D331EFD59A78CC5C",
     "symbol": "PAXG",
     "name": "gpaxg",
     "description": "Gravity Bridge Paxos Gold",
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/094008bda0e3c88474ef426dda6d78915be787631ebd0758d02b7f734901f083.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/2B48E372A36B34F7F81AE717F3805535CB553E3419DF0545B39516E8A941D3DE",
+    "symbol": "wstETH",
+    "name": "wstETH",
+    "description": "wstETH on Neutron",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/195ac6e06829bd28be1067a0c4eedc8e749efd9bc4ab6326fbaf227bcca070c8.svg",
     "coinGeckoId": ""
   },
   {
@@ -711,16 +711,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/E35DA08E7BEF94E658C961F7BDC4F7E81731C565E09B92B2BA2B195B25778662",
-    "symbol": "WETH",
-    "name": "weth",
-    "description": "Wrapped Ether on Axelar",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/15dcdac9407b9a3fc6702bd2abde9fb3b47671997bc46fb594d65e4e982786c7.png",
-    "coinGeckoId": "axlweth"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/782817D588181841C9EB508E14B9A8A984E21590B83FEAC86BB44B0BA58C37F5",
     "symbol": "CHEQ",
     "name": "cheq",
@@ -811,33 +801,23 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/590CE97A3681BC2058FED1F69B613040209DF3F17B7BD31DFFB8671C4D2CD99B",
-    "symbol": "SHD",
-    "name": "shd",
-    "description": "The native token cw20 for Shade on Secret Network",
-    "decimals": 8,
-    "image": "https://cdn.chainroot.io/images/tokens/cc21653a32d2dddc9d3a38fb2cbad4f8997dbf7403f1e4e05c06000b639ee852.svg",
-    "coinGeckoId": "shade-protocol"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/47212EE247EF64B87B0A7F61901CCF1EC05AC25DA0BA1989EA4A28955CD4FE8E",
-    "symbol": "BNB",
-    "name": "bnb",
-    "description": "BNB token on Carbon",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/a9b3956da08457d9e3bbd324fc21a950102261077428e261a523ab07ffc60331.svg",
+    "denom": "ibc/B618D0F4CBB4AF5E21B4FF163CCBFBC278C037D1DA3E1D848EDF32716A216BE4",
+    "symbol": "GLTO",
+    "name": "glto",
+    "description": "DeFi gaming platform built on Juno",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7d4108df024d1d8716ca9d51cce7bf1f82fb520f0b48db39adde375ba171c609.svg",
     "coinGeckoId": ""
   },
   {
     "type": "ibc",
-    "denom": "ibc/8318B7E036E50C0CF799848F23ED84778AAA8749D9C0BCD4FF3F4AF73C53387F",
-    "symbol": "LOOP",
-    "name": "loop",
-    "description": "The native token cw20 for Loop Finance on Juno Chain",
+    "denom": "ibc/640E1C3E28FD45F611971DF891AE3DC90C825DF759DF8FAA8F33F7F72B35AD56",
+    "symbol": "ASTRO.cw20",
+    "name": "astro.cw20",
+    "description": "Astroport is a neutral marketplace where anyone, from anywhere in the galaxy, can dock to trade their wares.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/3af2444d8d65480263eb3bc3f426742c1831e76dc9145441818238170617ad13.png",
-    "coinGeckoId": "loop"
+    "image": "https://cdn.chainroot.io/images/tokens/4d0dd6374e75c0e56c3924fd4252b881507580341e732330558709c9b3d7c277.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -851,43 +831,23 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/CF90BCBEDFF409F9187A0C3A69C1082D56908DC3F7FC342ED82455A504AD8AA9",
-    "symbol": "DVPN",
-    "name": "dvpn",
-    "description": "Sentinel is a decentralized VPN (dVPN) network that provides private and secure internet access by leveraging blockchain technology.",
+    "denom": "ibc/5D98FB84A053607675006ED29A165F67B51FDFCEDDBEE1CFCB0F36BE5A78E44C",
+    "symbol": "sqOSMO",
+    "name": "sqosmo",
+    "description": "Margined Power Token sqOSMO",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/7a3905dcc2698978708d7c48b563436e57eb9f03b31440589fee31adf3c218db.svg",
-    "coinGeckoId": "sentinel"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/21F041CFE99994E0D027D0C5F72A9EB6224CBCAF5A6AD5DDB75F67A781D46C68",
-    "symbol": "WHALE",
-    "name": "whale",
-    "description": "Migaloo is a cosmwasm-powered, permissionless blockchain designed to build decentralized applications with a focus on interchain liquidity solutions.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/516ed75052338f9ed271f0b26f6090dfa1ed4acb81067b03b45c97222853a3da.svg",
-    "coinGeckoId": "white-whale"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/3CF31CB1729FD2011718F66B20861D23A7FB6492C29FFADE2C1E58D10C3D225F",
-    "symbol": "NEWT",
-    "name": "newt",
-    "description": "The cutest NEWT token on Neutron chain.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/c8e76561d8e1514fe88756d28f63656e3a2b21cc350a217fac8a761916b8c35e.png",
-    "coinGeckoId": "newt"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/2EDD873C800111E6997DD01721079A0BA961DC79B1DE367FBA043BAC45C556F4",
-    "symbol": "OX",
-    "name": "ox",
-    "description": "",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/171c7583cb6d6ddd3a2687638bc297b8ee4037af6b3e85f8e20d551947cb52c6.svg",
+    "image": "https://cdn.chainroot.io/images/tokens/9836891aec04bacd22d5302b7601f14043982ce75e9316465af2cd9b7f6eeac3.svg",
     "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/384D64FE5F0ED7D4CAA46490AA65C28DEF3B8363FED9D23A500C059CC5FCE143",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
   },
   {
     "type": "ibc",
@@ -901,7 +861,77 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/A77E2AFE4F353AA7709519F80FF30DD8DB769E48782126EFFC19003A502CE0A8",
+    "denom": "ibc/B64A07C006C0F5E260A8AD50BD53568F1FD4A0D75B7A9F8765C81BEAFDA62053",
+    "symbol": "LVN",
+    "name": "lvn",
+    "description": "Levana Well-funded Perps is a protocol for perpetual swaps, which are leveraged trading contracts.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/d4b74abb24cc5ededa0b2fd76431824bc634119cac0a4dc029a9921388602d5d.svg",
+    "coinGeckoId": "levana-protocol"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/AB5A3681C25F2FEE9F167C0345D6E7C52DBDFE6D6ADD38A76BF6A0028F42426D",
+    "symbol": "ANDR",
+    "name": "andr",
+    "description": "The native staking and governance token of Andromeda",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/fa2f0049c733c83a51bf71cf5e841b832087b49e3e79c871c6ba19f17c6a9f56.png",
+    "coinGeckoId": "andromeda-2"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/E0C7F36BFCEE38D8B2BF70B12046B7B3388B2D603EABD547DC5CCF99D160294E",
+    "symbol": "COSMO",
+    "name": "COSMO",
+    "description": "Cosmo is the best currency in the universe.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/bef990e9d2a34c122cdc2c771e179c100f59ade122dfe4c70358c1b4b97c3305.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/173E561B8E97AB49FBA540663C1D02DC1B2D2871B5C8434935982CB15B0C7765",
+    "symbol": "NTRN",
+    "name": "ntrn",
+    "description": "Neutron is a smart contract blockchain within the Cosmos ecosystem, leveraging the Cosmos Hub's security to provide cross-chain DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/bcc7880c69cc88313d52a96ce2f7e780a98c5e8a5b86e7318667fd5eabe34c4c.svg",
+    "coinGeckoId": "neutron-3"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/95531EBDDBA04EDD1341EF7BB84AD44145F0EAA1345D1FA83BE51EFE19EE01DD",
+    "symbol": "KRTC",
+    "name": "krt",
+    "description": "The KRW stablecoin of Terra Classic.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/d0bc5c64140b4778e7d38fa0dc2b82a9e2fb49efbbfb03d342a939d31194d400.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/BD9492BC1470FA29CBAEB39BB384CAA2030B190362D0A16641465FCFD8A59FB2",
+    "symbol": "Bonk",
+    "name": "wormhole/95mnwzvJZJ3fKz77xfGN2nR5to9pZmH8YNvaxgLgw5AR/5",
+    "description": "Bonk (Wormhole), Bonk, factory/wormhole14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/95mnwzvJZJ3fKz77xfGN2nR5to9pZmH8YNvaxgLgw5AR",
+    "decimals": 5,
+    "image": "https://cdn.chainroot.io/images/tokens/157d3e48b996e0cfdb789a60b81b544a68dd5b5cba5b72e068aeca0f8fe90263.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/15FF6DF1FA1790C9199EDB6F6DAAE0EEE93BA22B3B4E9326282C389074098B8A",
+    "symbol": "FLIX",
+    "name": "flix",
+    "description": "OmniFlix is a decentralized media platform that enables content creators to distribute, monetize, and manage their digital content using blockchain technology.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/5b1f270194315b91c0282ed58501cf2f454756d248fe1f8e4f1c48d20e3edafa.svg",
+    "coinGeckoId": "omniflix-network"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/407A403AD461D5CEBEF7205A5672188573DC53DBF8E6AA831CC4CB46F2321201",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
@@ -911,52 +941,22 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/47B9460DB83EF85065B43266910645FEB8D2BC1CD5CAC970823E4D749797BC6F",
-    "symbol": "MEME",
-    "name": "meme",
-    "description": "MEME Token (MEME) is the native staking token of the MEME Chain",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/dd1d7ee548e9c846003a19195f3c9cab18365b330deffdce9c5ad3230940ed36.svg",
-    "coinGeckoId": "meme-network"
+    "denom": "ibc/4DE6AC8B943681C7A31EA0EC621760EF6FD23D569AAEB88EE9BC9B86EB0AA832",
+    "symbol": "SWTH",
+    "name": "dswth",
+    "description": "The native governance token of Carbon",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/9772f246b16fb294e55abae93bc5994b37b1f662fbda84fe6a6c87db3cc866f2.svg",
+    "coinGeckoId": "switcheo"
   },
   {
     "type": "ibc",
-    "denom": "ibc/1441D4687B8D88767562DC95A465C0D070BEEFE72324AC769844D07D9C6BE74E",
-    "symbol": "ION",
-    "name": "ion",
-    "description": "ION is the second native token of Osmosis.",
+    "denom": "ibc/F535FE1A4EB96E3A6B45153B1187AC9B8BBEB2D230AEFBD196862BF421B92BAF",
+    "symbol": "stATOM",
+    "name": "statom",
+    "description": "",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/783677c916fdd15fd616c45e64d59f1ccfdb8e583ec24a0a1302454aa387603f.svg",
-    "coinGeckoId": "ion"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/F3294DC3655AC72DC643A0264314C686C27192510BD5FC295892AD85E65991BA",
-    "symbol": "OSMO",
-    "name": "osmo",
-    "description": "The native token of Osmosis",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/e053406240eac4d978a66008f0551daa497be489fba6c5840e5cd073bd6fcd94.svg",
-    "coinGeckoId": "osmosis"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/423DE4133F8676069BC9550FF251F1F870F6885621C8E363A9F70257BF3AA638",
-    "symbol": "AUTISM",
-    "name": "autism",
-    "description": "$AUTISM exists to celebrate autism as a superior biological tech stack for a changing world",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/96a43f35618490fd361f9935c69377b71bcfc1218270db081b265dda915eec96.png",
-    "coinGeckoId": "autism"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/FE2B3234867CA424022E11AB4FB4A5D65AD2AFD666C1026F293822C92B42021C",
-    "symbol": "stkOSMO",
-    "name": "stkosmo",
-    "description": "PSTAKE Liquid-Staked OSMO",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/155ebcf460c0b7cd361b44252ab2e062793a1bde3cbacf1ee0233f7eb06873f9.svg",
-    "coinGeckoId": "pstake-staked-osmo"
+    "image": "https://cdn.chainroot.io/images/tokens/8952f870f7fecceb24d59b6e5e2cfba7235d513ea0cf5f5db6989352605b52b3.svg",
+    "coinGeckoId": "stride-staked-atom"
   }
 ]
