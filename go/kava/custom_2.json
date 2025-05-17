@@ -11,13 +11,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/504AB5ACDC94480E27C4ECCCFB9E0468A0AF5C0AF6E7CF9BB504DE54C3D8E7DB",
-    "symbol": "DYDX",
-    "name": "dydx",
-    "description": "DYDX is a decentralized trading platform focused on derivatives and perpetual contracts, offering a secure and efficient trading experience without intermediaries.",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/0cd48cdfcd49902807eb50da7db148b648470cf80daaf35482402ae8e0c504d6.svg",
-    "coinGeckoId": "dydx-chain"
+    "denom": "ibc/B3E1B03051272C16FDBE18F539E497223E64CA32A8C69863E7012378B77412D5",
+    "symbol": "HARD",
+    "name": "HARD",
+    "description": "Governance token of Kava Lend Protocol",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/23277c86ed9fc687ca1717a0e4df8360f3f1f0f73f5296c2a689d676f35199a0.svg",
+    "coinGeckoId": "kava-lend"
   },
   {
     "type": "ibc",
@@ -31,32 +31,42 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/799FDD409719A1122586A629AE8FCA17380351A51C1F47A80A1B8E7F2A491098",
-    "symbol": "AKT",
-    "name": "akt",
-    "description": "Akash Network is a decentralized cloud computing marketplace that connects users with unused computing resources, offering a cost-effective alternative to traditional cloud providers.",
+    "denom": "ibc/0188B2B71988545E491C5AE008562D8C7CE9B43AE2DE4B1C482AFCFB0B44FD30",
+    "symbol": "UMEE",
+    "name": "umee",
+    "description": "The native token of Umee",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/33d728dfd3351a640e4f316dcadbc5e50dfdb4a3798bb74e9485f74585cf0245.svg",
-    "coinGeckoId": "akash-network"
+    "image": "https://cdn.chainroot.io/images/tokens/9d5325ca8b382d8836719bb3889fd12729e3e2855edf892245b7e6e27679a40a.svg",
+    "coinGeckoId": "umee"
   },
   {
     "type": "ibc",
-    "denom": "ibc/815FC81EB6BD612206BD9A9909A02F7691D24A5B97CDFE2124B1BDCA9D4AB14C",
-    "symbol": "LUNC",
-    "name": "luna",
-    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "denom": "ibc/2A38426E8BB4B66F0F910C3CCF09CD95A8381453F869E96A966FF13055C9D886",
+    "symbol": "BLD",
+    "name": "bld",
+    "description": "Agoric is a smart contract platform that uses JavaScript to enable developers to build secure and scalable decentralized applications (dApps) easily.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
-    "coinGeckoId": "terra-luna"
+    "image": "https://cdn.chainroot.io/images/tokens/d1f382622adbce914256c6e66e2fd73a2e0f123a5f6bc09e1642a31612cb57f3.svg",
+    "coinGeckoId": "agoric"
   },
   {
     "type": "ibc",
-    "denom": "ibc/34F518637AA8535072B918F6270AC25501DEF920CB0C25A505EA81B3DC534466",
+    "denom": "ibc/32EBA8A841CB2F76702CD7922305FD2E9848C8896D51829955024C8175EBC46D",
     "symbol": "USTC",
     "name": "ust",
     "description": "The USD stablecoin of Terra Classic.",
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/bbf7ad631fa51027777b71c54feda0517f9f112a5f42edad9c584fb9724561cb.svg",
     "coinGeckoId": "terrausd"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/5D402014410873293DC65A98479E51C3750CCCB5F5564BC7BF2DE3037ACB9042",
+    "symbol": "USDT",
+    "name": "gusdt",
+    "description": "Gravity Bridge USDT",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
+    "coinGeckoId": ""
   }
 ]
