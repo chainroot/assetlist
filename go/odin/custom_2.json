@@ -1,0 +1,222 @@
+[
+  {
+    "type": "ibc",
+    "denom": "ibc/89862E9F36DC890882048B097C31746F83D2539EBC3B3797B57BD8DEAA152BEE",
+    "symbol": "DOKI",
+    "name": "doki",
+    "description": "DOKI the last Dragon",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/09622835a88c8fa7fb4a2eb653c00357a0fe1d74710f066da9472dc904f44f0c.png",
+    "coinGeckoId": "doki"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/CB4008CA0C90FCFD3D74559A89066D50690FE0C3633A9AE81FA00D0B4149850E",
+    "symbol": "COSMO",
+    "name": "COSMO",
+    "description": "Cosmo is the best currency in the universe.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/bef990e9d2a34c122cdc2c771e179c100f59ade122dfe4c70358c1b4b97c3305.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/1C625764D5331DFD1D7A00A8AEFB6AD8E88EFF3B4E60EE1E1F5225EF6CB312EF",
+    "symbol": "DOKI",
+    "name": "doki",
+    "description": "DOKI the last Dragon",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/09622835a88c8fa7fb4a2eb653c00357a0fe1d74710f066da9472dc904f44f0c.png",
+    "coinGeckoId": "doki"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/399F0270C45EA56BAFF2A577EAD41CF51CA1090580AD00AF71B2D5E8F37373F7",
+    "symbol": "DOKI",
+    "name": "doki",
+    "description": "DOKI the last Dragon",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/09622835a88c8fa7fb4a2eb653c00357a0fe1d74710f066da9472dc904f44f0c.png",
+    "coinGeckoId": "doki"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/BA1B1AA2CC4FCDEF5A23A0399A95E5C680B90A60C9AAADABD0294447B5E46F89",
+    "symbol": "ODIN",
+    "name": "odin",
+    "description": "ODIN is the Staking and governance token for ODIN Protocol",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/4466eadd0c642a34f8e888b430eae753e3a262a2de741ac91bf468db1ddc29eb.svg",
+    "coinGeckoId": "odin-protocol"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/8DFECC3EA89AD9984D78B068609E6DB70B3E20441129B9E424E4DE219FBBF2E7",
+    "symbol": "ODIN",
+    "name": "odin",
+    "description": "ODIN is the Staking and governance token for ODIN Protocol",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/4466eadd0c642a34f8e888b430eae753e3a262a2de741ac91bf468db1ddc29eb.svg",
+    "coinGeckoId": "odin-protocol"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/029760651227E40B17BC110593420E02E13FD75DBC6FCF52894F53BF4EFD95B6",
+    "symbol": "DOKI",
+    "name": "doki",
+    "description": "DOKI the last Dragon",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/09622835a88c8fa7fb4a2eb653c00357a0fe1d74710f066da9472dc904f44f0c.png",
+    "coinGeckoId": "doki"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/EBBB2E5158D3144256D98738A90E18D468EF01F88032CBF3F0B503C3A860D534",
+    "symbol": "ODIN",
+    "name": "odin",
+    "description": "ODIN is the Staking and governance token for ODIN Protocol",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/4466eadd0c642a34f8e888b430eae753e3a262a2de741ac91bf468db1ddc29eb.svg",
+    "coinGeckoId": "odin-protocol"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/DCC909CBB4C0BD9DC8FFFE77C8F5E095C682F73CAF45199A5A9BCB1896056BE3",
+    "symbol": "ODIN",
+    "name": "odin",
+    "description": "ODIN is the Staking and governance token for ODIN Protocol",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/4466eadd0c642a34f8e888b430eae753e3a262a2de741ac91bf468db1ddc29eb.svg",
+    "coinGeckoId": "odin-protocol"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/E15CD55FDA422C4AACC5A7EC6A2363F5AB8EFFE4FB7C6A70ED889F169C468CD3",
+    "symbol": "ODIN",
+    "name": "odin",
+    "description": "ODIN is the Staking and governance token for ODIN Protocol",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/4466eadd0c642a34f8e888b430eae753e3a262a2de741ac91bf468db1ddc29eb.svg",
+    "coinGeckoId": "odin-protocol"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/C4BE30A03C8FA2274C3C80C751F0517B538BB419546370C6DB19D32417CA3E3D",
+    "symbol": "KUJI",
+    "name": "kuji",
+    "description": "Kujira is a decentralized finance (DeFi) platform offering a suite of tools and services for managing and optimizing digital assets and investments.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9b4df5623b76ae925d1947e3d154d0f88fb1d194ff62673d6af8bc0a77e6a71a.svg",
+    "coinGeckoId": "kujira"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/9ACD9712885E625F34CD9A8DF2436D4B7F9168E2855E8F11551511AED830155E",
+    "symbol": "ODIN",
+    "name": "odin",
+    "description": "ODIN is the Staking and governance token for ODIN Protocol",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/4466eadd0c642a34f8e888b430eae753e3a262a2de741ac91bf468db1ddc29eb.svg",
+    "coinGeckoId": "odin-protocol"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/B063BCBCD45084893C9889EBE472D666F7E6F56300897DCECDFD7EB88C3E8609",
+    "symbol": "USDT",
+    "name": "usdt",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
+    "coinGeckoId": "tether"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/086A8823881CE8F7F0499D8328FD477946FC80840FB1151F9DA829D55297A758",
+    "symbol": "ODIN",
+    "name": "odin",
+    "description": "ODIN is the Staking and governance token for ODIN Protocol",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/4466eadd0c642a34f8e888b430eae753e3a262a2de741ac91bf468db1ddc29eb.svg",
+    "coinGeckoId": "odin-protocol"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/9E3EB38E5E157AEBFF4A8EAC66E654BC8ECFCB1F758F4D1C0F2D65945E9E2935",
+    "symbol": "JUNO",
+    "name": "juno",
+    "description": "The native token of JUNO Chain",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/79f9def0d7428ed8b761a7c42dc5f7a3492367f014258935d72cbbe2d813a552.svg",
+    "coinGeckoId": "juno-network"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/B909B5A4A11FE9E896764B2FFADB06F1FEB1AC78503920FB87E95EE793C30DA6",
+    "symbol": "OSMO",
+    "name": "osmo",
+    "description": "The native token of Osmosis",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/e053406240eac4d978a66008f0551daa497be489fba6c5840e5cd073bd6fcd94.svg",
+    "coinGeckoId": "osmosis"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/21B802FD21F2A9CB6165DCF352C049DF991F20E62A8CE0AD4D83E0B032DDC8AB",
+    "symbol": "OSMO",
+    "name": "osmo",
+    "description": "The native token of Osmosis",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/e053406240eac4d978a66008f0551daa497be489fba6c5840e5cd073bd6fcd94.svg",
+    "coinGeckoId": "osmosis"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/1F6F47BC4AF41C7F767DD84D9387BC6058FCFEEF0C6D0D6E6C53DA23A761D139",
+    "symbol": "AXL",
+    "name": "axl",
+    "description": "Axelar is a decentralized interoperability network connecting multiple blockchain ecosystems, enabling seamless cross-chain communication and value transfer.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
+    "coinGeckoId": "axelar"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/1F53FB83B5A8A188166CB02938AC4A5107BE9229399D0ED83034FE87F8023F0B",
+    "symbol": "ODIN",
+    "name": "odin",
+    "description": "ODIN is the Staking and governance token for ODIN Protocol",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/4466eadd0c642a34f8e888b430eae753e3a262a2de741ac91bf468db1ddc29eb.svg",
+    "coinGeckoId": "odin-protocol"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/946B30A3EAF0C3E0660F86BF40226276C2C50EFDB70B5CF4FEB4C51A6CA3A874",
+    "symbol": "JUNO",
+    "name": "juno",
+    "description": "The native token of JUNO Chain",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/79f9def0d7428ed8b761a7c42dc5f7a3492367f014258935d72cbbe2d813a552.svg",
+    "coinGeckoId": "juno-network"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/2460D592925F9ED2B2D37A04F24E2B169B790E228310DD5CFA46511702520668",
+    "symbol": "OSMO",
+    "name": "osmo",
+    "description": "The native token of Osmosis",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/e053406240eac4d978a66008f0551daa497be489fba6c5840e5cd073bd6fcd94.svg",
+    "coinGeckoId": "osmosis"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/FA54CB1C80E4094E2CB72A2B998C8BA69C32463B481FA98DD53216FA9DE7DB50",
+    "symbol": "ETH",
+    "name": "eth",
+    "description": "Ethereum is a decentralized blockchain platform for running smart contracts and dApps, with Ether (ETH) as its native cryptocurrency, enabling a versatile ecosystem beyond just digital currency.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/af33707625a9a948852514d2ffd2f99d2d8cfc603bca373190a152522fdb1c0c.svg",
+    "coinGeckoId": "ethereum"
+  }
+]

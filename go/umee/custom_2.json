@@ -61,16 +61,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/3F972A6BFE64248AF19C9328FA59A1270CBC57D4545A099860E035C2BA4C79FD",
-    "symbol": "sfrxETH",
-    "name": "sfrxeth",
-    "description": "",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/16495ceff14fbca3a8e2ce368fadb166405d3ca766681ce4234ac193c151e63d.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/04CE51E6E02243E565AE676DD60336E48D455F8AAD0611FA0299A22FDAC448D6",
     "symbol": "WETH",
     "name": "weth",
@@ -78,6 +68,16 @@
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/15dcdac9407b9a3fc6702bd2abde9fb3b47671997bc46fb594d65e4e982786c7.png",
     "coinGeckoId": "axlweth"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/3F972A6BFE64248AF19C9328FA59A1270CBC57D4545A099860E035C2BA4C79FD",
+    "symbol": "sfrxETH",
+    "name": "sfrxeth",
+    "description": "",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/16495ceff14fbca3a8e2ce368fadb166405d3ca766681ce4234ac193c151e63d.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
