@@ -11,27 +11,67 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/504AB5ACDC94480E27C4ECCCFB9E0468A0AF5C0AF6E7CF9BB504DE54C3D8E7DB",
-    "symbol": "DYDX",
-    "name": "dydx",
-    "description": "DYDX is a decentralized trading platform focused on derivatives and perpetual contracts, offering a secure and efficient trading experience without intermediaries.",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/0cd48cdfcd49902807eb50da7db148b648470cf80daaf35482402ae8e0c504d6.svg",
-    "coinGeckoId": "dydx-chain"
+    "denom": "ibc/9D61880BE44FD804422D76432B9B37DA6FE6F58B30F039BD3F289E3806698A8E",
+    "symbol": "ION",
+    "name": "ion",
+    "description": "ION is the second native token of Osmosis.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/783677c916fdd15fd616c45e64d59f1ccfdb8e583ec24a0a1302454aa387603f.svg",
+    "coinGeckoId": "ion"
   },
   {
     "type": "ibc",
-    "denom": "ibc/F63DEC0CD762E1B258767C2D8E91362315483A638FFF8B30DCEE81C49C9725B1",
-    "symbol": "DAI",
-    "name": "dai",
-    "description": "Dai stablecoin on Axelar",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/db618306455a7810b99692ac2f71e55e56619b8ad2b260b6a93ab837e460e694.svg",
+    "denom": "ibc/5149EACA571130C26F97CB76E83EA0BDB408B47620A8D167B945344E645657E1",
+    "symbol": "KAVA",
+    "name": "kava",
+    "description": "Kava is a decentralized finance (DeFi) platform that provides a range of financial services, including lending, borrowing, and stablecoins, leveraging the Cosmos and Ethereum ecosystems.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/a516e8c8ce681c3cbdfd1cd699a5d9a002bec3d002344cb13c956f6e6d2ed9da.svg",
+    "coinGeckoId": "kava"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/7DEDD3AA65F1E9391577EBDABF08921702BB205113203FAD3C4025D02DBD772E",
+    "symbol": "USDX",
+    "name": "USDX",
+    "description": "The native stablecoin of Kava",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7b8ab547135d8a29bc31f67c99b98699d9e79a450ed9914e5cad342e0f9cb240.svg",
+    "coinGeckoId": "usdx"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/DF713D1244E7EB14668844AA21AF8D5A588BCECECDD8AA9F412A211479FB1FA4",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/5D402014410873293DC65A98479E51C3750CCCB5F5564BC7BF2DE3037ACB9042",
+    "symbol": "USDT",
+    "name": "gusdt",
+    "description": "Gravity Bridge USDT",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
     "coinGeckoId": ""
   },
   {
     "type": "ibc",
-    "denom": "ibc/799FDD409719A1122586A629AE8FCA17380351A51C1F47A80A1B8E7F2A491098",
+    "denom": "ibc/8E71F7DF0212F618E545B2748D8BEBCC8B225FD278382DBEED33FEAC4E3DD5FD",
+    "symbol": "HARD",
+    "name": "HARD",
+    "description": "Governance token of Kava Lend Protocol",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/23277c86ed9fc687ca1717a0e4df8360f3f1f0f73f5296c2a689d676f35199a0.svg",
+    "coinGeckoId": "kava-lend"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/3B9D1A08908D1920634F59847445A8E70E7EFF388F1D15616B3EA987C249B550",
     "symbol": "AKT",
     "name": "akt",
     "description": "Akash Network is a decentralized cloud computing marketplace that connects users with unused computing resources, offering a cost-effective alternative to traditional cloud providers.",
@@ -41,22 +81,12 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/815FC81EB6BD612206BD9A9909A02F7691D24A5B97CDFE2124B1BDCA9D4AB14C",
-    "symbol": "LUNC",
-    "name": "luna",
-    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "denom": "ibc/1E5DB30671419376D4A0F8A9700A35C3F4AFA2AC9B95D44E0F1C91A5B0AE9C80",
+    "symbol": "USDT",
+    "name": "usdt",
+    "description": "",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
-    "coinGeckoId": "terra-luna"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/34F518637AA8535072B918F6270AC25501DEF920CB0C25A505EA81B3DC534466",
-    "symbol": "USTC",
-    "name": "ust",
-    "description": "The USD stablecoin of Terra Classic.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/bbf7ad631fa51027777b71c54feda0517f9f112a5f42edad9c584fb9724561cb.svg",
-    "coinGeckoId": "terrausd"
+    "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
+    "coinGeckoId": "tether"
   }
 ]

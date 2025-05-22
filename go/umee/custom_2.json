@@ -31,22 +31,22 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/22E87111ECA3808AFA83FC5639C564230EA62A768772C357A70CF687AB55C53A",
-    "symbol": "stDYDX",
-    "name": "stDYDX",
-    "description": "Stride's liquid staked DYDX",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/8b20e640142bf7e1dee700972d857f29fffe01b14aa0db763a397d99c3361845.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/FAEC929814E0D916C019EB4B8BE58360EC3B6AB6A2B3185CB1EA0B54832DEE68",
     "symbol": "WMATIC",
     "name": "wmatic",
     "description": "Wrapped Matic on Axelar",
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/bf81bb5509d397d93705112cdf2b191085c96ae16f64f144aace3128bbbce029.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/22E87111ECA3808AFA83FC5639C564230EA62A768772C357A70CF687AB55C53A",
+    "symbol": "stDYDX",
+    "name": "stDYDX",
+    "description": "Stride's liquid staked DYDX",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/8b20e640142bf7e1dee700972d857f29fffe01b14aa0db763a397d99c3361845.svg",
     "coinGeckoId": ""
   },
   {
@@ -61,16 +61,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/3F972A6BFE64248AF19C9328FA59A1270CBC57D4545A099860E035C2BA4C79FD",
-    "symbol": "sfrxETH",
-    "name": "sfrxeth",
-    "description": "",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/16495ceff14fbca3a8e2ce368fadb166405d3ca766681ce4234ac193c151e63d.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/04CE51E6E02243E565AE676DD60336E48D455F8AAD0611FA0299A22FDAC448D6",
     "symbol": "WETH",
     "name": "weth",
@@ -78,6 +68,16 @@
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/15dcdac9407b9a3fc6702bd2abde9fb3b47671997bc46fb594d65e4e982786c7.png",
     "coinGeckoId": "axlweth"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/3F972A6BFE64248AF19C9328FA59A1270CBC57D4545A099860E035C2BA4C79FD",
+    "symbol": "sfrxETH",
+    "name": "sfrxeth",
+    "description": "",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/16495ceff14fbca3a8e2ce368fadb166405d3ca766681ce4234ac193c151e63d.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -671,7 +671,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/FF7BFBF92F099F137C61A22D2801E32B15694FF41D73FC893B8F9AB5A8FC3527",
+    "denom": "ibc/5CE69DEA5377910199E3BCA19ABFC41F2F9820F1E75591E36222C7996763AF35",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
@@ -681,7 +681,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/5CE69DEA5377910199E3BCA19ABFC41F2F9820F1E75591E36222C7996763AF35",
+    "denom": "ibc/FF7BFBF92F099F137C61A22D2801E32B15694FF41D73FC893B8F9AB5A8FC3527",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
@@ -911,16 +911,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/2CB7467E9AF4AEC7EC0706269E23E11B1D50EA23C64B2EC2C3937F5EF6185CCC",
-    "symbol": "USDT",
-    "name": "usdt",
-    "description": "Tether's USD stablecoin on Axelar",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
-    "coinGeckoId": "axelar-usdt"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/1D5E074747E7E5B67DE2CDD360FD5581640591FAEDB7EEFFF9E4CA5AAE3FEF9E",
     "symbol": "WHALE",
     "name": "whale",
@@ -928,6 +918,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/516ed75052338f9ed271f0b26f6090dfa1ed4acb81067b03b45c97222853a3da.svg",
     "coinGeckoId": "white-whale"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/2CB7467E9AF4AEC7EC0706269E23E11B1D50EA23C64B2EC2C3937F5EF6185CCC",
+    "symbol": "USDT",
+    "name": "usdt",
+    "description": "Tether's USD stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
+    "coinGeckoId": "axelar-usdt"
   },
   {
     "type": "ibc",
@@ -1331,16 +1331,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/5CC7BFD5BF9570C27940FA27C9AFB010F6925644843676FC5B8FD5551B87808A",
-    "symbol": "stUMEE",
-    "name": "stumee",
-    "description": "",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/31b803329c10e28b92f3160d420f19812518dd61e3e9ff8aec53d8c16a2dfcaf.svg",
-    "coinGeckoId": "stride-staked-umee"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/F3CC34BE29B1709E8625298B7E06309374D158466E29936C3ACBF601244A6FF5",
     "symbol": "QCK",
     "name": "qck",
@@ -1348,6 +1338,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/f87699fa8000635dee47c4014c153040dd1f107d74277ecbd3da317e71828fcc.png",
     "coinGeckoId": "quicksilver"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/5CC7BFD5BF9570C27940FA27C9AFB010F6925644843676FC5B8FD5551B87808A",
+    "symbol": "stUMEE",
+    "name": "stumee",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/31b803329c10e28b92f3160d420f19812518dd61e3e9ff8aec53d8c16a2dfcaf.svg",
+    "coinGeckoId": "stride-staked-umee"
   },
   {
     "type": "ibc",

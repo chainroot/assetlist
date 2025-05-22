@@ -1,0 +1,52 @@
+[
+  {
+    "type": "ibc",
+    "denom": "ibc/E706A0C6CACB374ADC2BCF6A74FE1B260840FC822E45DCB776DEA962A57FED30",
+    "symbol": "ARB",
+    "name": "arb",
+    "description": "Arbitrum on Axelar",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/7834360a011590f6a25608a8655841d2881377259b8cbadd9ac56a49cb9b0254.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/AAD7136DD626569C3DDE7C5F764968BB2E939875EFC568AE5712B62081850814",
+    "symbol": "WETH",
+    "name": "weth",
+    "description": "Wrapped Ether on Axelar",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/15dcdac9407b9a3fc6702bd2abde9fb3b47671997bc46fb594d65e4e982786c7.png",
+    "coinGeckoId": "axlweth"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/056EA54C3D9B49B3C0418955A27980A91DD4F210914BFE240A1DB19E27895ECA",
+    "symbol": "KYVE",
+    "name": "kyve",
+    "description": "The native utility token of the KYVE network.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/e621ad8b176327af5721e968d72998528ae59ca286b4bcee85e7b15b0a3815ab.svg",
+    "coinGeckoId": "kyve-network"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/9463E39D230614B313B487836D13A392BD1731928713D4C8427A083627048DB3",
+    "symbol": "AXL",
+    "name": "axl",
+    "description": "Axelar is a decentralized interoperability network connecting multiple blockchain ecosystems, enabling seamless cross-chain communication and value transfer.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
+    "coinGeckoId": "axelar"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/CC7B293B3F08EA7DB96AFD4765BD0C7F95ABD7ECEAF21C74F3ACCBF7CEFB6591",
+    "symbol": "OSMO",
+    "name": "osmo",
+    "description": "The native token of Osmosis",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/e053406240eac4d978a66008f0551daa497be489fba6c5840e5cd073bd6fcd94.svg",
+    "coinGeckoId": "osmosis"
+  }
+]

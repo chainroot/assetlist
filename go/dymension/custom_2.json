@@ -251,16 +251,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/BEE9A8F835D60717548FFE9AC9E90F18AB8096574EB1211F88074CB3511B7860",
-    "symbol": "WBTC",
-    "name": "wbtc",
-    "description": "Wrapped Bitcoin (WBTC) is an ERC20 token backed 1:1 with Bitcoin. Completely transparent. 100% verifiable. Community led.",
-    "decimals": 8,
-    "image": "https://cdn.chainroot.io/images/tokens/f0fb98be5c52c4f7f8abdd928840665189bec026b7aa0dba392fa83a4b225f4e.svg",
-    "coinGeckoId": "wrapped-bitcoin"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/2CC29C87BAF5E5E5E26EEA24B87F1863BFB13B29927B9A3625892EA1795337AA",
     "symbol": "SOL",
     "name": "wormhole/8sYgCzLRJC3J7qPn2bNbx6PiGcarhyx8rBhVaNnfvHCA/8",
@@ -268,6 +258,16 @@
     "decimals": 8,
     "image": "https://cdn.chainroot.io/images/tokens/2bacd102680cfe69bba0bcd8e5f97133935ea18cd46495bb54d95b364f93d057.svg",
     "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/BEE9A8F835D60717548FFE9AC9E90F18AB8096574EB1211F88074CB3511B7860",
+    "symbol": "WBTC",
+    "name": "wbtc",
+    "description": "Wrapped Bitcoin (WBTC) is an ERC20 token backed 1:1 with Bitcoin. Completely transparent. 100% verifiable. Community led.",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/f0fb98be5c52c4f7f8abdd928840665189bec026b7aa0dba392fa83a4b225f4e.svg",
+    "coinGeckoId": "wrapped-bitcoin"
   },
   {
     "type": "ibc",
@@ -411,22 +411,22 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/7556FEABFEC083479301DB7846F3FD63A2D0BED5A0737DDCEDDD1CD7FD7FFC68",
+    "symbol": "TEST",
+    "name": "test",
+    "description": "The native fee token of Gateway.",
+    "decimals": 6,
+    "image": "",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/2B00B177283C6B860DBF28D087BEF6C93BF8AC4CD69050518E83C4EF2F4830FB",
     "symbol": "stEVMOS",
     "name": "stevmos",
     "description": "",
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/aacc69b3c0c44324cf6fea93ce70451b21974d1461ebf478d2cac6ff47853525.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/3D62649CE712B3BD85EE718F427A4D84024F6F45B2252FDEB598F7B9F7D32B6A",
-    "symbol": "BADKID",
-    "name": "BADKID",
-    "description": "A clan of 11y bad kids crafting chaos on the Cosmos eco. One bad memecoin to rule them all  $BADKID. Airdropped to Badkids NFT holders and $STARS stakers. It's so bad, your wallet's throwing a tantrum for it.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/ec9c100c89d79a7ae1387de7c874ba16327aa8637036df0df215d4143bb6c7b6.png",
     "coinGeckoId": ""
   },
   {
@@ -441,16 +441,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/7556FEABFEC083479301DB7846F3FD63A2D0BED5A0737DDCEDDD1CD7FD7FFC68",
-    "symbol": "TEST",
-    "name": "test",
-    "description": "The native fee token of Gateway.",
-    "decimals": 6,
-    "image": "",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/EF392FCB1D863D7DC58034FE2806000F543DDFC9FC9B8B92969B5AE4906CD57E",
     "symbol": "stJUNO",
     "name": "stjuno",
@@ -458,5 +448,15 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/553e200543ab8c9fe84dd9f1bc86fc0fe075eb14ff4254f71d49fa3a56bd37cb.svg",
     "coinGeckoId": "stride-staked-juno"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/3D62649CE712B3BD85EE718F427A4D84024F6F45B2252FDEB598F7B9F7D32B6A",
+    "symbol": "BADKID",
+    "name": "BADKID",
+    "description": "A clan of 11y bad kids crafting chaos on the Cosmos eco. One bad memecoin to rule them all  $BADKID. Airdropped to Badkids NFT holders and $STARS stakers. It's so bad, your wallet's throwing a tantrum for it.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/ec9c100c89d79a7ae1387de7c874ba16327aa8637036df0df215d4143bb6c7b6.png",
+    "coinGeckoId": ""
   }
 ]

@@ -10808,5 +10808,52 @@
                 "denom": "ubbn"
             }
         }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/9D8D4CAE9D8F15B69E93969304AF3878D14BDED39FEAF0060566D6AC22288779",
+        "name": "Milk",
+        "symbol": "MILK",
+        "description": "Milkyway Staking Coin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/eda7cdab6156c37879695500bbc2ba9b9d250cbfe82021699b7fa90b71508ae2.png",
+        "coinGeckoId": "milkyway-2",
+        "ibc_info": {
+            "path": "milkyway>osmosis",
+            "client": {
+                "channel": "channel-89298",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-0",
+                "port": "transfer",
+                "chain": "milkyway",
+                "denom": "umilk"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/0C39BD03B5C57A1753A9B73164705871A9B549F1A5226CFD7E39BE7BF73CF8CF",
+        "name": "Noble Dollar",
+        "symbol": "USDN",
+        "description": "USDN is a yielding stablecoin collateral-backed by short-duration U.S. Treasury Bills.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/usdn.png",
+        "color": "#14C784",
+        "coinGeckoId": "noble-dollar-usdn",
+        "ibc_info": {
+            "path": "noble>osmosis",
+            "client": {
+                "channel": "channel-750",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-1",
+                "port": "transfer",
+                "chain": "noble",
+                "denom": "uusdn"
+            }
+        }
     }
 ]

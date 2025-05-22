@@ -71,16 +71,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/CF326F6F0E8DCCD631159F23A60F1F5F31C81A46406D88641C130BA16D75280B",
-    "symbol": "DORA",
-    "name": "DORA",
-    "description": "The native staking and governance token of the Theta testnet version of the Dora Vota.",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/ae2fd8599600585d1feb8a94482153935469d63c8559404b52e447a741dc1094.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/3564A554CC5EB66E056753F0CC0B02EEA3039F01F7808E4BA4B1C19B47F902E2",
     "symbol": "ARCH",
     "name": "arch",
@@ -88,6 +78,16 @@
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/07971aee03539b97e171dabdbc8a9974e849917dc4c1f667630c33088ec83497.svg",
     "coinGeckoId": "archway"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/CF326F6F0E8DCCD631159F23A60F1F5F31C81A46406D88641C130BA16D75280B",
+    "symbol": "DORA",
+    "name": "DORA",
+    "description": "The native staking and governance token of the Theta testnet version of the Dora Vota.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/ae2fd8599600585d1feb8a94482153935469d63c8559404b52e447a741dc1094.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -271,16 +271,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/4FC395BDCDCD4A3A681C0D222EE64B610AEDB215DB8D18F46B575357F27CD6A7",
-    "symbol": "PASG",
-    "name": "pasg",
-    "description": "Passage.io is a decentralized platform that enables users to create, distribute, and monetize immersive virtual experiences and content using blockchain technology.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/fc4bfac4b7d840086fe05233855f45b663fe1c4c4338af0fcebd8b311545d51b.png",
-    "coinGeckoId": "passage"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/55D94A32095A766971637425D998AAABF8357A1ABCB1CAC8614887BE51BF1FB1",
     "symbol": "ANDR",
     "name": "andr",
@@ -298,6 +288,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/1dc938038b71c5f1a85de37216ba7471ea9ac6be735980308d4b0def67ffd18b.svg",
     "coinGeckoId": "bitsong"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/4FC395BDCDCD4A3A681C0D222EE64B610AEDB215DB8D18F46B575357F27CD6A7",
+    "symbol": "PASG",
+    "name": "pasg",
+    "description": "Passage.io is a decentralized platform that enables users to create, distribute, and monetize immersive virtual experiences and content using blockchain technology.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/fc4bfac4b7d840086fe05233855f45b663fe1c4c4338af0fcebd8b311545d51b.png",
+    "coinGeckoId": "passage"
   },
   {
     "type": "ibc",
@@ -361,16 +361,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/8E6E7AB89246F87DA936F0EEA0A40654E7FB6B0C3E834F447EB444AAD95A106F",
-    "symbol": "FLIX",
-    "name": "flix",
-    "description": "OmniFlix is a decentralized media platform that enables content creators to distribute, monetize, and manage their digital content using blockchain technology.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/5b1f270194315b91c0282ed58501cf2f454756d248fe1f8e4f1c48d20e3edafa.svg",
-    "coinGeckoId": "omniflix-network"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/C0336ECF2DF64E7D2C98B1422EC2B38DE9EF33C34AAADF18C6F2E3FFC7BE3615",
     "symbol": "IST",
     "name": "ist",
@@ -378,6 +368,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/fad17c87afd28b2ec6791b95fbb9038e1f51a2efebea8cfcb19f2d3db09941ef.svg",
     "coinGeckoId": "inter-stable-token"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/8E6E7AB89246F87DA936F0EEA0A40654E7FB6B0C3E834F447EB444AAD95A106F",
+    "symbol": "FLIX",
+    "name": "flix",
+    "description": "OmniFlix is a decentralized media platform that enables content creators to distribute, monetize, and manage their digital content using blockchain technology.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/5b1f270194315b91c0282ed58501cf2f454756d248fe1f8e4f1c48d20e3edafa.svg",
+    "coinGeckoId": "omniflix-network"
   },
   {
     "type": "ibc",
@@ -481,16 +481,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/E232948DE84A0EF23F48C55DFF0BCD96BC0F41F3D9A315326DA1467B05D62796",
-    "symbol": "ANDR",
-    "name": "andr",
-    "description": "The native staking and governance token of Andromeda",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/fa2f0049c733c83a51bf71cf5e841b832087b49e3e79c871c6ba19f17c6a9f56.png",
-    "coinGeckoId": "andromeda-2"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/C2CFB1C37C146CF95B0784FD518F8030FEFC76C5800105B1742FB65FFE65F873",
     "symbol": "AKT",
     "name": "akt",
@@ -498,6 +488,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/33d728dfd3351a640e4f316dcadbc5e50dfdb4a3798bb74e9485f74585cf0245.svg",
     "coinGeckoId": "akash-network"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/E232948DE84A0EF23F48C55DFF0BCD96BC0F41F3D9A315326DA1467B05D62796",
+    "symbol": "ANDR",
+    "name": "andr",
+    "description": "The native staking and governance token of Andromeda",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/fa2f0049c733c83a51bf71cf5e841b832087b49e3e79c871c6ba19f17c6a9f56.png",
+    "coinGeckoId": "andromeda-2"
   },
   {
     "type": "ibc",
@@ -531,16 +531,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/E21808AEBCB7E02F594897100186C126E3BC9A36B0974196AF116750A4573F06",
-    "symbol": "AXL",
-    "name": "axl",
-    "description": "Axelar is a decentralized interoperability network connecting multiple blockchain ecosystems, enabling seamless cross-chain communication and value transfer.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
-    "coinGeckoId": "axelar"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/9E3CDA65E02637E219B43802452D6B37D782F466CF76ECB9F47A2E00C07C4769",
     "symbol": "NTRN",
     "name": "ntrn",
@@ -548,6 +538,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/bcc7880c69cc88313d52a96ce2f7e780a98c5e8a5b86e7318667fd5eabe34c4c.svg",
     "coinGeckoId": "neutron-3"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/E21808AEBCB7E02F594897100186C126E3BC9A36B0974196AF116750A4573F06",
+    "symbol": "AXL",
+    "name": "axl",
+    "description": "Axelar is a decentralized interoperability network connecting multiple blockchain ecosystems, enabling seamless cross-chain communication and value transfer.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
+    "coinGeckoId": "axelar"
   },
   {
     "type": "ibc",
@@ -711,16 +711,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/990E93567199B1DEF8EE01A41A20D4DA43BE1957E575220319BC2BFFB0C4AD23",
-    "symbol": "OSMO",
-    "name": "osmo",
-    "description": "The native token of Osmosis",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/e053406240eac4d978a66008f0551daa497be489fba6c5840e5cd073bd6fcd94.svg",
-    "coinGeckoId": "osmosis"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/0E94A94FD7D7D63AB7FCC4520472CA83F6B90580505B7701E5F239AC29A89ED8",
     "symbol": "ATOM",
     "name": "atom",
@@ -728,6 +718,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
     "coinGeckoId": "cosmos"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/990E93567199B1DEF8EE01A41A20D4DA43BE1957E575220319BC2BFFB0C4AD23",
+    "symbol": "OSMO",
+    "name": "osmo",
+    "description": "The native token of Osmosis",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/e053406240eac4d978a66008f0551daa497be489fba6c5840e5cd073bd6fcd94.svg",
+    "coinGeckoId": "osmosis"
   },
   {
     "type": "ibc",
@@ -761,23 +761,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/7A1F41EA62DFB97E60A4DA70365CC0D9DFB40D266EDFD40BA1ADE297F9C52D6E",
-    "symbol": "GLTO",
-    "name": "glto",
-    "description": "DeFi gaming platform built on Juno",
+    "denom": "ibc/73E5E6F833C5D4CFFDB411731DD8813D1E10AA7FEB319C427A35DC0B50F0A5A6",
+    "symbol": "DEC",
+    "name": "dec",
+    "description": "The native token of Decentr",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/7d4108df024d1d8716ca9d51cce7bf1f82fb520f0b48db39adde375ba171c609.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/477BF795EE81A93C4B278F032FF847261D1FA5A3E41C5338DA3D8173699D9739",
-    "symbol": "BZE",
-    "name": "bze",
-    "description": "BeeZee network native coin",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/a4d074e89a7ef61d23858832c59d6a4b817b889bf8899e097465cc429ec18769.svg",
-    "coinGeckoId": "bzedge"
+    "image": "https://cdn.chainroot.io/images/tokens/9338bdc5211eaffe7efb92d4d97eb06ed0aba9725a84cd3485d28512d4b42f99.svg",
+    "coinGeckoId": "decentr"
   },
   {
     "type": "ibc",
@@ -791,13 +781,23 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/73E5E6F833C5D4CFFDB411731DD8813D1E10AA7FEB319C427A35DC0B50F0A5A6",
-    "symbol": "DEC",
-    "name": "dec",
-    "description": "The native token of Decentr",
+    "denom": "ibc/477BF795EE81A93C4B278F032FF847261D1FA5A3E41C5338DA3D8173699D9739",
+    "symbol": "BZE",
+    "name": "bze",
+    "description": "BeeZee network native coin",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/9338bdc5211eaffe7efb92d4d97eb06ed0aba9725a84cd3485d28512d4b42f99.svg",
-    "coinGeckoId": "decentr"
+    "image": "https://cdn.chainroot.io/images/tokens/a4d074e89a7ef61d23858832c59d6a4b817b889bf8899e097465cc429ec18769.svg",
+    "coinGeckoId": "bzedge"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/7A1F41EA62DFB97E60A4DA70365CC0D9DFB40D266EDFD40BA1ADE297F9C52D6E",
+    "symbol": "GLTO",
+    "name": "glto",
+    "description": "DeFi gaming platform built on Juno",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7d4108df024d1d8716ca9d51cce7bf1f82fb520f0b48db39adde375ba171c609.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -971,16 +971,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/DBA679B94E751C34858603D528C17F4A64A6E8FBD1DDB18F33EE2BC917A76F69",
-    "symbol": "AKT",
-    "name": "akt",
-    "description": "Akash Network is a decentralized cloud computing marketplace that connects users with unused computing resources, offering a cost-effective alternative to traditional cloud providers.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/33d728dfd3351a640e4f316dcadbc5e50dfdb4a3798bb74e9485f74585cf0245.svg",
-    "coinGeckoId": "akash-network"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/AD29CB92888C839B3EAD3125ABA2689FEA8D43CE01CDCB8139A8545E67522E74",
     "symbol": "USDC",
     "name": "usdc",
@@ -998,6 +988,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
     "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/DBA679B94E751C34858603D528C17F4A64A6E8FBD1DDB18F33EE2BC917A76F69",
+    "symbol": "AKT",
+    "name": "akt",
+    "description": "Akash Network is a decentralized cloud computing marketplace that connects users with unused computing resources, offering a cost-effective alternative to traditional cloud providers.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/33d728dfd3351a640e4f316dcadbc5e50dfdb4a3798bb74e9485f74585cf0245.svg",
+    "coinGeckoId": "akash-network"
   },
   {
     "type": "ibc",
@@ -1131,16 +1131,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/4FBFB92ED8EBA5AB1454C1215D1FE536BB09393A58E27E3891FD5D9AE18B6A37",
-    "symbol": "IBCX",
-    "name": "ibcx",
-    "description": "",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/dec2a2b971f2a3afba4c520c2353c5b0c193d8f2a706511a78906eee98d3133b.svg",
-    "coinGeckoId": "ibc-index"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/32CC7460D443ECE2EB7D505CA527E99ED90630D5B8AAF2AAA647C602EDCE2FC9",
     "symbol": "BADKID",
     "name": "BADKID",
@@ -1148,6 +1138,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/ec9c100c89d79a7ae1387de7c874ba16327aa8637036df0df215d4143bb6c7b6.png",
     "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/4FBFB92ED8EBA5AB1454C1215D1FE536BB09393A58E27E3891FD5D9AE18B6A37",
+    "symbol": "IBCX",
+    "name": "ibcx",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/dec2a2b971f2a3afba4c520c2353c5b0c193d8f2a706511a78906eee98d3133b.svg",
+    "coinGeckoId": "ibc-index"
   },
   {
     "type": "ibc",

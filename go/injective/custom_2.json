@@ -11,36 +11,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/C1D3666F27EA64209584F18BC79648E0C1783BB6EEC04A8060E4A8E9881C841B",
-    "symbol": "FET",
-    "name": "fet",
-    "description": "The native staking and governance token of the Fetch Hub.",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/846ac0ebdc3c68620c7ab902303876843b8929f9d3ec16071a5076c4f1ee9f85.svg",
-    "coinGeckoId": "fetch-ai"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/16618B7F7AC551F48C057A13F4CA5503693FBFF507719A85BC6876B8BD75F821",
-    "symbol": "EVMOS",
-    "name": "evmos",
-    "description": "The native EVM, governance and staking token of the Evmos Hub",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/8fd37bed9ab943bf6d2114ddae7f4a42b91cdebc269406c7f6acfb4fd1885e05.svg",
-    "coinGeckoId": "evmos"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/F6CC233E5C0EA36B1F74AB1AF98471A2D6A80E2542856639703E908B4D93E7C4",
-    "symbol": "NEOK",
-    "name": "neok",
-    "description": "The token of Neokingdom DAO.",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/ed0c8d7b3ee9d021825081b1bdef25616788872355aac45c0ce87f0135552245.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/E68343A4DEF4AFBE7C5A9004D4C11888EE755A7B43B3F1AFA52F2C34C07990D5",
     "symbol": "SHIB",
     "name": "shib",
@@ -58,16 +28,6 @@
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/8853d3a5ec2c5578d576e8bfcd9313796e900907b554cd72ab28e3b96ea36b22.svg",
     "coinGeckoId": "canto"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/AC87717EA002B0123B10A05063E69BCA274BA2C44D842AEEB41558D2856DCE93",
-    "symbol": "stINJ",
-    "name": "stINJ",
-    "description": "",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/6e09b30e25aa93eba62945146460a49ce4bae94377fbb3f3c04c81e692bbd0a6.svg",
-    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -101,22 +61,22 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/75F64E20A70C5059F8EA792F1C47260DC7C6CBAC69DBA60E151AD5416E93C34C",
-    "symbol": "stEVMOS",
-    "name": "stevmos",
-    "description": "",
+    "denom": "ibc/346B01430895DC4273D1FAFF470A9CE1155BF6E9F845E625374D019EC9EE796D",
+    "symbol": "DYM",
+    "name": "dym",
+    "description": "The native governance and staking token of the Dymension Hub",
     "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/aacc69b3c0c44324cf6fea93ce70451b21974d1461ebf478d2cac6ff47853525.svg",
-    "coinGeckoId": ""
+    "image": "https://cdn.chainroot.io/images/tokens/fac51dc9300b2f2410a7b3a18f9ef30152ddf7a3250bf8b79280c1ab81b0e7d0.svg",
+    "coinGeckoId": "dymension"
   },
   {
     "type": "ibc",
-    "denom": "ibc/FAFBDE851E97E4B566B050B843F6BBCE14D7DC88DA69840850271BA8DF72EAEE",
-    "symbol": "stINJ",
-    "name": "stINJ",
-    "description": "",
+    "denom": "ibc/F28C5C931D2673B7A2F06FC74934F7BDC0D2906D2AF40D582ED27D1E5C48D475",
+    "symbol": "ARB",
+    "name": "arb",
+    "description": "Arbitrum on Axelar",
     "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/6e09b30e25aa93eba62945146460a49ce4bae94377fbb3f3c04c81e692bbd0a6.svg",
+    "image": "https://cdn.chainroot.io/images/tokens/7834360a011590f6a25608a8655841d2881377259b8cbadd9ac56a49cb9b0254.svg",
     "coinGeckoId": ""
   },
   {
@@ -131,16 +91,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/052AF4B0650990067B8FC5345A39206497BCC12F0ABE94F15415413739B93B26",
-    "symbol": "INJ",
-    "name": "INJ",
-    "description": "Injective is a decentralized exchange protocol that enables fast, secure, and fully decentralized trading of derivatives, futures, and spot markets.",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/c824ba4c934281bfa3a10052366f3c00fe94ed254da7f0e2b82da59a5c2872df.svg",
-    "coinGeckoId": "injective-protocol"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/8042DF9D0B312FE068D0336E5E9AFFE408839DA15643D83CA9AB005D0A2E38D8",
     "symbol": "WMATIC",
     "name": "wmatic",
@@ -151,13 +101,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/2A1742D28193A863F82FAF16301415BCADFC8B3111FD59B162DAA2215816A0AD",
-    "symbol": "REBUS",
-    "name": "rebus",
-    "description": "REBUS, the native coin of the Rebus chain.",
+    "denom": "ibc/BC3AD52E42C6E1D13D2BDCEB497CF5AB9FEE24D804F5563B9E7DCFB825246947",
+    "symbol": "DORA",
+    "name": "DORA",
+    "description": "The native staking and governance token of the Theta testnet version of the Dora Vota.",
     "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/0cc1449c44cdfdff0a080c8beadd36e6536af8a0616b0980fa409549b418bfe5.svg",
-    "coinGeckoId": "rebus"
+    "image": "https://cdn.chainroot.io/images/tokens/ae2fd8599600585d1feb8a94482153935469d63c8559404b52e447a741dc1094.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -191,7 +141,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/359EA1E69EF84A02FD453B9FC462F985287F51310FF2E3ECEDABFDF7D3EAC91A",
+    "denom": "ibc/AC8181FE5ECAC9A01FBC5C4A3A681537A01A95007C32C2FAF3CF7101E9DAE081",
     "symbol": "INJ",
     "name": "INJ",
     "description": "Injective is a decentralized exchange protocol that enables fast, secure, and fully decentralized trading of derivatives, futures, and spot markets.",
@@ -201,13 +151,33 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/3E4C16E6D177A5FD3F416E6622898887FD194D158F740212F286669B8CD577DB",
-    "symbol": "DYDX",
-    "name": "dydx",
-    "description": "DYDX is a decentralized trading platform focused on derivatives and perpetual contracts, offering a secure and efficient trading experience without intermediaries.",
+    "denom": "ibc/ABC34F1F9C95DAB3AD3DAFD5228FAB5CDEA67B6BD126BC545D6D25B15E57F527",
+    "symbol": "PLQ",
+    "name": "planq",
+    "description": "The native EVM, governance and staking token of the Planq Network",
     "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/0cd48cdfcd49902807eb50da7db148b648470cf80daaf35482402ae8e0c504d6.svg",
-    "coinGeckoId": "dydx-chain"
+    "image": "https://cdn.chainroot.io/images/tokens/d97a6ddd52b84a2a5b37d0b99ac4190f268662fe60567f797a5cf7dc23b93236.svg",
+    "coinGeckoId": "planq"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/ECC0DF3D9C80F79B81056569EE2140FD977886AB274FA08BA03E987264D6DE19",
+    "symbol": "WETH",
+    "name": "gweth",
+    "description": "Gravity Bridge WETH",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/a2fe7b18d03f3c11c6b4bd867c4e017ad234540a5d5a517faadb376d8cd564b3.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/46AA3E75F15D7EFA00BF6747E8CE668F6A515182B2355942C567F47B88761072",
+    "symbol": "INJ",
+    "name": "INJ",
+    "description": "Injective is a decentralized exchange protocol that enables fast, secure, and fully decentralized trading of derivatives, futures, and spot markets.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/c824ba4c934281bfa3a10052366f3c00fe94ed254da7f0e2b82da59a5c2872df.svg",
+    "coinGeckoId": "injective-protocol"
   },
   {
     "type": "ibc",
@@ -231,17 +201,27 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/D4ED143E25535EBF6374A1A077BE205A687B69872484DF064ED2BAD6E5C3D762",
-    "symbol": "WMATIC",
-    "name": "wmatic",
-    "description": "Wrapped Matic on Axelar",
+    "denom": "ibc/D3AF228E8FD11597F699BBE5428361A49F8EF808E271909E6A5AF9C76CB5E5AC",
+    "symbol": "INJ",
+    "name": "INJ",
+    "description": "Injective is a decentralized exchange protocol that enables fast, secure, and fully decentralized trading of derivatives, futures, and spot markets.",
     "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/bf81bb5509d397d93705112cdf2b191085c96ae16f64f144aace3128bbbce029.svg",
-    "coinGeckoId": ""
+    "image": "https://cdn.chainroot.io/images/tokens/c824ba4c934281bfa3a10052366f3c00fe94ed254da7f0e2b82da59a5c2872df.svg",
+    "coinGeckoId": "injective-protocol"
   },
   {
     "type": "ibc",
     "denom": "ibc/EA180E422271F35D66E7B9B57AFF072DABEE97EDA4522DAB91F97AE6DD45426D",
+    "symbol": "INJ",
+    "name": "INJ",
+    "description": "Injective is a decentralized exchange protocol that enables fast, secure, and fully decentralized trading of derivatives, futures, and spot markets.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/c824ba4c934281bfa3a10052366f3c00fe94ed254da7f0e2b82da59a5c2872df.svg",
+    "coinGeckoId": "injective-protocol"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/FF07F37100EFB4D1FA6F3FD6CAF1EF2FB8673DB58FD258A51F8A28959D25458E",
     "symbol": "INJ",
     "name": "INJ",
     "description": "Injective is a decentralized exchange protocol that enables fast, secure, and fully decentralized trading of derivatives, futures, and spot markets.",
@@ -271,12 +251,22 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/2FB8CEA9180069DD4DB8883CA8E263D9879F446D6895CDAA90487ABCCFB4A45C",
-    "symbol": "AXL",
-    "name": "axl",
-    "description": "Axelar is a decentralized interoperability network connecting multiple blockchain ecosystems, enabling seamless cross-chain communication and value transfer.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
-    "coinGeckoId": "axelar"
+    "denom": "ibc/5B8F90B1E3A33B45FF7AE086621456E8C2C162CABCC95406001322818AE92B63",
+    "symbol": "INJ",
+    "name": "INJ",
+    "description": "Injective is a decentralized exchange protocol that enables fast, secure, and fully decentralized trading of derivatives, futures, and spot markets.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/c824ba4c934281bfa3a10052366f3c00fe94ed254da7f0e2b82da59a5c2872df.svg",
+    "coinGeckoId": "injective-protocol"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/F433CC4D2A46173B47A691E8C432F11E47E8C06C574CEF798F6F7BA116EACCAC",
+    "symbol": "SOL",
+    "name": "wormhole/8sYgCzLRJC3J7qPn2bNbx6PiGcarhyx8rBhVaNnfvHCA/8",
+    "description": "Wrapped SOL (Wormhole), SOL, factory/wormhole14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/8sYgCzLRJC3J7qPn2bNbx6PiGcarhyx8rBhVaNnfvHCA",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/2bacd102680cfe69bba0bcd8e5f97133935ea18cd46495bb54d95b364f93d057.svg",
+    "coinGeckoId": ""
   }
 ]

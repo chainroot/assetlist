@@ -140,6 +140,16 @@
         "coinGeckoId": "ondo-us-dollar-yield"
     },
     {
+        "type": "ibc",
+        "denom": "ibc/C9D6B804F68F218448D7D2AF5D26C0E6E93CD16F99D1695E77B5BE5CBD7D5ADB",
+        "name": "sUSDS",
+        "symbol": "sUSDS",
+        "description": "Sky Protocol's Savings USDS",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/7cedcc70ce72546a2c49698ad5106f23b81c0c6a8aac0886155acf0cc52de459.png",
+        "coinGeckoId": "pryzmatics"
+    },
+    {
         "type": "native",
         "denom": "c:uatom",
         "name": "cAtom",
@@ -721,6 +731,46 @@
     },
     {
         "type": "native",
+        "denom": "p:asusds:30Jun2025",
+        "name": "psUsds (30Jun2025)",
+        "symbol": "psUSDS-30Jun2025",
+        "description": "Pryzm's refracted principal token for sUSDS with maturity of 30Jun2025",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/4469994071f48e8f9419c3e125a8d3e94f15553c8b9c09e94e99f226d802c098.png",
+        "coinGeckoId": "pryzmatics"
+    },
+    {
+        "type": "native",
+        "denom": "p:asusds:30Sep2025",
+        "name": "psUsds (30Sep2025)",
+        "symbol": "psUSDS-30Sep2025",
+        "description": "Pryzm's refracted principal token for sUSDS with maturity of 30Sep2025",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/4469994071f48e8f9419c3e125a8d3e94f15553c8b9c09e94e99f226d802c098.png",
+        "coinGeckoId": "pryzmatics"
+    },
+    {
+        "type": "native",
+        "denom": "p:asusds:31Dec2025",
+        "name": "psUsds (31Dec2025)",
+        "symbol": "psUSDS-31Dec2025",
+        "description": "Pryzm's refracted principal token for sUSDS with maturity of 31Dec2025",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/4469994071f48e8f9419c3e125a8d3e94f15553c8b9c09e94e99f226d802c098.png",
+        "coinGeckoId": "pryzmatics"
+    },
+    {
+        "type": "native",
+        "denom": "p:asusds:31Mar2026",
+        "name": "psUsds (31Mar2026)",
+        "symbol": "psUSDS-31Mar2026",
+        "description": "Pryzm's refracted principal token for sUSDS with maturity of 31Mar2026",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/4469994071f48e8f9419c3e125a8d3e94f15553c8b9c09e94e99f226d802c098.png",
+        "coinGeckoId": "pryzmatics"
+    },
+    {
+        "type": "native",
         "denom": "y:uatom:30Sep2024",
         "name": "yAtom (30Sep2024)",
         "symbol": "yATOM-30Sep2024",
@@ -1231,6 +1281,46 @@
     },
     {
         "type": "native",
+        "denom": "y:asusds:30Jun2025",
+        "name": "ysUsds (30Jun2025)",
+        "symbol": "ysUSDS-30Jun2025",
+        "description": "Pryzm's refracted yield token for sUSDS with maturity of 30Jun2025",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/89a3596116bead9c9a3d93b1ad7e0d666adddcc9587d3313d989c415856707c8.png",
+        "coinGeckoId": "pryzmatics"
+    },
+    {
+        "type": "native",
+        "denom": "y:asusds:30Sep2025",
+        "name": "ysUsds (30Sep2025)",
+        "symbol": "ysUSDS-30Sep2025",
+        "description": "Pryzm's refracted yield token for sUSDS with maturity of 30Sep2025",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/89a3596116bead9c9a3d93b1ad7e0d666adddcc9587d3313d989c415856707c8.png",
+        "coinGeckoId": "pryzmatics"
+    },
+    {
+        "type": "native",
+        "denom": "y:asusds:31Dec2025",
+        "name": "ysUsds (31Dec2025)",
+        "symbol": "ysUSDS-31Dec2025",
+        "description": "Pryzm's refracted yield token for sUSDS with maturity of 31Dec2025",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/89a3596116bead9c9a3d93b1ad7e0d666adddcc9587d3313d989c415856707c8.png",
+        "coinGeckoId": "pryzmatics"
+    },
+    {
+        "type": "native",
+        "denom": "y:asusds:31Mar2026",
+        "name": "ysUsds (31Mar2026)",
+        "symbol": "ysUSDS-31Mar2026",
+        "description": "Pryzm's refracted yield token for sUSDS with maturity of 31Mar2026",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/89a3596116bead9c9a3d93b1ad7e0d666adddcc9587d3313d989c415856707c8.png",
+        "coinGeckoId": "pryzmatics"
+    },
+    {
+        "type": "native",
         "denom": "lp:6:uusdc.axl-uusdc",
         "name": "USDC / USDC.axl LP",
         "symbol": "USDC-USDC.axl-LP",
@@ -1516,6 +1606,26 @@
         "symbol": "PRYZM-YIELD-LP",
         "description": "Pryzm's LP token for PRYZM Yield pool",
         "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/74a64a736513339f6d08c53a37effd7abb53a65266009e39e396c624397e439f.png",
+        "coinGeckoId": "pryzmatics"
+    },
+    {
+        "type": "native",
+        "denom": "lp:36:asusds",
+        "name": "sUSDS Yield LP",
+        "symbol": "sUSDS-YIELD-LP",
+        "description": "Pryzm's LP token for sUSDS Yield pool",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/74a64a736513339f6d08c53a37effd7abb53a65266009e39e396c624397e439f.png",
+        "coinGeckoId": "pryzmatics"
+    },
+    {
+        "type": "native",
+        "denom": "lp:37:asusdsypt-uusdc",
+        "name": "sUSDS Boost LP",
+        "symbol": "sUSDS-BOOST-LP",
+        "description": "Pryzm's LP token for sUSDS Boost pool",
+        "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/74a64a736513339f6d08c53a37effd7abb53a65266009e39e396c624397e439f.png",
         "coinGeckoId": "pryzmatics"
     },

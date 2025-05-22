@@ -171,16 +171,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/1ABC53B2BB5F76F5DE57F6A6640DAC100F5D078075768115FC3B8E83C54FD9FF",
-    "symbol": "ampWHALE",
-    "name": "ampWHALE",
-    "description": "ampWHALE",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/f003573c99e022772de4fcbd6c45eab4cae1c26fe00fd23ee128a86257542c8c.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/432CB7245E79C5C064FEC36914CD1614E4CAE9A66E5C5335AB7E750830261300",
     "symbol": "ROAR",
     "name": "roar",
@@ -188,6 +178,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/b1eefb34a5b9ca56fcf188eea2837c1b6d05eb740a8ffcbe2293dc4d0a78b3ec.png",
     "coinGeckoId": "lion-dao"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/1ABC53B2BB5F76F5DE57F6A6640DAC100F5D078075768115FC3B8E83C54FD9FF",
+    "symbol": "ampWHALE",
+    "name": "ampWHALE",
+    "description": "ampWHALE",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f003573c99e022772de4fcbd6c45eab4cae1c26fe00fd23ee128a86257542c8c.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -561,7 +561,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/1ADFA9848D8DFE81F67E864461551E767ACE0D898B266C53690B877B786EAB15",
+    "denom": "ibc/8CF3A8F46A1087997D32AB6E06F372022D051DF97FBCAC01BE3F93E180584C22",
     "symbol": "WHALE",
     "name": "whale",
     "description": "Migaloo is a cosmwasm-powered, permissionless blockchain designed to build decentralized applications with a focus on interchain liquidity solutions.",
@@ -581,7 +581,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/8CF3A8F46A1087997D32AB6E06F372022D051DF97FBCAC01BE3F93E180584C22",
+    "denom": "ibc/1ADFA9848D8DFE81F67E864461551E767ACE0D898B266C53690B877B786EAB15",
     "symbol": "WHALE",
     "name": "whale",
     "description": "Migaloo is a cosmwasm-powered, permissionless blockchain designed to build decentralized applications with a focus on interchain liquidity solutions.",
@@ -701,16 +701,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/CE390060CC5A9A918FB5CBA12894E6A11237E198B989CAAB2C6B4E3E63C8ECC5",
-    "symbol": "LUNC",
-    "name": "luna",
-    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
-    "coinGeckoId": "terra-luna"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/9239D3A4DCB4F8D9765DF1D87F5C904A05E8A3CAC1D22326B95AD0C429FB8352",
     "symbol": "GRAV",
     "name": "graviton",
@@ -718,6 +708,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/80113d9226d07b7d5f24a7b6f569d4971cdfed9481d0b80d4121b8c3bd7e0a8b.svg",
     "coinGeckoId": "graviton"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/CE390060CC5A9A918FB5CBA12894E6A11237E198B989CAAB2C6B4E3E63C8ECC5",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
   },
   {
     "type": "ibc",
