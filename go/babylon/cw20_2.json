@@ -43,6 +43,16 @@
          "coinGeckoId": "solv-btc"
      },
      {
+        "type": "cw20",
+        "contract": "bbn1ztf5dlsljzmxn800yeydplwyvpp828fjkyy29gtjzerd4mu4kxsscmzc0a",
+        "name": "xSolvBTC",
+        "symbol": "xSolvBTC",
+        "description": "xSolvBTC is a yield-bearing Bitcoin token representing staked Bitcoin in the Babylon ecosystem",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/d2c09674ccd3bf256e16e53ad52bea12a54e43dbfa35e3cc30038831856098ee.png",
+        "coinGeckoId": "solv-protocol-solvbtc-bbn"
+    },
+     {
          "type": "cw20",
          "contract": "bbn1ccylwef8yfhafxpmtzq4ps24kxce9cfnz0wnkucsvf2rylfh0jzswhk5ks",
          "name": "Lorenzo stBTC",
@@ -90,17 +100,17 @@
         "description": "Staked version of uniBTC from SatLayer",
         "decimals": 8,
         "image": "https://cdn.chainroot.io/images/tokens/0f9cf84d6203f2ad0572e3383197fafa29b5a445de759b83edd035dfbb444aaa.png",
-        "coinGeckoId": ""
+        "coinGeckoId": "universal-btc"
     },
     {
         "type": "cw20",
         "contract": "bbn1rl75n93kk075clrt72hqa7md6mwl78u28sghs380xuvlmksw6x3q07n2tc",
         "name": "SatLayer xSatSolvBTC Bridged",
-        "symbol": "satSolvBTC.e",
+        "symbol": "satXSolvBTC.e",
         "description": "Staked version of xSolvBTC from SatLayer",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/0fb50b398fb6a8cf27cf55da907838d49a3ab7a2f0855854b06e5fc033ecb117.png",
-        "coinGeckoId": ""
+        "image": "https://cdn.chainroot.io/images/tokens/d2c09674ccd3bf256e16e53ad52bea12a54e43dbfa35e3cc30038831856098ee.png",
+        "coinGeckoId": "solv-protocol-solvbtc-bbn"
     },
     {
         "type": "cw20",
@@ -110,6 +120,66 @@
         "description": "Staked version of LBTC from SatLayer",
         "decimals": 8,
         "image": "https://cdn.chainroot.io/images/tokens/ad05ab33b29a4b36e83218e58de363af63721a2ccb37e75f932c2dc3511ece78.png",
-        "coinGeckoId": ""
+        "coinGeckoId": "lombard-staked-btc"
+    },
+    {
+        "type": "cw20",
+        "contract": "bbn13vejhl4x0arsq7wajcmlu5hx3phmxdcrp3s2jvy65ucyt9kfkh7qr2laaa",
+        "name": "SatLayer satFBTC Bridged",
+        "symbol": "satFBTC.e",
+        "description": "Staked version of satFBTC from SatLayer",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/5fa9bd329c696b8685414ae2a0b37b37eb7b7beb0f7cc09dd5412b1de58357a7.png",
+        "coinGeckoId": "ignition-fbtc"
+    },
+    {
+        "type": "cw20",
+        "contract": "bbn17awjw4g3a7wn5eruejf6hmshc8y06wpz6qu7ue32xygcueu55zqs33aq93",
+        "name": "SatLayer stBTC Bridged",
+        "symbol": "satStBTC.e",
+        "description": "Staked version of stBTC from SatLayer",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/e891eb3890189d1617bd516ea3b8e347873d6eb7b7b019201c499f17023b6041.png",
+        "coinGeckoId": "lorenzo-stbtc"
+    },
+    {
+        "type": "cw20",
+        "contract": "bbn1zwg6c8rzk8htpn67cj4vrq5y2qdhfgtzvslyy9574s4j8j5xynlqg0qzs2",
+        "name": "SatLayer pumpBTC Bridged",
+        "symbol": "satPumpBTC.e",
+        "description": "Staked version of pumpBTC from SatLayer",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/6d6cf64e5ce2fb8089cbff3c78766ec8ecd6f7b998fedec524cfa782f68fc8b2.png",
+        "coinGeckoId": "pumpbtc"
+    },
+    {
+        "type": "cw20",
+        "contract": "bbn1m83xl7pshe9dt25ztlnlqfy8ksaxdp5e098fcl372fjdacpusdcqjp4zx3",
+        "name": "SatLayer WBTC Bridged",
+        "symbol": "satWBTC.e",
+        "description": "Staked version of WBTC from SatLayer",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/2574a5d3120fc6e50ee6584cff79093574ace93fc5a2f9772d3b8784f505e1a1.png",
+        "coinGeckoId": "wrapped-bitcoin"
+    },
+    {
+        "type": "cw20",
+        "contract": "bbn1rgsgnu9hcssn97hprmavtt58vt3qg5y4qha4ky6q09urczsuzwlss60thh",
+        "name": "ether.fi BTC",
+        "symbol": "eBTC",
+        "description": "eBTC is ether.fi's flagship Bitcoin-backed liquid restaking token, simplifying yield optimization and available for staking and bridging across multiple chains",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/cf1ac91b6b92d73fc2e6de5cab2f90ff48fada5294f59b751e2879854ccc6fd9.png",
+        "coinGeckoId": "ether-fi-staked-btc"
+    },
+    {
+        "type": "cw20",
+        "contract": "bbn1j7yz208yls9v5vcgsekwaf096wk2ysyrdn0u747868v80fd05tjsalq9ll",
+        "name": "Liquid Staked BTC",
+        "symbol": "mBTC",
+        "description": "mBTC is a cross-chain wrapped token pegged to BTC on a 1:1 basis and it does not accrue any underlying yield",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/5ac6f0a79cb60247e511e2245f99979075ce7dc617cc332c1233ba2bb65d96d4.png",
+        "coinGeckoId": "babypie-wrapped-btc"
     }
 ]

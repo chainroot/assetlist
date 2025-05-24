@@ -341,16 +341,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/ACFAC255034E83CBC3FC80E9A2A9842D7FC63C6F5EAEE7521CE072F2FDE18044",
-    "symbol": "INJ",
-    "name": "INJ",
-    "description": "Injective is a decentralized exchange protocol that enables fast, secure, and fully decentralized trading of derivatives, futures, and spot markets.",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/c824ba4c934281bfa3a10052366f3c00fe94ed254da7f0e2b82da59a5c2872df.svg",
-    "coinGeckoId": "injective-protocol"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/E543A9F9E5BA7871F1095CB3B65D018472D88696611B95BABED8AADA89C2741C",
     "symbol": "FET",
     "name": "fet",
@@ -491,6 +481,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/ACFAC255034E83CBC3FC80E9A2A9842D7FC63C6F5EAEE7521CE072F2FDE18044",
+    "symbol": "INJ",
+    "name": "INJ",
+    "description": "Injective is a decentralized exchange protocol that enables fast, secure, and fully decentralized trading of derivatives, futures, and spot markets.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/c824ba4c934281bfa3a10052366f3c00fe94ed254da7f0e2b82da59a5c2872df.svg",
+    "coinGeckoId": "injective-protocol"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/65CD60D7E37EF830BC6B6A6DF4E3E3884A96C0905A7D271C48DC0440B1989EC7",
     "symbol": "BUSD",
     "name": "busd",
@@ -591,22 +591,22 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/2B48E372A36B34F7F81AE717F3805535CB553E3419DF0545B39516E8A941D3DE",
-    "symbol": "wstETH",
-    "name": "wstETH",
-    "description": "wstETH on Neutron",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/195ac6e06829bd28be1067a0c4eedc8e749efd9bc4ab6326fbaf227bcca070c8.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/190648E2CCB7B78F2A171C6E43F126DCF7E977ED073AC7D6D331EFD59A78CC5C",
     "symbol": "PAXG",
     "name": "gpaxg",
     "description": "Gravity Bridge Paxos Gold",
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/094008bda0e3c88474ef426dda6d78915be787631ebd0758d02b7f734901f083.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/2B48E372A36B34F7F81AE717F3805535CB553E3419DF0545B39516E8A941D3DE",
+    "symbol": "wstETH",
+    "name": "wstETH",
+    "description": "wstETH on Neutron",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/195ac6e06829bd28be1067a0c4eedc8e749efd9bc4ab6326fbaf227bcca070c8.svg",
     "coinGeckoId": ""
   },
   {
@@ -681,16 +681,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/B37E4D9FB5B30F3E1E20A4B2DE2A005E584C5C822C44527546556AE2470B4539",
-    "symbol": "DOT",
-    "name": "dot",
-    "description": "Wrapped Polkadot on Axelar",
-    "decimals": 10,
-    "image": "https://cdn.chainroot.io/images/tokens/f9a7cd6c26045851eacbf7e0931e50de81592876c97194e0accba962324eb600.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/A6826D67800ED864F3BF51D56B0165DAF2491B00D93433564158D87BAA0C82BE",
     "symbol": "nBTC",
     "name": "nbtc",
@@ -728,6 +718,16 @@
     "decimals": 9,
     "image": "https://cdn.chainroot.io/images/tokens/ece9c4725f69f60677cbdcd7305096f4137980233cb4eee9bf575e4d1bad8271.svg",
     "coinGeckoId": "cheqd-network"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/B37E4D9FB5B30F3E1E20A4B2DE2A005E584C5C822C44527546556AE2470B4539",
+    "symbol": "DOT",
+    "name": "dot",
+    "description": "Wrapped Polkadot on Axelar",
+    "decimals": 10,
+    "image": "https://cdn.chainroot.io/images/tokens/f9a7cd6c26045851eacbf7e0931e50de81592876c97194e0accba962324eb600.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -801,16 +801,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/A7A5C44AA67317F1B3FFB27BAFC89C9CC04F61306F6F834F89A74B8F82D252A1",
-    "symbol": "SOMM",
-    "name": "somm",
-    "description": "Somm Token (SOMM) is the native staking token of the Sommelier Chain",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/4c5f41c1d09e29aaf50ed10f7f7ff2cce2d2e0db2ccf95eef8c7f0379136970b.svg",
-    "coinGeckoId": "sommelier"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/590CE97A3681BC2058FED1F69B613040209DF3F17B7BD31DFFB8671C4D2CD99B",
     "symbol": "SHD",
     "name": "shd",
@@ -818,6 +808,16 @@
     "decimals": 8,
     "image": "https://cdn.chainroot.io/images/tokens/cc21653a32d2dddc9d3a38fb2cbad4f8997dbf7403f1e4e05c06000b639ee852.svg",
     "coinGeckoId": "shade-protocol"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/A7A5C44AA67317F1B3FFB27BAFC89C9CC04F61306F6F834F89A74B8F82D252A1",
+    "symbol": "SOMM",
+    "name": "somm",
+    "description": "Somm Token (SOMM) is the native staking token of the Sommelier Chain",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/4c5f41c1d09e29aaf50ed10f7f7ff2cce2d2e0db2ccf95eef8c7f0379136970b.svg",
+    "coinGeckoId": "sommelier"
   },
   {
     "type": "ibc",
@@ -841,6 +841,26 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/B618D0F4CBB4AF5E21B4FF163CCBFBC278C037D1DA3E1D848EDF32716A216BE4",
+    "symbol": "GLTO",
+    "name": "glto",
+    "description": "DeFi gaming platform built on Juno",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7d4108df024d1d8716ca9d51cce7bf1f82fb520f0b48db39adde375ba171c609.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/640E1C3E28FD45F611971DF891AE3DC90C825DF759DF8FAA8F33F7F72B35AD56",
+    "symbol": "ASTRO.cw20",
+    "name": "astro.cw20",
+    "description": "Astroport is a neutral marketplace where anyone, from anywhere in the galaxy, can dock to trade their wares.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/4d0dd6374e75c0e56c3924fd4252b881507580341e732330558709c9b3d7c277.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/9AC49118EA0E4923E8705F6CBF5531A98D0B4B2F9C5B51355208FB0B7C3F2A39",
     "symbol": "DAI",
     "name": "gdai",
@@ -851,33 +871,23 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/CF90BCBEDFF409F9187A0C3A69C1082D56908DC3F7FC342ED82455A504AD8AA9",
-    "symbol": "DVPN",
-    "name": "dvpn",
-    "description": "Sentinel is a decentralized VPN (dVPN) network that provides private and secure internet access by leveraging blockchain technology.",
+    "denom": "ibc/5D98FB84A053607675006ED29A165F67B51FDFCEDDBEE1CFCB0F36BE5A78E44C",
+    "symbol": "sqOSMO",
+    "name": "sqosmo",
+    "description": "Margined Power Token sqOSMO",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/7a3905dcc2698978708d7c48b563436e57eb9f03b31440589fee31adf3c218db.svg",
-    "coinGeckoId": "sentinel"
+    "image": "https://cdn.chainroot.io/images/tokens/9836891aec04bacd22d5302b7601f14043982ce75e9316465af2cd9b7f6eeac3.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
-    "denom": "ibc/21F041CFE99994E0D027D0C5F72A9EB6224CBCAF5A6AD5DDB75F67A781D46C68",
-    "symbol": "WHALE",
-    "name": "whale",
-    "description": "Migaloo is a cosmwasm-powered, permissionless blockchain designed to build decentralized applications with a focus on interchain liquidity solutions.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/516ed75052338f9ed271f0b26f6090dfa1ed4acb81067b03b45c97222853a3da.svg",
-    "coinGeckoId": "white-whale"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/3CF31CB1729FD2011718F66B20861D23A7FB6492C29FFADE2C1E58D10C3D225F",
-    "symbol": "NEWT",
-    "name": "newt",
-    "description": "The cutest NEWT token on Neutron chain.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/c8e76561d8e1514fe88756d28f63656e3a2b21cc350a217fac8a761916b8c35e.png",
-    "coinGeckoId": "newt"
+    "denom": "ibc/94BF21B8159091E8DBF1C5172A03A79BA68A3D875264F0C379ED9C099C91AC30",
+    "symbol": "wstETH",
+    "name": "wsteth",
+    "description": "",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/195ac6e06829bd28be1067a0c4eedc8e749efd9bc4ab6326fbaf227bcca070c8.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -901,7 +911,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/A77E2AFE4F353AA7709519F80FF30DD8DB769E48782126EFFC19003A502CE0A8",
+    "denom": "ibc/384D64FE5F0ED7D4CAA46490AA65C28DEF3B8363FED9D23A500C059CC5FCE143",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
@@ -911,52 +921,12 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/47B9460DB83EF85065B43266910645FEB8D2BC1CD5CAC970823E4D749797BC6F",
-    "symbol": "MEME",
-    "name": "meme",
-    "description": "MEME Token (MEME) is the native staking token of the MEME Chain",
+    "denom": "ibc/A53D0E53FDE0DAB2BF1CDD165E9979AA217E50F90D3679226A758F2F6D3FE261",
+    "symbol": "AKT",
+    "name": "akt",
+    "description": "Akash Network is a decentralized cloud computing marketplace that connects users with unused computing resources, offering a cost-effective alternative to traditional cloud providers.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/dd1d7ee548e9c846003a19195f3c9cab18365b330deffdce9c5ad3230940ed36.svg",
-    "coinGeckoId": "meme-network"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/1441D4687B8D88767562DC95A465C0D070BEEFE72324AC769844D07D9C6BE74E",
-    "symbol": "ION",
-    "name": "ion",
-    "description": "ION is the second native token of Osmosis.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/783677c916fdd15fd616c45e64d59f1ccfdb8e583ec24a0a1302454aa387603f.svg",
-    "coinGeckoId": "ion"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/F3294DC3655AC72DC643A0264314C686C27192510BD5FC295892AD85E65991BA",
-    "symbol": "OSMO",
-    "name": "osmo",
-    "description": "The native token of Osmosis",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/e053406240eac4d978a66008f0551daa497be489fba6c5840e5cd073bd6fcd94.svg",
-    "coinGeckoId": "osmosis"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/423DE4133F8676069BC9550FF251F1F870F6885621C8E363A9F70257BF3AA638",
-    "symbol": "AUTISM",
-    "name": "autism",
-    "description": "$AUTISM exists to celebrate autism as a superior biological tech stack for a changing world",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/96a43f35618490fd361f9935c69377b71bcfc1218270db081b265dda915eec96.png",
-    "coinGeckoId": "autism"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/FE2B3234867CA424022E11AB4FB4A5D65AD2AFD666C1026F293822C92B42021C",
-    "symbol": "stkOSMO",
-    "name": "stkosmo",
-    "description": "PSTAKE Liquid-Staked OSMO",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/155ebcf460c0b7cd361b44252ab2e062793a1bde3cbacf1ee0233f7eb06873f9.svg",
-    "coinGeckoId": "pstake-staked-osmo"
+    "image": "https://cdn.chainroot.io/images/tokens/33d728dfd3351a640e4f316dcadbc5e50dfdb4a3798bb74e9485f74585cf0245.svg",
+    "coinGeckoId": "akash-network"
   }
 ]

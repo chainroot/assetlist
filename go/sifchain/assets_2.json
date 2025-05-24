@@ -14,7 +14,7 @@
         "type": "ibc",
         "denom": "ibc/21CB41565FCA19AB6613EE06B0D56E588E0DC3E53FF94BA499BB9635794A1A35",
         "name": "Sentinel",
-        "symbol": "DVPN",
+        "symbol": "P2P",
         "description": "Sentinel Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/ab186a6cad2c485ed2727da2f677ee7172dfbc22eb0a01cca1ff472ac0c5abb8.png",

@@ -1,0 +1,102 @@
+[
+  {
+    "type": "ibc",
+    "denom": "ibc/A5BA3F1C38ADAA11F941D66B19A7CD67B127F25DE2EA581BCD2DC4D8D50BEED9",
+    "symbol": "sqOSMO",
+    "name": "sqosmo",
+    "description": "Margined Power Token sqOSMO",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9836891aec04bacd22d5302b7601f14043982ce75e9316465af2cd9b7f6eeac3.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/6DE0F51215FD3A0B34BDDC97C78D327A8D8A05E5AD817B34343BDE830D0FC524",
+    "symbol": "COSMO",
+    "name": "COSMO",
+    "description": "Cosmo is the best currency in the universe.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/bef990e9d2a34c122cdc2c771e179c100f59ade122dfe4c70358c1b4b97c3305.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/AB8268F50B90B767B5A49B12FDD69443AA5E35125D6477CDE9418273B0A25228",
+    "symbol": "OSMO",
+    "name": "osmo",
+    "description": "The native token of Osmosis",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/e053406240eac4d978a66008f0551daa497be489fba6c5840e5cd073bd6fcd94.svg",
+    "coinGeckoId": "osmosis"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/D934516FBE457F3A98AFABD87E0EFF7F95A15325C191EA8CDD7763C702FDDEC2",
+    "symbol": "AXL",
+    "name": "axl",
+    "description": "Axelar is a decentralized interoperability network connecting multiple blockchain ecosystems, enabling seamless cross-chain communication and value transfer.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
+    "coinGeckoId": "axelar"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/E7E205D042969D193F8F4D566C5A0167D3C8F46BFD88CB88369DB20DA4EE8766",
+    "symbol": "stSOMM",
+    "name": "stsomm",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/265c0b7e39f1d7af99dbd1287750d2c6b9c352bc5687ea816e185b11e72c136b.svg",
+    "coinGeckoId": "stride-staked-sommelier"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/A774188B0C835803FC0C5897AD8761EBBDE2D228A4E9528EFA87AE81F7F090A4",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/57A75F65E01A7AD211DA7735286452739882D13FEF18AED50FAE8C3D88144BD6",
+    "symbol": "SCRT",
+    "name": "scrt",
+    "description": "Secret Network is a privacy-focused blockchain that enables private and secure smart contracts, protecting sensitive data.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/4e950180cbb20a28d82f99bc2243211928ef4995504af4b4029ba1f3031fde4a.svg",
+    "coinGeckoId": "secret"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/0EC5DB3FAB49B2A579A898C82E7D219162A708F469CEB1625BB3496E430891E7",
+    "symbol": "AXL",
+    "name": "axl",
+    "description": "Axelar is a decentralized interoperability network connecting multiple blockchain ecosystems, enabling seamless cross-chain communication and value transfer.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
+    "coinGeckoId": "axelar"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/EAA463E93B284ED5B9B89434A67D6009940D92959B38646125B96FEA938BD09E",
+    "symbol": "JUNO",
+    "name": "juno",
+    "description": "The native token of JUNO Chain",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/79f9def0d7428ed8b761a7c42dc5f7a3492367f014258935d72cbbe2d813a552.svg",
+    "coinGeckoId": "juno-network"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/650B808C0B186704290A19FC122A2D9A26D75B270ED9A0F6A1BE03E2D1747DBF",
+    "symbol": "CANTO",
+    "name": "canto",
+    "description": "Canto is a Layer-1 blockchain built to deliver on the promise of DeFi",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/8853d3a5ec2c5578d576e8bfcd9313796e900907b554cd72ab28e3b96ea36b22.svg",
+    "coinGeckoId": "canto"
+  }
+]
