@@ -3,7 +3,7 @@
     "chain_name": "Sentinel",
     "chain_image": "https://cdn.chainroot.io/images/tokens/chain_sentinel.png",
     "staking_asset_denom": "udvpn",
-    "staking_asset_symbol" : "DVPN",
+    "staking_asset_symbol" : "P2P",
     "staking_asset_image": "https://cdn.chainroot.io/images/tokens/ab186a6cad2c485ed2727da2f677ee7172dfbc22eb0a01cca1ff472ac0c5abb8.png",
     "bech_account_prefix" : "sent",
     "bech_validator_prefix" : "sentvaloper",

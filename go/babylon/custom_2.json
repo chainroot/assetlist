@@ -11,16 +11,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/7C657AF9D002F0EA5327B3AECB0ECE6BED10C7B56AF4C5124700F64782CD0231",
-    "symbol": "COREUM",
-    "name": "core",
-    "description": "The native token of Coreum",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/e3445a89cd6ce7b1366b464f374aff6ff42f81bc67d08a3cd75f63a951d2cb0c.svg",
-    "coinGeckoId": "coreum"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/C0E66D1C81D8AAF0E6896E05190FDFBC222367148F86AC3EA679C28327A763CD",
     "symbol": "AXL",
     "name": "axl",
@@ -28,6 +18,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
     "coinGeckoId": "axelar"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/7C657AF9D002F0EA5327B3AECB0ECE6BED10C7B56AF4C5124700F64782CD0231",
+    "symbol": "COREUM",
+    "name": "core",
+    "description": "The native token of Coreum",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/e3445a89cd6ce7b1366b464f374aff6ff42f81bc67d08a3cd75f63a951d2cb0c.svg",
+    "coinGeckoId": "coreum"
   },
   {
     "type": "ibc",

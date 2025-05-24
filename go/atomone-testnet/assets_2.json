@@ -8,5 +8,15 @@
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/b81f35767b556d1f6124db7598a76387e53741b8dc0aff2d77b7144834fc4b3d.png",
         "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "uphoton",
+        "name": "Photon",
+        "symbol": "PHOTON",
+        "description": "The fee token of AtomOne",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/aebc8c53c8e602489c22f4bfd053c6dac140cb377edd3da7523dade4aaf4d1a4.png",
+        "coinGeckoId": ""
     }
 ]

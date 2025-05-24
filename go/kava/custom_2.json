@@ -11,13 +11,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/504AB5ACDC94480E27C4ECCCFB9E0468A0AF5C0AF6E7CF9BB504DE54C3D8E7DB",
-    "symbol": "DYDX",
-    "name": "dydx",
-    "description": "DYDX is a decentralized trading platform focused on derivatives and perpetual contracts, offering a secure and efficient trading experience without intermediaries.",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/0cd48cdfcd49902807eb50da7db148b648470cf80daaf35482402ae8e0c504d6.svg",
-    "coinGeckoId": "dydx-chain"
+    "denom": "ibc/9D61880BE44FD804422D76432B9B37DA6FE6F58B30F039BD3F289E3806698A8E",
+    "symbol": "ION",
+    "name": "ion",
+    "description": "ION is the second native token of Osmosis.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/783677c916fdd15fd616c45e64d59f1ccfdb8e583ec24a0a1302454aa387603f.svg",
+    "coinGeckoId": "ion"
   },
   {
     "type": "ibc",
@@ -41,22 +41,22 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/815FC81EB6BD612206BD9A9909A02F7691D24A5B97CDFE2124B1BDCA9D4AB14C",
-    "symbol": "LUNC",
-    "name": "luna",
-    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
-    "coinGeckoId": "terra-luna"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/34F518637AA8535072B918F6270AC25501DEF920CB0C25A505EA81B3DC534466",
+    "denom": "ibc/B27E587A396CE3964ED0AE196E3BB22CA22C7EE21112F8F81F004313D24142D3",
     "symbol": "USTC",
     "name": "ust",
     "description": "The USD stablecoin of Terra Classic.",
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/bbf7ad631fa51027777b71c54feda0517f9f112a5f42edad9c584fb9724561cb.svg",
     "coinGeckoId": "terrausd"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/A8CC572688E2C90F0F4C58D5A972622A4E2C105AAD3650DFC619D2F6511775EE",
+    "symbol": "ATOM",
+    "name": "atom",
+    "description": "ATOM is the native cryptocurrency of the Cosmos network, designed to facilitate interoperability between multiple blockchains through its innovative hub-and-spoke model.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
+    "coinGeckoId": "cosmos"
   }
 ]
