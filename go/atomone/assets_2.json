@@ -2,11 +2,20 @@
     {
         "type": "staking",
         "denom": "uatone",
-        "name": "Atomone",
+        "name": "AtomOne",
         "symbol": "ATONE",
         "description": "Atomone Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/atone.png",
         "coinGeckoId": "atomone"
+    },
+    {
+        "type": "native",
+        "denom": "uphoton",
+        "name": "Photon",
+        "symbol": "PHOTON",
+        "description": "Sole fee token used to pay all transaction fees on the AtomOne network and is minted by burning ATONE tokens.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/e46c2ad5e95be40ccd2a379dd00462fd1322f4225a501e540c2a79d5fc58d076.png"
     }
 ]

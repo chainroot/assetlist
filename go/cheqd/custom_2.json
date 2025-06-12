@@ -1,0 +1,122 @@
+[
+  {
+    "type": "ibc",
+    "denom": "ibc/50EBCA2B46E99C6A3CFF0B6757ECCE11B4F5E550CA0BFADE188E0EE5BB7B2F39",
+    "symbol": "CHEQ",
+    "name": "cheq",
+    "description": "Native token for the cheqd network",
+    "decimals": 9,
+    "image": "https://cdn.chainroot.io/images/tokens/ece9c4725f69f60677cbdcd7305096f4137980233cb4eee9bf575e4d1bad8271.svg",
+    "coinGeckoId": "cheqd-network"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/330A2BBC8284155C3DA4812DF87A78195EAE18711AE25D65C5FBCB6B392C19D6",
+    "symbol": "CHEQ",
+    "name": "cheq",
+    "description": "Native token for the cheqd network",
+    "decimals": 9,
+    "image": "https://cdn.chainroot.io/images/tokens/ece9c4725f69f60677cbdcd7305096f4137980233cb4eee9bf575e4d1bad8271.svg",
+    "coinGeckoId": "cheqd-network"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/B2DAF7A2055EFFB394536E1D9628590BA9A5D9293181CF9D6B0F543E28403790",
+    "symbol": "CHEQ",
+    "name": "cheq",
+    "description": "Native token for the cheqd network",
+    "decimals": 9,
+    "image": "https://cdn.chainroot.io/images/tokens/ece9c4725f69f60677cbdcd7305096f4137980233cb4eee9bf575e4d1bad8271.svg",
+    "coinGeckoId": "cheqd-network"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/CF8583CAD21AD1694A7B9C4F258D6844CF2E39C13BD1E48E3D8961E78AE7AA82",
+    "symbol": "CHEQ",
+    "name": "cheq",
+    "description": "Native token for the cheqd network",
+    "decimals": 9,
+    "image": "https://cdn.chainroot.io/images/tokens/ece9c4725f69f60677cbdcd7305096f4137980233cb4eee9bf575e4d1bad8271.svg",
+    "coinGeckoId": "cheqd-network"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/829A145B958AF63EB2B89175D6AF98AA0BBD14610E6C90D8287E7D6F58286CC5",
+    "symbol": "CHEQ",
+    "name": "cheq",
+    "description": "Native token for the cheqd network",
+    "decimals": 9,
+    "image": "https://cdn.chainroot.io/images/tokens/ece9c4725f69f60677cbdcd7305096f4137980233cb4eee9bf575e4d1bad8271.svg",
+    "coinGeckoId": "cheqd-network"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/C950356239AD2A205DE09FDF066B1F9FF19A7CA7145EA48A5B19B76EE47E52F7",
+    "symbol": "GRAV",
+    "name": "graviton",
+    "description": "The native token of Gravity Bridge",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/80113d9226d07b7d5f24a7b6f569d4971cdfed9481d0b80d4121b8c3bd7e0a8b.svg",
+    "coinGeckoId": "graviton"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/FC47EC0858F2B2C4B06E931C116CE890B32F0D4561F88F4E66589B439E46AEF5",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/CD01034D6749F20AAC5330EF4FD8B8CA7C40F7527AB8C4A302FBD2A070852EE1",
+    "symbol": "USDC",
+    "name": "gusdc",
+    "description": "Gravity Bridge USDC",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/d5b4a9ae52bab105a3a3d04814f9aa2e21dbc8a71181221172ebbe52cefd5c0b.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/C0DD602D2B4CA12D9BB1FEEEF23D0042473264FFB8A7D88CEDE4FAACC628FADF",
+    "symbol": "SCRT",
+    "name": "scrt",
+    "description": "Secret Network is a privacy-focused blockchain that enables private and secure smart contracts, protecting sensitive data.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/4e950180cbb20a28d82f99bc2243211928ef4995504af4b4029ba1f3031fde4a.svg",
+    "coinGeckoId": "secret"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/7F0C2CB6E79CC36D29DA7592899F98E3BEFD2CF77A94340C317032A78812393D",
+    "symbol": "GRAV",
+    "name": "graviton",
+    "description": "The native token of Gravity Bridge",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/80113d9226d07b7d5f24a7b6f569d4971cdfed9481d0b80d4121b8c3bd7e0a8b.svg",
+    "coinGeckoId": "graviton"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/338D2DB6F58921A72BD9F7B834AA9E05A3FC40D4FCCBEF3DB90EBACB230CCE96",
+    "symbol": "KUJI",
+    "name": "kuji",
+    "description": "Kujira is a decentralized finance (DeFi) platform offering a suite of tools and services for managing and optimizing digital assets and investments.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9b4df5623b76ae925d1947e3d154d0f88fb1d194ff62673d6af8bc0a77e6a71a.svg",
+    "coinGeckoId": "kujira"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/F5FABF52B54E65064B57BF6DBD8E5FAD22CEE9F4B8A57ADBB20CCD0173AA72A4",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  }
+]

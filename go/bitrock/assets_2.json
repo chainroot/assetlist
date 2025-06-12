@@ -1,0 +1,12 @@
+[
+    {
+        "type": "native",
+        "denom": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name" : "Brock",
+        "symbol": "BROCK",
+        "description": "Bitrock Native Coin",
+        "decimals": 9,
+        "image": "https://cdn.chainroot.io/images/tokens/bd204b811f2f21be8effed10fb05311f28a8fe347b85204cd0dd056a0e189bda.png",
+        "coinGeckoId": "bitrock"
+    }
+]

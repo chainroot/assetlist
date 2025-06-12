@@ -1,0 +1,12 @@
+[
+    {
+        "type": "staking",
+        "denom": "umpwr",
+        "name": "MPWR",
+        "symbol": "MPWR",
+        "description": "The native staking and governance token of Empower.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/b06a7c9a1103428c95242f642376ff78a353a3840a36d6cbd9195baa32083d73.svg",
+        "coinGeckoId": ""
+    }
+]

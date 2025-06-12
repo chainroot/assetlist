@@ -91,6 +91,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/F61EC07441016D3F4507529C1FCCA547C4C19FB8E618CA6222068E01A8F9739B",
+    "symbol": "BTC",
+    "name": "allBTC",
+    "description": "An alloy of BTC asset variants on Osmosis.",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/ca6caccf8a3b0320119fd0a1d1057fb6ed914664486ff3bfcf13d70583cda962.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/D364CC65376CADCADCB6D626EA85235D58A85C54765CA688AF6161D9CB680DDF",
     "symbol": "KAVA",
     "name": "kava",
