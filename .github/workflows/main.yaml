@@ -21,7 +21,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      DIRECTORIES: "aura gitopia pryzm seda paloma atomone-testnet"
+      DIRECTORIES: "aura gitopia pryzm seda paloma atomone-testnet neutaro uptick empower"
 
     steps:
     - uses: actions/checkout@v4

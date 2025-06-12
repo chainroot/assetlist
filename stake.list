@@ -43,6 +43,7 @@
   "dymension": "adym",
   "dyson-protocol": "dys",
   "emoney": "ungm",
+  "empower": "umpwr",
   "evmos": "aevmos",
   "evmos-testnet": "atevmos",
   "fetchai": "afet",
@@ -79,6 +80,7 @@
   "microtick": "utick",
   "migaloo": "uwhale",
   "mintstation-testnet": "umint",
+  "neutaro": "uneutaro",
   "neutron": "untrn",
   "neutron-testnet": "untrn",
   "nibiru": "unibi",
@@ -134,6 +136,7 @@
   "umee": "uumee",
   "unification": "nund",
   "ununifi": "uguu",
+  "uptick": "auptick",
   "vidulum": "uvdl",
   "xpla": "axpla",
   "zeta": "azeta"
