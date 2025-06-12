@@ -181,16 +181,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/B572E6F30E7C33D78A50D8B4E973A9C118C30F848DF31A95FAA5E4C7450A8BD0",
-    "symbol": "wstETH",
-    "name": "wsteth",
-    "description": "",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/195ac6e06829bd28be1067a0c4eedc8e749efd9bc4ab6326fbaf227bcca070c8.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/DADB399E742FCEE71853E98225D13E44E90292852CD0033DF5CABAB96F80B833",
     "symbol": "WBNB",
     "name": "wbnb",
@@ -207,6 +197,16 @@
     "description": "",
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/6e09b30e25aa93eba62945146460a49ce4bae94377fbb3f3c04c81e692bbd0a6.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/B572E6F30E7C33D78A50D8B4E973A9C118C30F848DF31A95FAA5E4C7450A8BD0",
+    "symbol": "wstETH",
+    "name": "wsteth",
+    "description": "",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/195ac6e06829bd28be1067a0c4eedc8e749efd9bc4ab6326fbaf227bcca070c8.svg",
     "coinGeckoId": ""
   },
   {
@@ -341,16 +341,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/ACFAC255034E83CBC3FC80E9A2A9842D7FC63C6F5EAEE7521CE072F2FDE18044",
-    "symbol": "INJ",
-    "name": "INJ",
-    "description": "Injective is a decentralized exchange protocol that enables fast, secure, and fully decentralized trading of derivatives, futures, and spot markets.",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/c824ba4c934281bfa3a10052366f3c00fe94ed254da7f0e2b82da59a5c2872df.svg",
-    "coinGeckoId": "injective-protocol"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/E543A9F9E5BA7871F1095CB3B65D018472D88696611B95BABED8AADA89C2741C",
     "symbol": "FET",
     "name": "fet",
@@ -361,16 +351,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/2B3C2BB9C5EC38FD6913A8FDC1BCD99439063C746007770D4FF32D5690073159",
-    "symbol": "INJ",
-    "name": "INJ",
-    "description": "Injective is a decentralized exchange protocol that enables fast, secure, and fully decentralized trading of derivatives, futures, and spot markets.",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/c824ba4c934281bfa3a10052366f3c00fe94ed254da7f0e2b82da59a5c2872df.svg",
-    "coinGeckoId": "injective-protocol"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/6005618F257421D1A4F81B01FC573662D9112BA1DDBCAFABFA165AE74CC87881",
     "symbol": "PLQ",
     "name": "planq",
@@ -378,6 +358,16 @@
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/d97a6ddd52b84a2a5b37d0b99ac4190f268662fe60567f797a5cf7dc23b93236.svg",
     "coinGeckoId": "planq"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/2B3C2BB9C5EC38FD6913A8FDC1BCD99439063C746007770D4FF32D5690073159",
+    "symbol": "INJ",
+    "name": "INJ",
+    "description": "Injective is a decentralized exchange protocol that enables fast, secure, and fully decentralized trading of derivatives, futures, and spot markets.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/c824ba4c934281bfa3a10052366f3c00fe94ed254da7f0e2b82da59a5c2872df.svg",
+    "coinGeckoId": "injective-protocol"
   },
   {
     "type": "ibc",
@@ -397,16 +387,6 @@
     "description": "pSTAKE is a liquid staking protocol unlocking the liquidity of staked assets.",
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/8bbf65220148462b6afa330e19885a952e4e3d46586ef36bdaa7277062515f28.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/B4B3B08FE5FEA65CB25E467C9D95D180A6CDB0EBE730E7BB20CA1BF6C9A80D9B",
-    "symbol": "YieldETH",
-    "name": "YieldETH",
-    "description": "",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/ca3cf3940abba50ce86b511d7ff1b1dd47f276267d6b8f61f2ec002fef3ad8b6.svg",
     "coinGeckoId": ""
   },
   {
@@ -437,6 +417,16 @@
     "description": "Ciento Exchange Token",
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/f3f4e25651bc9d3b3077644f65625c3dae7496a68fc3cdbcc7c7ea26a14c5326.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/B4B3B08FE5FEA65CB25E467C9D95D180A6CDB0EBE730E7BB20CA1BF6C9A80D9B",
+    "symbol": "YieldETH",
+    "name": "YieldETH",
+    "description": "",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/ca3cf3940abba50ce86b511d7ff1b1dd47f276267d6b8f61f2ec002fef3ad8b6.svg",
     "coinGeckoId": ""
   },
   {
@@ -481,13 +471,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/5721EB13BF58F71E3CC4698C41148F48CB6A2D0361C67A9CC5F64B2ADC1A34E2",
-    "symbol": "stDYM",
-    "name": "stDYM",
-    "description": "Stride's liquid staked DYM",
+    "denom": "ibc/ACFAC255034E83CBC3FC80E9A2A9842D7FC63C6F5EAEE7521CE072F2FDE18044",
+    "symbol": "INJ",
+    "name": "INJ",
+    "description": "Injective is a decentralized exchange protocol that enables fast, secure, and fully decentralized trading of derivatives, futures, and spot markets.",
     "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/8ba1e4abdbffabfacc3663cf89305416f676c5a89dddd5ac8706ce97ccddc0d5.svg",
-    "coinGeckoId": ""
+    "image": "https://cdn.chainroot.io/images/tokens/c824ba4c934281bfa3a10052366f3c00fe94ed254da7f0e2b82da59a5c2872df.svg",
+    "coinGeckoId": "injective-protocol"
   },
   {
     "type": "ibc",
@@ -641,16 +631,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/675CC877238E9063F5C63D8AC9435AE2833B499200F541C6F0F2D4F07CD65261",
-    "symbol": "GUPPY",
-    "name": "GUPPY",
-    "description": "GUPPY",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/407d86f14e3e873ea1d342a8c7088557e7c11861f0ff647366bbee5b84a7abdf.png",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/DC697DA4D4353E3817B0CB3D08AAE9E133729BF1315EBA5172FBDA9C800D86B0",
     "symbol": "stINJ",
     "name": "stINJ",
@@ -681,26 +661,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/B37E4D9FB5B30F3E1E20A4B2DE2A005E584C5C822C44527546556AE2470B4539",
-    "symbol": "DOT",
-    "name": "dot",
-    "description": "Wrapped Polkadot on Axelar",
-    "decimals": 10,
-    "image": "https://cdn.chainroot.io/images/tokens/f9a7cd6c26045851eacbf7e0931e50de81592876c97194e0accba962324eb600.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/A6826D67800ED864F3BF51D56B0165DAF2491B00D93433564158D87BAA0C82BE",
-    "symbol": "nBTC",
-    "name": "nbtc",
-    "description": "Bitcoin. On Cosmos.",
-    "decimals": 14,
-    "image": "https://cdn.chainroot.io/images/tokens/143844b86cc394c2f6884a3fae9e80472ed64ef0419a8db4ff00473e0e32659f.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/359AF48D8512344FD8B6514CA79C26AC120B4F12FFE2D2A46528A58439272BD5",
     "symbol": "FURY",
     "name": "fury",
@@ -721,23 +681,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/782817D588181841C9EB508E14B9A8A984E21590B83FEAC86BB44B0BA58C37F5",
-    "symbol": "CHEQ",
-    "name": "cheq",
-    "description": "Native token for the cheqd network",
-    "decimals": 9,
-    "image": "https://cdn.chainroot.io/images/tokens/ece9c4725f69f60677cbdcd7305096f4137980233cb4eee9bf575e4d1bad8271.svg",
-    "coinGeckoId": "cheqd-network"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/08C30EA509CA53361FC9D2D5479D3F602899A03AECF1D08EC53894EC2CD17A68",
-    "symbol": "ACRE",
-    "name": "acre",
-    "description": "The native EVM, governance and staking token of the Acrechain",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/4c10b64c57af7e4432da7e148b682df098440d7dbe34a89aadf4e8215c95200b.svg",
-    "coinGeckoId": "arable-protocol"
+    "denom": "ibc/B37E4D9FB5B30F3E1E20A4B2DE2A005E584C5C822C44527546556AE2470B4539",
+    "symbol": "DOT",
+    "name": "dot",
+    "description": "Wrapped Polkadot on Axelar",
+    "decimals": 10,
+    "image": "https://cdn.chainroot.io/images/tokens/f9a7cd6c26045851eacbf7e0931e50de81592876c97194e0accba962324eb600.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -761,26 +711,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/3766EE7E4A42BA83C4AB0DD26B144B26B7758BDAB4017E0924C95FBFC69A2589",
-    "symbol": "BLUE",
-    "name": "blue",
-    "description": "BLUE CUB DAO is a community DAO on Terra",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/590df4c4758b4e3d22e792758ea452bf20f0917b46903746c92a5a8d61ff015f.png",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/3332C190D8842AF453D1B4C8DB04AA8D4303E1203F58D4EFE3554F7BF495A3DE",
-    "symbol": "nBTC",
-    "name": "nbtc",
-    "description": "Bitcoin. On Cosmos.",
-    "decimals": 14,
-    "image": "https://cdn.chainroot.io/images/tokens/143844b86cc394c2f6884a3fae9e80472ed64ef0419a8db4ff00473e0e32659f.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/FFA3D0E9C3CDE729559FB71A09E9E6CFA5A85AFABAC9F3CB5DD3942BFF935F9C",
     "symbol": "SWTH",
     "name": "dswth",
@@ -791,16 +721,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/D20559F0071F4BFDFF519D0C12B77AFE2A4481D44214BD92808B0C36B1E223C9",
-    "symbol": "GRAV",
-    "name": "graviton",
-    "description": "The native token of Gravity Bridge",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/80113d9226d07b7d5f24a7b6f569d4971cdfed9481d0b80d4121b8c3bd7e0a8b.svg",
-    "coinGeckoId": "graviton"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/A7A5C44AA67317F1B3FFB27BAFC89C9CC04F61306F6F834F89A74B8F82D252A1",
     "symbol": "SOMM",
     "name": "somm",
@@ -808,16 +728,6 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/4c5f41c1d09e29aaf50ed10f7f7ff2cce2d2e0db2ccf95eef8c7f0379136970b.svg",
     "coinGeckoId": "sommelier"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/590CE97A3681BC2058FED1F69B613040209DF3F17B7BD31DFFB8671C4D2CD99B",
-    "symbol": "SHD",
-    "name": "shd",
-    "description": "The native token cw20 for Shade on Secret Network",
-    "decimals": 8,
-    "image": "https://cdn.chainroot.io/images/tokens/cc21653a32d2dddc9d3a38fb2cbad4f8997dbf7403f1e4e05c06000b639ee852.svg",
-    "coinGeckoId": "shade-protocol"
   },
   {
     "type": "ibc",
@@ -861,6 +771,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/5D98FB84A053607675006ED29A165F67B51FDFCEDDBEE1CFCB0F36BE5A78E44C",
+    "symbol": "sqOSMO",
+    "name": "sqosmo",
+    "description": "Margined Power Token sqOSMO",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9836891aec04bacd22d5302b7601f14043982ce75e9316465af2cd9b7f6eeac3.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/21F041CFE99994E0D027D0C5F72A9EB6224CBCAF5A6AD5DDB75F67A781D46C68",
     "symbol": "WHALE",
     "name": "whale",
@@ -868,6 +788,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/516ed75052338f9ed271f0b26f6090dfa1ed4acb81067b03b45c97222853a3da.svg",
     "coinGeckoId": "white-whale"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/963532A97C3EF15733C579611D0A93D6B6789051330727EC3DEB173643236BEA",
+    "symbol": "OPHIR",
+    "name": "OPHIR",
+    "description": "OPHIR is a Cosmos Treasury DAO established on Migaloo.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/e20ba6afa266dfa7b37bb345965a0f335bf670989f36eed4ac7451a696a2922f.png",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -881,16 +811,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/2EDD873C800111E6997DD01721079A0BA961DC79B1DE367FBA043BAC45C556F4",
-    "symbol": "OX",
-    "name": "ox",
-    "description": "",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/171c7583cb6d6ddd3a2687638bc297b8ee4037af6b3e85f8e20d551947cb52c6.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/BFDEE4E7F0E8371F195C2A6CFB70E54C18361E475FC26BE3A38B36E55FCEFDD6",
     "symbol": "SAYVE",
     "name": "sayve",
@@ -901,7 +821,137 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/A77E2AFE4F353AA7709519F80FF30DD8DB769E48782126EFFC19003A502CE0A8",
+    "denom": "ibc/E9079D4AB6CAB16ECBA1070302FEA70E7F3F35D1C699B874CBBA444BCAF97A2E",
+    "symbol": "LINK",
+    "name": "link",
+    "description": "Chainlink on Axelar",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/456744009cc8f2e0a5daec1ef3b5d39f56ac331b5113874d0ab13792639b4d52.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/91DAE8E9D19A6A770D2A787E54E1D388F8E603D89093FC4939CE36125CB8284D",
+    "symbol": "TORI",
+    "name": "tori",
+    "description": "The native token of Teritori",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/c3cf8ec94066b351498e89287bb80944c61e8da21ef5d83042cfa1da45c916c5.svg",
+    "coinGeckoId": "teritori"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/DBF6ABDB5F3D4267C039967515594453F4A31007FD838A566F563A01D2C2FB80",
+    "symbol": "MARS.old",
+    "name": "mars",
+    "description": "Mars Protocol token (pre-migration)",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/2d857a5e2b35745b028f5c4cd9d5a3bd9dff79e86f63ca9b84fed1d88e409208.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/B64A07C006C0F5E260A8AD50BD53568F1FD4A0D75B7A9F8765C81BEAFDA62053",
+    "symbol": "LVN",
+    "name": "lvn",
+    "description": "Levana Well-funded Perps is a protocol for perpetual swaps, which are leveraged trading contracts.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/d4b74abb24cc5ededa0b2fd76431824bc634119cac0a4dc029a9921388602d5d.svg",
+    "coinGeckoId": "levana-protocol"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/8C5F06731FD1D48D3CAF1D4775328B5AD9BCE08E09B2A14CB274CCA31D6CBD21",
+    "symbol": "GLTO",
+    "name": "glto",
+    "description": "DeFi gaming platform built on Juno",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7d4108df024d1d8716ca9d51cce7bf1f82fb520f0b48db39adde375ba171c609.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/7023F9629A70F8112764D959D04F52EA3115A0AED3CEE59694799FD8C91A97FA",
+    "symbol": "AKT",
+    "name": "akt",
+    "description": "Akash Network is a decentralized cloud computing marketplace that connects users with unused computing resources, offering a cost-effective alternative to traditional cloud providers.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/33d728dfd3351a640e4f316dcadbc5e50dfdb4a3798bb74e9485f74585cf0245.svg",
+    "coinGeckoId": "akash-network"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/21038E447A2D4A1183628C0EC366FE79C2E0B0BD91F9A85E6C906CD911FD676E",
+    "symbol": "SHD(old)",
+    "name": "shd",
+    "description": "The native token cw20 for Shade on Secret Network",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/a7bdae4f47515ce4a761f34026927bab858a43a340a476e6f8b89b409cd21d1c.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/4088545A6B6DCD1DD489C28F2BC1297F308BA32D8DA02FDE0F46E26BF4C345F2",
+    "symbol": "DOT",
+    "name": "dot",
+    "description": "Wrapped Polkadot on Axelar",
+    "decimals": 10,
+    "image": "https://cdn.chainroot.io/images/tokens/f9a7cd6c26045851eacbf7e0931e50de81592876c97194e0accba962324eb600.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/DFD954A2E4B63226B25D55E5F423E3BBB804389C68441FB7805927F272472399",
+    "symbol": "SWTH",
+    "name": "dswth",
+    "description": "The native governance token of Carbon",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/9772f246b16fb294e55abae93bc5994b37b1f662fbda84fe6a6c87db3cc866f2.svg",
+    "coinGeckoId": "switcheo"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/03E988788ED3EE6326C95151F4E3947820B2F40BDC8C4170FEF5FC75B56EB6DC",
+    "symbol": "RAC",
+    "name": "rac",
+    "description": "Racoon aims to simplify accessibility to AI, NFTs and Gambling on the Cosmos Ecosystem",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/a6449114b7250e62ebb5cde862e5d57d962c932714df9441e609b1b71e9b322b.svg",
+    "coinGeckoId": "racoon"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/CC2BE9443DA16F9130EEEDC60DF0FC0A91F240E2F2D464AA4D38E324199353C2",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/C66A07F8689F02329527CF02E8484AF424744FEF0B2E0B4B2864F6148E0B073E",
+    "symbol": "HARBOR",
+    "name": "harbor",
+    "description": "Governance Token of Harbor protocol on Comdex network",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/1a502badbefa8cc68e70549b0f831717f060d42b772bfa51547c4f6be93509ee.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/6D84A72C48A3EA8A690083487F1586628F443FAE5F92175E4684B0744490A356",
+    "symbol": "STRDST",
+    "name": "strdst",
+    "description": "The native token of ohhNFT.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/b932693b966a8b1abb6fe936073825270573fdf57bef0c22c03f5543014e129c.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/185172F1C45B72428270646385231B9FBF99F22462131F0E21F2D636A54ACE97",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
@@ -911,27 +961,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/47B9460DB83EF85065B43266910645FEB8D2BC1CD5CAC970823E4D749797BC6F",
-    "symbol": "MEME",
-    "name": "meme",
-    "description": "MEME Token (MEME) is the native staking token of the MEME Chain",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/dd1d7ee548e9c846003a19195f3c9cab18365b330deffdce9c5ad3230940ed36.svg",
-    "coinGeckoId": "meme-network"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/1441D4687B8D88767562DC95A465C0D070BEEFE72324AC769844D07D9C6BE74E",
-    "symbol": "ION",
-    "name": "ion",
-    "description": "ION is the second native token of Osmosis.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/783677c916fdd15fd616c45e64d59f1ccfdb8e583ec24a0a1302454aa387603f.svg",
-    "coinGeckoId": "ion"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/F3294DC3655AC72DC643A0264314C686C27192510BD5FC295892AD85E65991BA",
+    "denom": "ibc/C4E008478248449C946459E442BA1FB094F3A0380B9FA1E4D251434D6D450138",
     "symbol": "OSMO",
     "name": "osmo",
     "description": "The native token of Osmosis",
@@ -941,22 +971,12 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/423DE4133F8676069BC9550FF251F1F870F6885621C8E363A9F70257BF3AA638",
-    "symbol": "AUTISM",
-    "name": "autism",
-    "description": "$AUTISM exists to celebrate autism as a superior biological tech stack for a changing world",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/96a43f35618490fd361f9935c69377b71bcfc1218270db081b265dda915eec96.png",
-    "coinGeckoId": "autism"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/FE2B3234867CA424022E11AB4FB4A5D65AD2AFD666C1026F293822C92B42021C",
-    "symbol": "stkOSMO",
-    "name": "stkosmo",
-    "description": "PSTAKE Liquid-Staked OSMO",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/155ebcf460c0b7cd361b44252ab2e062793a1bde3cbacf1ee0233f7eb06873f9.svg",
-    "coinGeckoId": "pstake-staked-osmo"
+    "denom": "ibc/4DE6AC8B943681C7A31EA0EC621760EF6FD23D569AAEB88EE9BC9B86EB0AA832",
+    "symbol": "SWTH",
+    "name": "dswth",
+    "description": "The native governance token of Carbon",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/9772f246b16fb294e55abae93bc5994b37b1f662fbda84fe6a6c87db3cc866f2.svg",
+    "coinGeckoId": "switcheo"
   }
 ]

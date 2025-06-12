@@ -1,0 +1,81 @@
+[
+    {
+        "type": "native",
+        "denom": "uluna",
+        "name" : "Lunc",
+        "symbol": "LUNC",
+        "description": "The native staking coin of Terra Classic.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/lunc.png",
+        "coinGeckoId": "terra-luna",
+        "color": "#1E75EE"
+    },
+    {
+        "type": "native",
+        "denom": "uusd",
+        "name" : "USTC",
+        "symbol": "USTC",
+        "description": "The USD stablecoin of Terra Classic.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/3d9be81a4443d4cf529029f70c72997b1a160ffe83f530803f89556cfa81b80f.png",
+        "coinGeckoId": "terrausd",
+        "color": "#1E75EE"
+    },
+    {
+        "type": "native",
+        "denom": "ukrw",
+        "name" : "KRTC",
+        "symbol": "KRTC",
+        "description": "The KRW stablecoin of Terra Classic.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/ac501ce6eb4d8fbd86c659656ba48c01d2f0ba4a598e5e1703469a9f18c42f27.png",
+        "coinGeckoId": "",
+        "color": "#1E75EE"
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/E1E3674A0E4E1EF9C69646F9AF8D9497173821826074622D831BAB73CCB99A2D",
+        "name" : "USD Coin (Axelar)",
+        "symbol": "USDC.axl",
+        "description": "Wrapped USDC imported to Cosmos from Ethereum via Axelar.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
+        "coinGeckoId": "axlusdc",
+        "ibc_info" : {
+            "path": "ethereum>axelar>terra-classic",
+            "client" : {
+                "channel": "channel-19",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-0",
+                "port": "transfer",
+                "chain": "axelar",
+                "denom": "uusdc"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/386A4031D68DE6370B85F9FF7E89CEF8DE7CDE01CC193CBD87BD3ED60F6662CE",
+        "name" : "Tether USD (Axelar)",
+        "symbol": "USDT.axl",
+        "description": "Wrapped USDT imported to Cosmos from Ethereum via Axelar.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/cfb16c83203cac00d691bdb07c920db555555a98e5550863ea00bb3cf7baf159.svg",
+        "coinGeckoId": "axelar-usdt",
+        "ibc_info" : {
+            "path": "ethereum>axelar>terra-classic",
+            "client" : {
+                "channel": "channel-19",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-0",
+                "port": "transfer",
+                "chain": "axelar",
+                "denom": "uusdt"
+            }
+        }
+    }
+]

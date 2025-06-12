@@ -516,6 +516,7 @@
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/0bcab96fd32fb55907c9e1ba23674e20769d46bcdf4596a7d6eb42bb9ec1dae7.png",
         "color": "#7b5aff",
+        "coinGeckoId": "yield-gata",
         "ibc_info": {
             "path": "omniflix>stargaze",
             "client": {

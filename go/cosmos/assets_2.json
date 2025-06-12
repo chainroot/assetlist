@@ -129,7 +129,7 @@
         "type": "ibc",
         "denom": "ibc/42E47A5BA708EBE6E0C227006254F2784E209F4DBD3C6BB77EDC4B29EF875E8E",
         "name": "Sentinel",
-        "symbol": "DVPN",
+        "symbol": "P2P",
         "description": "Sentinel Staking Coin",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/ab186a6cad2c485ed2727da2f677ee7172dfbc22eb0a01cca1ff472ac0c5abb8.png",
@@ -937,6 +937,26 @@
                 "port": "transfer",
                 "chain": "ethereum",
                 "denom": "0xF469fBD2abcd6B9de8E169d128226C0Fc90a012e"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/09E95F57939E344EE36109AC41780B8A51F1FE0548A5203C5957674FF64C0F26",
+        "name": "PAXG",
+        "symbol": "PAXG",
+        "description": "Pax Gold via Eureka",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/555842e88677432479f74d29f361f7a34cb525ad667c540ebda28db44c1302af.png",
+        "coinGeckoId": "pax-gold",
+        "ibc_info": {
+            "path": "ethereum>cosmos",
+            "counterparty": {
+                "ICS20ContractAddress": "0xa348cfe719b63151f228e3c30eb424ba5a983012",
+                "channel": "cosmoshub-0",
+                "port": "transfer",
+                "chain": "ethereum",
+                "denom": "0x45804880de22913dafe09f4980848ece6ecbaf78"
             }
         }
     }

@@ -1,0 +1,13 @@
+[
+    {
+        "type": "native",
+        "denom": "tics",
+        "name" : "Tics",
+        "symbol": "TICS",
+        "description": "Qubetics Staking Coin",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/tics.png",
+        "coinGeckoId": "",
+        "color": "##C78DFF"
+    }
+]
