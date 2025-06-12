@@ -1,0 +1,202 @@
+[
+  {
+    "type": "ibc",
+    "denom": "ibc/E4C169A198288D55F756DA32B0EBF0B70C46F634261E288FA34217B7EB8E4947",
+    "symbol": "DAI",
+    "name": "dai",
+    "description": "Dai stablecoin on Axelar",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/db618306455a7810b99692ac2f71e55e56619b8ad2b260b6a93ab837e460e694.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/33E3481B6DE69CBABF20B3130A10F7CDF0B0ED5F0EB9F9980AD92A1B3C0DDB5D",
+    "symbol": "ETH",
+    "name": "eth",
+    "description": "Ethereum is a decentralized blockchain platform for running smart contracts and dApps, with Ether (ETH) as its native cryptocurrency, enabling a versatile ecosystem beyond just digital currency.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/af33707625a9a948852514d2ffd2f99d2d8cfc603bca373190a152522fdb1c0c.svg",
+    "coinGeckoId": "ethereum"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/3EFE89848528B4A5665D0102DB818C6B19E04E17455197E92BECC3C41A7F7D78",
+    "symbol": "WETH",
+    "name": "weth",
+    "description": "Wrapped Ether on Axelar",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/15dcdac9407b9a3fc6702bd2abde9fb3b47671997bc46fb594d65e4e982786c7.png",
+    "coinGeckoId": "axlweth"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/261AA78A732B29C6052EF0C33D2991D1C65BBE173C9B9E6E3688E32D9947A98E",
+    "symbol": "HARBOR",
+    "name": "harbor",
+    "description": "Governance Token of Harbor protocol on Comdex network",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/1a502badbefa8cc68e70549b0f831717f060d42b772bfa51547c4f6be93509ee.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/2940BB982C8B6A5C6717724EAA7E3630BD51C34C244075EE75C78AFCEC4CF932",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/7F1D902F768DAB4CB8649C19D20317D53E13FC604ABF9100EAC8871052EA4242",
+    "symbol": "MNTL",
+    "name": "mntl",
+    "description": "The native token of Asset Mantle",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/4658b05dcc839c7219f22d80ebf51c6af889c2b4cf44d9d089284053332e75ef.svg",
+    "coinGeckoId": "assetmantle"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/B86F9C66F4492E94BBC55B1950D4BA36D705AF7BF6CEC20307611302795B58E2",
+    "symbol": "MANNA",
+    "name": "manna",
+    "description": "Social Impact DAO dedicated to combatting food insecurity and malnutrition",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/25d5299c05a5940655c633e04936946086cdce4a5a2f3ad61de254c21470ec58.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/6DD3942046F8B8E50706DE5B0D7C84370A4E2991570561EC0FDA12686A0B6FDD",
+    "symbol": "SHIBAC",
+    "name": "shibac",
+    "description": "Shiba Cosmos",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/6065bc5cf86b2c7ea505383bbe2b7860678a9b6ec7088a596f749c4de23f9fb0.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/02ECEB2978F001ED49863FA57CC049B49921725DBFCC3F90D3FE073C36372CA9",
+    "symbol": "MNTL",
+    "name": "mntl",
+    "description": "The native token of Asset Mantle",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/4658b05dcc839c7219f22d80ebf51c6af889c2b4cf44d9d089284053332e75ef.svg",
+    "coinGeckoId": "assetmantle"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/616E26A85AD20A3DDEAEBDDE7262E3BA9356C557BC15CACEA86768D7D51FA703",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/DF63978F803A2E27CA5CC9B7631654CCF0BBC788B3B7F0A10200508E37C70992",
+    "symbol": "USDT",
+    "name": "gusdt",
+    "description": "Gravity Bridge USDT",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/EACD4A15F32900B396DDA7B9E3ED513DBC575FC6F06D37DC439103EF9CCFD3F0",
+    "symbol": "CMDX",
+    "name": "cmdx",
+    "description": "Native Token of Comdex Protocol",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/18ef9a7a59ab88889f56c3723f72a35db05f8bc967c41f08ff64cd3ecdbe3818.svg",
+    "coinGeckoId": "comdex"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/8C5486D9FCA325BE087C546C534C505D2BBFE5832D0965CEC911C288988E152A",
+    "symbol": "MNTL",
+    "name": "mntl",
+    "description": "The native token of Asset Mantle",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/4658b05dcc839c7219f22d80ebf51c6af889c2b4cf44d9d089284053332e75ef.svg",
+    "coinGeckoId": "assetmantle"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/6F8E6FDF589E95A555946A94C409539B00AC66D84C0B6B575DE8B41D88E3E014",
+    "symbol": "AXL",
+    "name": "axl",
+    "description": "Axelar is a decentralized interoperability network connecting multiple blockchain ecosystems, enabling seamless cross-chain communication and value transfer.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
+    "coinGeckoId": "axelar"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/F5FABF52B54E65064B57BF6DBD8E5FAD22CEE9F4B8A57ADBB20CCD0173AA72A4",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/5AF2F6C9D801EE6FAB04A4F97D77A27683AF63D540E9ECF0C628B95D4EDFCEEE",
+    "symbol": "CMST",
+    "name": "cmst",
+    "description": "Stable Token of Harbor protocol on Comdex network",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/ccb1049a9bf51739510f8702c13c234456e37ec0ef19d30406e42889bfd734fe.svg",
+    "coinGeckoId": "composite"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/E38E53A967C1DE2F4DB5B6F85AE922537B1AE418BADFFBF841C7E5FD1B924A01",
+    "symbol": "ETH",
+    "name": "eth",
+    "description": "Ethereum is a decentralized blockchain platform for running smart contracts and dApps, with Ether (ETH) as its native cryptocurrency, enabling a versatile ecosystem beyond just digital currency.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/af33707625a9a948852514d2ffd2f99d2d8cfc603bca373190a152522fdb1c0c.svg",
+    "coinGeckoId": "ethereum"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/F7E92EE59B5428793F3EF5C1A4CB2494F61A9D0C9A69469D02390714A1372E16",
+    "symbol": "ION",
+    "name": "ion",
+    "description": "ION is the second native token of Osmosis.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/783677c916fdd15fd616c45e64d59f1ccfdb8e583ec24a0a1302454aa387603f.svg",
+    "coinGeckoId": "ion"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/0FECA606E7B9D3C42A7C1C03CC91896D63DC023929E41D2222194957A9C4B5C7",
+    "symbol": "STARS",
+    "name": "stars",
+    "description": "Stargaze is a decentralized blockchain platform designed specifically for non-fungible tokens (NFTs), enabling creators to mint, trade, and interact with NFTs in a fully decentralized environment.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/8c41a49f8a121387817f0fd11a45f39da6ea8a8952026c46760f2c001316e207.svg",
+    "coinGeckoId": "stargaze"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/3554989531C7DB295D548F373FE93205215CAC2820A62D748E5A3703044D481E",
+    "symbol": "GRAV",
+    "name": "graviton",
+    "description": "The native token of Gravity Bridge",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/80113d9226d07b7d5f24a7b6f569d4971cdfed9481d0b80d4121b8c3bd7e0a8b.svg",
+    "coinGeckoId": "graviton"
+  }
+]

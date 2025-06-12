@@ -1,0 +1,22 @@
+[
+  {
+    "type": "ibc",
+    "denom": "ibc/E4E6CD56D35B1223770FABC0B80E97DB1E2A9246A1C16923F2FC072859C32AB5",
+    "symbol": "ROWAN",
+    "name": "ROWAN",
+    "description": "Rowan Token (ROWAN) is the Sifchain Network's native utility token, used as the primary means to govern, provide liquidity, secure the blockchain, incentivize participants, and provide a default mechanism to store and exchange value.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/0831d0b28fc6a139fad8ff24a07dc1c7509a56d7778cbdbbaaaafa42a3e6f5b5.svg",
+    "coinGeckoId": "sifchain"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/4BBC1CE2DC703F5F751981CE17DFF1E567FED58918D2648E273EC8740672C477",
+    "symbol": "EVMOS",
+    "name": "evmos",
+    "description": "The native EVM, governance and staking token of the Evmos Hub",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/8fd37bed9ab943bf6d2114ddae7f4a42b91cdebc269406c7f6acfb4fd1885e05.svg",
+    "coinGeckoId": "evmos"
+  }
+]

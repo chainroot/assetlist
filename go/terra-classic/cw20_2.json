@@ -1,0 +1,22 @@
+[
+    {
+        "type": "cw20",
+        "contract": "terra1vhgq25vwuhdhn9xjll0rhl2s67jzw78a4g2t78y5kz89q9lsdskq2pxcj2",
+        "name" : "Juris Protocol",
+        "symbol": "JURIS",
+        "description": "Juris Protocol is a DeFi platform on Terra Classic that offers secure lending and borrowing services.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/1edc42b389ec81c4e12039adbc7426d7aa4f5bc72af4c1848e682c921ddaebcb.png",
+        "coinGeckoId": "juris-protocol"
+    },
+    {
+        "type": "cw20",
+        "contract": "terra1x6e64es6yhauhvs3prvpdg2gkqdtfru840wgnhs935x8axr7zxkqzysuxz",
+        "name" : "ALPHA Lunc Universe",
+        "symbol": "ALPHA",
+        "description": "LUNC UNIVERSE is set to become a growing ecosystem within the Luna Classic blockchain.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/edad0dc853937dd9354637af10372537e5a941915c80959fd3763ded956966f1.png",
+        "coinGeckoId": ""
+    }
+]

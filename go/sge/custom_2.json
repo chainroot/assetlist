@@ -1,0 +1,12 @@
+[
+  {
+    "type": "ibc",
+    "denom": "ibc/9F0B3A7B9DD7648B446F63EA04BA22D86B9D502EE32641D24827CF1622160035",
+    "symbol": "SOL",
+    "name": "wormhole/8sYgCzLRJC3J7qPn2bNbx6PiGcarhyx8rBhVaNnfvHCA/8",
+    "description": "Wrapped SOL (Wormhole), SOL, factory/wormhole14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/8sYgCzLRJC3J7qPn2bNbx6PiGcarhyx8rBhVaNnfvHCA",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/2bacd102680cfe69bba0bcd8e5f97133935ea18cd46495bb54d95b364f93d057.svg",
+    "coinGeckoId": ""
+  }
+]

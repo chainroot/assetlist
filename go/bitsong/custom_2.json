@@ -41,16 +41,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/340CE64FB1F701AB474B00BCC87FC52505669E7996700D29717F48041CCDFCCE",
-    "symbol": "BTSG",
-    "name": "btsg",
-    "description": "BitSong Native Token",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/1dc938038b71c5f1a85de37216ba7471ea9ac6be735980308d4b0def67ffd18b.svg",
-    "coinGeckoId": "bitsong"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/448C1061CE97D86CC5E86374CD914870FB8EBA16C58661B5F1D3F46729A2422D",
     "symbol": "JUNO",
     "name": "juno",
@@ -58,6 +48,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/79f9def0d7428ed8b761a7c42dc5f7a3492367f014258935d72cbbe2d813a552.svg",
     "coinGeckoId": "juno-network"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/340CE64FB1F701AB474B00BCC87FC52505669E7996700D29717F48041CCDFCCE",
+    "symbol": "BTSG",
+    "name": "btsg",
+    "description": "BitSong Native Token",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/1dc938038b71c5f1a85de37216ba7471ea9ac6be735980308d4b0def67ffd18b.svg",
+    "coinGeckoId": "bitsong"
   },
   {
     "type": "ibc",

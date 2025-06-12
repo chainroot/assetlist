@@ -1,0 +1,12 @@
+[
+    {
+        "type": "staking",
+        "denom": "auptick",
+        "name": "Uptick",
+        "symbol": "UPTICK",
+        "description": "The native token of Uptick",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/fa92b2dc84bbfbf2bdc5733eeef52a6a14aa70fcd200c07c39efa7b7b6119d4b.png",
+        "coinGeckoId": ""
+    }
+]

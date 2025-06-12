@@ -1,0 +1,32 @@
+[
+  {
+    "type": "ibc",
+    "denom": "ibc/F0A06D765AE0B260AA2655BFEE907E56A1B29008905F92A8796EA2A86D5E2CE9",
+    "symbol": "PLQ",
+    "name": "planq",
+    "description": "The native EVM, governance and staking token of the Planq Network",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/d97a6ddd52b84a2a5b37d0b99ac4190f268662fe60567f797a5cf7dc23b93236.svg",
+    "coinGeckoId": "planq"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/71855D735E860697FC39A14BF24D8E2A336FEF24842DE27341230C1542D56387",
+    "symbol": "NOM",
+    "name": "nom",
+    "description": "The native token of Onomy Protocol",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/6a875e238b3ac2b57c22f5b35df99571b887f3b8e36729dd7f50dd80b40fa409.svg",
+    "coinGeckoId": "onomy-protocol"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/9463E39D230614B313B487836D13A392BD1731928713D4C8427A083627048DB3",
+    "symbol": "AXL",
+    "name": "axl",
+    "description": "Axelar is a decentralized interoperability network connecting multiple blockchain ecosystems, enabling seamless cross-chain communication and value transfer.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
+    "coinGeckoId": "axelar"
+  }
+]

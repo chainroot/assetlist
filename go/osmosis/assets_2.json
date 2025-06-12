@@ -593,8 +593,8 @@
         "type": "ibc",
         "denom": "ibc/9712DBB13B9631EDFA9BF61B55F1B2D290B2ADB67E3A4EB3A875F3B6081B3B84",
         "name": "Sentinel",
-        "symbol": "DVPN",
-        "description": "DVPN is the native token of the Sentinel Hub.",
+        "symbol": "P2P",
+        "description": "Native token of the Sentinel Hub.",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/ab186a6cad2c485ed2727da2f677ee7172dfbc22eb0a01cca1ff472ac0c5abb8.png",
         "color": "#10a7ef",
@@ -8325,8 +8325,9 @@
         "denom": "ibc/46579C587A0B8CF8B0A1FF6B0EFA2082F11876578E47FC81A9CAAD31F424AF98",
         "name": "Juris Protocol",
         "symbol": "JURIS",
-        "description": "Rakoff Token is the Meme Token for Terra Classic",
+        "description": "Juris Protocol is a DeFi platform on Terra Classic that offers secure lending and borrowing services.",
         "decimals": 6,
+        "coinGeckoId": "juris-protocol",
         "image": "https://cdn.chainroot.io/images/tokens/2ff65937b7b56b1ab4c54b21ccaf7ce20581415ae4d6dea1c72f4456b74abfa9.png",
         "ibc_info": {
             "path": "terra-classic>osmosis",
@@ -9684,6 +9685,7 @@
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/859c4853e870cb91f6d1c8217a5496dc4e90ef9bcbe24cf3b7311554a7d06b6a.svg",
         "color": "#7b5aff",
+        "coinGeckoId": "yield-gata",
         "ibc_info": {
             "path": "omniflix>osmosis",
             "client": {
@@ -10806,6 +10808,86 @@
                 "port": "transfer",
                 "chain": "Babylon",
                 "denom": "ubbn"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/9D8D4CAE9D8F15B69E93969304AF3878D14BDED39FEAF0060566D6AC22288779",
+        "name": "Milk",
+        "symbol": "MILK",
+        "description": "Milkyway Staking Coin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/eda7cdab6156c37879695500bbc2ba9b9d250cbfe82021699b7fa90b71508ae2.png",
+        "coinGeckoId": "milkyway-2",
+        "ibc_info": {
+            "path": "milkyway>osmosis",
+            "client": {
+                "channel": "channel-89298",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-0",
+                "port": "transfer",
+                "chain": "milkyway",
+                "denom": "umilk"
+            }
+        }
+    },
+    {
+        "type": "native",
+        "denom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/mtc",
+        "name": "Matcha Club",
+        "symbol": "MTC",
+        "description": "Join Matcha Club - use our ecosystem for for free. NFT builder, utility apps. Cooking non-stop!",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/938f274ab30cc514e76666d4a9cdbc8af50e6c85b3b470f582f1c9340f164aae.png"
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/0C39BD03B5C57A1753A9B73164705871A9B549F1A5226CFD7E39BE7BF73CF8CF",
+        "name": "Noble Dollar",
+        "symbol": "USDN",
+        "description": "USDN is a yielding stablecoin collateral-backed by short-duration U.S. Treasury Bills.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/usdn.png",
+        "color": "#14C784",
+        "coinGeckoId": "noble-dollar-usdn",
+        "ibc_info": {
+            "path": "noble>osmosis",
+            "client": {
+                "channel": "channel-750",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-1",
+                "port": "transfer",
+                "chain": "noble",
+                "denom": "uusdn"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/0EF5630576C66968EF0787868CF09FD866FAD131BC148D24A148358A85F0EB62",
+        "name": "Pax Gold (via Eureka)",
+        "symbol": "PAXG",
+        "description": "Pax Gold bridged from Ethereum via Eureka on Cosmos Hub (IBC).",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/555842e88677432479f74d29f361f7a34cb525ad667c540ebda28db44c1302af.png",
+        "color": "#D8A24A",
+        "coinGeckoId": "pax-gold",
+        "ibc_info": {
+            "path": "cosmos>osmosis",
+            "client": {
+                "channel": "channel-0",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-141",
+                "port": "transfer",
+                "chain": "cosmos",
+                "denom": "ibc/0EF5630576C66968EF0787868CF09FD866FAD131BC148D24A148358A85F0EB62"
             }
         }
     }
