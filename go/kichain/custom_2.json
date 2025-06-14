@@ -11,12 +11,22 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/4BBC1CE2DC703F5F751981CE17DFF1E567FED58918D2648E273EC8740672C477",
-    "symbol": "EVMOS",
-    "name": "evmos",
-    "description": "The native EVM, governance and staking token of the Evmos Hub",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/8fd37bed9ab943bf6d2114ddae7f4a42b91cdebc269406c7f6acfb4fd1885e05.svg",
-    "coinGeckoId": "evmos"
+    "denom": "ibc/A3302E2CD72D519D47B613273B07B33C4E54D55D650E7F5875031AC6532C2431",
+    "symbol": "LVN",
+    "name": "lvn",
+    "description": "ELEVENPARIS loyalty token on KiChain",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/b00fd61cbe0611764779094e972d9d010be855d9090178b2f98745367ae75949.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/2F1447818CF99498AE62D9FB4D5E0C9FD48C68FC118C34D2ECFFFED0AD082196",
+    "symbol": "GRAV",
+    "name": "graviton",
+    "description": "The native token of Gravity Bridge",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/80113d9226d07b7d5f24a7b6f569d4971cdfed9481d0b80d4121b8c3bd7e0a8b.svg",
+    "coinGeckoId": "graviton"
   }
 ]

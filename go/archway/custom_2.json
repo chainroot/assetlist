@@ -761,26 +761,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/7A1F41EA62DFB97E60A4DA70365CC0D9DFB40D266EDFD40BA1ADE297F9C52D6E",
-    "symbol": "GLTO",
-    "name": "glto",
-    "description": "DeFi gaming platform built on Juno",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/7d4108df024d1d8716ca9d51cce7bf1f82fb520f0b48db39adde375ba171c609.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/477BF795EE81A93C4B278F032FF847261D1FA5A3E41C5338DA3D8173699D9739",
-    "symbol": "BZE",
-    "name": "bze",
-    "description": "BeeZee network native coin",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/a4d074e89a7ef61d23858832c59d6a4b817b889bf8899e097465cc429ec18769.svg",
-    "coinGeckoId": "bzedge"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/12ACC055CC187682F1569FF242541B1D9141262EAC19BCE1486C6DD7B950ACBC",
     "symbol": "USDC",
     "name": "usdc",
@@ -791,6 +771,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/7A1F41EA62DFB97E60A4DA70365CC0D9DFB40D266EDFD40BA1ADE297F9C52D6E",
+    "symbol": "GLTO",
+    "name": "glto",
+    "description": "DeFi gaming platform built on Juno",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7d4108df024d1d8716ca9d51cce7bf1f82fb520f0b48db39adde375ba171c609.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/73E5E6F833C5D4CFFDB411731DD8813D1E10AA7FEB319C427A35DC0B50F0A5A6",
     "symbol": "DEC",
     "name": "dec",
@@ -798,6 +788,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/9338bdc5211eaffe7efb92d4d97eb06ed0aba9725a84cd3485d28512d4b42f99.svg",
     "coinGeckoId": "decentr"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/477BF795EE81A93C4B278F032FF847261D1FA5A3E41C5338DA3D8173699D9739",
+    "symbol": "BZE",
+    "name": "bze",
+    "description": "BeeZee network native coin",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/a4d074e89a7ef61d23858832c59d6a4b817b889bf8899e097465cc429ec18769.svg",
+    "coinGeckoId": "bzedge"
   },
   {
     "type": "ibc",
@@ -981,7 +981,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/2A2D9801BFC973276EA9F798EDB970F17F409D1E93A340EB7E49F13BF63AAEE6",
+    "denom": "ibc/AD29CB92888C839B3EAD3125ABA2689FEA8D43CE01CDCB8139A8545E67522E74",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
@@ -991,7 +991,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/AD29CB92888C839B3EAD3125ABA2689FEA8D43CE01CDCB8139A8545E67522E74",
+    "denom": "ibc/2A2D9801BFC973276EA9F798EDB970F17F409D1E93A340EB7E49F13BF63AAEE6",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
@@ -1071,16 +1071,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/7451074F46885686D3B47B12A6BF74F6D36847ED1891AC612FCFAEB7FB551E14",
-    "symbol": "stATOM",
-    "name": "statom",
-    "description": "",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/8952f870f7fecceb24d59b6e5e2cfba7235d513ea0cf5f5db6989352605b52b3.svg",
-    "coinGeckoId": "stride-staked-atom"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/C69729F33CE15D4EE00C941760839967D614D40377CE0BC9ACF389C018D3177D",
     "symbol": "NTRN",
     "name": "ntrn",
@@ -1088,6 +1078,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/bcc7880c69cc88313d52a96ce2f7e780a98c5e8a5b86e7318667fd5eabe34c4c.svg",
     "coinGeckoId": "neutron-3"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/7451074F46885686D3B47B12A6BF74F6D36847ED1891AC612FCFAEB7FB551E14",
+    "symbol": "stATOM",
+    "name": "statom",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/8952f870f7fecceb24d59b6e5e2cfba7235d513ea0cf5f5db6989352605b52b3.svg",
+    "coinGeckoId": "stride-staked-atom"
   },
   {
     "type": "ibc",
@@ -1101,26 +1101,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/4FBFB92ED8EBA5AB1454C1215D1FE536BB09393A58E27E3891FD5D9AE18B6A37",
-    "symbol": "IBCX",
-    "name": "ibcx",
-    "description": "",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/dec2a2b971f2a3afba4c520c2353c5b0c193d8f2a706511a78906eee98d3133b.svg",
-    "coinGeckoId": "ibc-index"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/32CC7460D443ECE2EB7D505CA527E99ED90630D5B8AAF2AAA647C602EDCE2FC9",
-    "symbol": "BADKID",
-    "name": "BADKID",
-    "description": "A clan of 11y bad kids crafting chaos on the Cosmos eco. One bad memecoin to rule them all  $BADKID. Airdropped to Badkids NFT holders and $STARS stakers. It's so bad, your wallet's throwing a tantrum for it.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/ec9c100c89d79a7ae1387de7c874ba16327aa8637036df0df215d4143bb6c7b6.png",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/AA1F47FC681A5DA6E1A288CF7FA9B495EA6C5DA5A8041ECC90964CBD015E6183",
     "symbol": "DYDX",
     "name": "dydx",
@@ -1128,6 +1108,26 @@
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/0cd48cdfcd49902807eb50da7db148b648470cf80daaf35482402ae8e0c504d6.svg",
     "coinGeckoId": "dydx-chain"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/4D56727F6B1D163D066DD1E52922DDF301A137E43F95BFB9D6B5828ECC877496",
+    "symbol": "stJUNO",
+    "name": "stjuno",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/553e200543ab8c9fe84dd9f1bc86fc0fe075eb14ff4254f71d49fa3a56bd37cb.svg",
+    "coinGeckoId": "stride-staked-juno"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/4FBFB92ED8EBA5AB1454C1215D1FE536BB09393A58E27E3891FD5D9AE18B6A37",
+    "symbol": "IBCX",
+    "name": "ibcx",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/dec2a2b971f2a3afba4c520c2353c5b0c193d8f2a706511a78906eee98d3133b.svg",
+    "coinGeckoId": "ibc-index"
   },
   {
     "type": "ibc",
@@ -1141,6 +1141,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/32CC7460D443ECE2EB7D505CA527E99ED90630D5B8AAF2AAA647C602EDCE2FC9",
+    "symbol": "BADKID",
+    "name": "BADKID",
+    "description": "A clan of 11y bad kids crafting chaos on the Cosmos eco. One bad memecoin to rule them all  $BADKID. Airdropped to Badkids NFT holders and $STARS stakers. It's so bad, your wallet's throwing a tantrum for it.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/ec9c100c89d79a7ae1387de7c874ba16327aa8637036df0df215d4143bb6c7b6.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/B5DC82337AED2660F16F0378318A6C7B6A575D469626F33B5C43CD281F4F9BCE",
     "symbol": "JUNO",
     "name": "juno",
@@ -1148,15 +1158,5 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/79f9def0d7428ed8b761a7c42dc5f7a3492367f014258935d72cbbe2d813a552.svg",
     "coinGeckoId": "juno-network"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/4D56727F6B1D163D066DD1E52922DDF301A137E43F95BFB9D6B5828ECC877496",
-    "symbol": "stJUNO",
-    "name": "stjuno",
-    "description": "",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/553e200543ab8c9fe84dd9f1bc86fc0fe075eb14ff4254f71d49fa3a56bd37cb.svg",
-    "coinGeckoId": "stride-staked-juno"
   }
 ]

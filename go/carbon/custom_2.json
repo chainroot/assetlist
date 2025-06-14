@@ -11,22 +11,22 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/BAA1D21893B1D36865C6CA44D18F4ACF08BAD70CB6863C4722E0A61703808F77",
-    "symbol": "stDYDX",
-    "name": "stDYDX",
-    "description": "Stride's liquid staked DYDX",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/8b20e640142bf7e1dee700972d857f29fffe01b14aa0db763a397d99c3361845.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/13590520B418AE00CEC6E7BD7C8DFFA5D0470B1B1DC5D69B82A0BC1D66C8DF05",
     "symbol": "PSTAKE",
     "name": "pstake",
     "description": "pSTAKE is a liquid staking protocol unlocking the liquidity of staked assets.",
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/8bbf65220148462b6afa330e19885a952e4e3d46586ef36bdaa7277062515f28.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/0BA1FA7A554B4347A87BD37AFF331683298730F9F8FCECB4896D58BED4B31F00",
+    "symbol": "stEVMOS",
+    "name": "stevmos",
+    "description": "",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/aacc69b3c0c44324cf6fea93ce70451b21974d1461ebf478d2cac6ff47853525.svg",
     "coinGeckoId": ""
   },
   {
@@ -61,13 +61,23 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/B470821F1E921D868E0DFD1DA23C124E1A03CC8BBF4CF478F6EA8209BCBB9DCD",
-    "symbol": "USDY",
-    "name": "usdy",
-    "description": "Ondo US Dollar Yield",
+    "denom": "ibc/4E04DF48DECE17AB40A5946931DBA8C308FF670CECC18178D372DDBE01EC1679",
+    "symbol": "stkDYDX",
+    "name": "stkdydx",
+    "description": "PSTAKE Liquid-Staked DYDX",
     "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/c01fc48a18e0da9126874eded3f443fb524236e2319f62d15e53e427a063b8ba.svg",
-    "coinGeckoId": "ondo-us-dollar-yield"
+    "image": "https://cdn.chainroot.io/images/tokens/82d6c63b439462fffa298fc756a673a78aab212b1a29bc40f329d09594d280c2.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/CC02DCF75EC88F42C32ABDA9C324019F4861CC9C85BD6F41812473B865EBD6AF",
+    "symbol": "BUSD",
+    "name": "busd",
+    "description": "BUSD (BEP-20) token on Carbon",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/3b6d8d5d0f512973e57d193c41f8ef225de3c0d27f918dd8d54600f4516501b5.png",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -88,6 +98,16 @@
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/0cd48cdfcd49902807eb50da7db148b648470cf80daaf35482402ae8e0c504d6.svg",
     "coinGeckoId": "dydx-chain"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/8D0C1AC5A72FB7EC187632D01BACBB68EF743CA1AF16A15C00ACBB9CF49A0070",
+    "symbol": "stDYM",
+    "name": "stDYM",
+    "description": "Stride's liquid staked DYM",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/8ba1e4abdbffabfacc3663cf89305416f676c5a89dddd5ac8706ce97ccddc0d5.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -121,23 +141,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/17A3A5E3FCDBBC131DE31690C5708144D6A882652689BA86162EACC23BA04087",
-    "symbol": "wstETH",
-    "name": "wsteth",
-    "description": "",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/195ac6e06829bd28be1067a0c4eedc8e749efd9bc4ab6326fbaf227bcca070c8.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/A535E5C1A2E328143AC55CCB04103B92092559E5D7343F07E3D9BDC5056762BD",
-    "symbol": "DEC",
-    "name": "dec",
-    "description": "The native token of Decentr",
+    "denom": "ibc/DCE71037372C2ECF5DEE299B9B3CAFC84309BB5FA9C1AD80C91D057BB5EDA39D",
+    "symbol": "ROAR",
+    "name": "roar",
+    "description": "Lion DAO is a community DAO that lives on the Terra blockchain with the mission to reactivate the LUNAtic community and showcase Terra protocols & tooling",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/9338bdc5211eaffe7efb92d4d97eb06ed0aba9725a84cd3485d28512d4b42f99.svg",
-    "coinGeckoId": "decentr"
+    "image": "https://cdn.chainroot.io/images/tokens/b1eefb34a5b9ca56fcf188eea2837c1b6d05eb740a8ffcbe2293dc4d0a78b3ec.png",
+    "coinGeckoId": "lion-dao"
   },
   {
     "type": "ibc",
@@ -148,6 +158,56 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/7a59cd844186f83aa4d9304b02958f964b7b2a1d616fd269db395dd98815740a.svg",
     "coinGeckoId": "stride-staked-stars"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/F5FABF52B54E65064B57BF6DBD8E5FAD22CEE9F4B8A57ADBB20CCD0173AA72A4",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/BCD730EF99878074FC4B17953CFDAF00C4A90EE131C4880AA4D13AA103CC17B6",
+    "symbol": "CHEQ",
+    "name": "cheq",
+    "description": "Native token for the cheqd network",
+    "decimals": 9,
+    "image": "https://cdn.chainroot.io/images/tokens/ece9c4725f69f60677cbdcd7305096f4137980233cb4eee9bf575e4d1bad8271.svg",
+    "coinGeckoId": "cheqd-network"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/C688EBE80ECC20865331A18D8D19654754F6B189977715FED00FBA2BE41F144F",
+    "symbol": "STARS",
+    "name": "stars",
+    "description": "Stargaze is a decentralized blockchain platform designed specifically for non-fungible tokens (NFTs), enabling creators to mint, trade, and interact with NFTs in a fully decentralized environment.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/8c41a49f8a121387817f0fd11a45f39da6ea8a8952026c46760f2c001316e207.svg",
+    "coinGeckoId": "stargaze"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/2BA82F4B4989AA0781CE548CA09B68BCDD2D52E52125AE22A55C29471EA29464",
+    "symbol": "COSMO",
+    "name": "COSMO",
+    "description": "Cosmo is the best currency in the universe.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/bef990e9d2a34c122cdc2c771e179c100f59ade122dfe4c70358c1b4b97c3305.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/CB955B159E14920150B855FA13B7E32625D10F447FEEB2A56C186E08E1287767",
+    "symbol": "rSWTH",
+    "name": "rswth",
+    "description": "A liquid staking representation of staked SWTHs",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/9eda67d9b11f2632b55600a96b56dc8fb9152da58f2c675be80c8e70d4ad3ef5.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -181,13 +241,23 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/5E60F861861B36902155FCADB0B3AD1D474376A6D4CFDBE1FC60E262016CEF7A",
-    "symbol": "CMDX",
-    "name": "cmdx",
-    "description": "Native Token of Comdex Protocol",
+    "denom": "ibc/EF37C83E78BD1F9B2401B3B3E5C00E0DBA71A648E2A8C3018861786F7A5F0105",
+    "symbol": "dATOM",
+    "name": "dATOM",
+    "description": "Drop staked ATOM",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/18ef9a7a59ab88889f56c3723f72a35db05f8bc967c41f08ff64cd3ecdbe3818.svg",
-    "coinGeckoId": "comdex"
+    "image": "https://cdn.chainroot.io/images/tokens/f83dc67714a5c47477a09e801198f14e04d2eef8a9fdf99372a2cd62981717e3.svg",
+    "coinGeckoId": "drop-staked-atom"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/062588846168EDFECF20F7681F2A0A131A53B9A3C8535BCA8F7D1A268246974B",
+    "symbol": "AXL",
+    "name": "axl",
+    "description": "Axelar is a decentralized interoperability network connecting multiple blockchain ecosystems, enabling seamless cross-chain communication and value transfer.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
+    "coinGeckoId": "axelar"
   },
   {
     "type": "ibc",
@@ -201,13 +271,23 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/CD04E2BD302337D96F4D74D988A91245768A85B597F2A1DBE0E20C615B89E170",
-    "symbol": "stLUNA",
-    "name": "stluna",
-    "description": "",
+    "denom": "ibc/30E45B39A24DD2A5A8FE7A14C39F3127ADCEC9933F81A8C26AB42D8BEE0B74D4",
+    "symbol": "rATOM",
+    "name": "ratom",
+    "description": "A liquid staking representation of staked ATOMs",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/8e1b59000e1d5d7214ae8cb87d5b1df751d64f8a29830f8f2c7dc1b8b36497af.svg",
+    "image": "https://cdn.chainroot.io/images/tokens/8cad451040d9286776227dd9a2f93e89869706907704d135d91819d37b6105d4.svg",
     "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/4128D5DDF2EF8776B5C704C3153E1CBEC5DABC04DB0CC6221EDCC342EB04779C",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
   },
   {
     "type": "ibc",
@@ -221,7 +301,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/E8D9DA3AEE2FC866472AC1AB7A78EA30CE3D94B0D47C91971F44DB93E723AC43",
+    "denom": "ibc/7C0807A56073C4A27B0DE1C21BA3EB75DF75FD763F4AD37BC159917FC01145F0",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
@@ -231,22 +311,62 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/536D12706900AA0348B093848BDE466637A1ACD31E90A7B35957BBAF07251009",
-    "symbol": "stkATOM",
-    "name": "stkatom",
-    "description": "PSTAKE Liquid-Staked ATOM",
+    "denom": "ibc/262959ED1639A090F7C10E85FB46DC5974FE65D14E101D2E104272E4347C74D8",
+    "symbol": "CUB",
+    "name": "cub",
+    "description": "Lion Cub DAO is a useless meme community DAO on Terra",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/c29f1ea53dbc248272226476e04fc7aa9a6d2300b0688ba9dddd961dd12d12e3.svg",
-    "coinGeckoId": "stkatom"
+    "image": "https://cdn.chainroot.io/images/tokens/4c5d89e644e70a505228c4a4b9e0d73d158a53b543ee718fb2b990fabff519ea.png",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
-    "denom": "ibc/2377A553CB44ABA54643F18B4166DE1D8C0E9E71BB0EB62C64E66C237BE50EE2",
+    "denom": "ibc/74B9CDFB854F691FC20BE6918B416544BC670CDEF05E9BE5173E15B8BBBDF7D4",
+    "symbol": "NTRN",
+    "name": "ntrn",
+    "description": "Neutron is a smart contract blockchain within the Cosmos ecosystem, leveraging the Cosmos Hub's security to provide cross-chain DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/bcc7880c69cc88313d52a96ce2f7e780a98c5e8a5b86e7318667fd5eabe34c4c.svg",
+    "coinGeckoId": "neutron-3"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/AAA241B0C1B237AA252F939C7CB7AB4C21A46BAA97464DDB8B5C92D4AF635E29",
+    "symbol": "XPRT",
+    "name": "xprt",
+    "description": "Persistence One is building a Bitcoin Cross-chain Swaps solution, enabling fast, zero-slippage secure swaps across Bitcoin Layer 2s.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f3d55f97fcb02b6863bbf49d29b405e4e61b9124f4b6c11d97f2997b67adee38.svg",
+    "coinGeckoId": "persistence"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/8CB56C813A5C2387140BBEAABCCE797AFA0960C8D07B171F71A5188726CFED2C",
+    "symbol": "BLD",
+    "name": "bld",
+    "description": "Agoric is a smart contract platform that uses JavaScript to enable developers to build secure and scalable decentralized applications (dApps) easily.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/d1f382622adbce914256c6e66e2fd73a2e0f123a5f6bc09e1642a31612cb57f3.svg",
+    "coinGeckoId": "agoric"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/71E2C72232922CDA3D7CB6C532D6ED20B9BA4F8C732081E76265536360A0974B",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
     "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/9CCCFA44CA6F74517C3E3416971EF2B7EC8506F2A00C62C660935DD9CB5E1C63",
+    "symbol": "WBTC",
+    "name": "wbtc",
+    "description": "Wrapped Bitcoin on Axelar",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/26347a436b3a51d83910af6c2e0b556d8f5f22387a785779b64c38a72da9b9bb.png",
+    "coinGeckoId": "axlwbtc"
   }
 ]
