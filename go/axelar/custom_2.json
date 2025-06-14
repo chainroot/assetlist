@@ -481,16 +481,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/862D8281C7632E1BF531633E19FBEB3F4B2EAD1661AC96D6DA0AC5D69152558D",
-    "symbol": "USDC",
-    "name": "usdc",
-    "description": "Circle's stablecoin on Axelar",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
-    "coinGeckoId": "axlusdc"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/5336218FAC4BC06222A3FDD158602CBAAAAE1B16D4B738732C03F6ABDDB1E948",
     "symbol": "REGEN",
     "name": "regen",
@@ -498,6 +488,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/fa1702b9e6411fd543852318682138e2abb200890d9e5dceaf6adce900621bb9.svg",
     "coinGeckoId": "regen"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/862D8281C7632E1BF531633E19FBEB3F4B2EAD1661AC96D6DA0AC5D69152558D",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
   },
   {
     "type": "ibc",
