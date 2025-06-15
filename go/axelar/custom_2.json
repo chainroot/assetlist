@@ -431,16 +431,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/78D6432EDC0364D87D46EE0797F588A642DF155B16C0C108235F04D04AB95F8E",
-    "symbol": "USDC",
-    "name": "usdc",
-    "description": "Circle's stablecoin on Axelar",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
-    "coinGeckoId": "axlusdc"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/2027EC8CD73EB3F0E7E46FFFD71F5A06F91067BE188ADC9D5F512CD8F2145226",
     "symbol": "JKL",
     "name": "jkl",
@@ -448,6 +438,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/0208e55b9311df4d06d935433bf3cfa81c104d47d71490dd5a1cc1b15fcc602b.svg",
     "coinGeckoId": "jackal-protocol"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/78D6432EDC0364D87D46EE0797F588A642DF155B16C0C108235F04D04AB95F8E",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
   },
   {
     "type": "ibc",
@@ -481,16 +481,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/862D8281C7632E1BF531633E19FBEB3F4B2EAD1661AC96D6DA0AC5D69152558D",
-    "symbol": "USDC",
-    "name": "usdc",
-    "description": "Circle's stablecoin on Axelar",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
-    "coinGeckoId": "axlusdc"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/5336218FAC4BC06222A3FDD158602CBAAAAE1B16D4B738732C03F6ABDDB1E948",
     "symbol": "REGEN",
     "name": "regen",
@@ -498,6 +488,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/fa1702b9e6411fd543852318682138e2abb200890d9e5dceaf6adce900621bb9.svg",
     "coinGeckoId": "regen"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/862D8281C7632E1BF531633E19FBEB3F4B2EAD1661AC96D6DA0AC5D69152558D",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
   },
   {
     "type": "ibc",
@@ -1061,6 +1061,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/BD6DA6DC3D9933E1E5C1D739F066D3E14AC98B1A7C7199CB6E529C9E3EAFDB3E",
+    "symbol": "stINJ",
+    "name": "stINJ",
+    "description": "",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/6e09b30e25aa93eba62945146460a49ce4bae94377fbb3f3c04c81e692bbd0a6.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/6AAA6D3FCEDC2CE663FB5A5D00934999E86089AA042FAED6B24C64058F8AE5A6",
     "symbol": "OM",
     "name": "om",
@@ -1271,7 +1281,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/C105B74A75D2717E45FDEE656CD2D8973600BAE1653CB3D298D2DB5860D31DEC",
+    "denom": "ibc/331540E694DD1ABC4A1BA6633B60783F56FD3F82F9C0B5A06188FF1463B8DF04",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
@@ -1281,7 +1291,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/331540E694DD1ABC4A1BA6633B60783F56FD3F82F9C0B5A06188FF1463B8DF04",
+    "denom": "ibc/C105B74A75D2717E45FDEE656CD2D8973600BAE1653CB3D298D2DB5860D31DEC",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
@@ -1431,16 +1441,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/91D8B91B2BA721C6B765AF10BF6A5427819FC321E19B3D3EFE79F7C5C765DBE3",
-    "symbol": "LUNC",
-    "name": "luna",
-    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
-    "coinGeckoId": "terra-luna"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/AC4F229BC0750865963C817E6C2FDA0DA5BC2D08EF74B091A729B46F53CE826F",
     "symbol": "USDC",
     "name": "usdc",
@@ -1448,6 +1448,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
     "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/91D8B91B2BA721C6B765AF10BF6A5427819FC321E19B3D3EFE79F7C5C765DBE3",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
   },
   {
     "type": "ibc",

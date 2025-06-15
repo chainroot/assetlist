@@ -11,6 +11,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/3F8494D988200A37A9D8B95897906DCAB14F18BA82AF04F02AB80D111E5618D5",
+    "symbol": "FXS",
+    "name": "fxs",
+    "description": "FXS is the value accrual and governance token of the entire Frax ecosystem. Frax is a fractional-algorithmic stablecoin protocol. It aims to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply assets like BTC.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/1d122728d9daca703e2ce9c81ee00cd4657ef59c34128e5e74d04c4963fb6266.svg",
+    "coinGeckoId": "frax-share"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/E9BBE9BBF0925155892D6E47553E83B8476C880F65DEB33859E751C0B107B0B1",
     "symbol": "stINJ",
     "name": "stINJ",
@@ -31,16 +41,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/12B041BBEB5DC346C0444FF786226D21DB5E853FB9CD6160F9DA238399997481",
-    "symbol": "WMATIC",
-    "name": "wmatic",
-    "description": "Wrapped Matic on Axelar",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/bf81bb5509d397d93705112cdf2b191085c96ae16f64f144aace3128bbbce029.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/25A01BCED23530945E74C17A63C29DAD5970F7405B398681D015738B51A0B64C",
     "symbol": "PICA",
     "name": "pica",
@@ -51,13 +51,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/6906B8D2981F8CA4FB77E73658967BFC8185BEAAFCE966B81A07AA4EA813C3BE",
-    "symbol": "sqOSMO",
-    "name": "sqosmo",
-    "description": "Margined Power Token sqOSMO",
+    "denom": "ibc/606D8CE799A95FC8CB680981F39824BD3D99131A34E0098112A1C4276AEED0F3",
+    "symbol": "HAVA",
+    "name": "hava",
+    "description": "Hava Coin is the lifeblood of the Cosmos & Injective networks, rewarding builders and welcoming supporters.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/9836891aec04bacd22d5302b7601f14043982ce75e9316465af2cd9b7f6eeac3.svg",
-    "coinGeckoId": ""
+    "image": "https://cdn.chainroot.io/images/tokens/9cd6c3507df71345bfb8a943a3257a3f1feda10f072f104fc98e2056ffef6452.png",
+    "coinGeckoId": "hava-coin"
   },
   {
     "type": "ibc",
@@ -81,33 +81,23 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/061226CF8A346CB5B5F0AFA10BEE31D1AACC48723E4E4781C5D7606BE9D8C21A",
-    "symbol": "WOSMO",
-    "name": "WOSMO",
-    "description": "The first native memecoin on Osmosis. Crafted by the deftest of hands in the lab of lunacy. It's scientifically anarchic, professionally foolish, and your ticket to the madhouse.",
+    "denom": "ibc/937130016385C338D3C4D8ADAD2758A92C9E0FFE2193BDE924298FBD6287691D",
+    "symbol": "QCK",
+    "name": "qck",
+    "description": "QCK - native token of Quicksilver",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/af2488d2ef80ea1793d004ff3ad0b09e855ad4ad3c2f5d66f42a712093b328f8.png",
-    "coinGeckoId": ""
+    "image": "https://cdn.chainroot.io/images/tokens/f87699fa8000635dee47c4014c153040dd1f107d74277ecbd3da317e71828fcc.png",
+    "coinGeckoId": "quicksilver"
   },
   {
     "type": "ibc",
-    "denom": "ibc/D474553C1A29257F4EC4056C346FCF7EF6F979909E9ACF88BA259C1ED2C54036",
-    "symbol": "UMEE",
-    "name": "umee",
-    "description": "The native token of Umee",
+    "denom": "ibc/BFF8BC09B94E2EA90B64961A181D2383280FFA7847109DE1AB4ECA366466462A",
+    "symbol": "SOMM",
+    "name": "somm",
+    "description": "Somm Token (SOMM) is the native staking token of the Sommelier Chain",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/9d5325ca8b382d8836719bb3889fd12729e3e2855edf892245b7e6e27679a40a.svg",
-    "coinGeckoId": "umee"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/50296617D7BB7A72E04AE9501FF009C7B78E6052E89FC6A6FA48EFBA3F70D9E1",
-    "symbol": "WIND",
-    "name": "wind",
-    "description": "",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/b5b0e449acd98f5a0524bb3df2aacbf87c6ef48cfb2e967df3947901253866f5.png",
-    "coinGeckoId": ""
+    "image": "https://cdn.chainroot.io/images/tokens/4c5f41c1d09e29aaf50ed10f7f7ff2cce2d2e0db2ccf95eef8c7f0379136970b.svg",
+    "coinGeckoId": "sommelier"
   },
   {
     "type": "ibc",
@@ -117,6 +107,16 @@
     "description": "Dragon Token is the native staking and governance token of Dungeon Chain, serving as the backbone of the ecosystem. Its primary roles include staking, where users stake Dragon Tokens to secure the network, enhance its functionality, and earn rewards in return; governance, granting token holders voting rights to influence key decisions such as game onboarding, protocol updates, and community-driven initiatives; and ecosystem growth, facilitating transactions, incentivizing developers, and promoting the creation of new interchain games. Dragon Token ensures a decentralized, fair, and community-driven ecosystem, fostering the evolution of blockchain-based gaming. It plays a crucial role in driving the growth of Dungeon Chain by empowering both developers and players to participate actively in the ecosystem's governance and success.",
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/997fda1abc37fcfd7d010d8a05fa4528a17c6e12ec225bac47e9184456b6142b.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/24612FC801FA8931656D8BA382BDBC6B237040A5B0CB50A69CC7C82855D6EEAA",
+    "symbol": "stCMDX",
+    "name": "stcmdx",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/2b3214ddc1d81a11c6806d8bdc6e6600fe899f98715db75f33aa4232e34d592d.svg",
     "coinGeckoId": ""
   },
   {
@@ -131,13 +131,23 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/3EDFD287DA7552429E1148BF954AB6F44F7C9730567964208B3052E6DDF18D08",
-    "symbol": "JUNO",
-    "name": "juno",
-    "description": "The native token of JUNO Chain",
+    "denom": "ibc/C87A988C60DE234F90AC945ED00B894893C9CD60CEB221E7C76CE61B86CB14DB",
+    "symbol": "SAIL",
+    "name": "sail",
+    "description": "Sail DAO is a liquidity deployment and management DAO built as a collaboration between the Osmosis and Migaloo Blockchains.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/79f9def0d7428ed8b761a7c42dc5f7a3492367f014258935d72cbbe2d813a552.svg",
-    "coinGeckoId": "juno-network"
+    "image": "https://cdn.chainroot.io/images/tokens/a02b4e4ca4f28988eb0eee71c0e2a07ad648651c567b59ba415b468914be8f1e.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/DE8815710B5A23FEBF188F0EE0DBA96FD4CBE154D506D42EAD885CB805C64055",
+    "symbol": "stSTARS",
+    "name": "ststars",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7a59cd844186f83aa4d9304b02958f964b7b2a1d616fd269db395dd98815740a.svg",
+    "coinGeckoId": "stride-staked-stars"
   },
   {
     "type": "ibc",
@@ -151,16 +161,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/B95AA0670A1073A278BE1C28FBAE1509ACEFE0207AB3F3E92156324DECA2225A",
-    "symbol": "ODIN",
-    "name": "odin",
-    "description": "ODIN is the Staking and governance token for ODIN Protocol",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/4466eadd0c642a34f8e888b430eae753e3a262a2de741ac91bf468db1ddc29eb.svg",
-    "coinGeckoId": "odin-protocol"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/FD89ED1C06FAEE7CA9F94BA0C3E813ADE4489DD8259435F447BC031D5C4A6DE3",
     "symbol": "stOSMO",
     "name": "stosmo",
@@ -171,13 +171,23 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/5F78C42BCC76287AE6B3185C6C1455DFFF8D805B1847F94B9B625384B93885C7",
-    "symbol": "ATOM",
-    "name": "atom",
-    "description": "ATOM is the native cryptocurrency of the Cosmos network, designed to facilitate interoperability between multiple blockchains through its innovative hub-and-spoke model.",
+    "denom": "ibc/0E1BCB2A120B23DF8204C1B8F9C8ADC4F0E32BF5DDFC7AC00DFF852E984BED21",
+    "symbol": "REGEN",
+    "name": "regen",
+    "description": "REGEN coin is the token for the Regen Network Platform",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
-    "coinGeckoId": "cosmos"
+    "image": "https://cdn.chainroot.io/images/tokens/fa1702b9e6411fd543852318682138e2abb200890d9e5dceaf6adce900621bb9.svg",
+    "coinGeckoId": "regen"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/E7395B1DECD14A8B7F9AA60083119E395DA8E37A1DCAA8B9ED07ED8D4F7E48E3",
+    "symbol": "SAGA",
+    "name": "saga",
+    "description": "Saga is a blockchain platform focused on providing customizable blockchain solutions with a strong emphasis on security and scalability.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/799f4a072b2233900b640f327ef0567963544aec7f3b138033b0853c5da3cc1b.svg",
+    "coinGeckoId": "saga-2"
   },
   {
     "type": "ibc",
@@ -191,12 +201,12 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/B5246578F04D2DBCCCDFEDB6EAFB338C1E009E623532DAD3D7D77B3875D26930",
-    "symbol": "ATOM",
-    "name": "atom",
-    "description": "ATOM is the native cryptocurrency of the Cosmos network, designed to facilitate interoperability between multiple blockchains through its innovative hub-and-spoke model.",
+    "denom": "ibc/0BB11799B32FE210C4A504FBFD439D31D63D3E1D097C50C17A6B9981820F2CAB",
+    "symbol": "QCK",
+    "name": "qck",
+    "description": "QCK - native token of Quicksilver",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
-    "coinGeckoId": "cosmos"
+    "image": "https://cdn.chainroot.io/images/tokens/f87699fa8000635dee47c4014c153040dd1f107d74277ecbd3da317e71828fcc.png",
+    "coinGeckoId": "quicksilver"
   }
 ]

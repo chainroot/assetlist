@@ -11,12 +11,32 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/4BBC1CE2DC703F5F751981CE17DFF1E567FED58918D2648E273EC8740672C477",
-    "symbol": "EVMOS",
-    "name": "evmos",
-    "description": "The native EVM, governance and staking token of the Evmos Hub",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/8fd37bed9ab943bf6d2114ddae7f4a42b91cdebc269406c7f6acfb4fd1885e05.svg",
-    "coinGeckoId": "evmos"
+    "denom": "ibc/9B31C362FE43914937F01ADEC0BD7788B55B5A1B56EE639DDE0A916FD2DB7017",
+    "symbol": "XKI",
+    "name": "xki",
+    "description": "The native token of Ki Chain",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/c4dfce6153eeedecbb738d7b1a738ff57262be190c98930fc383601fa66ab038.svg",
+    "coinGeckoId": "ki"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/29F179E964E3171DB3507A72C5EC0F0C41D52011A4558F4EF82DE08E40FA6CAE",
+    "symbol": "APOLLO",
+    "name": "apollo",
+    "description": "The deflationary utility token of the Apollo DAO project",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/ee16eb8012b0b445279b3f471d1ac999f3635243e970439d16a57fec183eca0d.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/DF8D00B4B31B55AFCA9BAF192BC36C67AA06D9987DCB96490661BCAB63C27006",
+    "symbol": "JUNO",
+    "name": "juno",
+    "description": "The native token of JUNO Chain",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/79f9def0d7428ed8b761a7c42dc5f7a3492367f014258935d72cbbe2d813a552.svg",
+    "coinGeckoId": "juno-network"
   }
 ]

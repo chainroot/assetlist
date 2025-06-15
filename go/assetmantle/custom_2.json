@@ -11,6 +11,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/725907476F79A96A2650A4D124501B5D236AB9DDFAF216F929833C6B51E42902",
+    "symbol": "EVMOS",
+    "name": "evmos",
+    "description": "The native EVM, governance and staking token of the Evmos Hub",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/8fd37bed9ab943bf6d2114ddae7f4a42b91cdebc269406c7f6acfb4fd1885e05.svg",
+    "coinGeckoId": "evmos"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/33E3481B6DE69CBABF20B3130A10F7CDF0B0ED5F0EB9F9980AD92A1B3C0DDB5D",
     "symbol": "ETH",
     "name": "eth",
@@ -31,6 +41,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/4DE84C92C714009D07AFEA7350AB3EC383536BB0FAAD7AF9C0F1A0BEA169304E",
+    "symbol": "INJ",
+    "name": "INJ",
+    "description": "Injective is a decentralized exchange protocol that enables fast, secure, and fully decentralized trading of derivatives, futures, and spot markets.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/c824ba4c934281bfa3a10052366f3c00fe94ed254da7f0e2b82da59a5c2872df.svg",
+    "coinGeckoId": "injective-protocol"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/261AA78A732B29C6052EF0C33D2991D1C65BBE173C9B9E6E3688E32D9947A98E",
     "symbol": "HARBOR",
     "name": "harbor",
@@ -41,16 +61,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/2940BB982C8B6A5C6717724EAA7E3630BD51C34C244075EE75C78AFCEC4CF932",
-    "symbol": "LUNC",
-    "name": "luna",
-    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
-    "coinGeckoId": "terra-luna"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/7F1D902F768DAB4CB8649C19D20317D53E13FC604ABF9100EAC8871052EA4242",
     "symbol": "MNTL",
     "name": "mntl",
@@ -58,16 +68,6 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/4658b05dcc839c7219f22d80ebf51c6af889c2b4cf44d9d089284053332e75ef.svg",
     "coinGeckoId": "assetmantle"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/B86F9C66F4492E94BBC55B1950D4BA36D705AF7BF6CEC20307611302795B58E2",
-    "symbol": "MANNA",
-    "name": "manna",
-    "description": "Social Impact DAO dedicated to combatting food insecurity and malnutrition",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/25d5299c05a5940655c633e04936946086cdce4a5a2f3ad61de254c21470ec58.png",
-    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -91,6 +91,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/2E39FF9B7A8495794A830420E71BF79D2F635C65AFE389A8E96F9B11D479BCF1",
+    "symbol": "LORE",
+    "name": "LORE",
+    "description": "The native token of Gitopia",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/1b77af8b445dc0fa9a606be4f831f2b6ef99399160238c3d193f0bbe34d1e76d.svg",
+    "coinGeckoId": "gitopia"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/616E26A85AD20A3DDEAEBDDE7262E3BA9356C557BC15CACEA86768D7D51FA703",
     "symbol": "USDC",
     "name": "usdc",
@@ -111,13 +121,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/EACD4A15F32900B396DDA7B9E3ED513DBC575FC6F06D37DC439103EF9CCFD3F0",
-    "symbol": "CMDX",
-    "name": "cmdx",
-    "description": "Native Token of Comdex Protocol",
+    "denom": "ibc/9277B1D667197EAC95E3F2FE843F1B990684730B33E29080A51EC8835B45FFB8",
+    "symbol": "MNTL",
+    "name": "mntl",
+    "description": "The native token of Asset Mantle",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/18ef9a7a59ab88889f56c3723f72a35db05f8bc967c41f08ff64cd3ecdbe3818.svg",
-    "coinGeckoId": "comdex"
+    "image": "https://cdn.chainroot.io/images/tokens/4658b05dcc839c7219f22d80ebf51c6af889c2b4cf44d9d089284053332e75ef.svg",
+    "coinGeckoId": "assetmantle"
   },
   {
     "type": "ibc",
@@ -131,16 +141,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/6F8E6FDF589E95A555946A94C409539B00AC66D84C0B6B575DE8B41D88E3E014",
-    "symbol": "AXL",
-    "name": "axl",
-    "description": "Axelar is a decentralized interoperability network connecting multiple blockchain ecosystems, enabling seamless cross-chain communication and value transfer.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
-    "coinGeckoId": "axelar"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/F5FABF52B54E65064B57BF6DBD8E5FAD22CEE9F4B8A57ADBB20CCD0173AA72A4",
     "symbol": "USDC",
     "name": "usdc",
@@ -148,6 +148,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
     "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/20824143EFF28B94BE1EC03723E748461B92706A6D4EBD2F52DDDBDADA143FA0",
+    "symbol": "OSMO",
+    "name": "osmo",
+    "description": "The native token of Osmosis",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/e053406240eac4d978a66008f0551daa497be489fba6c5840e5cd073bd6fcd94.svg",
+    "coinGeckoId": "osmosis"
   },
   {
     "type": "ibc",
@@ -161,7 +171,17 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/E38E53A967C1DE2F4DB5B6F85AE922537B1AE418BADFFBF841C7E5FD1B924A01",
+    "denom": "ibc/5703EDF50588A1F0C25310F71F54A4240E3D2EAEFABFDD20CD5B296494107D1C",
+    "symbol": "KUJI",
+    "name": "kuji",
+    "description": "Kujira is a decentralized finance (DeFi) platform offering a suite of tools and services for managing and optimizing digital assets and investments.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9b4df5623b76ae925d1947e3d154d0f88fb1d194ff62673d6af8bc0a77e6a71a.svg",
+    "coinGeckoId": "kujira"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/45FFEE350E790699F48BB53C35CBB71722246D54D5B08731A736B0C4376E5FF7",
     "symbol": "ETH",
     "name": "eth",
     "description": "Ethereum is a decentralized blockchain platform for running smart contracts and dApps, with Ether (ETH) as its native cryptocurrency, enabling a versatile ecosystem beyond just digital currency.",
@@ -181,22 +201,12 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/0FECA606E7B9D3C42A7C1C03CC91896D63DC023929E41D2222194957A9C4B5C7",
-    "symbol": "STARS",
-    "name": "stars",
-    "description": "Stargaze is a decentralized blockchain platform designed specifically for non-fungible tokens (NFTs), enabling creators to mint, trade, and interact with NFTs in a fully decentralized environment.",
+    "denom": "ibc/312F13C9A9ECCE611FE8112B5ABCF0A14DE2C3937E38DEBF6B73F2534A83464E",
+    "symbol": "USTC",
+    "name": "ust",
+    "description": "The USD stablecoin of Terra Classic.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/8c41a49f8a121387817f0fd11a45f39da6ea8a8952026c46760f2c001316e207.svg",
-    "coinGeckoId": "stargaze"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/3554989531C7DB295D548F373FE93205215CAC2820A62D748E5A3703044D481E",
-    "symbol": "GRAV",
-    "name": "graviton",
-    "description": "The native token of Gravity Bridge",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/80113d9226d07b7d5f24a7b6f569d4971cdfed9481d0b80d4121b8c3bd7e0a8b.svg",
-    "coinGeckoId": "graviton"
+    "image": "https://cdn.chainroot.io/images/tokens/bbf7ad631fa51027777b71c54feda0517f9f112a5f42edad9c584fb9724561cb.svg",
+    "coinGeckoId": "terrausd"
   }
 ]
