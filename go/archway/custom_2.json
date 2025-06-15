@@ -381,16 +381,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/3A790199A36516FA5D6889B3C6C9AC31944E44A0CD30EF122028C8CEA570E7EC",
-    "symbol": "GODDARD",
-    "name": "goddard",
-    "description": "THE FIRST NATIVE GODDARD MEMECOIN ON NEUTRON",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/81c946f8f3be8f92e0854f4b6a6ab058a1fd15f545d6cba7905746dda070042d.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/BF8BDCAA292B56035E669D80711D9881CC96796AC6BCB0376836FAD045355E37",
     "symbol": "CMDX",
     "name": "cmdx",
@@ -398,6 +388,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/18ef9a7a59ab88889f56c3723f72a35db05f8bc967c41f08ff64cd3ecdbe3818.svg",
     "coinGeckoId": "comdex"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/3A790199A36516FA5D6889B3C6C9AC31944E44A0CD30EF122028C8CEA570E7EC",
+    "symbol": "GODDARD",
+    "name": "goddard",
+    "description": "THE FIRST NATIVE GODDARD MEMECOIN ON NEUTRON",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/81c946f8f3be8f92e0854f4b6a6ab058a1fd15f545d6cba7905746dda070042d.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
