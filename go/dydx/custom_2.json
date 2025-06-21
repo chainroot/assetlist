@@ -171,16 +171,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/7B84C90C3A70074907DB09A657A4E05CD53A77AD54D333E1E54CD3F5B7F0F209",
-    "symbol": "NTRN",
-    "name": "ntrn",
-    "description": "Neutron is a smart contract blockchain within the Cosmos ecosystem, leveraging the Cosmos Hub's security to provide cross-chain DeFi applications.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/bcc7880c69cc88313d52a96ce2f7e780a98c5e8a5b86e7318667fd5eabe34c4c.svg",
-    "coinGeckoId": "neutron-3"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/8987D810D4122AE7DF743595BEBD4D67AB9265BD19F248E34E4A220BA8EFFEE1",
     "symbol": "COREUM",
     "name": "core",
@@ -238,6 +228,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/799f4a072b2233900b640f327ef0567963544aec7f3b138033b0853c5da3cc1b.svg",
     "coinGeckoId": "saga-2"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/7B84C90C3A70074907DB09A657A4E05CD53A77AD54D333E1E54CD3F5B7F0F209",
+    "symbol": "NTRN",
+    "name": "ntrn",
+    "description": "Neutron is a smart contract blockchain within the Cosmos ecosystem, leveraging the Cosmos Hub's security to provide cross-chain DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/bcc7880c69cc88313d52a96ce2f7e780a98c5e8a5b86e7318667fd5eabe34c4c.svg",
+    "coinGeckoId": "neutron-3"
   },
   {
     "type": "ibc",

@@ -11,6 +11,36 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/2B00B177283C6B860DBF28D087BEF6C93BF8AC4CD69050518E83C4EF2F4830FB",
+    "symbol": "stEVMOS",
+    "name": "stevmos",
+    "description": "",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/aacc69b3c0c44324cf6fea93ce70451b21974d1461ebf478d2cac6ff47853525.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/3F8494D988200A37A9D8B95897906DCAB14F18BA82AF04F02AB80D111E5618D5",
+    "symbol": "FXS",
+    "name": "fxs",
+    "description": "FXS is the value accrual and governance token of the entire Frax ecosystem. Frax is a fractional-algorithmic stablecoin protocol. It aims to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply assets like BTC.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/1d122728d9daca703e2ce9c81ee00cd4657ef59c34128e5e74d04c4963fb6266.svg",
+    "coinGeckoId": "frax-share"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/73E97EB411B29C6F989C35D277D1A7FC65083572F102AC6BD101884EE9FB2C9F",
+    "symbol": "EVMOS",
+    "name": "evmos",
+    "description": "The native EVM, governance and staking token of the Evmos Hub",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/8fd37bed9ab943bf6d2114ddae7f4a42b91cdebc269406c7f6acfb4fd1885e05.svg",
+    "coinGeckoId": "evmos"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/E9BBE9BBF0925155892D6E47553E83B8476C880F65DEB33859E751C0B107B0B1",
     "symbol": "stINJ",
     "name": "stINJ",
@@ -71,13 +101,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/49BAE4CD2172833F14000627DA87ED8024AD46A38D6ED33F6239F22B5832F958",
-    "symbol": "STARS",
-    "name": "stars",
-    "description": "Stargaze is a decentralized blockchain platform designed specifically for non-fungible tokens (NFTs), enabling creators to mint, trade, and interact with NFTs in a fully decentralized environment.",
+    "denom": "ibc/A7E38774F447445DB94A8ED00BEE78EFC43EED7A732D314D3F7F4AB743993E9F",
+    "symbol": "REGEN",
+    "name": "regen",
+    "description": "REGEN coin is the token for the Regen Network Platform",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/8c41a49f8a121387817f0fd11a45f39da6ea8a8952026c46760f2c001316e207.svg",
-    "coinGeckoId": "stargaze"
+    "image": "https://cdn.chainroot.io/images/tokens/fa1702b9e6411fd543852318682138e2abb200890d9e5dceaf6adce900621bb9.svg",
+    "coinGeckoId": "regen"
   },
   {
     "type": "ibc",
@@ -101,22 +131,22 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/50296617D7BB7A72E04AE9501FF009C7B78E6052E89FC6A6FA48EFBA3F70D9E1",
-    "symbol": "WIND",
-    "name": "wind",
-    "description": "",
+    "denom": "ibc/BFF8BC09B94E2EA90B64961A181D2383280FFA7847109DE1AB4ECA366466462A",
+    "symbol": "SOMM",
+    "name": "somm",
+    "description": "Somm Token (SOMM) is the native staking token of the Sommelier Chain",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/b5b0e449acd98f5a0524bb3df2aacbf87c6ef48cfb2e967df3947901253866f5.png",
-    "coinGeckoId": ""
+    "image": "https://cdn.chainroot.io/images/tokens/4c5f41c1d09e29aaf50ed10f7f7ff2cce2d2e0db2ccf95eef8c7f0379136970b.svg",
+    "coinGeckoId": "sommelier"
   },
   {
     "type": "ibc",
-    "denom": "ibc/FBA4E025D3501B812E57E45C993B65B6357DA050CE49758A82CC23F6FBB6AD85",
-    "symbol": "DGN",
-    "name": "DGN",
-    "description": "Dragon Token is the native staking and governance token of Dungeon Chain, serving as the backbone of the ecosystem. Its primary roles include staking, where users stake Dragon Tokens to secure the network, enhance its functionality, and earn rewards in return; governance, granting token holders voting rights to influence key decisions such as game onboarding, protocol updates, and community-driven initiatives; and ecosystem growth, facilitating transactions, incentivizing developers, and promoting the creation of new interchain games. Dragon Token ensures a decentralized, fair, and community-driven ecosystem, fostering the evolution of blockchain-based gaming. It plays a crucial role in driving the growth of Dungeon Chain by empowering both developers and players to participate actively in the ecosystem's governance and success.",
+    "denom": "ibc/24612FC801FA8931656D8BA382BDBC6B237040A5B0CB50A69CC7C82855D6EEAA",
+    "symbol": "stCMDX",
+    "name": "stcmdx",
+    "description": "",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/997fda1abc37fcfd7d010d8a05fa4528a17c6e12ec225bac47e9184456b6142b.png",
+    "image": "https://cdn.chainroot.io/images/tokens/2b3214ddc1d81a11c6806d8bdc6e6600fe899f98715db75f33aa4232e34d592d.svg",
     "coinGeckoId": ""
   },
   {
@@ -151,43 +181,33 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/B95AA0670A1073A278BE1C28FBAE1509ACEFE0207AB3F3E92156324DECA2225A",
-    "symbol": "ODIN",
-    "name": "odin",
-    "description": "ODIN is the Staking and governance token for ODIN Protocol",
+    "denom": "ibc/4B3F2630F1EC02190C3A765114709934F8CCE8F577129DC898CF1627D02CE0D1",
+    "symbol": "BLD",
+    "name": "bld",
+    "description": "Agoric is a smart contract platform that uses JavaScript to enable developers to build secure and scalable decentralized applications (dApps) easily.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/4466eadd0c642a34f8e888b430eae753e3a262a2de741ac91bf468db1ddc29eb.svg",
-    "coinGeckoId": "odin-protocol"
+    "image": "https://cdn.chainroot.io/images/tokens/d1f382622adbce914256c6e66e2fd73a2e0f123a5f6bc09e1642a31612cb57f3.svg",
+    "coinGeckoId": "agoric"
   },
   {
     "type": "ibc",
-    "denom": "ibc/FD89ED1C06FAEE7CA9F94BA0C3E813ADE4489DD8259435F447BC031D5C4A6DE3",
-    "symbol": "stOSMO",
-    "name": "stosmo",
-    "description": "",
+    "denom": "ibc/E7395B1DECD14A8B7F9AA60083119E395DA8E37A1DCAA8B9ED07ED8D4F7E48E3",
+    "symbol": "SAGA",
+    "name": "saga",
+    "description": "Saga is a blockchain platform focused on providing customizable blockchain solutions with a strong emphasis on security and scalability.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/f332eb9577ccc44d5eac362ee1d07e25a931f7a386a14a505495159f9092695f.svg",
-    "coinGeckoId": "stride-staked-osmo"
+    "image": "https://cdn.chainroot.io/images/tokens/799f4a072b2233900b640f327ef0567963544aec7f3b138033b0853c5da3cc1b.svg",
+    "coinGeckoId": "saga-2"
   },
   {
     "type": "ibc",
-    "denom": "ibc/5F78C42BCC76287AE6B3185C6C1455DFFF8D805B1847F94B9B625384B93885C7",
+    "denom": "ibc/8D0B26945CDC1C1D36F8EE94EDD6BAE915ECA2A43CEAAA1953B6AFC163D5A6BE",
     "symbol": "ATOM",
     "name": "atom",
     "description": "ATOM is the native cryptocurrency of the Cosmos network, designed to facilitate interoperability between multiple blockchains through its innovative hub-and-spoke model.",
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
     "coinGeckoId": "cosmos"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/2CE0C707C1E54B0B2614F96004288E8550D300AE073310A6C796523941019173",
-    "symbol": "USDC",
-    "name": "usdc",
-    "description": "Circle's stablecoin on Axelar",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
-    "coinGeckoId": "axlusdc"
   },
   {
     "type": "ibc",

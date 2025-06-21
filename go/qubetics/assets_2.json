@@ -4,7 +4,7 @@
         "denom": "tics",
         "name" : "Tics",
         "symbol": "TICS",
-        "description": "Qubetics Staking Coin",
+        "description": "Mainnet Qubetics Staking Coin",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/tics.png",
         "coinGeckoId": "",

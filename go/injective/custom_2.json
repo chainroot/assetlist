@@ -31,16 +31,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/F6CC233E5C0EA36B1F74AB1AF98471A2D6A80E2542856639703E908B4D93E7C4",
-    "symbol": "NEOK",
-    "name": "neok",
-    "description": "The token of Neokingdom DAO.",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/ed0c8d7b3ee9d021825081b1bdef25616788872355aac45c0ce87f0135552245.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/E68343A4DEF4AFBE7C5A9004D4C11888EE755A7B43B3F1AFA52F2C34C07990D5",
     "symbol": "SHIB",
     "name": "shib",
@@ -58,6 +48,16 @@
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/6e09b30e25aa93eba62945146460a49ce4bae94377fbb3f3c04c81e692bbd0a6.svg",
     "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/D91A2C4EE7CD86BBAFCE0FA44A60DDD9AFBB7EEB5B2D46C0984DEBCC6FEDFAE8",
+    "symbol": "CANTO",
+    "name": "canto",
+    "description": "Canto is a Layer-1 blockchain built to deliver on the promise of DeFi",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/8853d3a5ec2c5578d576e8bfcd9313796e900907b554cd72ab28e3b96ea36b22.svg",
+    "coinGeckoId": "canto"
   },
   {
     "type": "ibc",
@@ -101,26 +101,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/8042DF9D0B312FE068D0336E5E9AFFE408839DA15643D83CA9AB005D0A2E38D8",
-    "symbol": "WMATIC",
-    "name": "wmatic",
-    "description": "Wrapped Matic on Axelar",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/bf81bb5509d397d93705112cdf2b191085c96ae16f64f144aace3128bbbce029.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/BC3AD52E42C6E1D13D2BDCEB497CF5AB9FEE24D804F5563B9E7DCFB825246947",
-    "symbol": "DORA",
-    "name": "DORA",
-    "description": "The native staking and governance token of the Theta testnet version of the Dora Vota.",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/ae2fd8599600585d1feb8a94482153935469d63c8559404b52e447a741dc1094.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/9144D78830C5ABD7B7D9E219EA7600E3A0E0AD5FC50C007668160595E94789AB",
     "symbol": "PEPE",
     "name": "pepe",
@@ -128,16 +108,6 @@
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/7c2f48973d37221004afe6a74d88485741f57e9480a5f4ba3be124f2b2c89c87.svg",
     "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/2A1742D28193A863F82FAF16301415BCADFC8B3111FD59B162DAA2215816A0AD",
-    "symbol": "REBUS",
-    "name": "rebus",
-    "description": "REBUS, the native coin of the Rebus chain.",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/0cc1449c44cdfdff0a080c8beadd36e6536af8a0616b0980fa409549b418bfe5.svg",
-    "coinGeckoId": "rebus"
   },
   {
     "type": "ibc",
@@ -151,33 +121,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/AC8181FE5ECAC9A01FBC5C4A3A681537A01A95007C32C2FAF3CF7101E9DAE081",
-    "symbol": "INJ",
-    "name": "INJ",
-    "description": "Injective is a decentralized exchange protocol that enables fast, secure, and fully decentralized trading of derivatives, futures, and spot markets.",
+    "denom": "ibc/ECC0DF3D9C80F79B81056569EE2140FD977886AB274FA08BA03E987264D6DE19",
+    "symbol": "WETH",
+    "name": "gweth",
+    "description": "Gravity Bridge WETH",
     "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/c824ba4c934281bfa3a10052366f3c00fe94ed254da7f0e2b82da59a5c2872df.svg",
-    "coinGeckoId": "injective-protocol"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/ABC34F1F9C95DAB3AD3DAFD5228FAB5CDEA67B6BD126BC545D6D25B15E57F527",
-    "symbol": "PLQ",
-    "name": "planq",
-    "description": "The native EVM, governance and staking token of the Planq Network",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/d97a6ddd52b84a2a5b37d0b99ac4190f268662fe60567f797a5cf7dc23b93236.svg",
-    "coinGeckoId": "planq"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/C508488741426E40AAE98E374F6D8DEA733A391D3388EBEC055F1C2A6845CBCA",
-    "symbol": "INJ",
-    "name": "INJ",
-    "description": "Injective is a decentralized exchange protocol that enables fast, secure, and fully decentralized trading of derivatives, futures, and spot markets.",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/c824ba4c934281bfa3a10052366f3c00fe94ed254da7f0e2b82da59a5c2872df.svg",
-    "coinGeckoId": "injective-protocol"
+    "image": "https://cdn.chainroot.io/images/tokens/a2fe7b18d03f3c11c6b4bd867c4e017ad234540a5d5a517faadb376d8cd564b3.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -191,7 +141,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/C7132831617D38D152402A1F0E3B98A719C8288423A5116167E03A51D9B8B6D0",
+    "denom": "ibc/F96E6A46AC48C00199300739C37BEE566B14B16B5D22DF8CF7F40C27BC3A9C6E",
     "symbol": "INJ",
     "name": "INJ",
     "description": "Injective is a decentralized exchange protocol that enables fast, secure, and fully decentralized trading of derivatives, futures, and spot markets.",
@@ -201,32 +151,62 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/46AA3E75F15D7EFA00BF6747E8CE668F6A515182B2355942C567F47B88761072",
-    "symbol": "INJ",
-    "name": "INJ",
-    "description": "Injective is a decentralized exchange protocol that enables fast, secure, and fully decentralized trading of derivatives, futures, and spot markets.",
+    "denom": "ibc/33807304CF00FB4481E14AF77B3B656759F9E8B17C478CB55A8C9F5CF7783FEB",
+    "symbol": "INJ-YIELD-LP",
+    "name": "lp:1:INJ",
+    "description": "Pryzm's LP token for INJ Yield pool",
     "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/c824ba4c934281bfa3a10052366f3c00fe94ed254da7f0e2b82da59a5c2872df.svg",
-    "coinGeckoId": "injective-protocol"
+    "image": "https://cdn.chainroot.io/images/tokens/ac3df13315b6cd9d82bc1a71dc3dbf06c84162daf6b8d341bfb3714606cbb26f.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
-    "denom": "ibc/D3AF228E8FD11597F699BBE5428361A49F8EF808E271909E6A5AF9C76CB5E5AC",
-    "symbol": "INJ",
-    "name": "INJ",
-    "description": "Injective is a decentralized exchange protocol that enables fast, secure, and fully decentralized trading of derivatives, futures, and spot markets.",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/c824ba4c934281bfa3a10052366f3c00fe94ed254da7f0e2b82da59a5c2872df.svg",
-    "coinGeckoId": "injective-protocol"
+    "denom": "ibc/455C0229DFEB1ADCA527BAE29F4F5B30EE50F282DBEB7124D2836D2DD31514C8",
+    "symbol": "PICA",
+    "name": "pica",
+    "description": "Picasso is a blockchain project within the IBC ecosystem that focuses on providing modular and interoperable solutions for decentralized finance (DeFi) and other blockchain applications.",
+    "decimals": 12,
+    "image": "https://cdn.chainroot.io/images/tokens/703a67bd4a27c653b35e425b8cd978acf2e810fcef52626d7d8396f66b6dab41.svg",
+    "coinGeckoId": "picasso"
   },
   {
     "type": "ibc",
-    "denom": "ibc/D4ED143E25535EBF6374A1A077BE205A687B69872484DF064ED2BAD6E5C3D762",
-    "symbol": "WMATIC",
-    "name": "wmatic",
-    "description": "Wrapped Matic on Axelar",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/bf81bb5509d397d93705112cdf2b191085c96ae16f64f144aace3128bbbce029.svg",
+    "denom": "ibc/D6E6A20ABDD600742D22464340A7701558027759CE14D12590F8EA869CCCF445",
+    "symbol": "WHALE",
+    "name": "whale",
+    "description": "Migaloo is a cosmwasm-powered, permissionless blockchain designed to build decentralized applications with a focus on interchain liquidity solutions.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/516ed75052338f9ed271f0b26f6090dfa1ed4acb81067b03b45c97222853a3da.svg",
+    "coinGeckoId": "white-whale"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839",
+    "symbol": "ASTRO.cw20",
+    "name": "astro.cw20",
+    "description": "Astroport is a neutral marketplace where anyone, from anywhere in the galaxy, can dock to trade their wares.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/4d0dd6374e75c0e56c3924fd4252b881507580341e732330558709c9b3d7c277.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/168C3904C45C6FE3539AE85A8892DF87371D00EA7942515AFC50AA43C4BB0A32",
+    "symbol": "ampWHALE",
+    "name": "ampWHALE",
+    "description": "ampWHALE",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f003573c99e022772de4fcbd6c45eab4cae1c26fe00fd23ee128a86257542c8c.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/F3330C1B8BD1886FE9509B94C7B5398B892EA41420D2BC0B7C6A53CB8ED761D6",
+    "symbol": "PYTH",
+    "name": "wormhole/B8ohBnfisop27exk2gtNABJyYjLwQA7ogrp5uNzvZCoy/6",
+    "description": "Pyth Network (Wormhole), PYTH, factory/wormhole14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/B8ohBnfisop27exk2gtNABJyYjLwQA7ogrp5uNzvZCoy",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/d078541dc1199585222cd9075984ddd24a969eedf9b8535e51bf5c2a3158193c.svg",
     "coinGeckoId": ""
   },
   {
@@ -241,52 +221,42 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/F51BB221BAA275F2EBF654F70B005627D7E713AFFD6D86AFD1E43CAA886149F4",
-    "symbol": "TIA",
-    "name": "tia",
-    "description": "Celestia is a modular blockchain network focused on data availability, allowing developers to deploy their own customizable blockchains with ease.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/63b9c41acf8957bc42561cd85132fbc75177d2879e5de3873470bd2bb4ec41b3.svg",
-    "coinGeckoId": "celestia"
+    "denom": "ibc/8B42C90767030357E99BE35BB5BCBD5A69F6E9E20F4A9FD0498823FD10FF86F9",
+    "symbol": "PICA",
+    "name": "pica",
+    "description": "Picasso is a blockchain project within the IBC ecosystem that focuses on providing modular and interoperable solutions for decentralized finance (DeFi) and other blockchain applications.",
+    "decimals": 12,
+    "image": "https://cdn.chainroot.io/images/tokens/703a67bd4a27c653b35e425b8cd978acf2e810fcef52626d7d8396f66b6dab41.svg",
+    "coinGeckoId": "picasso"
   },
   {
     "type": "ibc",
-    "denom": "ibc/7CF12F727C8C8A6589016D8565830B6DE0D87F70ED1A2C80270B2ABC77426DE7",
-    "symbol": "LUNC",
-    "name": "luna",
-    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "denom": "ibc/80A2109FA720FF39E302876F885039D7378B3FC7B9FAF22E05E29EFB8F7B3306",
+    "symbol": "DOKI",
+    "name": "doki",
+    "description": "DOKI the last Dragon",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
-    "coinGeckoId": "terra-luna"
+    "image": "https://cdn.chainroot.io/images/tokens/09622835a88c8fa7fb4a2eb653c00357a0fe1d74710f066da9472dc904f44f0c.png",
+    "coinGeckoId": "doki"
   },
   {
     "type": "ibc",
-    "denom": "ibc/B52F9774CA89A45FFB924CEE4D1E586013E33628A3784F3CCF10C8CE26A89E7F",
-    "symbol": "ampGASH",
-    "name": "ampGASH",
-    "description": "ERIS Liquid Alliance Staked GASH",
+    "denom": "ibc/1C26FEFDCCBBA829F07F778A440671B7B1F1FDAFFD5571AE0E546C5A2FC0F6C3",
+    "symbol": "USDT",
+    "name": "usdt",
+    "description": "Tether USDt from Ethereum via Peggy bridge.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/989a6ed83c9e73aed69461d35505d7d5bf495ce8af427ee4a9242645e46729ea.png",
+    "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
     "coinGeckoId": ""
   },
   {
     "type": "ibc",
-    "denom": "ibc/7C2AA3086423029B3E915B5563975DB87EF2E552A40F996C7F6D19FFBD5B2AEA",
-    "symbol": "USDC",
-    "name": "gusdc",
-    "description": "Gravity Bridge USDC",
+    "denom": "ibc/C49B72C4E85AE5361C3E0F0587B24F509CB16ECEB8970B6F917D697036AF49BE",
+    "symbol": "AXL",
+    "name": "axl",
+    "description": "Axelar is a decentralized interoperability network connecting multiple blockchain ecosystems, enabling seamless cross-chain communication and value transfer.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/d5b4a9ae52bab105a3a3d04814f9aa2e21dbc8a71181221172ebbe52cefd5c0b.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/613786F0A8E01B0436DE4EBC2F922672063D8348AE5C7FEBA5CB22CD2B12E1D6",
-    "symbol": "HUAHUA",
-    "name": "huahua",
-    "description": "Chihuahua is a community-driven blockchain project focused on creating a fun and engaging ecosystem with an emphasis on social interactions and community building.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/9f226984a0945cdd8fbe6b52a6285a82b061b6e895fe99f42ce775d42efa8c06.svg",
-    "coinGeckoId": "chihuahua-token"
+    "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
+    "coinGeckoId": "axelar"
   }
 ]
