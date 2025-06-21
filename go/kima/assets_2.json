@@ -1,0 +1,13 @@
+[
+    {
+        "type": "native",
+        "denom": "uKIMA",
+        "name" : "KIMA",
+        "symbol": "KIMA",
+        "description": "Kima network Staking Coin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/kima.png",
+        "coinGeckoId": "kima",
+        "color": ""
+    }
+]

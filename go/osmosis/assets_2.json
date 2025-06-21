@@ -2965,7 +2965,7 @@
         "symbol": "BZE",
         "description": "BeeZee native blockchain",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/a4d074e89a7ef61d23858832c59d6a4b817b889bf8899e097465cc429ec18769.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/f2a2fc7403990360f5ee68aef536ad6596b8ada31678093e2a7cf0d9e4cab212.png",
         "color": "#079fd7",
         "coinGeckoId": "bzedge",
         "ibc_info": {
@@ -9921,7 +9921,7 @@
         "symbol": "ELYS",
         "description": "The native token of Elys Network",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/786e2504afc6da98707011a7170b0aa3ef3eb923376c598825e5f35e49494e9f.png",
+        "image": "https://cdn.chainroot.io/images/tokens/888e3365135e9c1425cc3648d6eeb04f8c58248670d1035cfb883f2da74dca35.png",
         "coinGeckoId": "elys-network",
         "ibc_info": {
             "path": "elys>osmosis",
@@ -10888,6 +10888,75 @@
                 "port": "transfer",
                 "chain": "cosmos",
                 "denom": "ibc/0EF5630576C66968EF0787868CF09FD866FAD131BC148D24A148358A85F0EB62"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/AD969E97A63B64B30A6E4D9F598341A403B849F5ACFEAA9F18DBD9255305EC65",
+        "name": "Arkeo",
+        "symbol": "ARKEO",
+        "description": "Arkeo Staking Coin",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/arkeo.png",
+        "coinGeckoId": "arkeo",
+        "ibc_info": {
+            "path": "arkeo>osmosis",
+            "client": {
+                "channel": "channel-103074",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-1",
+                "port": "transfer",
+                "chain": "arkeo",
+                "denom": "uarkeo"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/DD7EA9AF1E58E9FDD7F9810976817E203D5B87BAEF7AEA592FA34DF73310620B",
+        "name": "Initia",
+        "symbol": "INIT",
+        "description": "Initia Staking Coin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/init.png",
+        "coinGeckoId": "initia",
+        "ibc_info": {
+            "path": "initia>osmosis",
+            "client": {
+                "channel": "channel-102122",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-68",
+                "port": "transfer",
+                "chain": "initia",
+                "denom": "uinit"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/D37860EB1D2669F34B47A7BC48885853D5AB23642EF958CDEA35EB6074087064",
+        "name": "Nillion",
+        "symbol": "NIL",
+        "description": "Nillion Staking Coin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/ef37e534d99da5f5b835923e96319da0ee1e622b82b2488d6dac1998fb745dfb.png",
+        "coinGeckoId": "nillion",
+        "ibc_info": {
+            "path": "nillion>osmosis",
+            "client": {
+                "channel": "channel-98416",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-2",
+                "port": "transfer",
+                "chain": "nillion",
+                "denom": "unil"
             }
         }
     }

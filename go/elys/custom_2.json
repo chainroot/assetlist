@@ -61,16 +61,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/799FDD409719A1122586A629AE8FCA17380351A51C1F47A80A1B8E7F2A491098",
-    "symbol": "AKT",
-    "name": "akt",
-    "description": "Akash Network is a decentralized cloud computing marketplace that connects users with unused computing resources, offering a cost-effective alternative to traditional cloud providers.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/33d728dfd3351a640e4f316dcadbc5e50dfdb4a3798bb74e9485f74585cf0245.svg",
-    "coinGeckoId": "akash-network"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/B88C39AD6C8550716DFD64C3AD28F355633554821249AC9F8BCC21341641CD18",
     "symbol": "SAGA",
     "name": "saga",
@@ -78,6 +68,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/799f4a072b2233900b640f327ef0567963544aec7f3b138033b0853c5da3cc1b.svg",
     "coinGeckoId": "saga-2"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/799FDD409719A1122586A629AE8FCA17380351A51C1F47A80A1B8E7F2A491098",
+    "symbol": "AKT",
+    "name": "akt",
+    "description": "Akash Network is a decentralized cloud computing marketplace that connects users with unused computing resources, offering a cost-effective alternative to traditional cloud providers.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/33d728dfd3351a640e4f316dcadbc5e50dfdb4a3798bb74e9485f74585cf0245.svg",
+    "coinGeckoId": "akash-network"
   },
   {
     "type": "ibc",
@@ -141,16 +141,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/9463E39D230614B313B487836D13A392BD1731928713D4C8427A083627048DB3",
-    "symbol": "AXL",
-    "name": "axl",
-    "description": "Axelar is a decentralized interoperability network connecting multiple blockchain ecosystems, enabling seamless cross-chain communication and value transfer.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
-    "coinGeckoId": "axelar"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/896FC3EE4251DDC55048B4947D0AD4E5806B7E1F619E4008BEF1E10BF4B1249E",
     "symbol": "WBTC",
     "name": "wbtc",
@@ -158,5 +148,15 @@
     "decimals": 8,
     "image": "https://cdn.chainroot.io/images/tokens/26347a436b3a51d83910af6c2e0b556d8f5f22387a785779b64c38a72da9b9bb.png",
     "coinGeckoId": "axlwbtc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/9463E39D230614B313B487836D13A392BD1731928713D4C8427A083627048DB3",
+    "symbol": "AXL",
+    "name": "axl",
+    "description": "Axelar is a decentralized interoperability network connecting multiple blockchain ecosystems, enabling seamless cross-chain communication and value transfer.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
+    "coinGeckoId": "axelar"
   }
 ]

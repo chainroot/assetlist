@@ -1,0 +1,13 @@
+[
+    {
+        "type": "native",
+        "denom": "uarkeo",
+        "name" : "Arkeo",
+        "symbol": "ARKEO",
+        "description": "Arkeo Staking Coin",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/arkeo.png",
+        "coinGeckoId": "arkeo",
+        "color": ""
+    }
+]

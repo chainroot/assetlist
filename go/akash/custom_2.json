@@ -121,22 +121,22 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/61E1AE07E1436FB9F5F600D01CCE2842182A8C7A51B38B3D5CE015EB727522FF",
-    "symbol": "SPICE",
-    "name": "Spice",
-    "description": "The Spice memecoin",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/2465aa073c27909c6a7cec4fff3d4d4eec4ff075af940c2f15f6f43da6a0221b.png",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/E963E185E4A553A3D0A24D18144301917AD1B3457D7658076B2D46E2C682F696",
     "symbol": "BADKID",
     "name": "BADKID",
     "description": "A clan of 11y bad kids crafting chaos on the Cosmos eco. One bad memecoin to rule them all  $BADKID. Airdropped to Badkids NFT holders and $STARS stakers. It's so bad, your wallet's throwing a tantrum for it.",
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/ec9c100c89d79a7ae1387de7c874ba16327aa8637036df0df215d4143bb6c7b6.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/61E1AE07E1436FB9F5F600D01CCE2842182A8C7A51B38B3D5CE015EB727522FF",
+    "symbol": "SPICE",
+    "name": "Spice",
+    "description": "The Spice memecoin",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/2465aa073c27909c6a7cec4fff3d4d4eec4ff075af940c2f15f6f43da6a0221b.png",
     "coinGeckoId": ""
   },
   {
@@ -521,23 +521,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/4A87D3BED9311E9D247E33603EDEB47F023986BAB0397AD1F5E3C12265D8F888",
-    "symbol": "SWTH",
-    "name": "dswth",
-    "description": "The native governance token of Carbon",
-    "decimals": 8,
-    "image": "https://cdn.chainroot.io/images/tokens/9772f246b16fb294e55abae93bc5994b37b1f662fbda84fe6a6c87db3cc866f2.svg",
-    "coinGeckoId": "switcheo"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/E42F19AE4D80FD1BC5B20262DB52170151DA8282E817D7C66A5A0A8C48B26DB2",
-    "symbol": "USDC",
-    "name": "usdc",
-    "description": "Circle's stablecoin on Axelar",
+    "denom": "ibc/68590217389DFDDE806C99C67EBEA337D5A1C08BD55166CAC13B4AE45EEE7CD5",
+    "symbol": "AKT",
+    "name": "akt",
+    "description": "Akash Network is a decentralized cloud computing marketplace that connects users with unused computing resources, offering a cost-effective alternative to traditional cloud providers.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
-    "coinGeckoId": "axlusdc"
+    "image": "https://cdn.chainroot.io/images/tokens/33d728dfd3351a640e4f316dcadbc5e50dfdb4a3798bb74e9485f74585cf0245.svg",
+    "coinGeckoId": "akash-network"
   },
   {
     "type": "ibc",
@@ -551,13 +541,23 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/74CF75A540796BD761B5E078A69731715C6293A8A6636DAA51D350C50AE5453D",
-    "symbol": "OSMO",
-    "name": "osmo",
-    "description": "The native token of Osmosis",
+    "denom": "ibc/B8E8CB860A622E57CAB58B68B7066689D455CF76BCE633ABE12AF74DF7346818",
+    "symbol": "JKL",
+    "name": "jkl",
+    "description": "Jackal Network is a decentralized storage platform that aims to provide secure, private, and efficient data storage solutions on the blockchain.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/e053406240eac4d978a66008f0551daa497be489fba6c5840e5cd073bd6fcd94.svg",
-    "coinGeckoId": "osmosis"
+    "image": "https://cdn.chainroot.io/images/tokens/0208e55b9311df4d06d935433bf3cfa81c104d47d71490dd5a1cc1b15fcc602b.svg",
+    "coinGeckoId": "jackal-protocol"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/E42F19AE4D80FD1BC5B20262DB52170151DA8282E817D7C66A5A0A8C48B26DB2",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
   },
   {
     "type": "ibc",
@@ -571,23 +571,23 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/68590217389DFDDE806C99C67EBEA337D5A1C08BD55166CAC13B4AE45EEE7CD5",
-    "symbol": "AKT",
-    "name": "akt",
-    "description": "Akash Network is a decentralized cloud computing marketplace that connects users with unused computing resources, offering a cost-effective alternative to traditional cloud providers.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/33d728dfd3351a640e4f316dcadbc5e50dfdb4a3798bb74e9485f74585cf0245.svg",
-    "coinGeckoId": "akash-network"
+    "denom": "ibc/4A87D3BED9311E9D247E33603EDEB47F023986BAB0397AD1F5E3C12265D8F888",
+    "symbol": "SWTH",
+    "name": "dswth",
+    "description": "The native governance token of Carbon",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/9772f246b16fb294e55abae93bc5994b37b1f662fbda84fe6a6c87db3cc866f2.svg",
+    "coinGeckoId": "switcheo"
   },
   {
     "type": "ibc",
-    "denom": "ibc/B8E8CB860A622E57CAB58B68B7066689D455CF76BCE633ABE12AF74DF7346818",
-    "symbol": "JKL",
-    "name": "jkl",
-    "description": "Jackal Network is a decentralized storage platform that aims to provide secure, private, and efficient data storage solutions on the blockchain.",
+    "denom": "ibc/74CF75A540796BD761B5E078A69731715C6293A8A6636DAA51D350C50AE5453D",
+    "symbol": "OSMO",
+    "name": "osmo",
+    "description": "The native token of Osmosis",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/0208e55b9311df4d06d935433bf3cfa81c104d47d71490dd5a1cc1b15fcc602b.svg",
-    "coinGeckoId": "jackal-protocol"
+    "image": "https://cdn.chainroot.io/images/tokens/e053406240eac4d978a66008f0551daa497be489fba6c5840e5cd073bd6fcd94.svg",
+    "coinGeckoId": "osmosis"
   },
   {
     "type": "ibc",
@@ -631,16 +631,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/D054B8D57ED0823C5086989C79FC4B9E641AD4D5E4E1C215F86CC24727A95AFC",
-    "symbol": "USTC",
-    "name": "ust",
-    "description": "The USD stablecoin of Terra Classic.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/bbf7ad631fa51027777b71c54feda0517f9f112a5f42edad9c584fb9724561cb.svg",
-    "coinGeckoId": "terrausd"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/B2F63EE3DCF56C1E4DBEDCC6824C4B2E6F1800EA679C6A705E74868FEFB08508",
     "symbol": "AKT",
     "name": "akt",
@@ -648,6 +638,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/33d728dfd3351a640e4f316dcadbc5e50dfdb4a3798bb74e9485f74585cf0245.svg",
     "coinGeckoId": "akash-network"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/D054B8D57ED0823C5086989C79FC4B9E641AD4D5E4E1C215F86CC24727A95AFC",
+    "symbol": "USTC",
+    "name": "ust",
+    "description": "The USD stablecoin of Terra Classic.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/bbf7ad631fa51027777b71c54feda0517f9f112a5f42edad9c584fb9724561cb.svg",
+    "coinGeckoId": "terrausd"
   },
   {
     "type": "ibc",
@@ -801,26 +801,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/25418646C017D377ADF3202FF1E43590D0DAE3346E594E8D78176A139A928F88",
-    "symbol": "ATOM",
-    "name": "atom",
-    "description": "ATOM is the native cryptocurrency of the Cosmos network, designed to facilitate interoperability between multiple blockchains through its innovative hub-and-spoke model.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
-    "coinGeckoId": "cosmos"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/7CC055FCC7DEF2DFFB9D9C81EAE500613EF991A53848E37E09BA5E2F43BB94DA",
-    "symbol": "IRIS",
-    "name": "iris",
-    "description": "The IRIS token is the native governance token for the IrisNet chain.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/1595a34d03a89ceaaa0d00e2c31d143b92b9b6e38f3962b9459241c8c6eb7f8d.svg",
-    "coinGeckoId": "iris-network"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/3049D86447091E64D5A5ABA01DEAFA7D124C1B451F8085826A053F62849E99C6",
     "symbol": "OSMO",
     "name": "osmo",
@@ -841,6 +821,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/7CC055FCC7DEF2DFFB9D9C81EAE500613EF991A53848E37E09BA5E2F43BB94DA",
+    "symbol": "IRIS",
+    "name": "iris",
+    "description": "The IRIS token is the native governance token for the IrisNet chain.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/1595a34d03a89ceaaa0d00e2c31d143b92b9b6e38f3962b9459241c8c6eb7f8d.svg",
+    "coinGeckoId": "iris-network"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/01A92F17D9A8F0DB5A67B3E8E340D59D1EC0C1C36B3C9A358758DB057ECF964A",
     "symbol": "AKT",
     "name": "akt",
@@ -848,6 +838,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/33d728dfd3351a640e4f316dcadbc5e50dfdb4a3798bb74e9485f74585cf0245.svg",
     "coinGeckoId": "akash-network"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/25418646C017D377ADF3202FF1E43590D0DAE3346E594E8D78176A139A928F88",
+    "symbol": "ATOM",
+    "name": "atom",
+    "description": "ATOM is the native cryptocurrency of the Cosmos network, designed to facilitate interoperability between multiple blockchains through its innovative hub-and-spoke model.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
+    "coinGeckoId": "cosmos"
   },
   {
     "type": "ibc",
@@ -891,6 +891,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/DE48323CAF748F4B9603D970431746171B6B617509FEB205B23591683FD44313",
+    "symbol": "ION",
+    "name": "ion",
+    "description": "ION is the second native token of Osmosis.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/783677c916fdd15fd616c45e64d59f1ccfdb8e583ec24a0a1302454aa387603f.svg",
+    "coinGeckoId": "ion"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/E447B958E627798F4292A20801FB7DA2568DBF6023BB6846EF1FDDE4D7CE548B",
     "symbol": "stLUNA",
     "name": "stluna",
@@ -908,16 +918,6 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/bb6679e0de806cc611b2eb98ee19a6d89e8d7ce79b7090b3788724c1d6846a49.svg",
     "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/DE48323CAF748F4B9603D970431746171B6B617509FEB205B23591683FD44313",
-    "symbol": "ION",
-    "name": "ion",
-    "description": "ION is the second native token of Osmosis.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/783677c916fdd15fd616c45e64d59f1ccfdb8e583ec24a0a1302454aa387603f.svg",
-    "coinGeckoId": "ion"
   },
   {
     "type": "ibc",
