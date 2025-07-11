@@ -11,6 +11,17 @@
         "color": "#FF564F"
     },
     {
+        "type": "native",
+        "denom": "akava",
+        "name": "Kava",
+        "symbol": "KAVA",
+        "description": "Kava EVM Fee Coin",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/a46273005a34ab2209dec91202490e01024b231a043ef473bfaa4fc3529f362c.png",
+        "coinGeckoId": "kava",
+        "color": "#FF564F"
+    },
+    {
         "type": "ibc",
         "denom": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
         "name": "Atom",

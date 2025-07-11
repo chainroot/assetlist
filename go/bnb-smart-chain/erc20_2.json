@@ -1285,5 +1285,15 @@
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/3a068b8d3cb5273f14fa045776db283b1d926538734d93573ad2d955e3929e7d.svg",
         "coinGeckoId": "lava-network"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xf486ad071f3bee968384d2e39e2d8af0fcf6fd46",
+        "name": "Velo",
+        "symbol": "VELO",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/a3575a55674f873af2344824a934b7a5168ce51ca5dbff2f150692e441a54504.png",
+        "coinGeckoId": "velo"
     }
 ]

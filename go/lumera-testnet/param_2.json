@@ -1,5 +1,5 @@
 {
-    "chain_id_cosmos" : "lumera-testnet-1",
+    "chain_id_cosmos" : "lumera-testnet-2",
     "chain_name": "Lumera Testnet",
     "chain_image": "https://cdn.chainroot.io/images/tokens/chain_lumera-testnet.png",
     "staking_asset_denom" : "ulume",
@@ -41,6 +41,14 @@
         {
             "provider": "Lumera Protocol",
             "url": "https://lcd.testnet.lumera.io/"
+        },
+        {
+            "provider": "Nodestake",
+            "url": "https://api-t.lumera.nodestake.org/"
+        },
+        {
+            "provider": "Polkachu",
+            "url": "https://lumera-testnet-api.polkachu.com"
         }
     ],
     "explorer" : {

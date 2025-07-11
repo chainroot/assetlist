@@ -11,6 +11,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/C1F31ABD9112C10AEAE61B00EC8C70433B23435AC3BB64ECB4F0073C8079C2A4",
+    "symbol": "PSTAKE",
+    "name": "pstake",
+    "description": "pSTAKE is a liquid staking protocol unlocking the liquidity of staked assets.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/8bbf65220148462b6afa330e19885a952e4e3d46586ef36bdaa7277062515f28.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/43DC13F256D806DF763C36D922349DFE3CB0287B5DA064A64FA0E7B90971494F",
     "symbol": "NYX",
     "name": "nyx",

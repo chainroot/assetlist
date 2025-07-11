@@ -11,6 +11,9 @@
     "api_name" : "hippocrat",
     "is_support_mobile_wallet" : true,
     "is_support_extension_wallet" : true,
+    "chain_type": [
+        "cosmos"
+    ],
     "account_type" : [
         {
             "hd_path": "m/44'/0'/0'/0/X",
@@ -21,7 +24,6 @@
     "cosmos_fee_info" : {
         "base" : "0",
         "rate" : [
-            "4000000000000ahp",
             "5000000000000ahp"
         ],
         "is_simulable" : true,

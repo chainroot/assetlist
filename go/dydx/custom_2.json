@@ -171,16 +171,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/7B84C90C3A70074907DB09A657A4E05CD53A77AD54D333E1E54CD3F5B7F0F209",
-    "symbol": "NTRN",
-    "name": "ntrn",
-    "description": "Neutron is a smart contract blockchain within the Cosmos ecosystem, leveraging the Cosmos Hub's security to provide cross-chain DeFi applications.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/bcc7880c69cc88313d52a96ce2f7e780a98c5e8a5b86e7318667fd5eabe34c4c.svg",
-    "coinGeckoId": "neutron-3"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/8987D810D4122AE7DF743595BEBD4D67AB9265BD19F248E34E4A220BA8EFFEE1",
     "symbol": "COREUM",
     "name": "core",
@@ -188,6 +178,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/e3445a89cd6ce7b1366b464f374aff6ff42f81bc67d08a3cd75f63a951d2cb0c.svg",
     "coinGeckoId": "coreum"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/E901426A5E7A5251282345748F08CA91A3D8F35D074A9FE9B7BBFF7884E1E246",
+    "symbol": "XRP",
+    "name": "xrp",
+    "description": "XRP bridged from XRPL",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/fa2e0fc5aead6e2b42c7f6a8dd35859012b882175ea92867f1a1d566256bd14e.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -241,6 +241,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/7B84C90C3A70074907DB09A657A4E05CD53A77AD54D333E1E54CD3F5B7F0F209",
+    "symbol": "NTRN",
+    "name": "ntrn",
+    "description": "Neutron is a smart contract blockchain within the Cosmos ecosystem, leveraging the Cosmos Hub's security to provide cross-chain DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/bcc7880c69cc88313d52a96ce2f7e780a98c5e8a5b86e7318667fd5eabe34c4c.svg",
+    "coinGeckoId": "neutron-3"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/A29F4287081C476D3C5B6B0681EAE030E5E8FB2E3C0D23E1965BA50F27C7F611",
     "symbol": "USDC",
     "name": "usdc",
@@ -248,16 +258,6 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
     "coinGeckoId": "axlusdc"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/E901426A5E7A5251282345748F08CA91A3D8F35D074A9FE9B7BBFF7884E1E246",
-    "symbol": "XRP",
-    "name": "xrp",
-    "description": "XRP bridged from XRPL",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/fa2e0fc5aead6e2b42c7f6a8dd35859012b882175ea92867f1a1d566256bd14e.svg",
-    "coinGeckoId": ""
   },
   {
     "type": "ibc",

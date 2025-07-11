@@ -6,8 +6,236 @@
         "symbol": "BZE",
         "description": "BeeZee Staking Coin",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/91c23a8daed58c80046d8c407405fe4c4ab2cb39dcdbacf4c87cbeda6663efc3.png",
+        "image": "https://cdn.chainroot.io/images/tokens/f2a2fc7403990360f5ee68aef536ad6596b8ada31678093e2a7cf0d9e4cab212.png",
         "coinGeckoId": "bzedge",
         "color": "#079fd7"
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
+        "name" : "Osmosis",
+        "symbol": "OSMO",
+        "description": "Osmosis Staking Coin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/7eec0e7b17cfe55e8fdfd8138458d26c83298dc2a12f85f9261af2a5fd9b3f46.png",
+        "coinGeckoId": "osmosis",
+        "ibc_info" : {
+            "path": "osmosis>beezee",
+            "client" : {
+                "channel": "channel-0",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-340",
+                "port": "transfer",
+                "chain": "osmosis",
+                "denom": "uosmo"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/08EAEAB525E59C611D5BD8FAC4BE65DF65A69E62874377F6889BBD01A33F385F",
+        "name": "Spice",
+        "symbol": "SPICE",
+        "description": "The Spice memecoin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/2465aa073c27909c6a7cec4fff3d4d4eec4ff075af940c2f15f6f43da6a0221b.png",
+        "coinGeckoId": "spice-2",
+        "ibc_info" : {
+            "path": "osmosis>beezee",
+            "client" : {
+                "channel": "channel-0",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-340",
+                "port": "transfer",
+                "chain": "osmosis",
+                "denom": "factory/osmo1n6asrjy9754q8y9jsxqf557zmsv3s3xa5m9eg5/uspice"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/02EE50AB3A4B7540FA001B24CB75E688016F65547CABE885EA184338440080B2",
+        "name": "Sherpa",
+        "symbol": "SHERPA",
+        "description": "The Sherpa memecoin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/b4cdd48718528085d50b67aec3ee9e80d66cc3033d7234d798ad57c06b56e06f.png",
+        "coinGeckoId": "",
+        "ibc_info" : {
+            "path": "osmosis>beezee",
+            "client" : {
+                "channel": "channel-0",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-340",
+                "port": "transfer",
+                "chain": "osmosis",
+                "denom": "factory/osmo1n6asrjy9754q8y9jsxqf557zmsv3s3xa5m9eg5/usherpa"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/12C0B8B561AFCFDA3C73DEE0F7F84AA2B860D48493C27E8E81A5D14724FAB08B",
+        "name": "POSTHUMAN",
+        "symbol": "PHMN",
+        "description": "The native token cw20 for PHMN on Juno Chain",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/38930be195cdc6d064b6504bd149036bbad8fc264c564e209558775cf15b310e.svg",
+        "color": "#bbc2c6",
+        "coinGeckoId": "posthuman",
+        "ibc_info": {
+            "path": "juno>osmosis>beezee",
+            "client": {
+                "channel": "channel-0",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-340",
+                "port": "transfer",
+                "chain": "osmosis",
+                "denom": "ibc/D3B574938631B0A1BA704879020C696E514CFADAA7643CDE4BD5EB010BDE327B"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/C00D101A3572A5374E23F11944463D1325319E255D7C824B33AF2F927F532348",
+        "name": "Archway",
+        "symbol": "ARCH",
+        "description": "The native token of Archway network",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/07971aee03539b97e171dabdbc8a9974e849917dc4c1f667630c33088ec83497.svg",
+        "color": "#fc4c04",
+        "coinGeckoId": "archway",
+        "ibc_info": {
+            "path": "archway>beezee",
+            "client": {
+                "channel": "channel-2",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-147",
+                "port": "transfer",
+                "chain": "archway",
+                "denom": "aarch"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/6490A7EAB61059BFC1CDDEB05917DD70BDF3A611654162A1A47DB930D40D8AF4",
+        "name": "USDC",
+        "symbol": "USDC",
+        "description": "USDC is a fully collateralized US Dollar stablecoin developed by CENTRE, the open source project with Circle being the first of several forthcoming issuers.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "color": "#2775CA",
+        "coinGeckoId": "usd-coin",
+        "ibc_info": {
+            "path": "noble>beezee",
+            "client": {
+                "channel": "channel-3",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-95",
+                "port": "transfer",
+                "chain": "noble",
+                "denom": "uusdc"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/4AA3B163580B4377250CD4486FB6AD098EB27822EE056949EC4A39B09C5E3B4E",
+        "name": "Jackal",
+        "symbol": "JKL",
+        "description": "The native staking and governance token of Jackal.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/364fdc69d1f99fe3b4e14c13549e375b28b2a9d8541f03f206147c1d5e14f750.png",
+        "color": "#dbdbcb",
+        "coinGeckoId": "jackal-protocol",
+        "ibc_info": {
+            "path": "jackal>beezee",
+            "client": {
+                "channel": "channel-4",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-142",
+                "port": "transfer",
+                "chain": "jackal",
+                "denom": "ujkl"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/B2219CA05421EA988F83E5E824BF69362E80A6A87503EFD18B92C91C9E03763D",
+        "name": "AtomOne",
+        "symbol": "ATONE",
+        "description": "The native staking and governance token of AtomOne",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/atone.png",
+        "coinGeckoId": "atomone",
+        "ibc_info": {
+            "path": "atomone>beezee",
+            "client": {
+                "channel": "channel-6",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-1",
+                "port": "transfer",
+                "chain": "atomone",
+                "denom": "uatone"
+            }
+        }
+    },
+    {
+        "type": "native",
+        "denom": "factory/bze13gzq40che93tgfm9kzmkpjamah5nj0j73pyhqk/uvdl",
+        "name": "Vidulum",
+        "symbol": "VDL",
+        "description": "Vidulum App Token",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/24e165c08e658fb48901ce3da7b11a5c0ea8cdd9c40e39caf4d88522f6153ca5.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "factory/bze15pqjgk4la0mfphwddce00d05n3th3u66n3ptcv/2MARS",
+        "name": "Crypto2Mars",
+        "symbol": "C2M",
+        "description": "Crypto2Mars Community Token",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/97bc94050b59d608b0827a7cd27419eab7798d142d5863da2742a73c39140e03.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "factory/bze12gyp30f29zg26nuqrwdhl26ej4q066pt572fhm/GGE",
+        "name": "GGE",
+        "symbol": "GGE",
+        "description": "GEEGEE (GGE) on Cosmos is a community driven meme coin. Sharing knowledge and create visibility. How strong can we be? ☀\uFE0F",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/e7d7160598dea4b6cd33a842dce89e6b5062aec34574a17a636b1470501b18ce.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "factory/bze1972aqfzdg29ugjln74edx0xvcg4ehvysjptk77/CTL",
+        "name": "CryptoTrtl",
+        "symbol": "CTL",
+        "description": "$CryptoTrtl is fun, join us on Telegram.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/a62ce271a1aa69f7a13ce192a32c87cb99b7275ff6ee6d70c4e23a6caf7df574.png",
+        "coinGeckoId": ""
     }
 ]

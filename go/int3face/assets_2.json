@@ -16,7 +16,7 @@
         "symbol": "BTC",
         "description": "Bitcoin on Int3face.",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/int3btc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/7f690fce16959b025cc98e42eeae99f8343b2db9bf9326e2984dcae384a2b9e1.png",
         "coinGeckoId": ""
     },
     {
@@ -26,7 +26,7 @@
         "symbol": "BCH",
         "description": "Bitcoin-Cash on Int3face.",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/int3bch.png",
+        "image": "https://cdn.chainroot.io/images/tokens/3c010121054447c875005f025f355ce565883b12a5a4fce0b2f56f00a04230b1.png",
         "coinGeckoId": ""
     },
     {
@@ -36,7 +36,7 @@
         "symbol": "DOGE",
         "description": "Dogecoin on Int3face.",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/int3doge.png",
+        "image": "https://cdn.chainroot.io/images/tokens/0eb7388242e00b2c9c9ceac99977462d97fe0445237e60058acc4e8ccf637d7b.png",
         "coinGeckoId": ""
     },
     {
@@ -46,7 +46,7 @@
         "symbol": "LTC",
         "description": "Litecoin on Int3face.",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/int3ltc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/d0dc78b84956edeca8e5676f001bfdd07186c685e0ee672c1679fe730bfceb91.png",
         "coinGeckoId": ""
     },
     {
@@ -56,7 +56,7 @@
         "symbol": "TON",
         "description": "TON on Int3face.",
         "decimals": 9,
-        "image": "https://cdn.chainroot.io/images/tokens/int3ton.png",
+        "image": "https://cdn.chainroot.io/images/tokens/57d92aeaabfcc98e50ec4ecd707a1159e1126437172d3aa5090353fe8dd1876a.png",
         "coinGeckoId": ""
     }
 ]

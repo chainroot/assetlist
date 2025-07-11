@@ -1,5 +1,5 @@
 {
-    "chain_id_cosmos" : "portal-loop",
+    "chain_id_cosmos" : "staging",
     "chain_name": "GNO Testnet",
     "chain_image": "https://cdn.chainroot.io/images/tokens/chain_gno-testnet.png",
     "staking_asset_denom" : "ugnot",
@@ -15,13 +15,13 @@
     "is_support_extension_wallet" : true,
     "is_support_moblie_dapp": true,
     "chain_type": [
-        "cosmos"
+        "gno"
     ],
     "account_type" : [
         {
             "hd_path": "m/44'/118'/0'/0/X",
             "pubkey_style": "secp256k1",
-            "pubkey_type": "/cosmos.crypto.secp256k1.PubKey"
+            "pubkey_type": "/tm.PubKeySecp256k1"
         }
     ],
     "cosmos_fee_info" : {
@@ -32,8 +32,8 @@
             "0.004ugnot"
         ],
         "is_simulable" : true,
-        "simulated_gas_multiply" : 1.2,
-        "simulated_gas_adjustment" : 1.6,
+        "simulated_gas_multiply" : 2,
+        "simulated_gas_adjustment" : 2.4,
         "init_gas_limit" : 100000,
         "fee_threshold" : ""
     },
@@ -50,7 +50,7 @@
     "explorer" : {
         "name": "Gnoscan",
         "url": "https://gnoscan.io/",
-        "account": "https://gnoscan.io/accounts/${address}",
+        "account": "https://gnoscan.io/account/${address}",
         "tx": "https://gnoscan.io/transactions/details?txhash=${hash}",
         "proposal": ""
     },

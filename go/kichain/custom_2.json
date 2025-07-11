@@ -11,6 +11,86 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/E1E3674A0E4E1EF9C69646F9AF8D9497173821826074622D831BAB73CCB99A2D",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/9B31C362FE43914937F01ADEC0BD7788B55B5A1B56EE639DDE0A916FD2DB7017",
+    "symbol": "XKI",
+    "name": "xki",
+    "description": "The native token of Ki Chain",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/c4dfce6153eeedecbb738d7b1a738ff57262be190c98930fc383601fa66ab038.svg",
+    "coinGeckoId": "ki"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/A3302E2CD72D519D47B613273B07B33C4E54D55D650E7F5875031AC6532C2431",
+    "symbol": "LVN",
+    "name": "lvn",
+    "description": "ELEVENPARIS loyalty token on KiChain",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/b00fd61cbe0611764779094e972d9d010be855d9090178b2f98745367ae75949.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/29F179E964E3171DB3507A72C5EC0F0C41D52011A4558F4EF82DE08E40FA6CAE",
+    "symbol": "APOLLO",
+    "name": "apollo",
+    "description": "The deflationary utility token of the Apollo DAO project",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/ee16eb8012b0b445279b3f471d1ac999f3635243e970439d16a57fec183eca0d.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/4DE2B38E2E2F84CD4A8E86DE954B6093BDB3A83477271083C1D4CB0A464C62F7",
+    "symbol": "AXL",
+    "name": "axl",
+    "description": "Axelar is a decentralized interoperability network connecting multiple blockchain ecosystems, enabling seamless cross-chain communication and value transfer.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
+    "coinGeckoId": "axelar"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/CACFB6FEEC434B66254E2E27B2ABAD991171212EC8F67C566024D90490B7A079",
+    "symbol": "STRD",
+    "name": "strd",
+    "description": "Stride is a liquid staking blockchain in the Cosmos ecosystem that allows users to stake any IBC-compatible tokens and receive stTokens in return, providing liquidity while earning staking rewards.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/ec24ec10d44cf36ec24232f5dbb19ad5b61d1972098888b01291b63c1c66722e.svg",
+    "coinGeckoId": "stride"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/E3B72C5B59E2E0D7F97B4BDF930EF4D60C6365788D6AA35404AE3DC714B755C7",
+    "symbol": "STRD",
+    "name": "strd",
+    "description": "Stride is a liquid staking blockchain in the Cosmos ecosystem that allows users to stake any IBC-compatible tokens and receive stTokens in return, providing liquidity while earning staking rewards.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/ec24ec10d44cf36ec24232f5dbb19ad5b61d1972098888b01291b63c1c66722e.svg",
+    "coinGeckoId": "stride"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/DF8D00B4B31B55AFCA9BAF192BC36C67AA06D9987DCB96490661BCAB63C27006",
+    "symbol": "JUNO",
+    "name": "juno",
+    "description": "The native token of JUNO Chain",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/79f9def0d7428ed8b761a7c42dc5f7a3492367f014258935d72cbbe2d813a552.svg",
+    "coinGeckoId": "juno-network"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/4BBC1CE2DC703F5F751981CE17DFF1E567FED58918D2648E273EC8740672C477",
     "symbol": "EVMOS",
     "name": "evmos",
@@ -18,5 +98,55 @@
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/8fd37bed9ab943bf6d2114ddae7f4a42b91cdebc269406c7f6acfb4fd1885e05.svg",
     "coinGeckoId": "evmos"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/C59EE04334EDA643DE949CE90887DD243242D0276BCD4FC255C72FDB24336A12",
+    "symbol": "FLIX",
+    "name": "flix",
+    "description": "OmniFlix is a decentralized media platform that enables content creators to distribute, monetize, and manage their digital content using blockchain technology.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/5b1f270194315b91c0282ed58501cf2f454756d248fe1f8e4f1c48d20e3edafa.svg",
+    "coinGeckoId": "omniflix-network"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/F7E92EE59B5428793F3EF5C1A4CB2494F61A9D0C9A69469D02390714A1372E16",
+    "symbol": "ION",
+    "name": "ion",
+    "description": "ION is the second native token of Osmosis.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/783677c916fdd15fd616c45e64d59f1ccfdb8e583ec24a0a1302454aa387603f.svg",
+    "coinGeckoId": "ion"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/2F1447818CF99498AE62D9FB4D5E0C9FD48C68FC118C34D2ECFFFED0AD082196",
+    "symbol": "GRAV",
+    "name": "graviton",
+    "description": "The native token of Gravity Bridge",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/80113d9226d07b7d5f24a7b6f569d4971cdfed9481d0b80d4121b8c3bd7e0a8b.svg",
+    "coinGeckoId": "graviton"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/312F13C9A9ECCE611FE8112B5ABCF0A14DE2C3937E38DEBF6B73F2534A83464E",
+    "symbol": "USTC",
+    "name": "ust",
+    "description": "The USD stablecoin of Terra Classic.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/bbf7ad631fa51027777b71c54feda0517f9f112a5f42edad9c584fb9724561cb.svg",
+    "coinGeckoId": "terrausd"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/07B2E81EEB8FBC2F04ABE95B2909EBC8D0E16690BB8F4BB1FF22C8D14F67FD22",
+    "symbol": "HOPE",
+    "name": "hope",
+    "description": "Hope Galaxy is an NFT collection based on its own native Token $HOPE, a cw20 token on Juno chain.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/bdea5893944a072d5fac3eedea17c6fe3e4272ae1bd3a7e8abf79d357bc61645.svg",
+    "coinGeckoId": ""
   }
 ]
