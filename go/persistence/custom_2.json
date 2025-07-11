@@ -761,16 +761,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/4DAE26570FD24ABA40E2BE4137E39D946C78B00B248D3F78B0919567C4371156",
-    "symbol": "AKT",
-    "name": "akt",
-    "description": "Akash Network is a decentralized cloud computing marketplace that connects users with unused computing resources, offering a cost-effective alternative to traditional cloud providers.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/33d728dfd3351a640e4f316dcadbc5e50dfdb4a3798bb74e9485f74585cf0245.svg",
-    "coinGeckoId": "akash-network"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/5EE208F7E517628F9C9D39FEF394526BD1BF9367C7E81913A87449990104CFA3",
     "symbol": "KUJI",
     "name": "kuji",
@@ -778,6 +768,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/9b4df5623b76ae925d1947e3d154d0f88fb1d194ff62673d6af8bc0a77e6a71a.svg",
     "coinGeckoId": "kujira"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/4DAE26570FD24ABA40E2BE4137E39D946C78B00B248D3F78B0919567C4371156",
+    "symbol": "AKT",
+    "name": "akt",
+    "description": "Akash Network is a decentralized cloud computing marketplace that connects users with unused computing resources, offering a cost-effective alternative to traditional cloud providers.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/33d728dfd3351a640e4f316dcadbc5e50dfdb4a3798bb74e9485f74585cf0245.svg",
+    "coinGeckoId": "akash-network"
   },
   {
     "type": "ibc",

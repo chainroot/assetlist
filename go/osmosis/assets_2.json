@@ -239,7 +239,7 @@
         "symbol": "POL",
         "description": "Polygon (formerly Matic) Network brings massive scale to Ethereum using an adapted version of Plasma with PoS based side chains. Polygon is a well-structured, easy-to-use platform for Ethereum scaling and infrastructure development.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/0e5646ce3cc88893a182b90a71d7a852cf1023f95f85ecde7bcf67b320d1b388.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/80ff4b6815a4fc627a865ab1601203a81c29ee3786474b45cadeb9e38eb9b69b.png",
         "color": "#8444e4",
         "coinGeckoId": "matic-network",
         "ibc_info": {
@@ -287,7 +287,7 @@
         "symbol": "LUNC",
         "description": "The native staking token of Terra Classic.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/lunc.png",
         "color": "#fcdb5b",
         "coinGeckoId": "terra-luna",
         "ibc_info": {
@@ -524,7 +524,7 @@
         "symbol": "PSTAKE",
         "description": "pSTAKE is a liquid staking protocol unlocking the liquidity of staked assets. Stakers of PoS tokens can stake their assets while maintaining the liquidity of these assets. Users earn staking rewards + receive 1:1 pegged staked representative tokens which can be used to generate additional yield.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/8bbf65220148462b6afa330e19885a952e4e3d46586ef36bdaa7277062515f28.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/4522889c57af157502a8ad0e5d3fca1dbd781884a0c526f1d8f71656ae743ec1.png",
         "color": "#050505",
         "coinGeckoId": "pstake-finance",
         "ibc_info": {
@@ -620,7 +620,7 @@
         "symbol": "IRIS",
         "description": "The IRIS token is the native governance token for the IrisNet chain.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/1595a34d03a89ceaaa0d00e2c31d143b92b9b6e38f3962b9459241c8c6eb7f8d.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/iris.png",
         "color": "#5664ad",
         "coinGeckoId": "iris-network",
         "ibc_info": {
@@ -644,7 +644,7 @@
         "symbol": "IOV",
         "description": "IOV coin is the token for the Starname (IOV) Asset Name Service",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/bf4a447c9e5e21ecef013a595cba3170b57c4877eaf3a60674e5ab1b3064740b.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/iov.png",
         "color": "#5c64b4",
         "coinGeckoId": "starname",
         "ibc_info": {
@@ -668,7 +668,7 @@
         "symbol": "NGM",
         "description": "e-Money NGM staking token. In addition to earning staking rewards the token is bought back and burned based on e-Money stablecoin inflation.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/c2b6682fe42bb4fb3ca7eb401f232650d32a8f9e833622fab0d32a91dd98abc3.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/ngm.png",
         "color": "#caf2ea",
         "coinGeckoId": "e-money",
         "ibc_info": {
@@ -716,7 +716,7 @@
         "symbol": "LIKE",
         "description": "LIKE is the native staking and governance token of LikeCoin chain, a Decentralized Publishing Infrastructure to empower content ownership, authenticity, and provenance.",
         "decimals": 9,
-        "image": "https://cdn.chainroot.io/images/tokens/9222dd1132ccc575acfcf63fc483d7a48ea78a1592c1ba827d10837c38c891bb.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/1134ba0324985dcd58075510bcf7651f81823272a159caafc27aa2d599308c93.png",
         "color": "#2d656c",
         "coinGeckoId": "likecoin",
         "ibc_info": {
@@ -764,7 +764,7 @@
         "symbol": "BCNA",
         "description": "The BCNA coin is the transactional token within the BitCanna network, serving the legal cannabis industry through its payment network, supply chain and trust network.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/0c27ec7518cf9e6d21b6da9662283edef9870cf57f456f9749b06a4f4ddf43ce.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/16fed07ceed8b0a1e7422fe4ea08e6bc53ea46fd5b57fd9ece897c24c51024be.png",
         "color": "#3cc494",
         "coinGeckoId": "bitcanna",
         "ibc_info": {
@@ -788,7 +788,7 @@
         "symbol": "BTSG",
         "description": "BitSong Native Token",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/1dc938038b71c5f1a85de37216ba7471ea9ac6be735980308d4b0def67ffd18b.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/43fd0fe35864c835cd7f663a0fcbd283559f5207d07d8fe758b0c93b400bb016.png",
         "color": "#c8307f",
         "coinGeckoId": "bitsong",
         "ibc_info": {
@@ -812,7 +812,7 @@
         "symbol": "XKI",
         "description": "The native token of Ki Chain",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/c4dfce6153eeedecbb738d7b1a738ff57262be190c98930fc383601fa66ab038.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/xki.png",
         "color": "#1c04fc",
         "coinGeckoId": "ki",
         "ibc_info": {
@@ -860,7 +860,7 @@
         "symbol": "BOOT",
         "description": "The staking token of Bostrom",
         "decimals": 0,
-        "image": "https://cdn.chainroot.io/images/tokens/9ae9d236f9612ebf72828cf90e5b51b9b993cdab6bd04e72762cc121eddcc871.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/fdd3f5f010ecda24f836cd506fb85438f8712be00ba3cc155c565f75d11d8010.png",
         "color": "#4cea4e",
         "coinGeckoId": "bostrom",
         "ibc_info": {
@@ -884,7 +884,7 @@
         "symbol": "CMDX",
         "description": "Native Token of Comdex Protocol",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/18ef9a7a59ab88889f56c3723f72a35db05f8bc967c41f08ff64cd3ecdbe3818.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/38f6d3460645bbe40f5b5cd1c75141c2699fd323e977c65fd65a46f744a943e5.png",
         "color": "#fc4454",
         "coinGeckoId": "comdex",
         "ibc_info": {
@@ -908,7 +908,7 @@
         "symbol": "CHEQ",
         "description": "Native token for the cheqd network",
         "decimals": 9,
-        "image": "https://cdn.chainroot.io/images/tokens/ece9c4725f69f60677cbdcd7305096f4137980233cb4eee9bf575e4d1bad8271.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/1281f6bf1be9d3a38a7d07a874e1f337250da297300ee7859f59d20176ab4ba5.png",
         "color": "#fc5f04",
         "coinGeckoId": "cheqd-network",
         "ibc_info": {
@@ -932,7 +932,7 @@
         "symbol": "LUM",
         "description": "Native token of the Lum Network",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/b83db90d9c0385944824acdf459feff0de88d7eeefa09a169a51c7898d02cb51.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/lum.png",
         "color": "#080808",
         "coinGeckoId": "lum-network",
         "ibc_info": {
@@ -980,7 +980,7 @@
         "symbol": "DSM",
         "description": "The native token of Desmos",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/3c20c4c4a6a01c6e2aa54d33af416d6875f671d56c438abc07705cf9ce43c5d2.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/45597d73feeaac017cbc50a3c2b95a6bea98d26769dd5cf070bb14b9b089a3a9.png",
         "color": "#fb804e",
         "coinGeckoId": "desmos",
         "ibc_info": {
@@ -1027,7 +1027,7 @@
         "symbol": "SOMM",
         "description": "Somm Token (SOMM) is the native staking token of the Sommelier Chain",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/4c5f41c1d09e29aaf50ed10f7f7ff2cce2d2e0db2ccf95eef8c7f0379136970b.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/53e50f807a6a19470ddb608f07d5017c3a137f72d11f8d26be667c018125bcbc.png",
         "color": "#f36353",
         "coinGeckoId": "sommelier",
         "ibc_info": {
@@ -1099,7 +1099,7 @@
         "symbol": "UMEE",
         "description": "The native token of Umee",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/9d5325ca8b382d8836719bb3889fd12729e3e2855edf892245b7e6e27679a40a.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/89526384ab0c3ed299b470c409cc5c57a407a42dc9b58f1afbfbafc70b328c7c.png",
         "color": "#22f2e9",
         "coinGeckoId": "umee",
         "ibc_info": {
@@ -1123,7 +1123,7 @@
         "symbol": "GRAV",
         "description": "The native token of Gravity Bridge",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/80113d9226d07b7d5f24a7b6f569d4971cdfed9481d0b80d4121b8c3bd7e0a8b.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/grav.png",
         "color": "#042ca4",
         "coinGeckoId": "graviton",
         "ibc_info": {
@@ -1194,7 +1194,7 @@
         "symbol": "SWTH",
         "description": "The native governance token of Carbon",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/9772f246b16fb294e55abae93bc5994b37b1f662fbda84fe6a6c87db3cc866f2.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/ff4f82537e818645416c088b7c5cb119071a71985cf0033325adc1ef3626a1da.png",
         "color": "#a5edf2",
         "coinGeckoId": "switcheo",
         "ibc_info": {
@@ -1265,7 +1265,7 @@
         "symbol": "MNTL",
         "description": "The native token of Asset Mantle",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/4658b05dcc839c7219f22d80ebf51c6af889c2b4cf44d9d089284053332e75ef.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/mntl.png",
         "color": "#fbab30",
         "coinGeckoId": "assetmantle",
         "ibc_info": {
@@ -1407,7 +1407,7 @@
         "symbol": "CTK",
         "description": "The native token of Shentu",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/dc6d2bcca6e175ed4aaf7b5ee8c85196a5237b3f6ed54000775c02f88586fc3c.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/0d199c3ad47a4a5725d567fb3994181caeb401e442e7b38900e930df614464e1.png",
         "color": "#e4ac4c",
         "coinGeckoId": "certik",
         "ibc_info": {
@@ -1635,8 +1635,9 @@
         "symbol": "HASH",
         "description": "Hash is the staking token of the Provenance Blockchain",
         "decimals": 9,
-        "image": "https://cdn.chainroot.io/images/tokens/63060f207f48da963d14687df6ec17f0593d6da8375c458ddaa2551e5379021f.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/hash.png",
         "color": "#4c7cdc",
+        "coinGeckoId": "hash-2",
         "ibc_info": {
             "path": "provenance>osmosis",
             "client": {
@@ -1797,7 +1798,7 @@
         "symbol": "LUNA",
         "description": "The native staking token of Terra.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/e9b2ba522f4052fc09d62dc740dd39168a625c73450fe285b9f97d671e2673c3.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/303d5b8f8c3f24d5afd1a74714674fac9655c72071ac1ddc515e4f4e65b5f312.png",
         "color": "#f4de6f",
         "coinGeckoId": "terra-luna-2",
         "ibc_info": {
@@ -1821,7 +1822,7 @@
         "symbol": "ATOLO",
         "description": "Native token of Rizon Chain",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/fee6c52e482d0c2c93aabb414eaaeaa1047e9d2c10b0ba8089a9c9c5aca27f91.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/atolo.png",
         "color": "#2b1c54",
         "coinGeckoId": "rizon",
         "ibc_info": {
@@ -2076,7 +2077,7 @@
         "symbol": "TGD",
         "description": "The native token of Tgrade",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/9a810ef7b2ece2a5aa923dfbd8931c5fa4b5b61f12773e1ae674beb5ea44edc4.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/tgd.png",
         "color": "#a7248a",
         "ibc_info": {
             "path": "tgrade>osmosis",
@@ -2329,7 +2330,7 @@
         "symbol": "ORAI",
         "description": "The native token of Oraichain",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/ff913efb2de379706a5bdf2732e70f06b9a7c18ba7fa59b0991465eb04067184.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/orai.png",
         "color": "#000000",
         "coinGeckoId": "oraichain-token",
         "ibc_info": {
@@ -2353,7 +2354,7 @@
         "symbol": "CUDOS",
         "description": "The native token of the Cudos blockchain",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/7ff9dc7a75cc56ddee56207642a693a497092ad304044255ed7324b9ffc5d1df.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/cudos.png",
         "color": "#5d95ec",
         "coinGeckoId": "cudos",
         "ibc_info": {
@@ -2541,7 +2542,7 @@
         "name": "Stride Staked STARS",
         "symbol": "stSTARS",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/7a59cd844186f83aa4d9304b02958f964b7b2a1d616fd269db395dd98815740a.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/5d1484041bfb217158f6602a0a1756b6da4fea399d5d6e4847111c040eeeb9a0.png",
         "color": "#e40474",
         "coinGeckoId": "stride-staked-stars",
         "ibc_info": {
@@ -2659,7 +2660,7 @@
         "symbol": "TORI",
         "description": "The native token of Teritori",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/c3cf8ec94066b351498e89287bb80944c61e8da21ef5d83042cfa1da45c916c5.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/tori.png",
         "color": "#040404",
         "coinGeckoId": "teritori",
         "ibc_info": {
@@ -2682,7 +2683,7 @@
         "name": "Stride Staked JUNO",
         "symbol": "stJUNO",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/553e200543ab8c9fe84dd9f1bc86fc0fe075eb14ff4254f71d49fa3a56bd37cb.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/4880a340651ffa201420cc7b436f1796f45f7a1a47eeed92e38a592d9b28d58b.png",
         "color": "#e40474",
         "coinGeckoId": "stride-staked-juno",
         "ibc_info": {
@@ -2752,7 +2753,7 @@
         "symbol": "LAMB",
         "description": "The native token of Lambda",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/87d6ada168dc1588f0d7af50939663521eee332c726cbfbcceadd6060340496a.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/lamb.png",
         "color": "#e41c54",
         "coinGeckoId": "lambda",
         "ibc_info": {
@@ -2800,7 +2801,7 @@
         "symbol": "FUND",
         "description": "Staking and governance coin for the Unification Blockchain",
         "decimals": 9,
-        "image": "https://cdn.chainroot.io/images/tokens/8530e50d5e7f3ada5ed305032b315c471c5d6e4c5bb2ab7967dc749eae5e69ac.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/3b3c9fbd7692a1fd3ebad6294e9e3482af6dc213bfb4f10f09d3e30bda5346ce.png",
         "color": "#2279c0",
         "coinGeckoId": "unification",
         "ibc_info": {
@@ -2965,7 +2966,7 @@
         "symbol": "BZE",
         "description": "BeeZee native blockchain",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/a4d074e89a7ef61d23858832c59d6a4b817b889bf8899e097465cc429ec18769.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/f2a2fc7403990360f5ee68aef536ad6596b8ada31678093e2a7cf0d9e4cab212.png",
         "color": "#079fd7",
         "coinGeckoId": "bzedge",
         "ibc_info": {
@@ -3152,7 +3153,7 @@
         "symbol": "NOM",
         "description": "The native token of Onomy Protocol",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/6a875e238b3ac2b57c22f5b35df99571b887f3b8e36729dd7f50dd80b40fa409.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/nom.png",
         "color": "#1c1c28",
         "coinGeckoId": "onomy-protocol",
         "ibc_info": {
@@ -3269,7 +3270,7 @@
         "symbol": "PLQ",
         "description": "The native EVM, governance and staking token of the Planq Network",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/d97a6ddd52b84a2a5b37d0b99ac4190f268662fe60567f797a5cf7dc23b93236.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/a18c2a8033504f6f0ac6c4140377387b7c6d00d6131168624265508ea2eea11e.png",
         "color": "#d4f3fb",
         "coinGeckoId": "planq",
         "ibc_info": {
@@ -3317,7 +3318,7 @@
         "symbol": "CANTO",
         "description": "Canto is a Layer-1 blockchain built to deliver on the promise of DeFi",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/8853d3a5ec2c5578d576e8bfcd9313796e900907b554cd72ab28e3b96ea36b22.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/d7eeb39c1a2e82010063d8b306bb98db3f01df3b2651c661946d608ec1389501.png",
         "color": "#1c1f1f",
         "coinGeckoId": "canto",
         "ibc_info": {
@@ -3431,7 +3432,7 @@
         "symbol": "MARS.mars",
         "description": "Mars Protocol token (pre-migration)",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/2d857a5e2b35745b028f5c4cd9d5a3bd9dff79e86f63ca9b84fed1d88e409208.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/mars.png",
         "color": "#000000",
         "coinGeckoId": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
         "ibc_info": {
@@ -3499,7 +3500,7 @@
         "name": "Stride Staked EVMOS",
         "symbol": "stEVMOS",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/aacc69b3c0c44324cf6fea93ce70451b21974d1461ebf478d2cac6ff47853525.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/stevmos.png",
         "color": "#e40474",
         "ibc_info": {
             "path": "stride>osmosis",
@@ -3660,7 +3661,7 @@
         "symbol": "QCK",
         "description": "QCK - native token of Quicksilver",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/f87699fa8000635dee47c4014c153040dd1f107d74277ecbd3da317e71828fcc.png",
+        "image": "https://cdn.chainroot.io/images/tokens/40e30cd7dd9092241a5115de37dd15ab3d9179c390be193d5b456c4c83e6a71d.png",
         "color": "#b2b2b2",
         "coinGeckoId": "quicksilver",
         "ibc_info": {
@@ -3753,7 +3754,7 @@
         "symbol": "WHALE",
         "description": "The native token of Migaloo Chain",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/516ed75052338f9ed271f0b26f6090dfa1ed4acb81067b03b45c97222853a3da.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/whitewhale.png",
         "color": "#1c1c1c",
         "coinGeckoId": "white-whale",
         "ibc_info": {
@@ -4526,7 +4527,7 @@
         "name": "Stride Staked UMEE",
         "symbol": "stUMEE",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/31b803329c10e28b92f3160d420f19812518dd61e3e9ff8aec53d8c16a2dfcaf.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/4fe6248080aff0beb063b11143e6174be7459bf567c32c4907e3ca537d0ca709.png",
         "color": "#fbd9e9",
         "coinGeckoId": "stride-staked-umee",
         "ibc_info": {
@@ -4559,7 +4560,7 @@
         "symbol": "NLS",
         "description": "The native token of Nolus chain",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/61f70f34cad8d9fc74d070921a6178711b259d9209a50291bb6d57b515061f0f.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/bc2d74354c55df4484eedb9d982d94609a692ea686a3c9ec2008cfd21a1ce4cc.png",
         "color": "#fc542c",
         "coinGeckoId": "nolus",
         "ibc_info": {
@@ -4744,7 +4745,7 @@
         "symbol": "QSR.legacy",
         "description": "The native token of Quasar",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/2d11c13721d55338630da1b2da43e170091846ee213fe204aad8251e108c8bdd.png",
+        "image": "https://cdn.chainroot.io/images/tokens/qsr.png",
         "color": "#a493e4",
         "ibc_info": {
             "path": "quasar>osmosis",
@@ -4767,7 +4768,7 @@
         "symbol": "ARCH",
         "description": "The native token of Archway network",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/07971aee03539b97e171dabdbc8a9974e849917dc4c1f667630c33088ec83497.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/5ed385776a5767175c4ac5bbbc441a2fa03e34632bcf72eb419b7c7ddded009d.png",
         "color": "#fc4c04",
         "coinGeckoId": "archway",
         "ibc_info": {
@@ -4837,7 +4838,7 @@
         "symbol": "KYVE",
         "description": "The native utility token of the KYVE network.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/e621ad8b176327af5721e968d72998528ae59ca286b4bcee85e7b15b0a3815ab.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/70b3f0e65d4f6a4826fc113920ec23006636cd928b4a0fa81bdb4feadd046244.png",
         "color": "#335350",
         "coinGeckoId": "kyve-network",
         "ibc_info": {
@@ -4942,7 +4943,7 @@
         "symbol": "PASG",
         "description": "The native staking and governance token of the Passage chain.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/fc4bfac4b7d840086fe05233855f45b663fe1c4c4338af0fcebd8b311545d51b.png",
+        "image": "https://cdn.chainroot.io/images/tokens/29e561d2b023eb11fae3427f7962b3a2f1992bc1daced62b28103c0915a23afa.png",
         "color": "#05050c",
         "coinGeckoId": "passage",
         "ibc_info": {
@@ -4965,7 +4966,7 @@
         "name": "Stride Staked SOMM",
         "symbol": "stSOMM",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/265c0b7e39f1d7af99dbd1287750d2c6b9c352bc5687ea816e185b11e72c136b.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/7eef5ccb8091ca27e16bdb6e05dd3db0b054d9afa235425e6c46d0a6743bcb73.png",
         "color": "#e40474",
         "coinGeckoId": "stride-staked-sommelier",
         "ibc_info": {
@@ -5240,7 +5241,7 @@
         "symbol": "XPLA",
         "description": "The native staking token of XPLA.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/603e05e34fd0e44dabf00aed478a1232b02ae9d51004aea99b63dda74cd9952c.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/44ba70fdf0ca9544b2f2333f93e18499dc8015ef4db620c8e273baed3abdab9a.png",
         "color": "#04b4fc",
         "coinGeckoId": "xpla",
         "ibc_info": {
@@ -5310,7 +5311,7 @@
         "symbol": "RIO",
         "description": "The native currency of the Realio Network.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/de05ffa48a2b5733683ce78da4c08f8815043277402826004913c75e823cbe53.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/1b4522c2a7769a317527d935d24e7922926cdf1149911a7f439234999e659ece.png",
         "color": "#000000",
         "coinGeckoId": "realio-network",
         "ibc_info": {
@@ -5446,7 +5447,7 @@
         "symbol": "DORA",
         "description": "The native staking and governance token of the Theta testnet version of the Dora Vota.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/ae2fd8599600585d1feb8a94482153935469d63c8559404b52e447a741dc1094.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/dora.png",
         "ibc_info": {
             "path": "doravota>osmosis",
             "client": {
@@ -5820,7 +5821,7 @@
         "symbol": "SOURCE",
         "description": "The native token of SOURCE Chain",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/ee4c0949975dcc99c76363626bc6e210f81c7e7144594ec6994c6405153fe273.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/0f7a3666de7cf8fc03b198c93ab0feda2750b3bdaff45b9bd8dbc2cf0ccce48c.png",
         "color": "#39a5fc",
         "coinGeckoId": "source",
         "ibc_info": {
@@ -6172,7 +6173,7 @@
         "symbol": "NYX",
         "description": "NYX Token (NYX) is the Nym Network's native token.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/e466340ae2ddcbfc2eadc69268889763afd2c97e6ec87b3ea7beaae054f460fe.png",
+        "image": "https://cdn.chainroot.io/images/tokens/nyx.png",
         "color": "#f45135",
         "ibc_info": {
             "path": "nyx>osmosis",
@@ -6195,7 +6196,7 @@
         "symbol": "NYM",
         "description": "NYM Token (NYM) is the Nym Network's native utility token, used as the primary means to incentivize mixnet node operators.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/f0f44e903c20c6dd4ec9cca3dede03595fd0d61733789ab15b980ff9c3295cb3.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/nym.png",
         "color": "#151525",
         "coinGeckoId": "nym",
         "ibc_info": {
@@ -6478,7 +6479,7 @@
         "symbol": "stSAGA",
         "description": "Stride's liquid staked SAGA",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/cc3d7ca7f31edca28fc140d0a3aa85f2ebfcce3d5d740a35d2502603a885cbb6.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/ff03381604023175dd57b8051e7024e0f53eb6f2db929e4002266b9a2192bf8e.png",
         "color": "#e40474",
         "ibc_info": {
             "path": "stride>osmosis",
@@ -6636,7 +6637,7 @@
         "symbol": "HEART",
         "description": "The native staking and governance token of Humans.ai.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/4d4277a12fba13e326af9ff64828a1a76fb00bc000ef321467364fae2aa766fd.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/humans.png",
         "color": "#f3f3f3",
         "coinGeckoId": "humans-ai",
         "ibc_info": {
@@ -6707,7 +6708,7 @@
         "symbol": "C4E",
         "description": "The native token of Chain4Energy",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/8176daa2540233286c2d1e352419a41635764ec0130bb1820770de8749230544.png",
+        "image": "https://cdn.chainroot.io/images/tokens/chain4energy.png",
         "color": "#24344c",
         "coinGeckoId": "chain4energy",
         "ibc_info": {
@@ -6824,7 +6825,7 @@
         "symbol": "AIOZ.aioz",
         "description": "The native staking and governance token of the AIOZ Network.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/815c8c29316aaa9c394e76d4f635617ed9f2cd2bd51d2cb8c1722018ce310799.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/50213d761afd602940cad87622d1287077011a2b66508c7af84d096e4a14f7b1.png",
         "coinGeckoId": "aioz-network",
         "ibc_info": {
             "path": "aioz>osmosis",
@@ -6973,7 +6974,7 @@
         "symbol": "NIBI",
         "description": "The native token of Nibiru network",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/7c1dcfbab341484b8f40a8fc49cea6bc1b58d372ec5c734a9cb7abcd14182673.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/nibi.png",
         "color": "#14c0ce",
         "coinGeckoId": "nibiru",
         "ibc_info": {
@@ -7169,7 +7170,7 @@
         "symbol": "DHP",
         "description": "The native token of dHealth",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/7cc85722553231f1c8305a3af2c3061ab96c2f10b8e0cb492648eca66bc7e3f5.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/89349dfac4602bccb23832e17d091cafdb6fda3c2d62d8003dda97aab90ac702.png",
         "color": "#140c7c",
         "coinGeckoId": "dhealth",
         "ibc_info": {
@@ -7264,7 +7265,7 @@
         "symbol": "SHIDO",
         "description": "The native EVM and Wasm, governance and staking token of the Shido Chain",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/02c7008a82717e7aab2ba1c3c84e453b69e537c4746ba32fee36b06228c7a493.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/50b7580af70f9ae21ac163c26e9b7aba33dc4b75f24032140bc6ff59cc1544e7.png",
         "color": "#046ffc",
         "coinGeckoId": "shido-2",
         "ibc_info": {
@@ -8540,7 +8541,7 @@
         "symbol": "FCT",
         "description": "FIRMACHAIN adds a signing and verifying e-contract function to the blockchain. Unlocking new limits of electronic contracts with blockchain technology, FIRMACHAIN seeks to resolve all the social and legal issues (contracts, notarial, etc.) with written contracts through the use of electronic contracts based on FIRMACHAIN’s data blockchain.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/1d3b47d5f3c3ae31991b885732f451afb2258b679a0e86f7b1c26e96ad262ed6.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/1a81315f76338c8ecc8e2add38b49e9ec7af89d932159521dc25218e46e3ed94.png",
         "color": "#1c1c1c",
         "coinGeckoId": "firmachain",
         "ibc_info": {
@@ -8585,7 +8586,7 @@
         "symbol": "LAVA",
         "description": "Lava Network is a modular data network designed to provide fast, reliable, and scalable access to blockchain data for developers and users.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/a95429310ae6e812f50d39f1fa48b20acc352a4c9ee43da8cb883749e14a4e79.png",
+        "image": "https://cdn.chainroot.io/images/tokens/b392f7c677402d33fc6657d8fe330c84d9a3b67b0c7219f4929b17bc0654ceec.png",
         "color": "#6f043e",
         "coinGeckoId": "lava-network",
         "ibc_info": {
@@ -8719,7 +8720,7 @@
         "symbol": "ROUTE",
         "description": "The native token of Router Chain",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/0ce18fc68ef3a0a20c3f3ab22c52bff5bcd05e2d9caa8b264ebe76dfab88a4e8.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/route.png",
         "color": "#cb0766",
         "coinGeckoId": "router-protocol-2",
         "ibc_info": {
@@ -9707,7 +9708,7 @@
         "symbol": "DGN",
         "description": "Dragon Token is the native staking and governance token of Dungeon Chain, serving as the backbone of the ecosystem. Its primary roles include staking, where users stake Dragon Tokens to secure the network, enhance its functionality, and earn rewards in return; governance, granting token holders voting rights to influence key decisions such as game onboarding, protocol updates, and community-driven initiatives; and ecosystem growth, facilitating transactions, incentivizing developers, and promoting the creation of new interchain games. Dragon Token ensures a decentralized, fair, and community-driven ecosystem, fostering the evolution of blockchain-based gaming. It plays a crucial role in driving the growth of Dungeon Chain by empowering both developers and players to participate actively in the ecosystem's governance and success.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/997fda1abc37fcfd7d010d8a05fa4528a17c6e12ec225bac47e9184456b6142b.png",
+        "image": "https://cdn.chainroot.io/images/tokens/dgn.png",
         "coinGeckoId": "dragon-coin-2",
         "ibc_info": {
             "path": "dungeon>osmosis",
@@ -9730,7 +9731,7 @@
         "symbol": "SYNT",
         "description": "Synternet is a blockchain that powers modular, interoperable data infrastructure across all major chains.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/09ca1cd2b4cce4cab4ab9eeca6948108341dfa65678ae55f2dc0e01d572fe8f4.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/abc1fa855bd08f9c314452c0a23bd689a2eca94b0a18c873dc0fcb91a12ee869.png",
         "color": "#272d45",
         "ibc_info": {
             "path": "synternet>osmosis",
@@ -9921,7 +9922,7 @@
         "symbol": "ELYS",
         "description": "The native token of Elys Network",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/786e2504afc6da98707011a7170b0aa3ef3eb923376c598825e5f35e49494e9f.png",
+        "image": "https://cdn.chainroot.io/images/tokens/888e3365135e9c1425cc3648d6eeb04f8c58248670d1035cfb883f2da74dca35.png",
         "coinGeckoId": "elys-network",
         "ibc_info": {
             "path": "elys>osmosis",
@@ -10047,7 +10048,7 @@
         "symbol": "dTIA",
         "description": "Drop staked TIA",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/774ae9012fb7f2750aa13b380e6f0fbd9cdf0c9d66a6913df39237a3cadd624c.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/dtia.png",
         "ibc_info": {
             "path": "neutron>osmosis",
             "client": {
@@ -10888,6 +10889,75 @@
                 "port": "transfer",
                 "chain": "cosmos",
                 "denom": "ibc/0EF5630576C66968EF0787868CF09FD866FAD131BC148D24A148358A85F0EB62"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/AD969E97A63B64B30A6E4D9F598341A403B849F5ACFEAA9F18DBD9255305EC65",
+        "name": "Arkeo",
+        "symbol": "ARKEO",
+        "description": "Arkeo Staking Coin",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/arkeo.png",
+        "coinGeckoId": "arkeo",
+        "ibc_info": {
+            "path": "arkeo>osmosis",
+            "client": {
+                "channel": "channel-103074",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-1",
+                "port": "transfer",
+                "chain": "arkeo",
+                "denom": "uarkeo"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/DD7EA9AF1E58E9FDD7F9810976817E203D5B87BAEF7AEA592FA34DF73310620B",
+        "name": "Initia",
+        "symbol": "INIT",
+        "description": "Initia Staking Coin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/init.png",
+        "coinGeckoId": "initia",
+        "ibc_info": {
+            "path": "initia>osmosis",
+            "client": {
+                "channel": "channel-102122",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-68",
+                "port": "transfer",
+                "chain": "initia",
+                "denom": "uinit"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/D37860EB1D2669F34B47A7BC48885853D5AB23642EF958CDEA35EB6074087064",
+        "name": "Nillion",
+        "symbol": "NIL",
+        "description": "Nillion Staking Coin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/ef37e534d99da5f5b835923e96319da0ee1e622b82b2488d6dac1998fb745dfb.png",
+        "coinGeckoId": "nillion",
+        "ibc_info": {
+            "path": "nillion>osmosis",
+            "client": {
+                "channel": "channel-98416",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-2",
+                "port": "transfer",
+                "chain": "nillion",
+                "denom": "unil"
             }
         }
     }

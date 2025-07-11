@@ -341,16 +341,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/386D09AE31DA7C0C93091BB45D08CB7A0730B1F697CD813F06A5446DCF02EEB2",
-    "symbol": "USDT",
-    "name": "gusdt",
-    "description": "Gravity Bridge USDT",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/079DAF1995A28BCD3B4E3D38948BB0FBC1CDE47939820CBAB7C02AFB88FF31A3",
     "symbol": "USDT",
     "name": "usdt",
@@ -361,13 +351,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/9B59DFFC6399683FCD4F9C48796C5851DBC6522273E9F1F0CDB57FC0E57E786B",
-    "symbol": "BLD",
-    "name": "bld",
-    "description": "Agoric is a smart contract platform that uses JavaScript to enable developers to build secure and scalable decentralized applications (dApps) easily.",
+    "denom": "ibc/386D09AE31DA7C0C93091BB45D08CB7A0730B1F697CD813F06A5446DCF02EEB2",
+    "symbol": "USDT",
+    "name": "gusdt",
+    "description": "Gravity Bridge USDT",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/d1f382622adbce914256c6e66e2fd73a2e0f123a5f6bc09e1642a31612cb57f3.svg",
-    "coinGeckoId": "agoric"
+    "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -378,6 +368,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/f3d55f97fcb02b6863bbf49d29b405e4e61b9124f4b6c11d97f2997b67adee38.svg",
     "coinGeckoId": "persistence"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/9B59DFFC6399683FCD4F9C48796C5851DBC6522273E9F1F0CDB57FC0E57E786B",
+    "symbol": "BLD",
+    "name": "bld",
+    "description": "Agoric is a smart contract platform that uses JavaScript to enable developers to build secure and scalable decentralized applications (dApps) easily.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/d1f382622adbce914256c6e66e2fd73a2e0f123a5f6bc09e1642a31612cb57f3.svg",
+    "coinGeckoId": "agoric"
   },
   {
     "type": "ibc",
@@ -478,6 +478,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/bb6679e0de806cc611b2eb98ee19a6d89e8d7ce79b7090b3788724c1d6846a49.svg",
     "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/FD64352071AF2F4B80E50B1ED3A49D60660D8246D6441B3D68E97CBAD514E5C5",
+    "symbol": "ATOM",
+    "name": "atom",
+    "description": "ATOM is the native cryptocurrency of the Cosmos network, designed to facilitate interoperability between multiple blockchains through its innovative hub-and-spoke model.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
+    "coinGeckoId": "cosmos"
   },
   {
     "type": "ibc",
@@ -621,16 +631,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/3103038EE5B7208E0802C75FC287B483E82063492A5FA955F270E5EB928E8AA6",
-    "symbol": "JUNO",
-    "name": "juno",
-    "description": "The native token of JUNO Chain",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/79f9def0d7428ed8b761a7c42dc5f7a3492367f014258935d72cbbe2d813a552.svg",
-    "coinGeckoId": "juno-network"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/A50BE69DE573F17AE1A5D0A862E32144BB6167367A6C7F41C20226833C544913",
     "symbol": "USTC",
     "name": "ust",
@@ -638,6 +638,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/bbf7ad631fa51027777b71c54feda0517f9f112a5f42edad9c584fb9724561cb.svg",
     "coinGeckoId": "terrausd"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/3103038EE5B7208E0802C75FC287B483E82063492A5FA955F270E5EB928E8AA6",
+    "symbol": "JUNO",
+    "name": "juno",
+    "description": "The native token of JUNO Chain",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/79f9def0d7428ed8b761a7c42dc5f7a3492367f014258935d72cbbe2d813a552.svg",
+    "coinGeckoId": "juno-network"
   },
   {
     "type": "ibc",

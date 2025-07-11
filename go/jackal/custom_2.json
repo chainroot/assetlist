@@ -41,16 +41,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/FCE209F772B16784B128CE56AF56090331F84C3128E926B676E7DCA7D3C980E2",
-    "symbol": "JKL",
-    "name": "jkl",
-    "description": "Jackal Network is a decentralized storage platform that aims to provide secure, private, and efficient data storage solutions on the blockchain.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/0208e55b9311df4d06d935433bf3cfa81c104d47d71490dd5a1cc1b15fcc602b.svg",
-    "coinGeckoId": "jackal-protocol"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/E24063D336A506ED538263714714573823661773663A58A6E9A2A79892BA5180",
     "symbol": "AXL",
     "name": "axl",
@@ -58,6 +48,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
     "coinGeckoId": "axelar"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/FCE209F772B16784B128CE56AF56090331F84C3128E926B676E7DCA7D3C980E2",
+    "symbol": "JKL",
+    "name": "jkl",
+    "description": "Jackal Network is a decentralized storage platform that aims to provide secure, private, and efficient data storage solutions on the blockchain.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/0208e55b9311df4d06d935433bf3cfa81c104d47d71490dd5a1cc1b15fcc602b.svg",
+    "coinGeckoId": "jackal-protocol"
   },
   {
     "type": "ibc",

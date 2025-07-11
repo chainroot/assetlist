@@ -101,6 +101,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/70A4189ED7444A8AA0E6470E221A895621DB788318911CF5D06E8B3E298455FA",
+    "symbol": "SHITMOS",
+    "name": "SHITMOS",
+    "description": "The Cosmos Network's premier self-hatred memecoin.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/2382d701de57fcdc34f91970c7671a5bfed3cf6bd1c2e9fe9759be40e041af83.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/3A885CF4256997A923DBE557E916E63651FE080F9E030BC2E622968E2EE81598",
     "symbol": "USDC",
     "name": "usdc",
@@ -111,13 +121,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/70A4189ED7444A8AA0E6470E221A895621DB788318911CF5D06E8B3E298455FA",
-    "symbol": "SHITMOS",
-    "name": "SHITMOS",
-    "description": "The Cosmos Network's premier self-hatred memecoin.",
+    "denom": "ibc/A77CC2CB874719F10F3E8974D7D51EC85F912536127EA2009E8276FCD75B8527",
+    "symbol": "SOURCE",
+    "name": "source",
+    "description": "The native token of SOURCE Chain",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/2382d701de57fcdc34f91970c7671a5bfed3cf6bd1c2e9fe9759be40e041af83.svg",
-    "coinGeckoId": ""
+    "image": "https://cdn.chainroot.io/images/tokens/ee4c0949975dcc99c76363626bc6e210f81c7e7144594ec6994c6405153fe273.svg",
+    "coinGeckoId": "source"
   },
   {
     "type": "ibc",
@@ -141,6 +151,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/6A9571DE6A3F60D7703C3290E2944E806C15A47C1EA6D4AFCD3AE4DC8AF080B1",
+    "symbol": "LVN",
+    "name": "lvn",
+    "description": "Levana Well-funded Perps is a protocol for perpetual swaps, which are leveraged trading contracts.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/d4b74abb24cc5ededa0b2fd76431824bc634119cac0a4dc029a9921388602d5d.svg",
+    "coinGeckoId": "levana-protocol"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/5D58AC622C3025E68C3C8F0793BA66A1CD356B60A303E9B900E690C497238109",
     "symbol": "UMEE",
     "name": "umee",
@@ -161,6 +181,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/567E5E9FDF8104C5BDC3A31235CBAE66D38A901901E4BA80387C1AE2375E67F9",
+    "symbol": "KUJI",
+    "name": "kuji",
+    "description": "Kujira is a decentralized finance (DeFi) platform offering a suite of tools and services for managing and optimizing digital assets and investments.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9b4df5623b76ae925d1947e3d154d0f88fb1d194ff62673d6af8bc0a77e6a71a.svg",
+    "coinGeckoId": "kujira"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/05FE4351BB6354089C71AB1C2179F2C97251D2E37CEEFEB27E9069B1834FA7DA",
     "symbol": "DVPN",
     "name": "dvpn",
@@ -168,6 +198,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/7a3905dcc2698978708d7c48b563436e57eb9f03b31440589fee31adf3c218db.svg",
     "coinGeckoId": "sentinel"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/6F8F241B18A1534AF2CC28A9AE61F6DC2F3E93A94B5E9209956A42284D851898",
+    "symbol": "SCRT",
+    "name": "scrt",
+    "description": "Secret Network is a privacy-focused blockchain that enables private and secure smart contracts, protecting sensitive data.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/4e950180cbb20a28d82f99bc2243211928ef4995504af4b4029ba1f3031fde4a.svg",
+    "coinGeckoId": "secret"
   },
   {
     "type": "ibc",
@@ -201,6 +241,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/B961AE80F201B581E3BD32FD0E0B0F3AAB53C9B54E660F53DB845E0249967CF1",
+    "symbol": "IRIS",
+    "name": "iris",
+    "description": "The IRIS token is the native governance token for the IrisNet chain.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/1595a34d03a89ceaaa0d00e2c31d143b92b9b6e38f3962b9459241c8c6eb7f8d.svg",
+    "coinGeckoId": "iris-network"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/892B184DE49984FEA412E6BB8B9F2FA35E707E29DD5E9ADB515EB99B11E40837",
     "symbol": "CRE",
     "name": "cre",
@@ -231,6 +281,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/D918D0FAC899648290ED8E50F7029C0F43D9155599BC45B1EF8C273763294C84",
+    "symbol": "STRD",
+    "name": "strd",
+    "description": "Stride is a liquid staking blockchain in the Cosmos ecosystem that allows users to stake any IBC-compatible tokens and receive stTokens in return, providing liquidity while earning staking rewards.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/ec24ec10d44cf36ec24232f5dbb19ad5b61d1972098888b01291b63c1c66722e.svg",
+    "coinGeckoId": "stride"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/6ED27AE1D3F17900A9B991460E7523F386F1C5278FF5C044017823CAD59A65FA",
     "symbol": "SCRT",
     "name": "scrt",
@@ -248,6 +308,66 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/c2b6682fe42bb4fb3ca7eb401f232650d32a8f9e833622fab0d32a91dd98abc3.svg",
     "coinGeckoId": "e-money"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/BE9116F49581FF59F018C64FB4A445B307332F77381640AAB05380473D0D7642",
+    "symbol": "STARS",
+    "name": "stars",
+    "description": "Stargaze is a decentralized blockchain platform designed specifically for non-fungible tokens (NFTs), enabling creators to mint, trade, and interact with NFTs in a fully decentralized environment.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/8c41a49f8a121387817f0fd11a45f39da6ea8a8952026c46760f2c001316e207.svg",
+    "coinGeckoId": "stargaze"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/E24063D336A506ED538263714714573823661773663A58A6E9A2A79892BA5180",
+    "symbol": "AXL",
+    "name": "axl",
+    "description": "Axelar is a decentralized interoperability network connecting multiple blockchain ecosystems, enabling seamless cross-chain communication and value transfer.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
+    "coinGeckoId": "axelar"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/0E27F87D6329E120923EF03591FA62F090005853B17D1E327D88FD03B17A5CFB",
+    "symbol": "BAND",
+    "name": "band",
+    "description": "The native token of BandChain",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/02cdeb8952f563896b380f902d92219ed7f4e4e7f04e25c02e0c9453e10de074.svg",
+    "coinGeckoId": "band-protocol"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/FD31589F8DE4D986A171CFE682E4C800DF4B4F85EA3EEF02231C8480400C55A6",
+    "symbol": "KAVA",
+    "name": "kava",
+    "description": "Kava is a decentralized finance (DeFi) platform that provides a range of financial services, including lending, borrowing, and stablecoins, leveraging the Cosmos and Ethereum ecosystems.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/a516e8c8ce681c3cbdfd1cd699a5d9a002bec3d002344cb13c956f6e6d2ed9da.svg",
+    "coinGeckoId": "kava"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/ED70DDAF4A9F10A3BC082ECC318562A98CEDDAADEBF46D918C5CB3652D11E67C",
+    "symbol": "AKT",
+    "name": "akt",
+    "description": "Akash Network is a decentralized cloud computing marketplace that connects users with unused computing resources, offering a cost-effective alternative to traditional cloud providers.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/33d728dfd3351a640e4f316dcadbc5e50dfdb4a3798bb74e9485f74585cf0245.svg",
+    "coinGeckoId": "akash-network"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/4C1E308C6D28C7EA775E188CA7CB6F89FA9FB755DE175B402477E531B2AB5311",
+    "symbol": "ECH",
+    "name": "echelon",
+    "description": "Echelon - a scalable EVM on Cosmos, built on Proof-of-Stake with fast-finality that prioritizes interoperability and novel economics",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/b9e544baa0b9ee3b1a0a9f4a8b23aad2ba81f522e455f6a2b454991f39d414cf.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",
@@ -281,6 +401,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/1ED3D201376BC181E5E309D274ECD78C1BE453E1CDB53143956FC2D7E2AE7D69",
+    "symbol": "STARS",
+    "name": "stars",
+    "description": "Stargaze is a decentralized blockchain platform designed specifically for non-fungible tokens (NFTs), enabling creators to mint, trade, and interact with NFTs in a fully decentralized environment.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/8c41a49f8a121387817f0fd11a45f39da6ea8a8952026c46760f2c001316e207.svg",
+    "coinGeckoId": "stargaze"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/2B7FB469C5515A0CE185FDA70948EE2436E5EE63449E9B3B58DE6D8C6E5129BD",
     "symbol": "MARS.old",
     "name": "mars",
@@ -301,6 +431,26 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/72A18D3E9CBD235BFEC3A633F1269E13AA9C02D77E2A781B4E30A9D1279EE2B4",
+    "symbol": "TORI",
+    "name": "tori",
+    "description": "The native token of Teritori",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/c3cf8ec94066b351498e89287bb80944c61e8da21ef5d83042cfa1da45c916c5.svg",
+    "coinGeckoId": "teritori"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/54D17B7188EF2EBBC2E33ECFCEE807D0B2307A2917B3F96B5A0777ED03E68AD7",
+    "symbol": "QCK",
+    "name": "qck",
+    "description": "QCK - native token of Quicksilver",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f87699fa8000635dee47c4014c153040dd1f107d74277ecbd3da317e71828fcc.png",
+    "coinGeckoId": "quicksilver"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/8E453678CC36D435CE284B3249453E21AB0080B98CCAD36BC9B579B216AA028D",
     "symbol": "LUM",
     "name": "lum",
@@ -312,6 +462,16 @@
   {
     "type": "ibc",
     "denom": "ibc/FA27E8E1A690534EA685E573A1DECA3E51F06BC32DFA614F9DC4F84EC0953933",
+    "symbol": "QCK",
+    "name": "qck",
+    "description": "QCK - native token of Quicksilver",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f87699fa8000635dee47c4014c153040dd1f107d74277ecbd3da317e71828fcc.png",
+    "coinGeckoId": "quicksilver"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/9553AF0354A352341FD4EF995B9B0F24A6E7C89C67BB84831C431BFDBC2177C8",
     "symbol": "QCK",
     "name": "qck",
     "description": "QCK - native token of Quicksilver",

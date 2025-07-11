@@ -2148,5 +2148,15 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/8220439f7955a7d5e6a820cea4c611355cb775a8eca567b0e1f284ba4bd41957.png",
     "coinGeckoId": "pryzmatics"
+  },
+  {
+    "type": "native",
+    "denom": "factory/pryzm1fp7uhm334tssvzlg4mk0hsp0kezvcla0vzk22q/uscar",
+    "name": "SCAR",
+    "symbol": "SCAR",
+    "description": "The non-transferable receipt of $SOUL airdrop for Scar Campaign participants",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/2ef5906e6ea4c64461c3b6a9a1d87eac4a2e5bd5cc1ed07c77fb65e67d872a31.png",
+    "coinGeckoId": "pryzmatics"
   }
 ]

@@ -9,5 +9,16 @@
         "image": "https://cdn.chainroot.io/images/tokens/kava.png",
         "coinGeckoId": "",
         "color": "#9248DB"
+    },
+    {
+        "type": "native",
+        "denom": "akava",
+        "name": "Kava Testnet",
+        "symbol": "KAVA",
+        "description": "Kava Testnet EVM Fee Coin",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/kava.png",
+        "coinGeckoId": "",
+        "color": "#9248DB"
     }
 ]

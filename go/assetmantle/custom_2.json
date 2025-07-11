@@ -11,6 +11,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/725907476F79A96A2650A4D124501B5D236AB9DDFAF216F929833C6B51E42902",
+    "symbol": "EVMOS",
+    "name": "evmos",
+    "description": "The native EVM, governance and staking token of the Evmos Hub",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/8fd37bed9ab943bf6d2114ddae7f4a42b91cdebc269406c7f6acfb4fd1885e05.svg",
+    "coinGeckoId": "evmos"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/33E3481B6DE69CBABF20B3130A10F7CDF0B0ED5F0EB9F9980AD92A1B3C0DDB5D",
     "symbol": "ETH",
     "name": "eth",
@@ -31,12 +41,12 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/261AA78A732B29C6052EF0C33D2991D1C65BBE173C9B9E6E3688E32D9947A98E",
-    "symbol": "HARBOR",
-    "name": "harbor",
-    "description": "Governance Token of Harbor protocol on Comdex network",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/1a502badbefa8cc68e70549b0f831717f060d42b772bfa51547c4f6be93509ee.svg",
+    "denom": "ibc/C50DBE8B3FEF01C20C8049754E1066A89EC57BC15122699C2DDAA6D7581F2EAE",
+    "symbol": "WBNB",
+    "name": "wbnb",
+    "description": "Wrapped BNB on Axelar",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/a4c5292d659f8a8522b8997399f53769eba8ba05e74ae4ea936b2d65a1046932.svg",
     "coinGeckoId": ""
   },
   {
@@ -81,13 +91,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/02ECEB2978F001ED49863FA57CC049B49921725DBFCC3F90D3FE073C36372CA9",
-    "symbol": "MNTL",
-    "name": "mntl",
-    "description": "The native token of Asset Mantle",
+    "denom": "ibc/2E39FF9B7A8495794A830420E71BF79D2F635C65AFE389A8E96F9B11D479BCF1",
+    "symbol": "LORE",
+    "name": "LORE",
+    "description": "The native token of Gitopia",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/4658b05dcc839c7219f22d80ebf51c6af889c2b4cf44d9d089284053332e75ef.svg",
-    "coinGeckoId": "assetmantle"
+    "image": "https://cdn.chainroot.io/images/tokens/1b77af8b445dc0fa9a606be4f831f2b6ef99399160238c3d193f0bbe34d1e76d.svg",
+    "coinGeckoId": "gitopia"
   },
   {
     "type": "ibc",
@@ -101,13 +111,33 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/DF63978F803A2E27CA5CC9B7631654CCF0BBC788B3B7F0A10200508E37C70992",
-    "symbol": "USDT",
-    "name": "gusdt",
-    "description": "Gravity Bridge USDT",
+    "denom": "ibc/EA67DF5297DA26FB63B49B8D420775BA5134C4172D75E80FF137699119FC3440",
+    "symbol": "STARS",
+    "name": "stars",
+    "description": "Stargaze is a decentralized blockchain platform designed specifically for non-fungible tokens (NFTs), enabling creators to mint, trade, and interact with NFTs in a fully decentralized environment.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
-    "coinGeckoId": ""
+    "image": "https://cdn.chainroot.io/images/tokens/8c41a49f8a121387817f0fd11a45f39da6ea8a8952026c46760f2c001316e207.svg",
+    "coinGeckoId": "stargaze"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/C01154C2547F4CB10A985EA78E7CD4BA891C1504360703A37E1D7043F06B5E1F",
+    "symbol": "AXL",
+    "name": "axl",
+    "description": "Axelar is a decentralized interoperability network connecting multiple blockchain ecosystems, enabling seamless cross-chain communication and value transfer.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
+    "coinGeckoId": "axelar"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/9277B1D667197EAC95E3F2FE843F1B990684730B33E29080A51EC8835B45FFB8",
+    "symbol": "MNTL",
+    "name": "mntl",
+    "description": "The native token of Asset Mantle",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/4658b05dcc839c7219f22d80ebf51c6af889c2b4cf44d9d089284053332e75ef.svg",
+    "coinGeckoId": "assetmantle"
   },
   {
     "type": "ibc",
@@ -121,6 +151,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/4CD525F166D32B0132C095F353F4C6F033B0FF5C49141470D1EFDA1D63303D04",
+    "symbol": "JUNO",
+    "name": "juno",
+    "description": "The native token of JUNO Chain",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/79f9def0d7428ed8b761a7c42dc5f7a3492367f014258935d72cbbe2d813a552.svg",
+    "coinGeckoId": "juno-network"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/8C5486D9FCA325BE087C546C534C505D2BBFE5832D0965CEC911C288988E152A",
     "symbol": "MNTL",
     "name": "mntl",
@@ -131,33 +171,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/6F8E6FDF589E95A555946A94C409539B00AC66D84C0B6B575DE8B41D88E3E014",
-    "symbol": "AXL",
-    "name": "axl",
-    "description": "Axelar is a decentralized interoperability network connecting multiple blockchain ecosystems, enabling seamless cross-chain communication and value transfer.",
+    "denom": "ibc/20824143EFF28B94BE1EC03723E748461B92706A6D4EBD2F52DDDBDADA143FA0",
+    "symbol": "OSMO",
+    "name": "osmo",
+    "description": "The native token of Osmosis",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
-    "coinGeckoId": "axelar"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/F5FABF52B54E65064B57BF6DBD8E5FAD22CEE9F4B8A57ADBB20CCD0173AA72A4",
-    "symbol": "USDC",
-    "name": "usdc",
-    "description": "Circle's stablecoin on Axelar",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
-    "coinGeckoId": "axlusdc"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/5AF2F6C9D801EE6FAB04A4F97D77A27683AF63D540E9ECF0C628B95D4EDFCEEE",
-    "symbol": "CMST",
-    "name": "cmst",
-    "description": "Stable Token of Harbor protocol on Comdex network",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/ccb1049a9bf51739510f8702c13c234456e37ec0ef19d30406e42889bfd734fe.svg",
-    "coinGeckoId": "composite"
+    "image": "https://cdn.chainroot.io/images/tokens/e053406240eac4d978a66008f0551daa497be489fba6c5840e5cd073bd6fcd94.svg",
+    "coinGeckoId": "osmosis"
   },
   {
     "type": "ibc",
@@ -171,32 +191,22 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/F7E92EE59B5428793F3EF5C1A4CB2494F61A9D0C9A69469D02390714A1372E16",
-    "symbol": "ION",
-    "name": "ion",
-    "description": "ION is the second native token of Osmosis.",
+    "denom": "ibc/5703EDF50588A1F0C25310F71F54A4240E3D2EAEFABFDD20CD5B296494107D1C",
+    "symbol": "KUJI",
+    "name": "kuji",
+    "description": "Kujira is a decentralized finance (DeFi) platform offering a suite of tools and services for managing and optimizing digital assets and investments.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/783677c916fdd15fd616c45e64d59f1ccfdb8e583ec24a0a1302454aa387603f.svg",
-    "coinGeckoId": "ion"
+    "image": "https://cdn.chainroot.io/images/tokens/9b4df5623b76ae925d1947e3d154d0f88fb1d194ff62673d6af8bc0a77e6a71a.svg",
+    "coinGeckoId": "kujira"
   },
   {
     "type": "ibc",
-    "denom": "ibc/0FECA606E7B9D3C42A7C1C03CC91896D63DC023929E41D2222194957A9C4B5C7",
-    "symbol": "STARS",
-    "name": "stars",
-    "description": "Stargaze is a decentralized blockchain platform designed specifically for non-fungible tokens (NFTs), enabling creators to mint, trade, and interact with NFTs in a fully decentralized environment.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/8c41a49f8a121387817f0fd11a45f39da6ea8a8952026c46760f2c001316e207.svg",
-    "coinGeckoId": "stargaze"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/3554989531C7DB295D548F373FE93205215CAC2820A62D748E5A3703044D481E",
-    "symbol": "GRAV",
-    "name": "graviton",
-    "description": "The native token of Gravity Bridge",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/80113d9226d07b7d5f24a7b6f569d4971cdfed9481d0b80d4121b8c3bd7e0a8b.svg",
-    "coinGeckoId": "graviton"
+    "denom": "ibc/45FFEE350E790699F48BB53C35CBB71722246D54D5B08731A736B0C4376E5FF7",
+    "symbol": "ETH",
+    "name": "eth",
+    "description": "Ethereum is a decentralized blockchain platform for running smart contracts and dApps, with Ether (ETH) as its native cryptocurrency, enabling a versatile ecosystem beyond just digital currency.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/af33707625a9a948852514d2ffd2f99d2d8cfc603bca373190a152522fdb1c0c.svg",
+    "coinGeckoId": "ethereum"
   }
 ]

@@ -51,16 +51,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/E3459360643C2555C57C7DAB0567FA762B42D5D6D45A76615EA7D99D933AEC04",
-    "symbol": "SCRT",
-    "name": "scrt",
-    "description": "Secret Network is a privacy-focused blockchain that enables private and secure smart contracts, protecting sensitive data.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/4e950180cbb20a28d82f99bc2243211928ef4995504af4b4029ba1f3031fde4a.svg",
-    "coinGeckoId": "secret"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/799FDD409719A1122586A629AE8FCA17380351A51C1F47A80A1B8E7F2A491098",
     "symbol": "AKT",
     "name": "akt",
@@ -68,6 +58,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/33d728dfd3351a640e4f316dcadbc5e50dfdb4a3798bb74e9485f74585cf0245.svg",
     "coinGeckoId": "akash-network"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/B870E6642B6491779D35F326A895780FC2F7409DFD7F639A98505555AEAF345F",
+    "symbol": "OM",
+    "name": "om",
+    "description": "The native token of MANTRA",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/6f04ed152724ef3ef7fbcceb0a038b5a97b82ce8575d96e5b6de014fe6b0a363.svg",
+    "coinGeckoId": "mantra-dao"
   },
   {
     "type": "ibc",
@@ -81,13 +81,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/B870E6642B6491779D35F326A895780FC2F7409DFD7F639A98505555AEAF345F",
-    "symbol": "OM",
-    "name": "om",
-    "description": "The native token of MANTRA",
+    "denom": "ibc/E3459360643C2555C57C7DAB0567FA762B42D5D6D45A76615EA7D99D933AEC04",
+    "symbol": "SCRT",
+    "name": "scrt",
+    "description": "Secret Network is a privacy-focused blockchain that enables private and secure smart contracts, protecting sensitive data.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/6f04ed152724ef3ef7fbcceb0a038b5a97b82ce8575d96e5b6de014fe6b0a363.svg",
-    "coinGeckoId": "mantra-dao"
+    "image": "https://cdn.chainroot.io/images/tokens/4e950180cbb20a28d82f99bc2243211928ef4995504af4b4029ba1f3031fde4a.svg",
+    "coinGeckoId": "secret"
   },
   {
     "type": "ibc",

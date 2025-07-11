@@ -201,6 +201,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/F47D6F6C38DC1B5B72FFB71CC4D8A12FC4C57A5A79BAFA65286723D56B85197D",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/0CFFCAEDCAC874C2FD8E8C7A8D9848C79CECE9DDD750D0F45E0E88B685E8C319",
     "symbol": "DVPN",
     "name": "dvpn",
@@ -228,16 +238,6 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/8c41a49f8a121387817f0fd11a45f39da6ea8a8952026c46760f2c001316e207.svg",
     "coinGeckoId": "stargaze"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/F47D6F6C38DC1B5B72FFB71CC4D8A12FC4C57A5A79BAFA65286723D56B85197D",
-    "symbol": "USDC",
-    "name": "usdc",
-    "description": "Circle's stablecoin on Axelar",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
-    "coinGeckoId": "axlusdc"
   },
   {
     "type": "ibc",
@@ -271,6 +271,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/5525109335A779338DD22D3E902A6C01249927A8A1A74B89F8DC67402106A858",
+    "symbol": "SCRT",
+    "name": "scrt",
+    "description": "Secret Network is a privacy-focused blockchain that enables private and secure smart contracts, protecting sensitive data.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/4e950180cbb20a28d82f99bc2243211928ef4995504af4b4029ba1f3031fde4a.svg",
+    "coinGeckoId": "secret"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/6A1E7A16DD1948D675E467A0E716CE6F36AA392D1597195FAAE63B8991078BC0",
     "symbol": "STARS",
     "name": "stars",
@@ -298,16 +308,6 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
     "coinGeckoId": "terra-luna"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/5525109335A779338DD22D3E902A6C01249927A8A1A74B89F8DC67402106A858",
-    "symbol": "SCRT",
-    "name": "scrt",
-    "description": "Secret Network is a privacy-focused blockchain that enables private and secure smart contracts, protecting sensitive data.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/4e950180cbb20a28d82f99bc2243211928ef4995504af4b4029ba1f3031fde4a.svg",
-    "coinGeckoId": "secret"
   },
   {
     "type": "ibc",

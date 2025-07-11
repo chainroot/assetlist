@@ -131,16 +131,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/1FF96B82FDE4B0E38FA0A8EC24A83E1EAC2615F338468A47473BAD3B45E066D2",
-    "symbol": "ASTRO",
-    "name": "astro",
-    "description": "Astroport is a neutral marketplace where anyone, from anywhere in the galaxy, can dock to trade their wares.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/fe05a66083c81929ce7b7577cad56c136835fd6b2905bf37727a81e0865a2cad.svg",
-    "coinGeckoId": "astroport-fi"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE",
     "symbol": "ASTRO.cw20",
     "name": "astro.cw20",
@@ -158,6 +148,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
     "coinGeckoId": "tether"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/1FF96B82FDE4B0E38FA0A8EC24A83E1EAC2615F338468A47473BAD3B45E066D2",
+    "symbol": "ASTRO",
+    "name": "astro",
+    "description": "Astroport is a neutral marketplace where anyone, from anywhere in the galaxy, can dock to trade their wares.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/fe05a66083c81929ce7b7577cad56c136835fd6b2905bf37727a81e0865a2cad.svg",
+    "coinGeckoId": "astroport-fi"
   },
   {
     "type": "ibc",
@@ -531,16 +531,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/4730171FEEAD8629E5C22670ECA090258649B06BE7533E16E83F32BC9028F20B",
-    "symbol": "STRD",
-    "name": "strd",
-    "description": "Stride is a liquid staking blockchain in the Cosmos ecosystem that allows users to stake any IBC-compatible tokens and receive stTokens in return, providing liquidity while earning staking rewards.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/ec24ec10d44cf36ec24232f5dbb19ad5b61d1972098888b01291b63c1c66722e.svg",
-    "coinGeckoId": "stride"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/338D2DB6F58921A72BD9F7B834AA9E05A3FC40D4FCCBEF3DB90EBACB230CCE96",
     "symbol": "KUJI",
     "name": "kuji",
@@ -548,6 +538,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/9b4df5623b76ae925d1947e3d154d0f88fb1d194ff62673d6af8bc0a77e6a71a.svg",
     "coinGeckoId": "kujira"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/4730171FEEAD8629E5C22670ECA090258649B06BE7533E16E83F32BC9028F20B",
+    "symbol": "STRD",
+    "name": "strd",
+    "description": "Stride is a liquid staking blockchain in the Cosmos ecosystem that allows users to stake any IBC-compatible tokens and receive stTokens in return, providing liquidity while earning staking rewards.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/ec24ec10d44cf36ec24232f5dbb19ad5b61d1972098888b01291b63c1c66722e.svg",
+    "coinGeckoId": "stride"
   },
   {
     "type": "ibc",
@@ -581,16 +581,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/14647B3C8DD7C783A4F206D62B9883A24142BAD773ABC849A8D6874AEA4C7BF9",
-    "symbol": "BMOS",
-    "name": "bitmos",
-    "description": "Bitmos opens doors for BRC20 tokens to thrive alongside established players in the Cosmos Network, revolutionizing decentralized finance (DeFi) for all.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/240d04ebcf62b90e1f33dc54c82c342516467e48a8e81a48872621cf36e7370e.png",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/56FB4B78D9DA3AF7CB439A342FF5F5EA8370E20E7160AC78433AF90DD84E7E35",
     "symbol": "SGE",
     "name": "sge",
@@ -598,6 +588,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/e0cbf77764e3b996a29eed290f96bb3fb3360d40881303d2767223d2093e0508.svg",
     "coinGeckoId": "six-sigma"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/14647B3C8DD7C783A4F206D62B9883A24142BAD773ABC849A8D6874AEA4C7BF9",
+    "symbol": "BMOS",
+    "name": "bitmos",
+    "description": "Bitmos opens doors for BRC20 tokens to thrive alongside established players in the Cosmos Network, revolutionizing decentralized finance (DeFi) for all.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/240d04ebcf62b90e1f33dc54c82c342516467e48a8e81a48872621cf36e7370e.png",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",

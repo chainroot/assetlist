@@ -171,6 +171,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/0E8595C44285144325A131C9A451E63B8E7467914DA5BC194F191151ED27DF30",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/D934516FBE457F3A98AFABD87E0EFF7F95A15325C191EA8CDD7763C702FDDEC2",
     "symbol": "AXL",
     "name": "axl",
@@ -311,16 +321,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/0E8595C44285144325A131C9A451E63B8E7467914DA5BC194F191151ED27DF30",
-    "symbol": "USDC",
-    "name": "usdc",
-    "description": "Circle's stablecoin on Axelar",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
-    "coinGeckoId": "axlusdc"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/CC9501809531F9BCB844563C21CC434C8BB202B4F66F8F5371BF940AF098E207",
     "symbol": "USDT",
     "name": "usdt",
@@ -401,6 +401,46 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/6FA7B62692FBCA2E51F567947035DE3C5D7333D49D13B85A25F358E80DF4E991",
+    "symbol": "ION",
+    "name": "ion",
+    "description": "ION is the second native token of Osmosis.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/783677c916fdd15fd616c45e64d59f1ccfdb8e583ec24a0a1302454aa387603f.svg",
+    "coinGeckoId": "ion"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/EF392FCB1D863D7DC58034FE2806000F543DDFC9FC9B8B92969B5AE4906CD57E",
+    "symbol": "stJUNO",
+    "name": "stjuno",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/553e200543ab8c9fe84dd9f1bc86fc0fe075eb14ff4254f71d49fa3a56bd37cb.svg",
+    "coinGeckoId": "stride-staked-juno"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/3D62649CE712B3BD85EE718F427A4D84024F6F45B2252FDEB598F7B9F7D32B6A",
+    "symbol": "BADKID",
+    "name": "BADKID",
+    "description": "A clan of 11y bad kids crafting chaos on the Cosmos eco. One bad memecoin to rule them all  $BADKID. Airdropped to Badkids NFT holders and $STARS stakers. It's so bad, your wallet's throwing a tantrum for it.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/ec9c100c89d79a7ae1387de7c874ba16327aa8637036df0df215d4143bb6c7b6.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/7556FEABFEC083479301DB7846F3FD63A2D0BED5A0737DDCEDDD1CD7FD7FFC68",
+    "symbol": "TEST",
+    "name": "test",
+    "description": "The native fee token of Gateway.",
+    "decimals": 6,
+    "image": "",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/2B00B177283C6B860DBF28D087BEF6C93BF8AC4CD69050518E83C4EF2F4830FB",
     "symbol": "stEVMOS",
     "name": "stevmos",
@@ -418,45 +458,5 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/dec2a2b971f2a3afba4c520c2353c5b0c193d8f2a706511a78906eee98d3133b.svg",
     "coinGeckoId": "ibc-index"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/EF392FCB1D863D7DC58034FE2806000F543DDFC9FC9B8B92969B5AE4906CD57E",
-    "symbol": "stJUNO",
-    "name": "stjuno",
-    "description": "",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/553e200543ab8c9fe84dd9f1bc86fc0fe075eb14ff4254f71d49fa3a56bd37cb.svg",
-    "coinGeckoId": "stride-staked-juno"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/6FA7B62692FBCA2E51F567947035DE3C5D7333D49D13B85A25F358E80DF4E991",
-    "symbol": "ION",
-    "name": "ion",
-    "description": "ION is the second native token of Osmosis.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/783677c916fdd15fd616c45e64d59f1ccfdb8e583ec24a0a1302454aa387603f.svg",
-    "coinGeckoId": "ion"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/7556FEABFEC083479301DB7846F3FD63A2D0BED5A0737DDCEDDD1CD7FD7FFC68",
-    "symbol": "TEST",
-    "name": "test",
-    "description": "The native fee token of Gateway.",
-    "decimals": 6,
-    "image": "",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/3D62649CE712B3BD85EE718F427A4D84024F6F45B2252FDEB598F7B9F7D32B6A",
-    "symbol": "BADKID",
-    "name": "BADKID",
-    "description": "A clan of 11y bad kids crafting chaos on the Cosmos eco. One bad memecoin to rule them all  $BADKID. Airdropped to Badkids NFT holders and $STARS stakers. It's so bad, your wallet's throwing a tantrum for it.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/ec9c100c89d79a7ae1387de7c874ba16327aa8637036df0df215d4143bb6c7b6.png",
-    "coinGeckoId": ""
   }
 ]

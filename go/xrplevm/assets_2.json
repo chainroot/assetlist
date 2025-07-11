@@ -1,0 +1,22 @@
+[
+    {
+        "type": "native",
+        "denom": "poa",
+        "name" : "POA Staking Coin.",
+        "symbol": "POA",
+        "description": "XRP EVM Sidechain Staking Coin.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/poa.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "axrp",
+        "name" : "XRP on EVM Sidechain",
+        "symbol": "XRP",
+        "description": "XRPL EVM Sidechain Native Coin",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/xrp.png",
+        "coinGeckoId": "ripple"
+    }
+]
