@@ -791,5 +791,73 @@
                 "denom": "erc20/0xfbF4318d24a93753F11d365A6dcF8b830e98Ab0F"
             }
         }
+    },
+    {
+        "type": "bridge",
+        "denom": "polygon-uusdc",
+        "name": "USD Coin from Polygon",
+        "symbol": "USDC",
+        "description": "Circle's stablecoin from Polygon on Axelar",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/67874348ee99333d66adf87c644abce6fcbad362908f2cbd13c0160d1139ed98.png",
+        "coinGeckoId": "bridged-usdc-polygon-pos-bridge",
+        "bridge_info": {
+            "path": "polygon>axelar",
+            "counterparty": {
+                "chain": "polygon",
+                "contract": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
+            }
+        }
+    },
+    {
+        "type": "bridge",
+        "denom": "avalanche-uusdc",
+        "name": "USD Coin from Polygon",
+        "symbol": "USDC",
+        "description": "Circle's stablecoin from Avalanche on Axelar",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/67874348ee99333d66adf87c644abce6fcbad362908f2cbd13c0160d1139ed98.png",
+        "coinGeckoId": "avalanche-bridged-usdc-avalanche",
+        "bridge_info": {
+            "path": "avalanche>axelar",
+            "counterparty": {
+                "chain": "avalanche",
+                "contract": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E"
+            }
+        }
+    },
+    {
+        "type": "bridge",
+        "denom": "yum-wei",
+        "name": "Axelar Wrapped YUM",
+        "symbol": "YUM.axl",
+        "description": "Axelar Wrapped YUM",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/d6105a934ce2b0840edb94ff8e915a9fab1573f1c8cfcbe3d3e976c28c6c44ed.png",
+        "coinGeckoId": "yum",
+        "bridge_info": {
+            "path": "ethereum>axelar",
+            "counterparty": {
+                "chain": "ethereum",
+                "contract": "0xcE682c89C63d2850Cb2ca898E44D6c7c30d897a6"
+            }
+        }
+    },
+    {
+        "type": "bridge",
+        "denom": "unit-zig",
+        "name": "Axelar Wrapped YUM",
+        "symbol": "ZIG.axl",
+        "description": "ZIG bridged via Axelar",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/7b073479708ee298f9acd2c00a09d78ef61064adcef681f4252223dad6d2dd66.png",
+        "coinGeckoId": "zignaly",
+        "bridge_info": {
+            "path": "ethereum>axelar",
+            "counterparty": {
+                "chain": "ethereum",
+                "contract": "0xb2617246d0c6c0087f18703d576831899ca94f01"
+            }
+        }
     }
 ]

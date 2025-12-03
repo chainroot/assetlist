@@ -99,7 +99,7 @@
         "symbol": "USDT.eth.axl",
         "description": "Tether's USD stablecoin on Axelar",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/cfb16c83203cac00d691bdb07c920db555555a98e5550863ea00bb3cf7baf159.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/usdt.axl.svg",
         "color": "#049393",
         "coinGeckoId": "axelar-usdt",
         "ibc_info": {
@@ -217,7 +217,7 @@
         "symbol": "BNB.axl",
         "description": "BNB powers the BNB Chain ecosystem and is the native coin of the BNB Beacon Chain and BNB Smart Chain.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/d1b6eb7a81dbbdf8cf8e08db4fb0808168925613701bd0055e2559b207cc5b58.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/bnb.axl.svg",
         "ibc_info": {
             "path": "bnb-smart-chain>axelar>osmosis",
             "client": {
@@ -335,7 +335,7 @@
         "symbol": "DOT.glmr.axl",
         "description": "Wrapped Polkadot on Axelar",
         "decimals": 10,
-        "image": "https://cdn.chainroot.io/images/tokens/f709c0c06545031a2cd940f4c0e04119aa4db6f76791bd4a202528060df12fdb.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/dot.axl.svg",
         "ibc_info": {
             "path": "moonbeam>axelar>osmosis",
             "client": {
@@ -692,7 +692,7 @@
         "symbol": "EEUR",
         "description": "e-Money EUR stablecoin. Audited and backed by fiat EUR deposits and government bonds.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/8c52768e581d6ca2c73b6b9104c05d0e08c037291680f520b05f8176ab05ecc3.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/eeur.svg",
         "color": "#f4c808",
         "coinGeckoId": "e-money-eur",
         "ibc_info": {
@@ -1431,7 +1431,7 @@
         "symbol": "HOPE",
         "description": "Hope Galaxy is an NFT collection based on its own native Token $HOPE, a cw20 token on Juno chain.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/bdea5893944a072d5fac3eedea17c6fe3e4272ae1bd3a7e8abf79d357bc61645.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/hope.svg",
         "color": "#e2877e",
         "ibc_info": {
             "path": "juno>osmosis",
@@ -1454,7 +1454,7 @@
         "symbol": "RAC.juno",
         "description": "Racoon aims to simplify accessibility to AI, NFTs and Gambling on the Cosmos Ecosystem",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/a6449114b7250e62ebb5cde862e5d57d962c932714df9441e609b1b71e9b322b.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/rac.svg",
         "color": "#070f0e",
         "coinGeckoId": "racoon",
         "ibc_info": {
@@ -1501,7 +1501,7 @@
         "symbol": "WBTC.eth.grv",
         "description": "Gravity Bridge WBTC",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/004df1936d641ce0c9f87d8cea72edfacfa711ff5099e3ecf8990c51c7d4010b.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/wbtc.grv.svg",
         "ibc_info": {
             "path": "ethereum>gravity-bridge>osmosis",
             "client": {
@@ -1523,7 +1523,7 @@
         "symbol": "ETH.grv",
         "description": "Gravity Bridge WETH",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/98c969828a63dd1bb7d99204e6a3a6e2549343770d323cd20ea0381625fab27c.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/weth.grv.svg",
         "ibc_info": {
             "path": "ethereum>gravity-bridge>osmosis",
             "client": {
@@ -1545,7 +1545,7 @@
         "symbol": "USDC.eth.grv",
         "description": "Gravity Bridge USDC",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/5b55999aa37d382de9b73b7bf212dfd2cdae4b69d61f96c796cb25528ce8b6cb.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/usdc.grv.svg",
         "ibc_info": {
             "path": "ethereum>gravity-bridge>osmosis",
             "client": {
@@ -1567,7 +1567,7 @@
         "symbol": "DAI.grv",
         "description": "Gravity Bridge DAI",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/696e658b04e3b572c44992f7dbc56c8afbcab24c3bc105729b5bc0cf9477508e.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/dai.grv.svg",
         "ibc_info": {
             "path": "ethereum>gravity-bridge>osmosis",
             "client": {
@@ -1589,7 +1589,7 @@
         "symbol": "USDT.eth.grv",
         "description": "Gravity Bridge USDT",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/b57c65af603fb01b4639e07e6f76796e0441b24a6da53d5a9e5fac64297bf24b.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/usdt.grv.svg",
         "color": "#059394",
         "ibc_info": {
             "path": "ethereum>gravity-bridge>osmosis",
@@ -1682,7 +1682,7 @@
         "symbol": "DHK",
         "description": "The DAO token to build consensus among Hong Kong People",
         "decimals": 0,
-        "image": "https://cdn.chainroot.io/images/tokens/6b1085faeda69d0184da2e8e655194284bcf1ac5605b31273944a8e1be6a35e7.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/dhk.svg",
         "color": "#fae204",
         "ibc_info": {
             "path": "juno>osmosis",
@@ -1894,7 +1894,7 @@
         "symbol": "LINK.axl",
         "description": "A blockchain-based middleware, acting as a bridge between cryptocurrency smart contracts, data feeds, APIs and traditional bank account payments.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/a4adc5b2e7d5fc9d4bb0bb07746e23963070233a4ab63136f0b4fc1b8c57c32c.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/link.axl.svg",
         "ibc_info": {
             "path": "ethereum>axelar>osmosis",
             "client": {
@@ -1962,7 +1962,7 @@
         "symbol": "APE",
         "description": "ApeCoin found new expression in web3 through art, gaming, entertainment, and events. APE is a token made to support what’s next, controlled, and built on by the community. It will serve as a decentralized protocol layer for community-led initiatives that drive culture forward into the metaverse.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/78b3545b67b5699ed406f9632d6c35dda2168a27dc36582d8a4fa06e9805841e.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/ape.svg",
         "coinGeckoId": "apecoin",
         "ibc_info": {
             "path": "ethereum>axelar>osmosis",
@@ -2008,7 +2008,7 @@
         "symbol": "RAI",
         "description": "RAI is a non-pegged, ETH-backed stable asset. It is useful as more 'stable' collateral for other DeFi protocols (compared to ETH or BTC) or as a stable asset with an embedded interest rate.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/34bc503c10a621bf4b2aa58754c8c561a92f3e310a1829befa24c024125c50b6.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/rai.svg",
         "coinGeckoId": "rai",
         "ibc_info": {
             "path": "ethereum>axelar>osmosis",
@@ -2031,7 +2031,7 @@
         "symbol": "SHIB.axl",
         "description": "SHIBA INU is a 100% decentralized community experiment with it claims that 1/2 the tokens have been sent to Vitalik and the other half were locked to a Uniswap pool and the keys burned.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/ee93c74ea3784a9c438340fa33d8237a83ee70acee28a385a7326ffc2eac2013.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/shib.axl.svg",
         "ibc_info": {
             "path": "ethereum>axelar>osmosis",
             "client": {
@@ -2122,7 +2122,7 @@
         "symbol": "ODIN",
         "description": "Staking and governance token for ODIN Protocol",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/4466eadd0c642a34f8e888b430eae753e3a262a2de741ac91bf468db1ddc29eb.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/odin.svg",
         "coinGeckoId": "odin-protocol",
         "ibc_info": {
             "path": "odin>osmosis",
@@ -3083,7 +3083,7 @@
         "symbol": "MEDAS",
         "description": "The native token of Medas Digital Network",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/a8460b7c30a9f39c44e595a8363ae71e40d9e35c4ddcefb90c40d55f9a8ad12a.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/medas.svg",
         "color": "#147ccc",
         "ibc_info": {
             "path": "medasdigital>osmosis",
@@ -3130,7 +3130,7 @@
         "symbol": "AMBER",
         "description": "The native token cw20 for Amber on Secret Network",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/95410bda303f7d64ac7c644e1735136f1dd761231022adf6fb40998c6d2354e6.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/amber.svg",
         "color": "#f2b854",
         "ibc_info": {
             "path": "secret>osmosis",
@@ -3388,7 +3388,7 @@
         "symbol": "USDC.e.matic.axl",
         "description": "USDC is a fully collateralized US Dollar stablecoin developed by CENTRE, the open source project with Circle being the first of several forthcoming issuers.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/b183ba8f6d7271ed72bdb5c73b082fe0ea760bde7e8ef649a516cd4a674f3b71.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/polygon.usdc.svg",
         "ibc_info": {
             "path": "polygon>axelar>osmosis",
             "client": {
@@ -3410,7 +3410,7 @@
         "symbol": "USDC.avax.axl",
         "description": "USDC is a fully collateralized US Dollar stablecoin developed by CENTRE, the open source project with Circle being the first of several forthcoming issuers.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/891144fdaa4127c0e4201859fa01eff10fc92a4a131ee544782f299d9b3453bd.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/avalanche.usdc.svg",
         "ibc_info": {
             "path": "avalanche>axelar>osmosis",
             "client": {
@@ -3685,7 +3685,7 @@
         "symbol": "ARKH",
         "description": "The native token of Arkhadian",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/5f271ef3742755a574f9d61c429211eae1829cdba977fdfc973e676a7dc17062.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/arkh.svg",
         "color": "#bdbb82",
         "ibc_info": {
             "path": "arkh>osmosis",
@@ -3731,7 +3731,7 @@
         "symbol": "FRNZ",
         "description": "Frienzies are an IBC token redeemable exclusively for a physical asset issued by the Noble entity.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/9d4973b62e2e062a49f93c43f1f323f06402dbe4ffec0458cbb976464d6270a7.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/frnz.svg",
         "color": "#04041c",
         "ibc_info": {
             "path": "noble>osmosis",
@@ -4195,7 +4195,7 @@
         "symbol": "FIL.axl",
         "description": "Filecoin is a decentralized storage network designed to turn cloud storage into an algorithmic market. The network facilitates open markets for storing and retrieving data, where users pay to store their files on storage miners. Filecoin is built on top of the InterPlanetary File System (IPFS), a peer-to-peer storage network. Filecoin aims to store data in a decentralized manner, unlike traditional cloud storage providers.\n\nParticipants in the Filecoin network are incentivized to act honestly and store as much data as possible because they earn the Filecoin cryptocurrency (FIL) in exchange for their storage services. This setup ensures the integrity and accessibility of data stored. Filecoin's model allows for a variety of storage options, including long-term archival storage and more rapid retrieval services, making it a versatile solution for decentralized data storage. The project, developed by Protocol Labs, also focuses on ensuring that data is stored reliably and efficiently.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/b31d6fd60b01bbc875aab480c8baced2f0a8f9f48c6ba77b614cb8e95b0fd36b.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/fil.axl.svg",
         "color": "#0493fc",
         "ibc_info": {
             "path": "filecoin>axelar>osmosis",
@@ -4265,7 +4265,7 @@
         "symbol": "BLZ",
         "description": "The native token of Bluzelle",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/6553a869db15aaa35b8a935580fbdf09cbc41bf099ea49b5db4f893c6829026c.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/blz.png",
         "color": "#708ffc",
         "coinGeckoId": "bluzelle",
         "ibc_info": {
@@ -4289,7 +4289,7 @@
         "symbol": "ARB.axl",
         "description": "Native token of Arbitrum",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/bb145e8842d40075fbcd32440a5976ee03856e9577a6713319fda06768de0db7.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/arb.axl.svg",
         "ibc_info": {
             "path": "arbitrum>axelar>osmosis",
             "client": {
@@ -4357,7 +4357,7 @@
         "symbol": "PEPE.axl",
         "description": "Pepe is a community based memecoin with one mission: to make memecoins great again. Made to honor the iconic meme we all know and love, Pepe is here to take reign as the most memeable memecoin in existence, fueled purely by memetic power. Pepe is for the people.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/f6b8a4f813caa61a6f956800c3c0719a549df02d548553a83a2ee1c8c55e71a4.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/pepe.axl.svg",
         "ibc_info": {
             "path": "ethereum>axelar>osmosis",
             "client": {
@@ -4458,7 +4458,7 @@
         "name": "Wrapped Lido Staked Ether (Axelar)",
         "symbol": "wstETH.eth.axl",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/ba20b83198608b0d1b8c33df38ca08485e0807d12932099ba0fd3f22f8715a1b.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/wstETH.axl.svg",
         "ibc_info": {
             "path": "ethereum>axelar>osmosis",
             "client": {
@@ -4480,7 +4480,7 @@
         "symbol": "LORE",
         "description": "The native token of Gitopia",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/1b77af8b445dc0fa9a606be4f831f2b6ef99399160238c3d193f0bbe34d1e76d.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/ebe13db9358a73353f0c5d8def55b666c6d7a904c5061c6aafdd1e7f5d7c6cbf.png",
         "color": "#2c173c",
         "coinGeckoId": "gitopia",
         "ibc_info": {
@@ -4723,7 +4723,7 @@
         "symbol": "DOT.pica",
         "description": "The native fee, governance, staking, and bonding token of the Polkadot platform.",
         "decimals": 10,
-        "image": "https://cdn.chainroot.io/images/tokens/2fcb0c01be464a6fe04ae80b75c5e7440a8c2ad4006774a045ed74cf58512891.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/dot.pica.svg",
         "ibc_info": {
             "path": "composable>osmosis",
             "client": {
@@ -4862,7 +4862,7 @@
         "symbol": "USDT.kava",
         "description": "Tether gives you the joint benefits of open blockchain technology and traditional currency by converting your cash into a stable digital currency equivalent.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/9b66c2f22347bbb3052aa71d17944cf856e9243e6c1aa4c63a13300be018aa8e.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/8d812a3786178f6dbc556b3cb21411112b7c3a7ac893bf4b70c85e3c2db5a520.png",
         "color": "#049494",
         "coinGeckoId": "tether",
         "ibc_info": {
@@ -4990,7 +4990,7 @@
         "symbol": "SOL.wh",
         "description": "Solana (SOL) is the native asset of the Solana blockchain.",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/02ee8c63be962bcad27d64d163e4632c1758db31456b90da6cdf33ec77c847a8.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/sol.wh.svg",
         "ibc_info": {
             "path": "solana>gateway>osmosis",
             "client": {
@@ -5036,7 +5036,7 @@
         "symbol": "USDT.eth.wh",
         "description": "Tether USD (Wormhole), USDT, factory/wormhole14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/8iuAc6DSeLvi2JDUtwJxLytsZT8R19itXebZsNReLLNi",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/59006b07d0db04d14177c3a966be664770a2e47087777ac5efd6f827e29fa19e.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/usdt.wh.svg",
         "color": "#049393",
         "ibc_info": {
             "path": "ethereum>gateway>osmosis",
@@ -5059,7 +5059,7 @@
         "symbol": "SUI.wh",
         "description": "Sui’s native asset is called SUI.",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/584b8c9807b5855b4d3979888d45ec27a24eb2f7ffba7591cf620209241be4b0.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/sui.wh.svg",
         "ibc_info": {
             "path": "sui>gateway>osmosis",
             "client": {
@@ -5081,7 +5081,7 @@
         "symbol": "APT.wh",
         "description": "Aptos token (APT) is the Aptos blockchain native token used for paying network and transaction fees.",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/744028a462e3c88c372aedbca78ddfe7b2aec6525e85b9b17eedf7cbf71b1664.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/apt.wh.svg",
         "ibc_info": {
             "path": "aptos>gateway>osmosis",
             "client": {
@@ -5149,7 +5149,7 @@
         "symbol": "USDC.eth.wh",
         "description": "USD Coin (Wormhole), USDC, factory/wormhole14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/GGh9Ufn1SeDGrhzEkMyRKt5568VbbxZK2yvWNsd6PbXt",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/22664c19c809dd96ea2f658e03e27c49c3baf35f211721e9e414db6c93ff9f1f.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/usdc.hole.svg",
         "ibc_info": {
             "path": "ethereum>gateway>osmosis",
             "client": {
@@ -5171,7 +5171,7 @@
         "symbol": "ETH.wh",
         "description": "Wrapped Ether (Wormhole), WETH, factory/wormhole14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/5BWqpR48Lubd55szM5i62zK7TFkddckhbT48yy6mNbDp",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/90a8c9fdcc1564ad2cb4a675c72c0b4d356fff758270913713c051005cf8e003.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/weth.hole.svg",
         "ibc_info": {
             "path": "ethereum>gateway>osmosis",
             "client": {
@@ -5424,7 +5424,7 @@
         "symbol": "STRDST",
         "description": "The native token of ohhNFT.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/b932693b966a8b1abb6fe936073825270573fdf57bef0c22c03f5543014e129c.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/dust.svg",
         "color": "#c9720c",
         "ibc_info": {
             "path": "stargaze>osmosis",
@@ -5642,7 +5642,7 @@
         "symbol": "BRNCH",
         "description": "ohhNFT LP token.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/d6b63a8647ddcde683278da180b50d8aa438fdc081cc80207567758fb6027927.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/brnch.svg",
         "color": "#70372a",
         "ibc_info": {
             "path": "stargaze>osmosis",
@@ -5775,7 +5775,7 @@
         "symbol": "V",
         "description": "The resource token of Bostrom",
         "decimals": 3,
-        "image": "https://cdn.chainroot.io/images/tokens/5d7c18793c70260637dd318fd714cf61fcf01bbaff12832f007846f37ecd0973.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/volt.svg",
         "color": "#fba809",
         "ibc_info": {
             "path": "bostrom>osmosis",
@@ -5798,7 +5798,7 @@
         "symbol": "A",
         "description": "The resource token of Bostrom",
         "decimals": 3,
-        "image": "https://cdn.chainroot.io/images/tokens/a94c5dd66534188da446198a3c55b18f1b8f224f1a3c7c7323e9b1bdeee297fd.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/ampere.svg",
         "color": "#f4ecce",
         "ibc_info": {
             "path": "bostrom>osmosis",
@@ -6411,7 +6411,7 @@
         "symbol": "APOLLO",
         "description": "The deflationary utility token of the Apollo DAO project",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/ee16eb8012b0b445279b3f471d1ac999f3635243e970439d16a57fec183eca0d.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/apollo.svg",
         "ibc_info": {
             "path": "neutron>osmosis",
             "client": {
@@ -6614,7 +6614,7 @@
         "symbol": "USDC.sol.wh",
         "description": "Solana USD Coin (Wormhole), Solana USDC, factory/wormhole14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/HJk1XMDRNUbRrpKkNZYui7SwWDMjXZAsySzqgyNcQoU3",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/ddc689316f3372d0e697b76d7612b52f126b37f613c067c44e38dc2956cec3e0.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/solana.USDC.wh.svg",
         "color": "#2775cb",
         "ibc_info": {
             "path": "solana>gateway>osmosis",
@@ -6928,7 +6928,7 @@
         "symbol": "XRP.core",
         "description": "XRP bridged from XRPL",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/bb27821a41e70ff895a6f3ddaec3cee0d49538b87fad5e546ac6623d9b4d5e64.png",
+        "image": "https://cdn.chainroot.io/images/tokens/xrp.core.png",
         "color": "#040404",
         "ibc_info": {
             "path": "xrpl>coreum>osmosis",
@@ -7021,7 +7021,7 @@
         "symbol": "CVN",
         "description": "Cvn is a Layer-1 blockchain built to deliver on the promise of DeFi",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/aeb611a28995b9fdd918b92f455a712a93f8888098bc3ebf052dbe9f568c3f58.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/cvn.svg",
         "color": "#047e04",
         "coinGeckoId": "consciousdao",
         "ibc_info": {
@@ -7090,7 +7090,8 @@
         "description": "BackBone Labs Liquid Staked OSMO",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/90d13fdbebbb63d59ff0c4b3e5c7fb99870992798093bb6c906d87b367fffd0b.png",
-        "color": "#c68db5"
+        "color": "#c68db5",
+        "coinGeckoId": "backbone-staked-osmo"
     },
     {
         "type": "ibc",
@@ -7369,7 +7370,7 @@
         "symbol": "ASTRO",
         "description": "Astroport is a neutral marketplace where anyone, from anywhere in the galaxy, can dock to trade their wares.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/fe05a66083c81929ce7b7577cad56c136835fd6b2905bf37727a81e0865a2cad.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/astro.png",
         "color": "#4056e9",
         "coinGeckoId": "astroport-fi",
         "ibc_info": {
@@ -7415,7 +7416,7 @@
         "symbol": "PAXG.grv",
         "description": "Gravity Bridge Paxos Gold",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/b8b5619a7b8e52af9fb760323d1fee8a972fd7cbfadb484b8f7a9ded487bfa00.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/paxg.grv.svg",
         "color": "#ddc81a",
         "ibc_info": {
             "path": "ethereum>gravity-bridge>osmosis",
@@ -7471,7 +7472,7 @@
         "symbol": "ETH.pica",
         "description": "The native token of Ethereum, bridged via IBC.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/e6c1392fa9281e6c3b0f459dcd309f616c4ec0415522dcde30f735b0202f7287.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/eth.pica.svg",
         "ibc_info": {
             "path": "composable>osmosis",
             "client": {
@@ -7493,7 +7494,7 @@
         "symbol": "DAI.pica",
         "description": "A stablecoin issued by Maker Protocol.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/e0b5fc6f8be5fc504f688da3a6022b096c54384363fecb59c37ffd87294f483c.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/dai.pica.svg",
         "ibc_info": {
             "path": "composable>osmosis",
             "client": {
@@ -7515,7 +7516,7 @@
         "symbol": "FXS.pica",
         "description": "The governance token of the Frax ecosystem.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/c3763acbfd2ac8513db65650492a676b5775e8695987c1b425ac3689c25f47ff.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/fxs.pica.svg",
         "ibc_info": {
             "path": "composable>osmosis",
             "client": {
@@ -7537,7 +7538,7 @@
         "symbol": "FRAX.pica",
         "description": "The first fractional-algorithmic stablecoin by Frax Finance.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/527446ae8ab2d0daa53cf470bac4d6fe4122b5a53e22d8d5664f2bdab60443d5.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/frax.pica.svg",
         "ibc_info": {
             "path": "composable>osmosis",
             "client": {
@@ -7559,7 +7560,7 @@
         "symbol": "USDT.eth.pica",
         "description": "A stablecoin issued by Tether that is pegged 1:1 to the USD.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/88ebc636355f639eabf51798deb6be616679f7664da80caa62dd3d25c91d561e.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/usdt.pica.svg",
         "color": "#049494",
         "ibc_info": {
             "path": "composable>osmosis",
@@ -7582,7 +7583,7 @@
         "symbol": "sFRAX.pica",
         "description": "An ERC4626 staking vault that distributes part of the Frax Protocol yield weekly to stakers denominated in FRAX stablecoins. ",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/2d0f3bbb1824e540f8101a52bad398f0aa284cd14fdd3873e5571bc5d2877942.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/sfrax.pica.svg",
         "ibc_info": {
             "path": "composable>osmosis",
             "client": {
@@ -7604,7 +7605,7 @@
         "symbol": "frxETH.pica",
         "description": "A liquid ETH staking derivative designed to leverage the Frax ecosystem.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/0e08479738906230eefb992d0c048332ec832f90d4aa320243f87a6fccca3bc6.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/frxeth.pica.svg",
         "ibc_info": {
             "path": "composable>osmosis",
             "client": {
@@ -7626,7 +7627,7 @@
         "symbol": "sfrxETH.pica",
         "description": "A Liquid Staking Derivative designed to accrue the staking yield of the Frax ETH validators.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/81588d4d36952591912fa9a14938bfed8fdd4bd08249663ffd9b53840bd64e85.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/sfrxeth.pica.svg",
         "ibc_info": {
             "path": "composable>osmosis",
             "client": {
@@ -7933,7 +7934,7 @@
         "symbol": "PEPE.pica",
         "description": "PEPE is a deflationary memecoin launched on Ethereum. ",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/c275f87919480a8b2b40ac2cc3783672ceb7b2a1756eaafbf0875e0709c48a82.png",
+        "image": "https://cdn.chainroot.io/images/tokens/pepe.pica.png",
         "ibc_info": {
             "path": "composable>osmosis",
             "client": {
@@ -7955,7 +7956,7 @@
         "symbol": "CRV.pica",
         "description": "CRV is the governance token for Curve Finance.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/d5fdf159043caf4d45ac52497548a8544fc2d36d3f6706f581b54907b9337874.png",
+        "image": "https://cdn.chainroot.io/images/tokens/crv.pica.png",
         "ibc_info": {
             "path": "composable>osmosis",
             "client": {
@@ -7977,7 +7978,7 @@
         "symbol": "ezETH.pica",
         "description": "A Liquid Restaking Token (LRT) and Strategy Manager for EigenLayer.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/f6dee3c00c1ea7bf8c5464a56f8133463c928808a1a240dc60d8d63049e771ed.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ezeth.pica.png",
         "ibc_info": {
             "path": "composable>osmosis",
             "client": {
@@ -7999,7 +8000,7 @@
         "symbol": "USDe.pica",
         "description": "Ethena USDe is a synthetic dollar protocol built on Ethereum.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/62e63b4078ae2ebcafc55eacccb8be77cd2e476b10e7c6a7a1578d5e4553e6a4.png",
+        "image": "https://cdn.chainroot.io/images/tokens/usde.pica.png",
         "ibc_info": {
             "path": "composable>osmosis",
             "client": {
@@ -8021,7 +8022,7 @@
         "symbol": "ENA.pica",
         "description": "The native governance token of Ethena.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/f75d6af3b794ea281e7c801896aefa74d3959d1e7d7e29ee00671fae39a6efad.png",
+        "image": "https://cdn.chainroot.io/images/tokens/ena.pica.png",
         "ibc_info": {
             "path": "composable>osmosis",
             "client": {
@@ -8043,7 +8044,7 @@
         "symbol": "eETH.pica",
         "description": "eETH is a natively restaked liquid staking token on Ethereum.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/eb58f0501376804455c75df443e1a1906feb6b2a1341f933ce92f46b0da79231.png",
+        "image": "https://cdn.chainroot.io/images/tokens/eeth.pica.png",
         "ibc_info": {
             "path": "composable>osmosis",
             "client": {
@@ -8065,7 +8066,7 @@
         "symbol": "pxETH.pica",
         "description": "pxETH is built on top of the Pirex platform and forms the foundation of the Dinero protocol.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/4b2638b9bbd1aebe6d7722b98a036bfa21571d6b2bed18baf8f721d7e8dc592a.png",
+        "image": "https://cdn.chainroot.io/images/tokens/pxeth.pica.png",
         "ibc_info": {
             "path": "composable>osmosis",
             "client": {
@@ -8087,7 +8088,7 @@
         "symbol": "crvUSD.pica",
         "description": "A collateralized-debt-position (CDP) stablecoin by Curve DAO.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/117b1c32d019a3512e14995e625de1ff84acd6840a169177cd1a823814ca96f5.png",
+        "image": "https://cdn.chainroot.io/images/tokens/crvUSD.pica.png",
         "ibc_info": {
             "path": "composable>osmosis",
             "client": {
@@ -8139,7 +8140,7 @@
         "symbol": "USDT.sol.pica",
         "description": "Tether, issued natively on Solana.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/42da0f1ef518c011bca50102fd99f12da48c90520b01910a8c9ace1e908ddc2f.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/usdt.solana.pica.svg",
         "color": "#089496",
         "ibc_info": {
             "path": "composable>osmosis",
@@ -8162,7 +8163,7 @@
         "symbol": "edgeSOL.pica",
         "description": "A representative token for staked SOL, derived through the process of liquid staking SOL using the Edgevana protocol.",
         "decimals": 9,
-        "image": "https://cdn.chainroot.io/images/tokens/b524fd7d7ec8e6e97177d7036ca9ab5957673927b40deefcd2eed4379466e9fe.png",
+        "image": "https://cdn.chainroot.io/images/tokens/edgesol.pica.png",
         "ibc_info": {
             "path": "composable>osmosis",
             "client": {
@@ -8184,7 +8185,7 @@
         "symbol": "LST.pica",
         "description": "A representative token for staked SOL, derived through the process of liquid staking SOL using the MarginFi protocol.",
         "decimals": 9,
-        "image": "https://cdn.chainroot.io/images/tokens/106ed3f95eac563b056fac3f834c4ac346b967b0f07a9b0d6d760b16d9173425.png",
+        "image": "https://cdn.chainroot.io/images/tokens/lst.pica.png",
         "ibc_info": {
             "path": "composable>osmosis",
             "client": {
@@ -8206,7 +8207,7 @@
         "symbol": "jitoSOL.pica",
         "description": "A representative token for staked SOL, derived through the process of liquid staking SOL using Jito.",
         "decimals": 9,
-        "image": "https://cdn.chainroot.io/images/tokens/c6a46680710b7560ea09459163e6019c5e47e30126e4bd557c114b9a58b0f7a2.png",
+        "image": "https://cdn.chainroot.io/images/tokens/jitosol.pica.png",
         "ibc_info": {
             "path": "composable>osmosis",
             "client": {
@@ -8350,7 +8351,7 @@
         "name": "Wrapped Ether (Arbitrum via Axelar)",
         "symbol": "ETH.arb.axl",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/59c0c0bbbb81f3226ea61ac51303f5bf72fe835b18231a948d26eebb42e9160d.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/eth.arb.axl.svg",
         "ibc_info": {
             "path": "arbitrum>axelar>osmosis",
             "client": {
@@ -8371,7 +8372,7 @@
         "name": "Wrapped Ether (Base via Axelar)",
         "symbol": "ETH.base.axl",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/77fe51a5fce1b5bde6cb6aa919deb97a0870bf401e0d3881b99a53d46e334dae.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/eth.base.axl.svg",
         "ibc_info": {
             "path": "base>axelar>osmosis",
             "client": {
@@ -8392,7 +8393,7 @@
         "name": "Wrapped Ether (Polygon via Axelar)",
         "symbol": "ETH.matic.axl",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/cae52eae4d815d259ae2c8b1c7cd124d39c97a044c9a3b329bbcafca2b31b8cc.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/eth.matic.axl.svg",
         "ibc_info": {
             "path": "polygon>axelar>osmosis",
             "client": {
@@ -8633,7 +8634,7 @@
         "symbol": "TRX.rt",
         "description": "TRONIX is the mainnet native token of the TRON Protocol issued by TRON DAO, known as TRX.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/54e2d76c479528456420dd0617019cb9d9cd1e0bcf856eeeb02f9f6a0f9091df.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/trx.rt.svg",
         "bridge_info": {
             "path": "tron>osmosis"
         }
@@ -8645,7 +8646,7 @@
         "symbol": "USDT.eth.rt",
         "description": "A synthetic version of USDT issued by Router, which can be unwrapped to USDT on several chains.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/515009eded9871bec07db4f6afe7cb419d1228bbfdf44b3ecb4e8fd18de88fd6.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/usdt.rt.svg",
         "color": "#009393"
     },
     {
@@ -8754,7 +8755,7 @@
         "name": "Optimism (Axelar)",
         "symbol": "OP.axl",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/c61621014d4b13e3a6351f5b14ecbf309b0e8f538b40e66bf42492bec9a43089.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/op.axl.svg",
         "ibc_info": {
             "path": "optimism>axelar>osmosis",
             "client": {
@@ -8831,7 +8832,7 @@
         "symbol": "UWU.pica",
         "description": "Unicorn from Solana via Picasso IBC",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/5a288efb81087bacbd3008cd84d3e23ff7082cab987af76e05b06c76fd53f1b1.png",
+        "image": "https://cdn.chainroot.io/images/tokens/UWU.pica.png",
         "ibc_info": {
             "path": "composable>osmosis",
             "client": {
@@ -8897,7 +8898,7 @@
         "symbol": "USDT.inj",
         "description": "Tether USDt from Ethereum via Peggy bridge.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/6063deeb7942ca14e56296d1ab0c12c1795a5c12845430cefa178b0e2a885bbf.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/usdt.inj.svg",
         "ibc_info": {
             "path": "ethereum>injective>osmosis",
             "client": {
@@ -8983,7 +8984,7 @@
         "symbol": "TON.orai",
         "description": "The native token of TON",
         "decimals": 9,
-        "image": "https://cdn.chainroot.io/images/tokens/990198d2c56424d9f8cfff519171f0125a94f5cd57586363ed084a88d5f4914d.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/ton.orai.svg",
         "ibc_info": {
             "path": "ton>orai-chain>osmosis",
             "client": {
@@ -9059,7 +9060,7 @@
         "symbol": "AVAIL.eth.rt",
         "description": "Avail is a web3 infrastructure layer that allows modular execution layers to scale and interoperate in a trust minimized way.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/cb179af247ccfc654bcd4036516d89a41011ffe3d8249a029470c7f519d2236e.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/avail.eth.rt.svg",
         "color": "#2B80D7",
         "bridge_info": {
             "path": "ethereum>osmosis"
@@ -9263,7 +9264,7 @@
         "symbol": "UNI.axl",
         "description": "Uniswap UNI on Osmosis via Axelar",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/581e1f6e2f6713ce9b036bec58395ed6a213bd05e47a8d052e730f0271b17b37.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/uni.axl.svg",
         "color": "#FF007A",
         "ibc_info": {
             "path": "ethereum>axelar>osmosis",
@@ -9341,7 +9342,7 @@
         "symbol": "DOGE.int3",
         "description": "Dogecoin on Int3face",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/e9df98dcb445a603fb8651607120de760e7a44bf4bcdf3668c69b7d72d7e5d08.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/doge.int3.svg",
         "ibc_info": {
             "path": "dogecoin>int3face>osmosis",
             "client": {
@@ -9429,7 +9430,7 @@
         "symbol": "USDT.e.arb.axl",
         "description": "Tether's USD stablecoin from Arbitrum on Axelar",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/88b66875d3eb3fa97a2d89f917cd4ba0f206a64f8a75df01e44d1f691d1a348b.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/usdt.arb.axl.svg",
         "ibc_info": {
             "path": "arbitrum>axelar>osmosis",
             "client": {
@@ -9451,7 +9452,7 @@
         "symbol": "USDT.e.op.axl",
         "description": "Tether's USD stablecoin from Optimism on Axelar",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/b34ea1da598cb554f269b5aa301cd06b679af6cd8743c4cf3b7ca9803c8f9a8d.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/usdt.op.axl.svg",
         "ibc_info": {
             "path": "optimism>axelar>osmosis",
             "client": {
@@ -9473,7 +9474,7 @@
         "symbol": "USDT.e.matic.axl",
         "description": "Tether's USD stablecoin from Polygon on Axelar",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/8c490ec443cf590448e209fdd954d0fb882c15666cf60969bc70ba2e36d81293.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/usdt.pol.axl.svg",
         "ibc_info": {
             "path": "polygon>axelar>osmosis",
             "client": {
@@ -9495,7 +9496,7 @@
         "symbol": "$cbBTC.base.axl",
         "description": "Coinbase Wrapped Bitcoin on Axelar",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/d6fc096ab5c066d1a4b316c259aa4d37e57b1b27d8fc1fc1be0aca35a390700d.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/cbBTC.base.axl.svg",
         "ibc_info": {
             "path": "base>axelar>osmosis",
             "client": {
@@ -9517,7 +9518,7 @@
         "symbol": "FBTC.axl",
         "description": "Fire Bitcoin on Axelar",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/fd98ff2f3d38ca449dcad5963e9a0f5bf6a17b0447d6238fbe441cef4d8ffc95.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/fbtc.axl.svg",
         "ibc_info": {
             "path": "mantle>axelar>osmosis",
             "client": {
@@ -9539,7 +9540,7 @@
         "symbol": "LBTC.axl",
         "description": "Lombard Staked Bitcoin on Axelar",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/0baef03526473e64a746cf51792d514383acd95e5c9254f1009acb16ebb47e9c.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/lbtc.axl.svg",
         "ibc_info": {
             "path": "ethereum>axelar>osmosis",
             "client": {
@@ -9555,13 +9556,59 @@
         }
     },
     {
+        "type": "ibc",
+        "denom": "ibc/89EE10FCF78800B572BAAC7080AEFA301B5F3BBC51C5371E907EB129C5B900E7",
+        "name": "Lombard Staked BTC",
+        "symbol": "LBTC",
+        "description": "Lombard Staked BTC.",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/lbtc.png",
+        "coinGeckoId": "lombard-staked-btc",
+        "ibc_info": {
+            "path": "lombard>cosmos>osmosis",
+            "client": {
+                "channel": "channel-0",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-141",
+                "port": "transfer",
+                "chain": "cosmos",
+                "denom": "ibc/DBD9E339E1B093A052D76BECFFDE8435EAC114CF2133346B4D691F3F2068C957"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/88386AC48152D48B34B082648DF836F975506F0B57DBBFC10A54213B1BF484CB",
+        "name": "Wrapped Bitcoin",
+        "symbol": "WBTC",
+        "description": "Wrapped Bitcoin via Eureka",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/347e4b450cbbf16ce16b53366a98a4571a507e5d461fff90efee028abbf76dd0.png",
+        "coinGeckoId": "wrapped-bitcoin",
+        "ibc_info": {
+            "path": "ethereum>cosmos>osmosis",
+            "client": {
+                "channel": "channel-0",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-141",
+                "port": "transfer",
+                "chain": "cosmos",
+                "denom": "ibc/D742E8566B0B8CC8F569D950051C09CF57988A88F0E45574BFB3079D41DE6462"
+            }
+        }
+    },
+    {
         "type": "native",
         "denom": "factory/osmo1myv2g72h8dan7n4hx7stt3mmust6ws03zh6gxc7vz4hpmgp5z3lq9aunm9/BTC.rt",
         "name": "Rootstock (Router)",
         "symbol": "RBTC.rt",
         "description": "Roostock BTC bridged via Router.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/ce4b4f1f0c34a497a3f64a119f69f130484b2c2668bfe47bc26922542604240d.svg"
+        "image": "https://cdn.chainroot.io/images/tokens/rbtc.rt.svg"
     },
     {
         "type": "native",
@@ -9640,6 +9687,29 @@
                 "port": "transfer",
                 "chain": "atomone",
                 "denom": "uatone"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/D6E02C5AE8A37FC2E3AB1FC8AC168878ADB870549383DFFEA9FD020C234520A7",
+        "name": "Photon",
+        "symbol": "PHOTON",
+        "description": "Sole fee token used to pay all transaction fees on the AtomOne network and is minted by burning ATONE tokens.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/e46c2ad5e95be40ccd2a379dd00462fd1322f4225a501e540c2a79d5fc58d076.png",
+        "coinGeckoId": "photon-2",
+        "ibc_info": {
+            "path": "atomone>osmosis",
+            "client": {
+                "channel": "channel-94814",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-2",
+                "port": "transfer",
+                "chain": "atomone",
+                "denom": "uphoton"
             }
         }
     },
@@ -10519,7 +10589,7 @@
         "name": "Wormhole USDC(Avalanche)",
         "symbol": "avalanche.USDC.wh",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/22664c19c809dd96ea2f658e03e27c49c3baf35f211721e9e414db6c93ff9f1f.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/usdc.hole.svg",
         "color": "#2474cb",
         "ibc_info": {
             "path": "gateway>osmosis",
@@ -10575,7 +10645,7 @@
         "symbol": "BRNZ",
         "description": "Memecoin for The International Brane Wave",
         "decimals": 0,
-        "image": "https://cdn.chainroot.io/images/tokens/e74e47bb0e3bcf32320aaf9116075ed22a3c88be0de7b9a6569f876dd87e60e9.svg"
+        "image": "https://cdn.chainroot.io/images/tokens/BRNZ.svg"
     },
     {
         "type": "native",
@@ -10879,7 +10949,7 @@
         "color": "#D8A24A",
         "coinGeckoId": "pax-gold",
         "ibc_info": {
-            "path": "cosmos>osmosis",
+            "path": "ethereum>cosmos>osmosis",
             "client": {
                 "channel": "channel-0",
                 "port": "transfer"
@@ -10888,7 +10958,7 @@
                 "channel": "channel-141",
                 "port": "transfer",
                 "chain": "cosmos",
-                "denom": "ibc/0EF5630576C66968EF0787868CF09FD866FAD131BC148D24A148358A85F0EB62"
+                "denom": "ibc/09E95F57939E344EE36109AC41780B8A51F1FE0548A5203C5957674FF64C0F26"
             }
         }
     },
@@ -10958,6 +11028,191 @@
                 "port": "transfer",
                 "chain": "nillion",
                 "denom": "unil"
+            }
+        }
+    },
+    {
+        "type": "native",
+        "denom": "factory/osmo12r3yc76u9lxe33yemstatnw8602culdjzrtr8lmnpycmd3z7d4jsxx60kc/FwNhFaW3zLxoLUgXCdWjqBzcvGNPaB7B2XZqm2xgrB93",
+        "name": "eBABY",
+        "symbol": "eBABY",
+        "description": "ESCHER LST for Babylon",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/3417745c4d7d9ed2d41e817cb5b60e2886170875110c62f82520d76f3bc94b7b.svg",
+        "color": "#0008FF",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/2CC08A10459B40B0251B8CB9C036C98BED1ABBD5F03772E371DCD0FFDA3EC7F3",
+        "name": "SolvBTC",
+        "symbol": "SolvBTC",
+        "description": "SolvBTC is a universal Bitcoin reserve",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/0fb50b398fb6a8cf27cf55da907838d49a3ab7a2f0855854b06e5fc033ecb117.png",
+        "coinGeckoId": "solv-btc",
+        "ibc_info": {
+            "path": "ethereum>cosmos>osmosis",
+            "client": {
+                "channel": "channel-0",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-141",
+                "port": "transfer",
+                "chain": "cosmos",
+                "denom": "ibc/0C4417F123459B47B6933939BF6F128C362B0C1F9EDA6A6EBC08860E4672AF7E"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/5DD535CC5244A556F78ACAFD1067D93C0FB335E69600343840D66E76CE46B30B",
+        "name": "Sunrise RISE",
+        "symbol": "RISE",
+        "description": "Sunrise Native Coin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/rise.png",
+        "coinGeckoId": "sunrise-layer",
+        "ibc_info": {
+            "path": "sunrise>osmosis",
+            "client": {
+                "channel": "channel-106275",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-3",
+                "port": "transfer",
+                "chain": "sunrise",
+                "denom": "urise"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/2B46DD47EBAA57FB76436A1E5758BDE6356A8CE04D9FE879F95F838FAAD231B6",
+        "name": "Sunrise USDrise",
+        "symbol": "USDrise",
+        "description": "Sunrise USD Stable Coin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/usdrise.png",
+        "coinGeckoId": "",
+        "ibc_info": {
+            "path": "sunrise>osmosis",
+            "client": {
+                "channel": "channel-106275",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-3",
+                "port": "transfer",
+                "chain": "sunrise",
+                "denom": "uusdrise"
+            }
+        }
+    },
+    {
+        "type": "native",
+        "denom": "factory/osmo1t82ql2w69m9g3un7c6sk5wss578ewst2uscr7zdkn6k8rmzc3e8qz9n4q2/alloyed/allUSD",
+        "name": "Osmosis Alloyed USD",
+        "symbol": "allUSD",
+        "description": "An alloy of USD asset variants on Osmosis.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/12c54c243c1863f0a09497987048d5db74d9cc06b7fa32d530a1e1559d6e6944.svg",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "factory/osmo1gzcz4anh88fz3vanx0842gsa3y8jcvck3qw90e/uallin",
+        "name": "ALLIN",
+        "symbol": "ALLIN",
+        "description": "ALLiN Gaming is a GameFi platform on Dymension and Osmosis, featuring casino games, PvP games, and prediction markets. It offers a fun, transparent, and rewarding experience with a unique points system.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/3a0c96d4731cf218b5f0eeaf4bd370d2da06390f1a1b882f8c6914f95c11708c.png"
+    },
+    {
+        "type": "native",
+        "denom": "factory/osmo1are7fpe5l6jzm9sjn7u4qkq6q77wwrrsxzlyw8lcegmmaxdukvuq4h46dx/LABS",
+        "name": "Labrador",
+        "symbol": "LABS",
+        "description": "Community-secured Meme token on Osmosis",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/26915a142694bada635e95b9e8246df1705c47eea4a59dde8a18e1d1204a6cde.png"
+    },
+    {
+        "type": "native",
+        "denom": "factory/osmo1x7s7a2erqspkm6e79n7yh7fw3yh7xx4lt54mxg/uquark",
+        "name": "Quark",
+        "symbol": "QUARK",
+        "description": "Quark ($QUARK) is an Osmosis token launched on the Cosmos Hub.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/e843ca19cfbd5c72d40e957baf590783ffde657e884ec7d914e1d1547c65db75.png"
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/32C4AEE2B3C4F767A351FA821AB0140B10CB690CDED27D9FCC857859B44432B9",
+        "name": "Lumera",
+        "symbol": "LUME",
+        "description": "Lumera Mainnet Staking Coin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/lume.png",
+        "coinGeckoId": "",
+        "ibc_info": {
+            "path": "lumera>osmosis",
+            "client": {
+                "channel": "channel-106313",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-0",
+                "port": "transfer",
+                "chain": "lumera",
+                "denom": "ulume"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/BE072C03DA544CF282499418E7BC64D38614879B3EE95F9AD91E6C37267D4836",
+        "name": "Intento",
+        "symbol": "INTO",
+        "description": "Intento native token",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/03bba8a1d2abcc98001944352909f2464afa2c27d4d10752913d9f0ab63802c3.png",
+        "color": "#BDE3F4",
+        "ibc_info": {
+            "path": "intento>osmosis",
+            "client": {
+                "channel": "channel-106076",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-3",
+                "port": "transfer",
+                "chain": "intento",
+                "denom": "uinto"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/3AF2E322D4B54BB97EEE24760ED25B725842A9B62C759402AB8AADD75915FD14",
+        "name": "OPHIR",
+        "symbol": "OPHIR",
+        "description": "OPHIR is a Cosmos Treasury DAO established on Migaloo.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/e20ba6afa266dfa7b37bb345965a0f335bf670989f36eed4ac7451a696a2922f.png",
+        "ibc_info": {
+            "path": "migaloo>osmosis",
+            "client": {
+                "channel": "channel-642",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-5",
+                "port": "transfer",
+                "chain": "migaloo",
+                "denom": "factory/migaloo1t862qdu9mj5hr3j727247acypym3ej47axu22rrapm4tqlcpuseqltxwq5/ophir"
             }
         }
     }

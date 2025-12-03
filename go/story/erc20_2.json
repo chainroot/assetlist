@@ -16,8 +16,7 @@
         "symbol": "SONA",
         "description": "Sona (Sona)",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/unknown.png",
-        "wallet_preload": true
+        "image": "https://cdn.chainroot.io/images/tokens/unknown.png"
     },
     {
         "type": "erc20",
@@ -26,8 +25,7 @@
         "symbol": "PIPE",
         "description": "PipeCoin (PIPE)",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/unknown.png",
-        "wallet_preload": true
+        "image": "https://cdn.chainroot.io/images/tokens/unknown.png"
     },
     {
         "type": "erc20",
@@ -36,8 +34,7 @@
         "symbol": "WTF",
         "description": "WhatTheFreg (WTF)",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/unknown.png",
-        "wallet_preload": true
+        "image": "https://cdn.chainroot.io/images/tokens/unknown.png"
     },
     {
         "type": "erc20",

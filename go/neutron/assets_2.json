@@ -132,7 +132,7 @@
         "symbol": "ASTRO.cw20",
         "description": "Astroport is a neutral marketplace where anyone, from anywhere in the galaxy, can dock to trade their wares.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/57d8651df1c518e517dc53d4a5ed987e40adb70b507bfd65231a3fdd3ce3ee3c.png",
+        "image": "https://cdn.chainroot.io/images/tokens/astro.png",
         "coinGeckoId": "astroport-fi",
         "ibc_info": {
             "path": "terra>neutron",
@@ -191,6 +191,29 @@
                 "port": "transfer",
                 "chain": "celestia",
                 "denom": "utia"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/28FC965E05DB1A4C0A6DE6B720F67AFF8CAB571FE262824976DDDFF49A4BAAF7",
+        "name": "Elys Network",
+        "symbol": "ELYS",
+        "description": "The native token of Elys Network",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/888e3365135e9c1425cc3648d6eeb04f8c58248670d1035cfb883f2da74dca35.png",
+        "coinGeckoId": "elys-network",
+        "ibc_info": {
+            "path": "elys>neutron",
+            "client": {
+                "channel": "channel-6476",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-16",
+                "port": "transfer",
+                "chain": "elys",
+                "denom": "uelys"
             }
         }
     },
@@ -649,7 +672,7 @@
         "symbol": "ASTRO",
         "description": "Astroport is a neutral marketplace where anyone, from anywhere in the galaxy, can dock to trade their wares.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/57d8651df1c518e517dc53d4a5ed987e40adb70b507bfd65231a3fdd3ce3ee3c.png",
+        "image": "https://cdn.chainroot.io/images/tokens/astro.png",
         "coinGeckoId": "astroport-fi",
         "color": "#4056e9"
     },
@@ -1057,7 +1080,7 @@
         "symbol": "DOGE.int3",
         "description": "Dogecoin on Int3face",
         "decimals": 8,
-        "image": "https://cdn.chainroot.io/images/tokens/26c20aff04d63ad9f8e86d4c09f68f6c62949b4165700aca37a7b3980846f962.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/doge.int3.svg",
         "ibc_info": {
             "path": "dogecoin>int3face>neutron",
             "client": {
@@ -1160,5 +1183,15 @@
                 "denom": "uusdn"
             }
         }
+    },
+    {
+        "type": "native",
+        "denom": "factory/neutron1r5qx58l3xx2y8gzjtkqjndjgx69mktmapl45vns0pa73z0zpn7fqgltnll/TAB",
+        "name": "TabCoin",
+        "symbol": "TAB",
+        "description": "TabCoin.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/989cd340cf5ff1c7426cbbb45c9f375ccb3a27946fe0fe9a7262984b301d2b2e.png",
+        "coinGeckoId": ""
     }
 ]

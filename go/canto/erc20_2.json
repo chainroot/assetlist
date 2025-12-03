@@ -18,8 +18,7 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/weth.png",
-        "coinGeckoId": "weth",
-        "wallet_preload": true
+        "coinGeckoId": "weth"
     },
     {
         "type": "erc20",

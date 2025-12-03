@@ -11,6 +11,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/937324F985D229492B79CB312BDAA45A40C6DBBE12E8DAD86A29BBF857043F9C",
+    "symbol": "stDYDX",
+    "name": "stDYDX",
+    "description": "Stride's liquid staked DYDX",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/8b20e640142bf7e1dee700972d857f29fffe01b14aa0db763a397d99c3361845.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/6DE0F51215FD3A0B34BDDC97C78D327A8D8A05E5AD817B34343BDE830D0FC524",
     "symbol": "COSMO",
     "name": "COSMO",

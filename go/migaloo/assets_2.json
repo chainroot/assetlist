@@ -108,5 +108,25 @@
         "image": "https://cdn.chainroot.io/images/tokens/454e71c239d2eca91fecf9d46715507bceec71fe81289d4ff19065a459d30e40.png",
         "coinGeckoId": "",
         "color": "#3ccc64"
+    },
+    {
+        "type": "native",
+        "denom": "factory/migaloo1t862qdu9mj5hr3j727247acypym3ej47axu22rrapm4tqlcpuseqltxwq5/ophir",
+        "name": "OPHIR",
+        "symbol": "OPHIR",
+        "description": "OPHIR is a Cosmos Treasury DAO established on Migaloo.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/e20ba6afa266dfa7b37bb345965a0f335bf670989f36eed4ac7451a696a2922f.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "factory/migaloo1erul6xyq0gk6ws98ncj7lnq9l4jn4gnnu9we73gdz78yyl2lr7qqrvcgup/ash",
+        "name": "ASH",
+        "symbol": "ASH",
+        "description": "ASH",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/ef2679acadea149a8a047380dbb324019622a6e79832b09b5745b14e95d3bfef.svg",
+        "coinGeckoId": ""
     }
 ]

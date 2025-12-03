@@ -51,6 +51,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/72ED1894D412B12F7AB2943061F4BEC0F0725901FCC6F0EC916E474FEA1464D1",
+    "symbol": "DVPN",
+    "name": "dvpn",
+    "description": "Sentinel is a decentralized VPN (dVPN) network that provides private and secure internet access by leveraging blockchain technology.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7a3905dcc2698978708d7c48b563436e57eb9f03b31440589fee31adf3c218db.svg",
+    "coinGeckoId": "sentinel"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/B1C0DDB14F25279A2026BC8794E12B259F8BDA546A3C5132CCAEE4431CE36783",
     "symbol": "DEC",
     "name": "dec",
@@ -96,18 +106,8 @@
     "name": "scrt",
     "description": "Secret Network is a privacy-focused blockchain that enables private and secure smart contracts, protecting sensitive data.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/4e950180cbb20a28d82f99bc2243211928ef4995504af4b4029ba1f3031fde4a.svg",
+    "image": "https://cdn.chainroot.io/images/tokens/scrt.svg",
     "coinGeckoId": "secret"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/72ED1894D412B12F7AB2943061F4BEC0F0725901FCC6F0EC916E474FEA1464D1",
-    "symbol": "DVPN",
-    "name": "dvpn",
-    "description": "Sentinel is a decentralized VPN (dVPN) network that provides private and secure internet access by leveraging blockchain technology.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/7a3905dcc2698978708d7c48b563436e57eb9f03b31440589fee31adf3c218db.svg",
-    "coinGeckoId": "sentinel"
   },
   {
     "type": "ibc",
@@ -116,7 +116,7 @@
     "name": "medas",
     "description": "The native token of Medas Digital Network",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/a8460b7c30a9f39c44e595a8363ae71e40d9e35c4ddcefb90c40d55f9a8ad12a.svg",
+    "image": "https://cdn.chainroot.io/images/tokens/medas.svg",
     "coinGeckoId": ""
   },
   {
@@ -166,7 +166,7 @@
     "name": "medas",
     "description": "The native token of Medas Digital Network",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/a8460b7c30a9f39c44e595a8363ae71e40d9e35c4ddcefb90c40d55f9a8ad12a.svg",
+    "image": "https://cdn.chainroot.io/images/tokens/medas.svg",
     "coinGeckoId": ""
   },
   {

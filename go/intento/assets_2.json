@@ -1,0 +1,12 @@
+[
+    {
+        "type": "native",
+        "denom": "uinto",
+        "name" : "Intento",
+        "symbol": "INTO",
+        "description": "The native token of Intento",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/03bba8a1d2abcc98001944352909f2464afa2c27d4d10752913d9f0ab63802c3.png",
+        "coinGeckoId": ""
+    }
+]

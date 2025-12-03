@@ -1,0 +1,12 @@
+[
+    {
+        "type": "native",
+        "denom": "upokt",
+        "name" : "POKT",
+        "symbol": "POKT",
+        "description": "The native token of Pocket Network",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/pokt.png",
+        "coinGeckoId": "pocket-network"
+    }
+]

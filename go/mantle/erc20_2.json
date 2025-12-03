@@ -1,0 +1,155 @@
+[
+    {
+        "type": "erc20",
+        "contract": "0x201EBa5CC46D216Ce6DC03F6a759e8E766e956aE",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "description": "",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/8d812a3786178f6dbc556b3cb21411112b7c3a7ac893bf4b70c85e3c2db5a520.png",
+        "coinGeckoId": "tether",
+        "wallet_preload": true
+    },
+    {
+        "type": "erc20",
+        "contract": "0x09Bc4E0D864854c6aFB6eB9A9cdF58aC190D0dF9",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "description": "USD Coin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
+        "coinGeckoId": "usd-coin",
+        "wallet_preload": true
+    },
+    {
+        "type": "erc20",
+        "contract": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111",
+        "name": "WETH",
+        "symbol": "WETH",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/weth.png",
+        "coinGeckoId": "weth"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xE6829d9a7eE3040e1276Fa75293Bde931859e8fA",
+        "name": "cmETH",
+        "symbol": "cmETH",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/2981699025df06e185da90add98a5071d5695e051b226f5d2397a399941b04d2.png",
+        "coinGeckoId": "mantle-restaked-eth"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xcDA86A272531e8640cD7F1a92c01839911B90bb0",
+        "name": "mETH",
+        "symbol": "mETH",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/470e48c526dbce39612b8f0e8938eeb8379c12df871e30d87c834240bf2dfb94.png",
+        "coinGeckoId": "mantle-staked-ether"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+        "name": "USDe",
+        "symbol": "USDe",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/ebcddcfa6ad45f35d17a21fa6d55e0a8a4c368d8055913579aba456946310999.png",
+        "coinGeckoId": "mantle-bridged-usde-mantle"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x9F0C013016E8656bC256f948CD4B79ab25c7b94D",
+        "name": "COOK",
+        "symbol": "COOK",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/c0596f650e6a85fce7db6eaff1d289df46cd15bb06f61d98c4c1330f5c93dd35.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "erc20",
+        "contract": "0x4515A45337F461A11Ff0FE8aBF3c606AE5dC00c9",
+        "name": "Moe Token",
+        "symbol": "MOE",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/ffed43e82690a73dd3d593510428f726c718af932da08005610d564b6d72764f.png",
+        "coinGeckoId": "moe-3"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x5bE26527e817998A7206475496fDE1E68957c5A6",
+        "name": "Ondo U.S. Dollar Yield",
+        "symbol": "USDY",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/663c78434d7b52fb64b590c524cb5438abbfe829bfa0b25ea40dc4805c69a6fe.png",
+        "coinGeckoId": "ondo-us-dollar-yield"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x78c1b0C915c4FAA5FffA6CAbf0219DA63d7f4cb8",
+        "name": "Wrapped Mantle",
+        "symbol": "WMNT",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/78bdd06bbd981293744dc91eaf7d2369c9e3096fdf421c80840922395f15dd4d.png",
+        "coinGeckoId": "wrapped-mantle",
+        "wallet_preload": true
+    },
+    {
+        "type": "erc20",
+        "contract": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
+        "name": "Staked USDe",
+        "symbol": "sUSDe",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/8aee1d1aaae5782cb45d6ba3317d821fb756946f73a7c1ac1c6f2bb74ab10fc7.png",
+        "coinGeckoId": "mantle-bridged-susde-mantle"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+        "name": "AUSD",
+        "symbol": "AUSD",
+        "description": "",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/031f08def122a61ffafeeb3ff5d6b4c9a2c9173f006ed59a404970a49cc2b53c.png",
+        "coinGeckoId": "agora-dollar"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x4b7F28397B4294277E7825f224172944f4f5A877",
+        "name": "IntentX Token",
+        "symbol": "INTX",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/4e0e00063ac2ba92f285cf35ba0f4e3fd56de99f9f59ddb0207808271997cae3.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "erc20",
+        "contract": "0x58538e6A46E07434d7E7375Bc268D3cb839C0133",
+        "name": "ENA",
+        "symbol": "ENA",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/54d1d1046f01a471e93ace685138d655f2ed68eca7b196c00b5771e9ee57bd28.png",
+        "coinGeckoId": "ethena"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xC1E0C8C30F251A07a894609616580ad2CEb547F2",
+        "name": "Cleopatra",
+        "symbol": "CLEO",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/4b60afcd211a27949fea417e91e2dbfc0608cff6c6ab0bdc844d9ff8ccb3bc25.png",
+        "coinGeckoId": ""
+    }
+]

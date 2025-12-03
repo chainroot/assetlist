@@ -49,8 +49,7 @@
         "description": "WETH",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/weth.png",
-        "coinGeckoId": "weth",
-        "wallet_preload": true
+        "coinGeckoId": "weth"
     },
     {
         "type": "erc20",
@@ -104,7 +103,7 @@
     },
     {
         "type": "erc20",
-        "contract": "0x5096db80b21ef45230c9e423c373f1fc9c0198dd4",
+        "contract": "0x5096db80b21ef45230c9e423c373f1fc9c0198dd",
         "name" : "WEMIX TOKEN",
         "symbol": "WEMIX",
         "description": "",
@@ -171,5 +170,65 @@
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/a3a35ffbbc35112f22ed1ecf1be82c459e37f0484524444b611f4139ab5fc88f.png",
         "coinGeckoId": "galaxia"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xd70c7d511560493c79df607076fb863f5c8a50b0",
+        "name" : "Lair",
+        "symbol": "LAIR",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/2cd483b25b15cb720dbad12bcee313be8b820264068ed13ca93793f6e18cb5eb.png",
+        "coinGeckoId": "lair"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xef82b1c6a550e730d8283e1edd4977cd01faf435",
+        "name" : "Six",
+        "symbol": "SIX",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/1829fa90463e47efcb24dd7e2b6a769f7d9299fd2a8186cbaafac5d5b498f68d.png",
+        "coinGeckoId": "six-network"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xafde910130c335fa5bd5fe991053e3e0a49dce7b",
+        "name" : "Pibble Token",
+        "symbol": "PIB",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/5d4f4f86bd57740c9bbed4562f19558245c23dd0b771f68039f976fc3af9ae71.png",
+        "coinGeckoId": "pibble"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x5fff3a6c16c2208103f318f4713d4d90601a7313",
+        "name" : "Kleva Token",
+        "symbol": "KLEVA",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/877e6bdc7af68484644631c61e713459ad60e6a13d6752eb92f1d3067fdee4a2.png",
+        "coinGeckoId": "kleva"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x3b3b30a76d169f72a0a38ae01b0d6e0fbee3cc2e",
+        "name" : "TEMCO",
+        "symbol": "TEMCO",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/5d40f116c8525bfd28dcb0eafea6cc36163e2c3d53c1ae881d76adadd8668d2e.png",
+        "coinGeckoId": "temco"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x6cef6dd9a3c4ad226b8b66effeea2c125df194f1",
+        "name" : "AziT",
+        "symbol": "AZIT",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/a7641bfc4bb29afef0da0d829903d33a5fe4d847c389a8d5359277a9b2ef6df5.png",
+        "coinGeckoId": "azit"
     }
 ]

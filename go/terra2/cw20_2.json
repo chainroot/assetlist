@@ -371,9 +371,9 @@
     {
         "type": "cw20",
         "contract": "terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst",
-        "name" : "SOLID",
+        "name" : "Solid",
         "symbol": "SOLID",
-        "description": "A Terra native overcollateralized USD stablecoin, powered by Capapult Finance.",
+        "description": "SOLID is the Terra native overcollateralized USD stablecoin, powered by SOLID",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/32bdb78b5022c97b80dc530f04dfb58c120096b4b0029bee583d854dd87eb04f.png",
         "coinGeckoId": ""
@@ -441,9 +441,9 @@
     {
         "type": "cw20",
         "contract": "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar",
-        "name" : "Capapult token",
+        "name" : "Capa",
         "symbol": "CAPA",
-        "description": "CAPA is the governance token of Capapult Finance, which issues SOLID.",
+        "description": "CAPA is the governance token of SOLID ecosystem, powered by SOLID",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/6b8b72b5f8668a9134013cbe5872632232901987b266e2d844465c19ea22fe7b.png",
         "coinGeckoId": ""

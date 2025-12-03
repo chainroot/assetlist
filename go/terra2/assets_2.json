@@ -40,7 +40,7 @@
         "symbol": "USDT.axl",
         "description": "Wrapped USDT imported to Cosmos from Ethereum via Axelar.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/cfb16c83203cac00d691bdb07c920db555555a98e5550863ea00bb3cf7baf159.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/usdt.axl.svg",
         "coinGeckoId": "axelar-usdt",
         "ibc_info": {
             "path": "ethereum>axelar>terra",
@@ -573,7 +573,7 @@
         "symbol": "ASTRO",
         "description": "The cross-chain governance token of Astroport, which now has its home base on Neutron.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/57d8651df1c518e517dc53d4a5ed987e40adb70b507bfd65231a3fdd3ce3ee3c.png",
+        "image": "https://cdn.chainroot.io/images/tokens/astro.png",
         "coinGeckoId": "astroport-fi",
         "ibc_info": {
             "path": "neutron>terra",
@@ -664,7 +664,7 @@
         "symbol": "WBNB.axl",
         "description": "Wrapped BNB imported to Cosmos via Axelar.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/d1b6eb7a81dbbdf8cf8e08db4fb0808168925613701bd0055e2559b207cc5b58.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/bnb.axl.svg",
         "coinGeckoId": "bnb",
         "ibc_info": {
             "path": "bnb-smart-chain>axelar>terra",
@@ -733,7 +733,7 @@
         "symbol": "ETH",
         "description": "Ethereum IBC'd to Terra through Gaia's Eureka connection.",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/a7bcf7a20757d37cbbf899666d115c3b7625214a0e7fcb19dc9c3812b5040cc9.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/eth-blue.svg",
         "coinGeckoId": "ethereum",
         "ibc_info": {
             "path": "ethereum>cosmos>terra",

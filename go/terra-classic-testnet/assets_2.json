@@ -1,0 +1,233 @@
+[
+    {
+        "type": "native",
+        "denom": "uluna",
+        "name" : "LUNC",
+        "symbol": "LUNC",
+        "description": "Terra Classic Testnet Staking Coin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/lunc.png",
+        "coinGeckoId": "",
+        "color": "#3f95d4"
+    },
+    {
+        "type": "native",
+        "denom": "uusd",
+        "name": "USTC",
+        "symbol": "USTC",
+        "description": "Terra Classic Testnet Stablecoin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/afb329884a120c2915cfa77f6d7864b2d053c8f3059412f17aace059860d491a.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "uaud",
+        "name": "AUT",
+        "symbol": "AUT",
+        "description": "Terra Classic Testnet Token",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/a201768063acc4d6a9f26c42c9b627826fa2eb0f06eb3f16f2c54a2d32987f8c.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "ucad",
+        "name": "CAT",
+        "symbol": "CAT",
+        "description": "Terra Classic Testnet Token",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/ccd994d3a35ddfbc714c7f6fda7aece40ae5fac22c2e792063e0dd7819ec01a9.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "uchf",
+        "name": "CHT",
+        "symbol": "CHT",
+        "description": "Terra Classic Testnet Token",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/be1e53f4defc584a03418e7a43afc10f70ce1bf1a6227c358c33937fb0edce0f.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "ucny",
+        "name": "CNT",
+        "symbol": "CNT",
+        "description": "Terra Classic Testnet Token",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/f33667eacce216d43622250ffa82fa6595da333bad7f95ce137e2531ad5baf40.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "udkk",
+        "name": "DKT",
+        "symbol": "DKT",
+        "description": "Terra Classic Testnet Token",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/b58ece5ea694dde152f4478f5fd3d8a56b318f805dd4669ac1b8e2f94faaa54d.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "ugbp",
+        "name": "GBT",
+        "symbol": "GBT",
+        "description": "Terra Classic Testnet Token",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/37231775d0521e31265011d0dab04cc76290afcabf4e28086cb7bd3ed1a54cd7.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "ueur",
+        "name": "EUT",
+        "symbol": "EUT",
+        "description": "Terra Classic Testnet Token",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/893f462270774e0f67c92e35fc072a36cf207394fc0181ab212cb256c64b41b1.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "uhkd",
+        "name": "HKT",
+        "symbol": "HKT",
+        "description": "Terra Classic Testnet Token",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/b7db57b10416e197ea19eb4771ce77ec5de76394d61efaa1c8ab124346aa5e5b.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "uinr",
+        "name": "INT",
+        "symbol": "INT",
+        "description": "Terra Classic Testnet Token",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/6cb747ad0e13046fb4507c0e5bbdc841c222e31021c3a53e533484c680eabdcb.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "uidr",
+        "name": "IDT",
+        "symbol": "IDT",
+        "description": "Terra Classic Testnet Token",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/82e2c7f2eb2431d9abdbaa2e42ba6cf5d41fb2b82b0742e3bdc60efcf3c34a03.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "ujpy",
+        "name": "JPT",
+        "symbol": "JPT",
+        "description": "Terra Classic Testnet Token",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/69903d69936df9c8f576badcb68279d71cf9f41467e14cb9d8dbc3608a445512.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "ukrw",
+        "name": "KRT",
+        "symbol": "KRT",
+        "description": "Terra Classic Testnet Token",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/bc58ffb3df970d449bc134801214f881e9e6e902920c6f7c079ef06dbcb6056b.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "umnt",
+        "name": "MNT",
+        "symbol": "MNT",
+        "description": "Terra Classic Testnet Token",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/48b49f80148ef2a8218f9a193abc1e906db063179f1cc44971125664a979d2d9.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "umyr",
+        "name": "MYT",
+        "symbol": "MYT",
+        "description": "Terra Classic Testnet Token",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/59ce0b3a6d6c951943fd011d688db9c8403a26099e243236d8c46fc15c25c4a0.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "unok",
+        "name": "NOT",
+        "symbol": "NOT",
+        "description": "Terra Classic Testnet Token",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/0a7302d563b03abd8afa4a9240973bfc3f318898b27957f9f1c788b9b7dc1e26.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "uphp",
+        "name": "PHT",
+        "symbol": "PHT",
+        "description": "Terra Classic Testnet Token",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/abd14f06da85a973b40d5ca195b159d539c1c1078285a3c3c59d2d7de1393771.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "usdr",
+        "name": "SDT",
+        "symbol": "SDT",
+        "description": "Terra Classic Testnet Token",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/8b16850b0977fb314b78c0ce29b1bd9925467e48bec8d8a1f212b7f72c53fc97.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "usek",
+        "name": "SET",
+        "symbol": "SET",
+        "description": "Terra Classic Testnet Token",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/ab7f476af826f6e82664eea200ef282c1c2d2b05a970f61d65fa202fc394123e.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "usgd",
+        "name": "SGT",
+        "symbol": "SGT",
+        "description": "Terra Classic Testnet Token",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/d807a75335e320372e5fd848b8bee6b0bab682cb30399b875393fb475fa36cf8.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "uthb",
+        "name": "THT",
+        "symbol": "THT",
+        "description": "Terra Classic Testnet Token",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/f822d10686b620edd4743eebb574f8436cb6326c13d8a12772dd43276a6d76bb.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "utwd",
+        "name": "TWT",
+        "symbol": "TWT",
+        "description": "Terra Classic Testnet Token",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/f4fbee11d3bc3564d033d24b1ca3dc54edff5228439e48ebb4c77c53ee2f0010.png",
+        "coinGeckoId": ""
+  }
+]

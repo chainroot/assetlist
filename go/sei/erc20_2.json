@@ -1,0 +1,153 @@
+[
+    {
+        "type": "erc20",
+        "contract": "0xE30feDd158A2e3b13e9badaeABaFc5516e95e8C7",
+        "name": "WSEI",
+        "symbol": "WSEI",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/2cc73c0be16e961ff05fe3fe3bdb10baebea16093c3bf6224995edb05691c8ed.png",
+        "coinGeckoId": "wrapped-sei",
+        "wallet_preload": true
+    },
+    {
+        "type": "erc20",
+        "contract": "0x5Cf6826140C1C56Ff49C808A1A75407Cd1DF9423",
+        "name": "iSEI",
+        "symbol": "iSEI",
+        "description": "",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/d772492b691dabafde90393e3dd171114fb1e3bc60bcf4fe37222bb2f8a97beb.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "erc20",
+        "contract": "0x160345fC359604fC6e70E3c5fAcbdE5F7A9342d8",
+        "name": "WETH",
+        "symbol": "WETH",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/weth.png",
+        "coinGeckoId": "weth"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
+        "name": "FRAX",
+        "symbol": "FRAX",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/ee26b8c0c5c2c3a44d3d26016032c76d9ca94c1db3b2cc5374e27aa59e2d4326.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "erc20",
+        "contract": "0xDD7d5e4Ea2125d43C16eEd8f1FFeFffa2F4b4aF6",
+        "name": "Jelly Token",
+        "symbol": "JLY",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/9745aeb4dea9e56477c530f886c81dfc9ad9285fc96854da1c2c26b52980036d.png",
+        "coinGeckoId": "jellyverse"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x5f0e07dfee5832faa00c63f2d33a0d79150e8598",
+        "name": "SEIYAN",
+        "symbol": "SEIYAN",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/35f416d6ee609c7ec2b212d102b9ec2a3ee5152631b92f1058f8e408172af088.png",
+        "coinGeckoId": "seiyan"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x51121bcae92e302f19d06c193c95e1f7b81a444b",
+        "name": "YAKA",
+        "symbol": "YAKA",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/b7a00e92544bcac204ffd310a15024c50135a010d017e378772f66f13b285f5b.png",
+        "coinGeckoId": "yaka"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x43eDD7f3831b08FE70B7555ddD373C8bF65a9050",
+        "name": "Frax Ether",
+        "symbol": "frxETH",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/536b58155d43a6081933946fc547fd3f85159744b2913bfe571504b6795da66a.png",
+        "coinGeckoId": "frax-ether"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x37a4dd9ced2b19cfe8fac251cd727b5787e45269",
+        "name": "fastUSD",
+        "symbol": "fastUSD",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/753efa5c56524454269afc2d03c037e1be3da5957755e8f764a7e7aa0021bf51.png",
+        "coinGeckoId": "sei-fastusd"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x5Bff88cA1442c2496f7E475E9e7786383Bc070c0",
+        "name": "Staked Frax USD",
+        "symbol": "sfrxUSD",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/1ab8d35ff188ed1c3c337d35c77be1c2713ad50347f5d178715019870df852e3.png",
+        "coinGeckoId": "staked-frax-usd"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x3Ec3849C33291a9eF4c5dB86De593EB4A37fDe45",
+        "name": "Staked Frax Ether",
+        "symbol": "sfrxETH",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/6b56c8f3e62b8c594c81be92681e9dc4df1ad990b7c94bf3d8f3bfb5625351e0.png",
+        "coinGeckoId": "staked-frax-ether"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xA8A3A5013104e093245164eA56588DBE10a3Eb48",
+        "name": "Sei Native Yield Super Seiyan ETH",
+        "symbol": "ssETH",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/32861b190da7cd70e4e581a63a426a73d91e379ef65ab61357dacf2a669d7e2a.png",
+        "coinGeckoId": "super-seyian-eth"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x95597EB8D227a7c4B4f5E807a815C5178eE6dBE1",
+        "name": "MILLI",
+        "symbol": "MILLI",
+        "description": "",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/02c0702663e191dfe6ddce4d122ebbbfd551de6f6855ecf2a19bd413fb9f891c.png",
+        "coinGeckoId": "milli-coin"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "description": "",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/wbtc.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "erc20",
+        "contract": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+        "name": "Frax USD",
+        "symbol": "frxUSD",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/2acaea684d1f40c2cd924af9c5eb2a6677ef440179202aa3d5bf3705c947b293.png",
+        "coinGeckoId": "frax-usd"
+    }
+]

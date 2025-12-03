@@ -121,6 +121,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/01E6B9DA808EC5F46E9936FAEC4C726517EE70E5C119A9EDCC6F6A0E2BAA54C3",
+    "symbol": "ETH",
+    "name": "eth",
+    "description": "Ethereum is a decentralized blockchain platform for running smart contracts and dApps, with Ether (ETH) as its native cryptocurrency, enabling a versatile ecosystem beyond just digital currency.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/af33707625a9a948852514d2ffd2f99d2d8cfc603bca373190a152522fdb1c0c.svg",
+    "coinGeckoId": "ethereum"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/5BDD4B299B329FAF831989C160C9D4CBAC17A5132FF1DF98AB8575A322DAB413",
     "symbol": "stDYDX",
     "name": "stDYDX",
@@ -148,6 +158,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/9d5325ca8b382d8836719bb3889fd12729e3e2855edf892245b7e6e27679a40a.svg",
     "coinGeckoId": "umee"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/A1CA75737A469737878C6A3CCD0D47738E85CCE0C4C341B298928DE7DADE3CDF",
+    "symbol": "LUNC",
+    "name": "luna",
+    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
+    "coinGeckoId": "terra-luna"
   },
   {
     "type": "ibc",
@@ -181,16 +201,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/E901426A5E7A5251282345748F08CA91A3D8F35D074A9FE9B7BBFF7884E1E246",
-    "symbol": "XRP",
-    "name": "xrp",
-    "description": "XRP bridged from XRPL",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/fa2e0fc5aead6e2b42c7f6a8dd35859012b882175ea92867f1a1d566256bd14e.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/A95EBDF88AC1E3FDECAA1D6E250B07C0C86475A3E2BFA2E7DC94A6CDE23DF6D6",
     "symbol": "USDT",
     "name": "usdt",
@@ -201,23 +211,33 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/E901426A5E7A5251282345748F08CA91A3D8F35D074A9FE9B7BBFF7884E1E246",
+    "symbol": "XRP",
+    "name": "xrp",
+    "description": "XRP bridged from XRPL",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/fa2e0fc5aead6e2b42c7f6a8dd35859012b882175ea92867f1a1d566256bd14e.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/BCEFD8175B8C47D712FB639034128CB43776364B79E3251F073CB3A2A32582A0",
     "symbol": "SCRT",
     "name": "scrt",
     "description": "Secret Network is a privacy-focused blockchain that enables private and secure smart contracts, protecting sensitive data.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/4e950180cbb20a28d82f99bc2243211928ef4995504af4b4029ba1f3031fde4a.svg",
+    "image": "https://cdn.chainroot.io/images/tokens/scrt.svg",
     "coinGeckoId": "secret"
   },
   {
     "type": "ibc",
-    "denom": "ibc/A1CA75737A469737878C6A3CCD0D47738E85CCE0C4C341B298928DE7DADE3CDF",
-    "symbol": "LUNC",
-    "name": "luna",
-    "description": "Terra Classic is the original blockchain platform that powered the UST stablecoin and LUNA token before the launch of Terra 2.0, focusing on stablecoins and DeFi applications.",
+    "denom": "ibc/7B84C90C3A70074907DB09A657A4E05CD53A77AD54D333E1E54CD3F5B7F0F209",
+    "symbol": "NTRN",
+    "name": "ntrn",
+    "description": "Neutron is a smart contract blockchain within the Cosmos ecosystem, leveraging the Cosmos Hub's security to provide cross-chain DeFi applications.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
-    "coinGeckoId": "terra-luna"
+    "image": "https://cdn.chainroot.io/images/tokens/bcc7880c69cc88313d52a96ce2f7e780a98c5e8a5b86e7318667fd5eabe34c4c.svg",
+    "coinGeckoId": "neutron-3"
   },
   {
     "type": "ibc",
@@ -241,16 +261,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/7B84C90C3A70074907DB09A657A4E05CD53A77AD54D333E1E54CD3F5B7F0F209",
-    "symbol": "NTRN",
-    "name": "ntrn",
-    "description": "Neutron is a smart contract blockchain within the Cosmos ecosystem, leveraging the Cosmos Hub's security to provide cross-chain DeFi applications.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/bcc7880c69cc88313d52a96ce2f7e780a98c5e8a5b86e7318667fd5eabe34c4c.svg",
-    "coinGeckoId": "neutron-3"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/A29F4287081C476D3C5B6B0681EAE030E5E8FB2E3C0D23E1965BA50F27C7F611",
     "symbol": "USDC",
     "name": "usdc",
@@ -268,6 +278,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/ec24ec10d44cf36ec24232f5dbb19ad5b61d1972098888b01291b63c1c66722e.svg",
     "coinGeckoId": "stride"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/8CB4B3ADE4F13219F3AE39F40AA7ADA346538A422058B470138DC621F27B97A8",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
   },
   {
     "type": "ibc",
@@ -306,7 +326,7 @@
     "name": "frienzies",
     "description": "Frienzies are an IBC token redeemable exclusively for a physical asset issued by the Noble entity.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/9d4973b62e2e062a49f93c43f1f323f06402dbe4ffec0458cbb976464d6270a7.svg",
+    "image": "https://cdn.chainroot.io/images/tokens/frnz.svg",
     "coinGeckoId": ""
   },
   {

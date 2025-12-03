@@ -61,22 +61,12 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/6B199312B29CF047BF8B1337450EF3AA0475FE0C312DB94055F2D5B22CD1E71A",
-    "symbol": "USDC",
-    "name": "usdc",
-    "description": "Circle's stablecoin on Axelar",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
-    "coinGeckoId": "axlusdc"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/F694C7575DF3B8128746FA6576830DA27891D5A322DF5DECB066288FC4948F76",
     "symbol": "EEUR",
     "name": "eur",
     "description": "e-Money EUR stablecoin. Audited and backed by fiat EUR deposits and government bonds.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/8c52768e581d6ca2c73b6b9104c05d0e08c037291680f520b05f8176ab05ecc3.svg",
+    "image": "https://cdn.chainroot.io/images/tokens/eeur.svg",
     "coinGeckoId": "e-money-eur"
   },
   {
@@ -106,7 +96,7 @@
     "name": "graviton",
     "description": "The native token of Gravity Bridge",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/80113d9226d07b7d5f24a7b6f569d4971cdfed9481d0b80d4121b8c3bd7e0a8b.svg",
+    "image": "https://cdn.chainroot.io/images/tokens/grav.svg",
     "coinGeckoId": "graviton"
   },
   {
@@ -151,12 +141,22 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/B6766AEAA6D9F3D56084E61664F041D45CD87A9BD42DDBD67136B692441162A3",
+    "symbol": "IOV",
+    "name": "iov",
+    "description": "IOV coin is the token for the Starname (IOV) Asset Name Service",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/bf4a447c9e5e21ecef013a595cba3170b57c4877eaf3a60674e5ab1b3064740b.svg",
+    "coinGeckoId": "starname"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/1688228D9E7F3A7CFE7E09B3F7F3E3000E8D86675CFC8C8F313ACEDEB2FE2493",
     "symbol": "EEUR",
     "name": "eur",
     "description": "e-Money EUR stablecoin. Audited and backed by fiat EUR deposits and government bonds.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/8c52768e581d6ca2c73b6b9104c05d0e08c037291680f520b05f8176ab05ecc3.svg",
+    "image": "https://cdn.chainroot.io/images/tokens/eeur.svg",
     "coinGeckoId": "e-money-eur"
   },
   {
@@ -188,16 +188,6 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/fa1702b9e6411fd543852318682138e2abb200890d9e5dceaf6adce900621bb9.svg",
     "coinGeckoId": "regen"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/B6766AEAA6D9F3D56084E61664F041D45CD87A9BD42DDBD67136B692441162A3",
-    "symbol": "IOV",
-    "name": "iov",
-    "description": "IOV coin is the token for the Starname (IOV) Asset Name Service",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/bf4a447c9e5e21ecef013a595cba3170b57c4877eaf3a60674e5ab1b3064740b.svg",
-    "coinGeckoId": "starname"
   },
   {
     "type": "ibc",
@@ -268,6 +258,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/ec24ec10d44cf36ec24232f5dbb19ad5b61d1972098888b01291b63c1c66722e.svg",
     "coinGeckoId": "stride"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/6B199312B29CF047BF8B1337450EF3AA0475FE0C312DB94055F2D5B22CD1E71A",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
   },
   {
     "type": "ibc",

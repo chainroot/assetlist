@@ -62,7 +62,7 @@
         "symbol": "USDT.axl",
         "description": "Wrapped USDT imported to Cosmos from Ethereum via Axelar.",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/cfb16c83203cac00d691bdb07c920db555555a98e5550863ea00bb3cf7baf159.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/usdt.axl.svg",
         "coinGeckoId": "axelar-usdt",
         "ibc_info" : {
             "path": "ethereum>axelar>terra-classic",

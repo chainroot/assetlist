@@ -1,0 +1,12 @@
+[
+    {
+        "type": "native",
+        "denom": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "Sonic",
+        "symbol": "S",
+        "description": "Sonic Native Coin",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/s.png",
+        "coinGeckoId": "sonic-3"
+    }
+]

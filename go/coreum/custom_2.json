@@ -31,16 +31,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/56BD4E7860D18C6A8565CCE8F1ECD381CC49ACB407D2A54E6D6A8673123A83BF",
-    "symbol": "EVMOS",
-    "name": "evmos",
-    "description": "The native EVM, governance and staking token of the Evmos Hub",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/8fd37bed9ab943bf6d2114ddae7f4a42b91cdebc269406c7f6acfb4fd1885e05.svg",
-    "coinGeckoId": "evmos"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/EF3A8A0642F865E753994B3CE35D6DBD2DA2E81EF83EDCBD197DDB90DD09E1DD",
     "symbol": "INJ",
     "name": "INJ",
@@ -48,6 +38,16 @@
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/c824ba4c934281bfa3a10052366f3c00fe94ed254da7f0e2b82da59a5c2872df.svg",
     "coinGeckoId": "injective-protocol"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/56BD4E7860D18C6A8565CCE8F1ECD381CC49ACB407D2A54E6D6A8673123A83BF",
+    "symbol": "EVMOS",
+    "name": "evmos",
+    "description": "The native EVM, governance and staking token of the Evmos Hub",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/8fd37bed9ab943bf6d2114ddae7f4a42b91cdebc269406c7f6acfb4fd1885e05.svg",
+    "coinGeckoId": "evmos"
   },
   {
     "type": "ibc",
@@ -156,7 +156,7 @@
     "name": "graviton",
     "description": "The native token of Gravity Bridge",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/80113d9226d07b7d5f24a7b6f569d4971cdfed9481d0b80d4121b8c3bd7e0a8b.svg",
+    "image": "https://cdn.chainroot.io/images/tokens/grav.svg",
     "coinGeckoId": "graviton"
   },
   {
@@ -301,6 +301,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/CB8C277729EE173BE3C26EC6276A541D41671CCF1A68C9D796AD52308A8EBF99",
+    "symbol": "SCRT",
+    "name": "scrt",
+    "description": "Secret Network is a privacy-focused blockchain that enables private and secure smart contracts, protecting sensitive data.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/scrt.svg",
+    "coinGeckoId": "secret"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/81BD95B0890B8D0130755E8338CF4AA48C7CBBD149C1D66EC9F9B62AFAE5C4F3",
     "symbol": "SEI",
     "name": "sei",
@@ -391,6 +401,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/E4EE281A786DEE595A3FD6F029882299844803FA6F96859F199DA5A6485530DC",
+    "symbol": "COREUM",
+    "name": "core",
+    "description": "The native token of Coreum",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/e3445a89cd6ce7b1366b464f374aff6ff42f81bc67d08a3cd75f63a951d2cb0c.svg",
+    "coinGeckoId": "coreum"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/31A342530A712819CC8102D0BB8CA86E50C173E828D071D651E807D55BB0DEE6",
     "symbol": "USDC",
     "name": "usdc",
@@ -461,16 +481,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/E7916A1E0CA82E2E2023083D197F3318E56C1F224C78217FB2856C59483C9A75",
-    "symbol": "SCRT",
-    "name": "scrt",
-    "description": "Secret Network is a privacy-focused blockchain that enables private and secure smart contracts, protecting sensitive data.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/4e950180cbb20a28d82f99bc2243211928ef4995504af4b4029ba1f3031fde4a.svg",
-    "coinGeckoId": "secret"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/92FD0BA0E0931C712B1651B2F3C85F3D6995B7BAD1FAE7455541F84B06574E74",
     "symbol": "USDC",
     "name": "usdc",
@@ -491,7 +501,17 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/5F3ECA456D264F96EC9E845E41EF8C5E05E68B3FA6F239390BE5910B484EACAF",
+    "denom": "ibc/56A422BE026779F847A8EFFFD4F7A91746953288BAB26C4EAE5E21BF4CBB70EE",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/DE1E92792C72BD79E5B91C367133F923B32A8E46E0A6986DB177AFFC00BA7E72",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
@@ -511,16 +531,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/56A422BE026779F847A8EFFFD4F7A91746953288BAB26C4EAE5E21BF4CBB70EE",
-    "symbol": "USDC",
-    "name": "usdc",
-    "description": "Circle's stablecoin on Axelar",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
-    "coinGeckoId": "axlusdc"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/16FF1B6621924520CD2BC9B95EB64786ABB4EA38CAC4951D0247050C8DFC5E72",
     "symbol": "USDC",
     "name": "usdc",
@@ -531,7 +541,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/DE1E92792C72BD79E5B91C367133F923B32A8E46E0A6986DB177AFFC00BA7E72",
+    "denom": "ibc/5F3ECA456D264F96EC9E845E41EF8C5E05E68B3FA6F239390BE5910B484EACAF",
     "symbol": "USDC",
     "name": "usdc",
     "description": "Circle's stablecoin on Axelar",
@@ -558,6 +568,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
     "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/E7916A1E0CA82E2E2023083D197F3318E56C1F224C78217FB2856C59483C9A75",
+    "symbol": "SCRT",
+    "name": "scrt",
+    "description": "Secret Network is a privacy-focused blockchain that enables private and secure smart contracts, protecting sensitive data.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/scrt.svg",
+    "coinGeckoId": "secret"
   },
   {
     "type": "ibc",
@@ -778,6 +798,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
     "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/3084F459D56B8B7EEDA4FAE492E26E414BDDE27C55D3367EEF3BF0BBB2238C24",
+    "symbol": "BTC",
+    "name": "allBTC",
+    "description": "An alloy of BTC asset variants on Osmosis.",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/ca6caccf8a3b0320119fd0a1d1057fb6ed914664486ff3bfcf13d70583cda962.svg",
+    "coinGeckoId": ""
   },
   {
     "type": "ibc",

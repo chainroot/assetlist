@@ -1,6 +1,66 @@
 [
   {
     "type": "ibc",
+    "denom": "ibc/80B347BD33932A0F248A2C8B9D0B404803EB41E0810930C06AEA93808B49FA59",
+    "symbol": "ATONE",
+    "name": "atone",
+    "description": "The native staking and governance token of AtomOne",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/36100bb5e0c879375bade1208ee94b1783b0a02d8e0bbeaca29984e7f38b1ac1.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/DBF51E1BAECBB6CB94C81EC97A397BB2131639181F309C9B5C473E054FFCDF72",
+    "symbol": "ATONE",
+    "name": "atone",
+    "description": "The native staking and governance token of AtomOne",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/36100bb5e0c879375bade1208ee94b1783b0a02d8e0bbeaca29984e7f38b1ac1.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/95FF81F183233767245A0C5B157987C1D3985FFF336E565036A02ACFF866023A",
+    "symbol": "TRX",
+    "name": "trx",
+    "description": "TRONIX is the mainnet native token of the TRON Protocol issued by TRON DAO, known as TRX.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/98865336a36e867c3063829cdf890653c4b0de113ed9b93f6c10b90013bc2718.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/05AC4BBA78C5951339A47DD1BC1E7FC922A9311DF81C85745B1C162F516FF2F1",
+    "symbol": "OSMO",
+    "name": "osmo",
+    "description": "The native token of Osmosis",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/e053406240eac4d978a66008f0551daa497be489fba6c5840e5cd073bd6fcd94.svg",
+    "coinGeckoId": "osmosis"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/FCDCAECF064BC9D119EDE4F57CAF85B44D3C3F964F11E18338B490EF96D52F47",
+    "symbol": "ATONE",
+    "name": "atone",
+    "description": "The native staking and governance token of AtomOne",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/36100bb5e0c879375bade1208ee94b1783b0a02d8e0bbeaca29984e7f38b1ac1.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/4C62CEBBAF56E4ABF334B05FF487F39065060666AFF5695230AD99E2B6AF3C91",
+    "symbol": "DGN",
+    "name": "DGN",
+    "description": "Dragon Token is the native staking and governance token of Dungeon Chain, serving as the backbone of the ecosystem. Its primary roles include staking, where users stake Dragon Tokens to secure the network, enhance its functionality, and earn rewards in return; governance, granting token holders voting rights to influence key decisions such as game onboarding, protocol updates, and community-driven initiatives; and ecosystem growth, facilitating transactions, incentivizing developers, and promoting the creation of new interchain games. Dragon Token ensures a decentralized, fair, and community-driven ecosystem, fostering the evolution of blockchain-based gaming. It plays a crucial role in driving the growth of Dungeon Chain by empowering both developers and players to participate actively in the ecosystem's governance and success.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/997fda1abc37fcfd7d010d8a05fa4528a17c6e12ec225bac47e9184456b6142b.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/11507B43619572D2AF11559001DF7E728172801B1EFFF75430A46F8001DA027D",
     "symbol": "BZE",
     "name": "bze",
@@ -8,5 +68,25 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/a4d074e89a7ef61d23858832c59d6a4b817b889bf8899e097465cc429ec18769.svg",
     "coinGeckoId": "bzedge"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/6F8E6FDF589E95A555946A94C409539B00AC66D84C0B6B575DE8B41D88E3E014",
+    "symbol": "AXL",
+    "name": "axl",
+    "description": "Axelar is a decentralized interoperability network connecting multiple blockchain ecosystems, enabling seamless cross-chain communication and value transfer.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
+    "coinGeckoId": "axelar"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/CD09A24DED48227C738CF075F7E981D7F8381C1455B0F5E040E7F77EE03E2015",
+    "symbol": "ATONE",
+    "name": "atone",
+    "description": "The native staking and governance token of AtomOne",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/36100bb5e0c879375bade1208ee94b1783b0a02d8e0bbeaca29984e7f38b1ac1.svg",
+    "coinGeckoId": ""
   }
 ]

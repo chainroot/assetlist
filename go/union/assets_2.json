@@ -1,22 +1,22 @@
 [
     {
         "type": "native",
-        "denom": "upoa",
-        "name": "Proof of Authority Token on Union",
-        "symbol": "POA",
+        "denom": "au",
+        "name": "Union Staking Token",
+        "symbol": "U",
         "description": "Proof of Authority token for the Union.",
-        "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/poa.png",
-        "coinGeckoId": ""
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/au.png",
+        "coinGeckoId": "union-2"
     },
     {
         "type": "native",
-        "denom": "ugas",
-        "name": "Gas Token",
-        "symbol": "GAS",
-        "description": "Gas Token on Union",
+        "denom": "upoa",
+        "name": "Proof of Authority Token on Union",
+        "symbol": "POA",
+        "description": "Proof of Authority Token on Union",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/gas.png",
+        "image": "https://cdn.chainroot.io/images/tokens/poa.png",
         "coinGeckoId": ""
     }
 ]

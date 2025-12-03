@@ -29,8 +29,7 @@
         "description": "Ether.fi governance token",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/ethfi.png",
-        "coinGeckoId": "ether-fi",
-        "wallet_preload": true
+        "coinGeckoId": "ether-fi"
     },
     {
         "type": "erc20",
@@ -40,8 +39,7 @@
         "description": "ether fi Staked ETH",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/1acf55b4077f729d39dc5a8f7dad4d4f357d29e36aee3eb1c88391df05f94d8c.png",
-        "coinGeckoId": "ether-fi-staked-eth",
-        "wallet_preload": true
+        "coinGeckoId": "ether-fi-staked-eth"
     },
     {
         "type": "erc20",
@@ -51,8 +49,7 @@
         "description": "Wrapped eETH",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/weeth.png",
-        "coinGeckoId": "wrapped-eeth",
-        "wallet_preload": true
+        "coinGeckoId": "wrapped-eeth"
     },
     {
         "type": "erc20",
@@ -73,8 +70,7 @@
         "description": "DYDX Token",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/677cade7b259aeee5fa1fc0de4192d85b896a2275d20f1997fadcac34c45abad.png",
-        "coinGeckoId": "dydx",
-        "wallet_preload": true
+        "coinGeckoId": "dydx"
     },
     {
         "type": "erc20",
@@ -2958,16 +2954,6 @@
     },
     {
         "type": "erc20",
-        "contract": "0x18fA72e0EE4C580a129b0CE5bD0694d716C7443E",
-        "name": "Kyber Network Crystal",
-        "symbol": "KNC_e",
-        "description": "",
-        "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/1afbf5244a28167cbc50eeb7cd7466f343c718c92feaf2dd626f0dc8333b644d.svg",
-        "coinGeckoId": "kyber-network-crystal"
-    },
-    {
-        "type": "erc20",
         "contract": "0xec67005c4E498Ec7f55E092bd1d35cbC47C91892",
         "name": "Melon",
         "symbol": "MLN",
@@ -4003,7 +3989,7 @@
         "symbol": "sfrxETH",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/6abcd6d162dce1dc0916d7f0621e222e26df9067f6db43949a1b53d1c9ac5720.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/f721657eef135a69d602ae12673d96108d0622a82a376c239938cbe28521e1d4.png",
         "coinGeckoId": "staked-frax-ether"
     },
     {
@@ -4123,7 +4109,7 @@
         "symbol": "frxETH",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/0942ec03e862b8ee2380bc54cb8da65762176bb82e15264416cbf59370c891e1.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/852f5dee043aad61da864bc79eaa1d7faa7c0c369c0bbc34d1f8cfe388685d09.png",
         "coinGeckoId": "frax-ether"
     },
     {
@@ -4292,5 +4278,228 @@
         "decimals": 8,
         "image": "https://cdn.chainroot.io/images/tokens/pumpBTC.png",
         "coinGeckoId": "pumpbtc"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xfaba6f8e4a5e8ab82f62fe7c39859fa577269be3",
+        "name": "Ondo",
+        "symbol": "ONDO",
+        "description": "Ondo finance token",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/ondo.png",
+        "coinGeckoId": "ondo-finance"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x5027Fc44a7Ba114B8f494B1e4970900C6652FEDF",
+        "name": "Arcana Network",
+        "symbol": "XAR",
+        "description": "Arcana Network",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/2c86f3b61df3851c22dce92a0755249c761945e9e850ae44c81f69ac9f688623.png",
+        "coinGeckoId": "arcana-token"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xc96de26018a54d51c097160568752c4e3bd6c364",
+        "name": "Fire BTC",
+        "symbol": "FBTC",
+        "description": "Fire BTC",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/914c6238e8f001b1f5c006693a88f6ba20a4f6da35c77ced215139ac43ca607b.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "erc20",
+        "contract": "0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3",
+        "name": "Lorenzo stBTC",
+        "symbol": "stBTC",
+        "description": "Lorenzo stBTC",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/78f18e3c1615d6674ee98b209fed9c73aad6df284da36264312f32c9d2517256.svg",
+        "coinGeckoId": "lorenzo-stbtc"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x657e8c867d8b37dcc18fa4caead9c45eb088c642",
+        "name": "ether.fi BTC",
+        "symbol": "eBTC",
+        "description": "ether.fi BTC",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/2a250600e6b6463b9b99993a9ca9295cd84d71eb19ef836e5a22475901563201.png",
+        "coinGeckoId": "ether-fi-staked-btc"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x9356f6d95b8e109f4b7ce3e49d672967d3b48383",
+        "name": "Kinza Babylon Staked BTC",
+        "symbol": "kBTC",
+        "description": "Kinza Babylon Staked BTC",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/32a32eef01a9f0142ba9dd143d0f9c99b8cc9cf19ab78858e56434550ee907dc.svg",
+        "coinGeckoId": "kintsugi-btc"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x004e9c3ef86bc1ca1f0bb5c7662861ee93350568",
+        "name": "uniBTC",
+        "symbol": "uniBTC",
+        "description": "uniBTC",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/d4b5f7d489c1f5b723ad3fb9998c02628045e1a885d0aed27fa298470c98734f.png",
+        "coinGeckoId": "universal-btc"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xbdf245957992bfbc62b07e344128a1eec7b7ee3f",
+        "name": "Babypie Wrapped BTC",
+        "symbol": "Babypie Wrapped BTC",
+        "description": "Babypie Liquid Staked BTC",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/0a80138a0e88038449238a53af3db9e2f361f1a6b49a32ac6b8004e9f82c15e1.png",
+        "coinGeckoId": "babypie-wrapped-btc"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x7a56e1c57c7475ccf742a1832b028f0456652f97",
+        "name": "Solv BTC",
+        "symbol": "SolvBTC",
+        "description": "SolvBTC is a universal Bitcoin reserve",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/0fb50b398fb6a8cf27cf55da907838d49a3ab7a2f0855854b06e5fc033ecb117.png",
+        "coinGeckoId": "solv-btc"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xd9d920aa40f578ab794426f5c90f6c731d159def",
+        "name": "xSolvBTC",
+        "symbol": "xSolvBTC",
+        "description": "xSolvBTC",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/a233757403ed62f39a10508e2b3a1f0f79fd448af36049397126dea6d8c6213e.png",
+        "coinGeckoId": "solv-protocol-solvbtc-bbn"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x6a9a65b84843f5fd4ac9a0471c4fc11afffbce4a",
+        "name": "Lorenzo Wrapped Bitcoin",
+        "symbol": "enzoBTC",
+        "description": "Lorenzo Wrapped Bitcoin",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/f9728a7b7f0f474d264d08745036b2fde1fac42c620130c7273d6f6191edf42c.png",
+        "coinGeckoId": "lorenzo-wrapped-bitcoin"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x0B010000b7624eb9B3DfBC279673C76E9D29D5F7",
+        "name": "Obol Network",
+        "symbol": "OBOL",
+        "description": "Obol Network",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/obol.png",
+        "coinGeckoId": "obol-2"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xa2e3356610840701bdf5611a53974510ae27e2e1",
+        "name": "Wrapped Binance Beacon ETH",
+        "symbol": "wBETH",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/a8c6851eb0c8789ea7edb46823bf7cb4c2cf5b83be5097a902e4e17a92139265.png",
+        "coinGeckoId": "wrapped-beacon-eth"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+        "name": "LayerZero",
+        "symbol": "ZRO",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/0e0b26e7c82fcc8719ae5818604338aadfaa80e643d0e4da2352fe54ea83166a.png",
+        "coinGeckoId": "layerzero"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
+        "name": "Polygon Ecosystem Token",
+        "symbol": "POL",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/polecho.png",
+        "coinGeckoId": "polygon-ecosystem-token"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7",
+        "name" : "KelpDao Restaked ETH",
+        "symbol": "rsETH",
+        "description": "KelpDao Restaked ETH",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/cbc5ce698a28b06afd20b3b8df871fb84c0a689e7317fd667374a98c319cf273.png",
+        "coinGeckoId": "kelp-dao-restaked-eth"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24",
+        "name": "Render Token",
+        "symbol": "RENDER",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/393dbbb4434af9a00e5f0b065508a4de91c1f052f8f28d5b7f0e085c174b1660.png",
+        "coinGeckoId": "render-token"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x152649ea73beab28c5b49b26eb48f7ead6d4c898",
+        "name": "PancakeSwap Token",
+        "symbol": "Cake",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/b49b3e01ae7ffdb35b79892733ea5df7bfc2a5fec2a19f3e36d6003f517faa00.png",
+        "coinGeckoId": "pancakeswap-token"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x812ba41e071c7b7fa4ebcfb62df5f45f6fa853ee",
+        "name": "Neiro",
+        "symbol": "Neiro",
+        "description": "",
+        "decimals": 9,
+        "image": "https://cdn.chainroot.io/images/tokens/bbe588600d53ea00ed05bfe5f9daff08bcba221677a783ccc8e40ad5329bfbd0.png",
+        "coinGeckoId": "neiro-3"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x68749665ff8d2d112fa859aa293f07a622782f38",
+        "name": "Tether Gold",
+        "symbol": "XAUt",
+        "description": "",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/12b0cbd694698b4380686dd2621fdb8e8af10dde6397735261d37f9728223cae.png",
+        "coinGeckoId": "tether-gold"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x007115416ab6c266329a03b09a8aa39ac2ef7d9d",
+        "name": "Midas BTC Yield Token",
+        "symbol": "mBTC",
+        "description": "Midas BTC Yield Token",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/38f95d5305df7dc791bd08c8e57c77d5cad00fedbbbe2e07ac2cbbe43561af87.png",
+        "coinGeckoId": "midas-btc-yield-token"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xa3931d71877C0E7a3148CB7Eb4463524FEc27fbD",
+        "name": "Savings USDS",
+        "symbol": "sUSDS",
+        "description": "Savings USDS",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/d907213c5eb50915726730fe2561a00797a1634060d93c4d83a596daee64f8b4.png",
+        "coinGeckoId": "susds"
     }
 ]
+
+
+ 

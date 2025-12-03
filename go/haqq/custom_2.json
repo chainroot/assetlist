@@ -31,6 +31,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/DEA73C21E15F47DCB96372EB5E89111AAD239C6D427ACC3E859C5F6123045AC0",
+    "symbol": "stISLM",
+    "name": "stISLM",
+    "description": "",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/b5eafd68be4f4c417982a087266e1397ab3c000cfdc0a515858c8202d263d01f.svg",
+    "coinGeckoId": "stride-staked-islm"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/52F7DAC8D338E4D7388D02EBD6E522B86EBB62A48C6732C2651423A9E79377DE",
     "symbol": "WBNB",
     "name": "wbnb",
@@ -76,7 +86,7 @@
     "name": "graviton",
     "description": "The native token of Gravity Bridge",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/80113d9226d07b7d5f24a7b6f569d4971cdfed9481d0b80d4121b8c3bd7e0a8b.svg",
+    "image": "https://cdn.chainroot.io/images/tokens/grav.svg",
     "coinGeckoId": "graviton"
   },
   {

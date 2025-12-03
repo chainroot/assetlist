@@ -1,5 +1,5 @@
 {
-    "chain_id_cosmos" : "staging",
+    "chain_id_cosmos" : "test9.1",
     "chain_name": "GNO Testnet",
     "chain_image": "https://cdn.chainroot.io/images/tokens/chain_gno-testnet.png",
     "staking_asset_denom" : "ugnot",
@@ -7,13 +7,15 @@
     "staking_asset_image": "https://cdn.chainroot.io/images/tokens/gnot.png",
     "bech_account_prefix" : "g",
     "bech_validator_prefix" : "gvaloper",
-    "origin_genesis_time" : "",
+    "origin_genesis_time" : "2025-10-14T08:00:00Z",
     "api_name" : "gno-testnet",
     "is_stake_enabled" : false,
+    "is_send_enabled" : false,
     "is_support_mintscan": false,
     "is_support_mobile_wallet" : true,
     "is_support_extension_wallet" : true,
     "is_support_moblie_dapp": true,
+    "is_support_grc20" : true,
     "chain_type": [
         "gno"
     ],
@@ -32,8 +34,7 @@
             "0.004ugnot"
         ],
         "is_simulable" : true,
-        "simulated_gas_multiply" : 2,
-        "simulated_gas_adjustment" : 2.4,
+        "simulated_gas_multiply" : 1.2,
         "init_gas_limit" : 100000,
         "fee_threshold" : ""
     },
@@ -44,7 +45,7 @@
     "cosmos_rpc_endpoint" : [
         {
             "provider": "Gno Land",
-            "url": "https://rpc.gno.land"
+            "url": "https://rpc.test9.testnets.gno.land"
         }
     ],
     "explorer" : {

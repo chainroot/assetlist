@@ -1,6 +1,16 @@
 [
   {
     "type": "ibc",
+    "denom": "ibc/239639A8C8EA3E2A778BD5AA86DF93EBF735F8BAD906591B0F086C1085E4CD36",
+    "symbol": "ETH",
+    "name": "eth",
+    "description": "Ethereum is a decentralized blockchain platform for running smart contracts and dApps, with Ether (ETH) as its native cryptocurrency, enabling a versatile ecosystem beyond just digital currency.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/af33707625a9a948852514d2ffd2f99d2d8cfc603bca373190a152522fdb1c0c.svg",
+    "coinGeckoId": "ethereum"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/658F7483A5B6F455C530E536E18401F36CA24A0BE21D7610A90F1891CEF225CB",
     "symbol": "PLQ",
     "name": "planq",

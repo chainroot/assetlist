@@ -7,6 +7,6 @@
         "description": "Monad Native Coin",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/mon.png",
-        "coinGeckoId": ""
+        "coinGeckoId": "monad"
     }
 ]

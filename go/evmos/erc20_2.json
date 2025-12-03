@@ -18,8 +18,7 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/afad015ce88ff6c68c7a96480fde907690029a0788b9e63f2d5363d7b9afe78e.png",
-        "coinGeckoId": "",
-        "wallet_preload": true
+        "coinGeckoId": ""
     },
     {
         "type": "erc20",
