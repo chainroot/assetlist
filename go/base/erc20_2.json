@@ -7,8 +7,7 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/weth.png",
-        "coinGeckoId": "weth",
-        "wallet_preload": true
+        "coinGeckoId": "weth"
     },
     {
         "type": "erc20",
@@ -29,8 +28,7 @@
         "description": "",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/bd4e9c43e694355ed93c07825729eb37fd8f46131c1a4bffdb5f1897aafc6702.png",
-        "coinGeckoId": "bridged-usd-coin-base",
-        "wallet_preload": true
+        "coinGeckoId": "bridged-usd-coin-base"
     },
     {
         "type": "erc20",
@@ -40,8 +38,7 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/dai.png",
-        "coinGeckoId": "dai",
-        "wallet_preload": true
+        "coinGeckoId": "dai"
     },
     {
         "type": "erc20",
@@ -51,8 +48,7 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/161c19c5da6d2f52d33692c08504c62e95bb90a35a83e30557e093a0f86c9900.png",
-        "coinGeckoId": "rocket-pool-eth",
-        "wallet_preload": true
+        "coinGeckoId": "rocket-pool-eth"
     },
     {
         "type": "erc20",
@@ -62,8 +58,7 @@
         "description": "",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/78ee3a865a03a0744a7799efa02c25e06d5249322c7a3c0029655a1605134d45.png",
-        "coinGeckoId": "pyth-network",
-        "wallet_preload": true
+        "coinGeckoId": "pyth-network"
     },
     {
         "type": "erc20",
@@ -73,8 +68,7 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/cbeth.png",
-        "coinGeckoId": "coinbase-wrapped-staked-eth",
-        "wallet_preload": true
+        "coinGeckoId": "coinbase-wrapped-staked-eth"
     },
     {
         "type": "erc20",
@@ -805,5 +799,45 @@
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/3a068b8d3cb5273f14fa045776db283b1d926538734d93573ad2d955e3929e7d.svg",
         "coinGeckoId": "lava-network"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x99ac4484e8a1dbd6a185380b3a811913ac884d87",
+        "name": "Savings Dai",
+        "symbol": "sDAI",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/c608c74514eb07f7ee3fde8a748c8de360c589a0aafbbe18469cee3a403fd346.png",
+        "coinGeckoId": "savings-dai"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x2416092f143378750bb29b79ed961ab195cceea5",
+        "name": "Renzo Restaked ETH ",
+        "symbol": "ezETH",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/63b6c6b77fbb98a5318567fbe82e75e1e660b659db45ee35d2c85a2572e4e5ec.png",
+        "coinGeckoId": "renzo-restaked-eth"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xe5020a6d073a794b6e7f05678707de47986fb0b6",
+        "name": "Frax USD",
+        "symbol": "frxUSD",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/2acaea684d1f40c2cd924af9c5eb2a6677ef440179202aa3d5bf3705c947b293.png",
+        "coinGeckoId": "frax-usd"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+        "name": "LayerZero",
+        "symbol": "ZRO",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/0e0b26e7c82fcc8719ae5818604338aadfaa80e643d0e4da2352fe54ea83166a.png",
+        "coinGeckoId": "layerzero"
     }
 ]

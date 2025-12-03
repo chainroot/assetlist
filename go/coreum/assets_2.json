@@ -40,7 +40,7 @@
         "description": "Liquid staking asset for COREUM, by Pulsara",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/f65ba10755b3b78b0848e2daee402d6a13f47a406bd3b9473ed9c47a567ec17d.png",
-        "coinGeckoId": "",
+        "coinGeckoId": "licore",
         "color": "#FF03CB"
     },
     {
@@ -75,5 +75,45 @@
                 "denom": "uusdc"
             }
         }
+    },
+    {
+        "type": "native",
+        "denom": "uccd-core1hnwd78wappjmgygyzr9mwspm7uzytrkcp9pfvv",
+        "name": "Coreum Community DAO Token",
+        "symbol": "CCD",
+        "description": "Rewards token designed to incentivize participation in Coreum Community DAO",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/9eacfeb23bc0f5103e07d4321609246cba7766980c3b45c2b3b20e5c3cdcceec.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "xrpl570c00a604-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz",
+        "name": "RLUSD",
+        "symbol": "RLUSD",
+        "description": "RLUSD bridged from XRPL",
+        "decimals": 15,
+        "image": "https://cdn.chainroot.io/images/tokens/7d6bcf9a573ca9ce8bdb01ddf2978c9c0b72178ffc6422ce76b259efe7c18a33.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "upunks-core1zceldt0z76n3cje52fps53lh6ejlxqcnu4fgexl3vyj688nx3f0sgm7xaa",
+        "name": "Coreum",
+        "symbol": "PUNKS",
+        "description": "Trade $PUNKS, the utility token of the official Coreum Punks NFT Collection.",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/unknown.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "usbc-core1rfxrg75fzuq5hgnnymjgsxj70d9w9cs8xuza7x",
+        "name": "Coreum",
+        "symbol": "SBC",
+        "description": "SBC is a regulated, fiat-backed stablecoin issued by Brale and redeemable 1:1 for U.S. Dollars",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/b08bd3f4e17d90cbd585be3450082271f44bd3da0476dc402edaa506ed65e438.png",
+        "coinGeckoId": ""
     }
 ]

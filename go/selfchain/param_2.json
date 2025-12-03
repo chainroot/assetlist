@@ -9,7 +9,7 @@
     "bech_validator_prefix" : "selfvaloper",
     "origin_genesis_time" : "2024-06-06T06:06:06Z",
     "api_name" : "selfchain",
-    "is_support_mintscan": true,
+    "is_support_mintscan": false,
     "is_support_mobile_wallet": true,
     "is_support_extension_wallet": true,
     "chain_type": [
@@ -35,30 +35,14 @@
     },
     "grpc_endpoint" : [
         {
-            "provider": "Cosmostation",
-            "url": "grpc-selfchain.cosmostation.io:443"
-        },
-        {
-            "provider": "Roomit",
-            "url": "grpc.selfchain.roomit.xyz:8443"
-        },
-        {
             "provider": "Stake Village",
             "url": "selfchain-mainnet.grpc.stakevillage.net:443"
         }
     ],
     "lcd_endpoint" : [
         {
-            "provider": "Cosmostation",
-            "url": "https://lcd-selfchain.cosmostation.io/"
-        },
-        {
             "provider": "Self Chain",
             "url": "https://api.selfchain.io/"
-        },
-        {
-            "provider": "Roomit",
-            "url": "https://api.selfchain.roomit.xyz/"
         },
         {
             "provider": "Stake Village",
@@ -66,11 +50,11 @@
         }
     ],
     "explorer" : {
-        "name": "Mintscan",
-        "url": "https://www.mintscan.io/selfchain/",
-        "account": "https://www.mintscan.io/selfchain/address/${address}",
-        "tx": "https://www.mintscan.io/selfchain/tx/${hash}",
-        "proposal": "https://www.mintscan.io/selfchain/proposals/${id}"
+        "name": "Selfchain Explorer",
+        "url": "https://explorer.selfchain.xyz/",
+        "account": "https://explorer.selfchain.xyz/selfchain/account/${address}",
+        "tx": "https://explorer.selfchain.xyz/selfchain/tx/${hash}",
+        "proposal": "https://explorer.selfchain.xyz/selfchain/gov/${id}"
     },
     "about" : {
         "website" : "https://selfchain.xyz/",

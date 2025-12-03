@@ -92,7 +92,7 @@
         "symbol": "ASTRO.cw20",
         "description": "Astroport in Testnet",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/57d8651df1c518e517dc53d4a5ed987e40adb70b507bfd65231a3fdd3ce3ee3c.png",
+        "image": "https://cdn.chainroot.io/images/tokens/astro.png",
         "coinGeckoId": "",
         "ibc_info": {
             "path": "terra-testnet>neutron-testnet",

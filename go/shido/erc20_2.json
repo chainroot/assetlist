@@ -12,8 +12,8 @@
     },
     {
         "type": "erc20",
-        "contract": "0x80b5a32E4F032B2a058b4F29EC95EEfEEB87aDcd",
-        "name" : "Shido usdc",
+        "contract": "0xeE1Fc22381e6B6bb5ee3bf6B5ec58DF6F5480dF8",
+        "name" : "USDC",
         "symbol": "USDC",
         "description": "",
         "decimals": 6,
@@ -53,24 +53,13 @@
     },
     {
         "type": "erc20",
-        "contract": "0xd9650144Cd028fc70270a26C1D878E5dbeF8CE9A",
-        "name" : "Magic",
-        "symbol": "MAGIC",
-        "description": "",
-        "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/2abc2955434746e17841446233ccd6e546527f51df4445c4047da0ec9223fad7.png",
-        "coinGeckoId": ""
-    },
-    {
-        "type": "erc20",
         "contract": "0xfB889425B72c97C5b4484cF148AE2404AB7A13e7",
         "name" : "Kensei",
         "symbol": "KENSEI",
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/d2e5e0edca8bdd2e5184373821d9ca18928f127099b16428cc861f5be61c47f7.png",
-        "coinGeckoId": "kensei",
-        "wallet_preload": true
+        "coinGeckoId": "kensei"
     },
     {
         "type": "erc20",
@@ -90,8 +79,7 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/0907c1762da3b2a660d900b79b874329970484285fca93ac7aab342968ade236.png",
-        "coinGeckoId": "shido-dex",
-        "wallet_preload": true
+        "coinGeckoId": "shido-dex"
     },
     {
         "type": "erc20",
@@ -111,6 +99,36 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/81d24b9aa2eb488097e0066d5f2a245b2ec3ed034d446a7f10756fc9659e53dd.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "erc20",
+        "contract": "0x4b0cBcad61c5584EdE3ca9fd45eF1feBB2215311",
+        "name" : "Nerd",
+        "symbol": "NERD",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/aab64cf47b45722b681682a80b5d7e1d1c877b434ee7144f7260abcb9d20c953.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "erc20",
+        "contract": "0x1f5b6F4126575835c23D1b6c38535FA215df03c5",
+        "name" : "MSMoon",
+        "symbol": "MSMoon",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/16c9b0551c3c2a6bfcc8ee57552c7cf16db67c35ba63448adfdbadb2fdbc0a74.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "erc20",
+        "contract": "0x1B22b06eF38140064004cA050b3A67348B94A220",
+        "name" : "Ippon",
+        "symbol": "IPN",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/8c57815417f52010dcc8fc6ca47ac1288dc08a26b7bd0e2af8cc5846c0f08d56.png",
         "coinGeckoId": ""
     }
 ]

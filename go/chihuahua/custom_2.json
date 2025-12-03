@@ -51,6 +51,26 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/4A32DE4865BD9B6AC52B04645F09137AC874E12A32497C89D5493805E04F4CEE",
+    "symbol": "MAND",
+    "name": "mand",
+    "description": "The native token of Mande Network.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/e8c98a99651d7dba8858f098ac2897406527579b4d1e9444d854c6f186f2c9b8.svg",
+    "coinGeckoId": "mande-network"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/BFAA5FC8AAC1A59A7577865BA6FC22E8FCC375A4DFD1EEF53D7640F64DCFA682",
+    "symbol": "DYM",
+    "name": "dym",
+    "description": "The native governance and staking token of the Dymension Hub",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/fac51dc9300b2f2410a7b3a18f9ef30152ddf7a3250bf8b79280c1ab81b0e7d0.svg",
+    "coinGeckoId": "dymension"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/3167205FB1807384FE21BB042336C889DCD8A38B6577588B3AEB1D8FE4665987",
     "symbol": "EVMOS",
     "name": "evmos",
@@ -68,16 +88,6 @@
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/ed321759e86bba51e2a90254548b77b54994ce54c564a5f36995ac059a36d953.svg",
     "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/BFAA5FC8AAC1A59A7577865BA6FC22E8FCC375A4DFD1EEF53D7640F64DCFA682",
-    "symbol": "DYM",
-    "name": "dym",
-    "description": "The native governance and staking token of the Dymension Hub",
-    "decimals": 18,
-    "image": "https://cdn.chainroot.io/images/tokens/fac51dc9300b2f2410a7b3a18f9ef30152ddf7a3250bf8b79280c1ab81b0e7d0.svg",
-    "coinGeckoId": "dymension"
   },
   {
     "type": "ibc",
@@ -111,7 +121,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/9F63977F17AB8106AAFD8E336F5114F76F08B170B120119C8B62F27B0346A9FB",
+    "denom": "ibc/A7B494649CB480E16845F5C1F2485E11BF3EF7C746EEF8A50BB8AD2A67C00E78",
     "symbol": "ETH",
     "name": "eth",
     "description": "Ethereum is a decentralized blockchain platform for running smart contracts and dApps, with Ether (ETH) as its native cryptocurrency, enabling a versatile ecosystem beyond just digital currency.",
@@ -121,7 +131,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/A7B494649CB480E16845F5C1F2485E11BF3EF7C746EEF8A50BB8AD2A67C00E78",
+    "denom": "ibc/9F63977F17AB8106AAFD8E336F5114F76F08B170B120119C8B62F27B0346A9FB",
     "symbol": "ETH",
     "name": "eth",
     "description": "Ethereum is a decentralized blockchain platform for running smart contracts and dApps, with Ether (ETH) as its native cryptocurrency, enabling a versatile ecosystem beyond just digital currency.",
@@ -406,18 +416,8 @@
     "name": "scrt",
     "description": "Secret Network is a privacy-focused blockchain that enables private and secure smart contracts, protecting sensitive data.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/4e950180cbb20a28d82f99bc2243211928ef4995504af4b4029ba1f3031fde4a.svg",
+    "image": "https://cdn.chainroot.io/images/tokens/scrt.svg",
     "coinGeckoId": "secret"
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/86E7F8E854A97E490225D423EBCEA096018B3FEDE025A8EAEC86F2D09A468345",
-    "symbol": "HUAHUA",
-    "name": "huahua",
-    "description": "Chihuahua is a community-driven blockchain project focused on creating a fun and engaging ecosystem with an emphasis on social interactions and community building.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/9f226984a0945cdd8fbe6b52a6285a82b061b6e895fe99f42ce775d42efa8c06.svg",
-    "coinGeckoId": "chihuahua-token"
   },
   {
     "type": "ibc",
@@ -428,6 +428,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/d5b4a9ae52bab105a3a3d04814f9aa2e21dbc8a71181221172ebbe52cefd5c0b.svg",
     "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/86E7F8E854A97E490225D423EBCEA096018B3FEDE025A8EAEC86F2D09A468345",
+    "symbol": "HUAHUA",
+    "name": "huahua",
+    "description": "Chihuahua is a community-driven blockchain project focused on creating a fun and engaging ecosystem with an emphasis on social interactions and community building.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/9f226984a0945cdd8fbe6b52a6285a82b061b6e895fe99f42ce775d42efa8c06.svg",
+    "coinGeckoId": "chihuahua-token"
   },
   {
     "type": "ibc",
@@ -486,7 +496,7 @@
     "name": "medas",
     "description": "The native token of Medas Digital Network",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/a8460b7c30a9f39c44e595a8363ae71e40d9e35c4ddcefb90c40d55f9a8ad12a.svg",
+    "image": "https://cdn.chainroot.io/images/tokens/medas.svg",
     "coinGeckoId": ""
   },
   {
@@ -516,7 +526,7 @@
     "name": "medas",
     "description": "The native token of Medas Digital Network",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/a8460b7c30a9f39c44e595a8363ae71e40d9e35c4ddcefb90c40d55f9a8ad12a.svg",
+    "image": "https://cdn.chainroot.io/images/tokens/medas.svg",
     "coinGeckoId": ""
   },
   {
@@ -716,7 +726,7 @@
     "name": "graviton",
     "description": "The native token of Gravity Bridge",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/80113d9226d07b7d5f24a7b6f569d4971cdfed9481d0b80d4121b8c3bd7e0a8b.svg",
+    "image": "https://cdn.chainroot.io/images/tokens/grav.svg",
     "coinGeckoId": "graviton"
   },
   {
@@ -736,7 +746,7 @@
     "name": "scrt",
     "description": "Secret Network is a privacy-focused blockchain that enables private and secure smart contracts, protecting sensitive data.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/4e950180cbb20a28d82f99bc2243211928ef4995504af4b4029ba1f3031fde4a.svg",
+    "image": "https://cdn.chainroot.io/images/tokens/scrt.svg",
     "coinGeckoId": "secret"
   },
   {
@@ -758,5 +768,15 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/b83db90d9c0385944824acdf459feff0de88d7eeefa09a169a51c7898d02cb51.svg",
     "coinGeckoId": "lum-network"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/A4E8E8DF90A20A5288033028A6443047FE9700793DB3514B603CC2045BD11C9B",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
   }
 ]

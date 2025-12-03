@@ -1,2 +1,166 @@
 [
+    {
+        "type": "erc20",
+        "contract": "0x3bd359C1119dA7Da1D913D1C4D2B7c461115433A",
+        "name": "Wrapped MON",
+        "symbol": "WMON",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/wmon.png",
+        "coinGeckoId": "wrapped-monad",
+        "wallet_preload": true
+    },
+    {
+        "type": "erc20",
+        "contract": "0xe7cd86e13AC4309349F30B3435a9d337750fC82D",
+        "name": "USDT0",
+        "symbol": "USDT0",
+        "description": "Tether",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
+        "coinGeckoId": "tether",
+        "wallet_preload": true
+    },
+    {
+        "type": "erc20",
+        "contract": "0x754704Bc059F8C67012fEd69BC8A327a5aafb603",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "description": "USD Coin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/usdc.png",
+        "coinGeckoId": "usd-coin",
+        "wallet_preload": true
+    },
+    {
+        "type": "erc20",
+        "contract": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+        "name": "AUSD",
+        "symbol": "AUSD",
+        "description": "",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/49ff84f1ded23971dd7c77b394d6640cc007cf049c0b74d8ceb8dbe6f8eb11b7.png",
+        "coinGeckoId": "agora-dollar"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xEE8c0E9f1BFFb4Eb878d8f15f368A02a35481242",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/weth.png",
+        "coinGeckoId": "wormhole-bridged-weth-monad"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "description": "",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/wbtc.png",
+        "coinGeckoId": "telos-bridged-wbtc-telos"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x10Aeaf63194db8d453d4D85a06E5eFE1dd0b5417",
+        "name": "Wrapped liquid staked Ether 2.0 ",
+        "symbol": "wstETH",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/5045de35849428f31c6a853a9718a5754cab439434054275b03346808d26aa3a.png",
+        "coinGeckoId": "wrapped-steth"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x103222f020e98Bba0AD9809A011FDF8e6F067496",
+        "name": "earnAUSD",
+        "symbol": "earnAUSD",
+        "description": "",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/f3469e76f0cbebdb66d837d5c60d3aa3c166c25f0efe4436b991971803c1ac50.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "erc20",
+        "contract": "0x350035555E10d9AfAF1566AaebfCeD5BA6C27777",
+        "name": "Chog",
+        "symbol": "CHOG",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/ef89e94149a784833949218e8e47657497359629b0da9be345fd24a307e96206.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "erc20",
+        "contract": "0x1B68626dCa36c7fE922fD2d55E4f631d962dE19c",
+        "name": "ShMonad",
+        "symbol": "shMON",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/764552e9da2919bd57c6b6c383efb62eb37e1935dc6f64fa399355fafdf27697.png",
+        "coinGeckoId": "shmonad"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x8498312A6B3CbD158bf0c93AbdCF29E6e4F55081",
+        "name": "gMON",
+        "symbol": "gMON",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/276fb47d337389ff48bffe4e4f37427d15764230984dfb93eade013026ca1197.png",
+        "coinGeckoId": "magma-staked-monad"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xA3227C5969757783154C60bF0bC1944180ed81B9",
+        "name": "Kintsu Staked Monad",
+        "symbol": "sMON",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/0925fb6863b5f41534773dc6195e88eea3569138bd1d81aec9fa4303c277e5ac.png",
+        "coinGeckoId": "kintsu-staked-monad"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x7DB552eEb6b77a6babe6e0A739b5382CD653CC3e",
+        "name": "GMONAD",
+        "symbol": "GMONAD",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/f8e5eec0e354b24f8df3bbd286dd5db0c85af61e2a9da630086fd93326c99e7c.png",
+        "coinGeckoId": "gmonad-3"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x788571E0E5067Adea87e6BA22a2b738fFDf48888",
+        "name": "UNIT",
+        "symbol": "UNIT",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/00b27bef0e763168618e8cb64fb61d87f86c44407d8c0a0393f29a4a6d926642.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "erc20",
+        "contract": "0xD32E9dDD968b18E8429F2d1DA7efb2cc1F01d42d",
+        "name": "molandak",
+        "symbol": "MOLANDAK",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/22bc15303f8feeb6f45f7a02f80b283f761238e3f326593f6065535009e61409.png",
+        "coinGeckoId": "molandak-2"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x0c65A0BC65a5D819235B71F554D210D3F80E0852",
+        "name": "aPriori Monad LST",
+        "symbol": "aprMON",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/486d58b5c307bbef3ca22559dc72cf1cfa055bc3aa2d754f893d00d5406f0774.png",
+        "coinGeckoId": ""
+    }
 ]
+

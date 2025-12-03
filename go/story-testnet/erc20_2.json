@@ -16,8 +16,7 @@
         "symbol": "USB",
         "description": "Wand USB (USB)",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/unknown.png",
-        "wallet_preload": true
+        "image": "https://cdn.chainroot.io/images/tokens/unknown.png"
     },
     {
         "type": "erc20",

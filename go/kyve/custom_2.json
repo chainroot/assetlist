@@ -61,6 +61,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/CFBAD6BAAAD4D1E91C1875D3A41531671750208354049CA55C46E4701C67BDF5",
+    "symbol": "SOURCE",
+    "name": "source",
+    "description": "The native token of SOURCE Chain",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/ee4c0949975dcc99c76363626bc6e210f81c7e7144594ec6994c6405153fe273.svg",
+    "coinGeckoId": "source"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/0D2ABDF58A5DBA3D2A90398F8737D16ECAC0DDE58F9792B2918495D499400672",
     "symbol": "SOURCE",
     "name": "source",

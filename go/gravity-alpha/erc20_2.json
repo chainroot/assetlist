@@ -1,0 +1,41 @@
+[
+    {
+        "type": "erc20",
+        "contract": "0xBB859E225ac8Fb6BE1C7e38D87b767e95Fef0EbD",
+        "name": "Wrapped G",
+        "symbol": "WG",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/352469c150142ed6a988865bc06ddc62d04ea61b86e0c6b9749b87560bf7f8fe.png",
+        "wallet_preload": true
+    },
+    {
+        "type": "erc20",
+        "contract": "0x816E810f9F787d669FB71932DeabF6c83781Cd48",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "description": "",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/8d812a3786178f6dbc556b3cb21411112b7c3a7ac893bf4b70c85e3c2db5a520.png",
+        "coinGeckoId": "tether",
+        "wallet_preload": true
+    },
+    {
+        "type": "erc20",
+        "contract": "0xFbDa5F676cB37624f28265A144A48B0d6e87d3b6",
+        "name": "Stargate Bridged USDC Story",
+        "symbol": "USDCE",
+        "description": "Stargate Bridged USDC Story",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/a696735ff734bfd57bf44126e819d7b44d8718b4acfa46a7f2c70fab1a805236.png"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xf6f832466Cd6C21967E0D954109403f36Bc8ceaA",
+        "name": "Stargate Bridged WETH Gravity",
+        "symbol": "WETH",
+        "description": "Stargate Bridged WETH Gravity",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/weth.png"
+    }
+]

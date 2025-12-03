@@ -7,7 +7,7 @@
         "description": "Mainnet Qubetics Staking Coin",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/tics.png",
-        "coinGeckoId": "",
+        "coinGeckoId": "qubetics",
         "color": "#C78DFF"
     }
 ]

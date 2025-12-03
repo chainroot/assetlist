@@ -21,6 +21,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/C2AF11C91E661135A793BDCF1A70E07BC4BA27B2B60A06478121BE94E2BC6132",
+    "symbol": "rETH",
+    "name": "reth",
+    "description": "",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/10c519d28894904b2470a2c98532a7613c09bb649190371c172e53112077cd94.png",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/37EF240838413BD7D3496183213F7F0F483EC7A330328F16AD901A1AC1450F72",
     "symbol": "USDC",
     "name": "usdc",
@@ -51,6 +61,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/054A44EC8D9B68B9A6F0D5708375E00A5569A28F21E0064FF12CADC3FEF1D04F",
+    "symbol": "stATOM",
+    "name": "statom",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/8952f870f7fecceb24d59b6e5e2cfba7235d513ea0cf5f5db6989352605b52b3.svg",
+    "coinGeckoId": "stride-staked-atom"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/487CDAE6E9FF09AB722DE08F65D367CE287E13141E448CEDABDDD60ED5A0A77B",
     "symbol": "stSAGA",
     "name": "stSAGA",
@@ -61,12 +81,22 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/B90825FF57A70109217065F9BB1F61D4C7B2520708304DF356FB7E41E4944EAD",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/1B28CD5F3CDC17E585A7F2F05931FA694B3EFF0233D98CEF3505A35410D53CED",
     "symbol": "SCRT",
     "name": "scrt",
     "description": "Secret Network is a privacy-focused blockchain that enables private and secure smart contracts, protecting sensitive data.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/4e950180cbb20a28d82f99bc2243211928ef4995504af4b4029ba1f3031fde4a.svg",
+    "image": "https://cdn.chainroot.io/images/tokens/scrt.svg",
     "coinGeckoId": "secret"
   },
   {
@@ -88,5 +118,15 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/ec24ec10d44cf36ec24232f5dbb19ad5b61d1972098888b01291b63c1c66722e.svg",
     "coinGeckoId": "stride"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/254CC83FE5340088D7C7F37A66DD77D4FC638493D85C03519D923F882A456516",
+    "symbol": "axlFBTC",
+    "name": "fbtc",
+    "description": "Fire Bitcoin on Axelar",
+    "decimals": 8,
+    "image": "https://cdn.chainroot.io/images/tokens/b2b0060e8216bb62a369cc00f18eafcdc06fea3380730219d99816c620f01020.svg",
+    "coinGeckoId": ""
   }
 ]

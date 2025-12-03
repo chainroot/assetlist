@@ -18,8 +18,7 @@
         "description": "",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/8d812a3786178f6dbc556b3cb21411112b7c3a7ac893bf4b70c85e3c2db5a520.png",
-        "coinGeckoId": "tether-avalanche-bridged-usdt-e",
-        "wallet_preload": true
+        "coinGeckoId": "tether-avalanche-bridged-usdt-e"
     },
     {
         "type": "erc20",
@@ -29,8 +28,7 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/dda92cb02f92fa2fc258975b4d762f1823b0d8ae32f4934a95a1ca1069d3dc54.png",
-        "coinGeckoId": "benqi-liquid-staked-avax",
-        "wallet_preload": true
+        "coinGeckoId": "benqi-liquid-staked-avax"
     },
     {
         "type": "erc20",
@@ -40,8 +38,7 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/ce57dc889806dc250bb17ba3574134ecd6ca366fd66b059ba205a2ec2cf33cd1.png",
-        "coinGeckoId": "joe",
-        "wallet_preload": true
+        "coinGeckoId": "joe"
     },
     {
         "type": "erc20",
@@ -51,8 +48,7 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/52fc753294aa9212bab427f38d9f1739d0607750e877d8086cda782ea61edf58.png",
-        "coinGeckoId": "wrapped-avax",
-        "wallet_preload": true
+        "coinGeckoId": "wrapped-avax"
     },
     {
         "type": "erc20",
@@ -73,8 +69,7 @@
         "description": "",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
-        "coinGeckoId": "usd-coin-avalanche-bridged-usdc-e",
-        "wallet_preload": true
+        "coinGeckoId": "usd-coin-avalanche-bridged-usdc-e"
     },
     {
         "type": "erc20",
@@ -84,8 +79,7 @@
         "description": "",
         "decimals": 8,
         "image": "https://cdn.chainroot.io/images/tokens/a80c5091e769cd5dc12af751e6771e83ac4c9a42bb1e0b8c75e8b496e8978413.png",
-        "coinGeckoId": "bitcoin-avalanche-bridged-btc-b",
-        "wallet_preload": true
+        "coinGeckoId": "bitcoin-avalanche-bridged-btc-b"
     },
     {
         "type": "erc20",
@@ -95,8 +89,7 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/weth.png",
-        "coinGeckoId": "weth",
-        "wallet_preload": true
+        "coinGeckoId": "weth"
     },
     {
         "type": "erc20",
@@ -917,5 +910,15 @@
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/a5fe426ae9b9d5f69ab7ead7930ecac6233bfd0079d305536c15c2062c64361d.svg",
         "coinGeckoId": "saga"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+        "name": "LayerZero",
+        "symbol": "ZRO",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/0e0b26e7c82fcc8719ae5818604338aadfaa80e643d0e4da2352fe54ea83166a.png",
+        "coinGeckoId": "layerzero"
     }
 ]

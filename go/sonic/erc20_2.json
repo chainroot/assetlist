@@ -1,0 +1,244 @@
+[
+    {
+        "type": "erc20",
+        "contract": "0x29219dd400f2Bf60E5a23d13Be72B486D4038894",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "description": "USD Coin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
+        "coinGeckoId": "usd-coin",
+        "wallet_preload": true
+    },
+    {
+        "type": "erc20",
+        "contract": "0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38",
+        "name": "Wrapped Sonic",
+        "symbol": "wS",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/dc4d4dc26a18b652243b78b908ebd3f68c6ff7e028bd8236eb7e842fc62b5d06.png",
+        "coinGeckoId": "wrapped-sonic",
+        "wallet_preload": true
+    },
+    {
+        "type": "erc20",
+        "contract": "0xd3DCe716f3eF535C5Ff8d041c1A41C3bd89b97aE",
+        "name": "Sonic USD",
+        "symbol": "scUSD",
+        "description": "",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/94b2bcf91feada753880883ef6f4a64a14c7bacc8ca172b61e6c6ebfe9d4e7b1.png",
+        "coinGeckoId": "rings-scusd"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xE5DA20F15420aD15DE0fa650600aFc998bbE3955",
+        "name": "Beets Staked Sonic",
+        "symbol": "stS",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/af80df790a20b018232a92cdead8c9988c1e1b5831c0fc150d9cd50289c55e72.png",
+        "coinGeckoId": "beets-staked-sonic"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x50c42dEAcD8Fc9773493ED674b675bE577f2634b",
+        "name": "Wrapped Ether on Sonic",
+        "symbol": "WETH",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/weth.png",
+        "coinGeckoId": "weth"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x3333b97138D4b086720b5aE8A7844b1345a33333",
+        "name": "Shadow",
+        "symbol": "SHADOW",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/153c838a5eb94bb934b6f28d3dc479a54c7d7338c66f38cdd639c90a784502ae.png",
+        "coinGeckoId": "shadow-2"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
+        "name": "HeyAnon",
+        "symbol": "Anon",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/9339be7ebf2ad6891fda501ed0f303e824694b49561845867378ba750b0f6f65.png",
+        "coinGeckoId": "heyanon"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x71E99522EaD5E21CF57F1f542Dc4ad2E841F7321",
+        "name": "Metropolis Token",
+        "symbol": "METRO",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/25b24c76d1bcb26dda42041a8a714cc93081e87f062db8b35bb533c3de28eee1.png",
+        "coinGeckoId": "metropolis"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xb1e25689D55734FD3ffFc939c4C3Eb52DFf8A794",
+        "name": "Origin Sonic",
+        "symbol": "OS",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/c948e304278627c8134c348a88cf6eeaab2a91eda8c4ff2a465c7e48bb5a05f9.png",
+        "coinGeckoId": "origin-staked-s"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x2D0E0814E62D80056181F5cd932274405966e4f0",
+        "name": "Beets",
+        "symbol": "BEETS",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/3e073e53c006feb067ded1caca23d4bc6f5df5273549f3c67e9ebe1f6460704d.png",
+        "coinGeckoId": "beets"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x6c9B3A74ae4779da5Ca999371eE8950e8DB3407f",
+        "name": "fly.trade",
+        "symbol": "FLY",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/534ece01f35684fb4050db9269ca2d14ea1e74f81ae53199f30ef138352dcd10.png",
+        "coinGeckoId": "fly-2"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xb098AFC30FCE67f1926e735Db6fDadFE433E61db",
+        "name": "Silo Token",
+        "symbol": "SILO",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/890d1e051fa5442bf2350459a8274369d24c29d8636cd4e8a1b7e61a50899eaa.png",
+        "coinGeckoId": "silo-finance"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+        "name": "Lombard Staked BTC",
+        "symbol": "LBTC",
+        "description": "",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/lbtc.png",
+        "coinGeckoId": "lombard-staked-btc"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xA04BC7140c26fc9BB1F36B1A604C7A5a88fb0E70",
+        "name": "SwapX",
+        "symbol": "SWPx",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/860e5e46770f0179e10e606565812c683ed1646eb9251ee3f6ff5ac0c1a8adea.png",
+        "coinGeckoId": "swapx-2"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x0e0Ce4D450c705F8a0B6Dd9d5123e3df2787D16B",
+        "name": "Wagmi",
+        "symbol": "WAGMI",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/64f02d52533d24d3d89efcc39720825924ff422970779734822a9cb48eaf8a82.png",
+        "coinGeckoId": "wagmi-2"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xE51EE9868C1f0d6cd968A8B8C8376Dc2991BFE44",
+        "name": "PaintSwap",
+        "symbol": "BRUSH",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/665b4f8c4f73ef0b2fab3fb32316d376e2315d0a4039aebfa46f08008ba3a999.png",
+        "coinGeckoId": "paint-swap"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xddF26B42C1d903De8962d3F79a74a501420d5F19",
+        "name": "Equalizer on Sonic",
+        "symbol": "EQUAL",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/13705836e87b92239b293d48326240810d38be26071a07edc51a1619185bb703.png",
+        "coinGeckoId": "equalizer-on-sonic"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xE5Fb2Ed6832deF99ddE57C0b9d9A56537C89121D",
+        "name": "Main Street USD",
+        "symbol": "msUSD",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/52f371615a8002b280fefdba69ab6e745c8a025fb4a84edfdb0cf2e6eff2a561.png",
+        "coinGeckoId": "main-street-usd"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x4451765739b2D7BCe5f8BC95Beaf966c45E1Dcc9",
+        "name": "xSILO",
+        "symbol": "xSILO",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/42657b4910ea82991fc0b5241cb5b1eb509c34ca234214e08ce1e2a1e06e5d4c.png",
+        "coinGeckoId": "xsilo"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x4772D2e014F9fC3a820C444e3313968e9a5C8121",
+        "name": "YieldFi yUSD",
+        "symbol": "yUSD",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/1c6f99b22ab22433554e3be5dc37c5c42f7f85cfbf484603108a2e9ca2aaf7a1.png",
+        "coinGeckoId": "yieldfi-ytoken"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "description": "Wrapped Bitcoin",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/347e4b450cbbf16ce16b53366a98a4571a507e5d461fff90efee028abbf76dd0.png",
+        "coinGeckoId": "wrapped-bitcoin"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xb0695ce12c56AAe40894235e2d1888D0b62Dd110",
+        "name": "DeFive",
+        "symbol": "FIVE",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/d7d4abc7ac50fdde7df375229d724e12c601937d8c0ed0d814c4530433414afc.png",
+        "coinGeckoId": "defive"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+        "name": "Frax USD",
+        "symbol": "frxUSD",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/2acaea684d1f40c2cd924af9c5eb2a6677ef440179202aa3d5bf3705c947b293.png",
+        "coinGeckoId": "frax-usd"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
+        "name": "Staked Frax USD",
+        "symbol": "sfrxUSD",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/38db507c37002c3dcdff22b0e5e17ec6f500275b02d506be6ca3ba07bbe0e459.png",
+        "coinGeckoId": "staked-frax-usd"
+    }
+]

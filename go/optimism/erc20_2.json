@@ -40,8 +40,7 @@
         "description": "",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
-        "coinGeckoId": "usd-coin",
-        "wallet_preload": true
+        "coinGeckoId": "usd-coin"
     },
     {
         "type": "erc20",
@@ -51,8 +50,7 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/b896fca670b77b72b44a8036bb07207ef840e25a3249965f0798d50d10c213d5.png",
-        "coinGeckoId": "chainlink",
-        "wallet_preload": true
+        "coinGeckoId": "chainlink"
     },
     {
         "type": "erc20",
@@ -62,8 +60,7 @@
         "description": "",
         "decimals": 8,
         "image": "https://cdn.chainroot.io/images/tokens/347e4b450cbbf16ce16b53366a98a4571a507e5d461fff90efee028abbf76dd0.png",
-        "coinGeckoId": "wrapped-bitcoin",
-        "wallet_preload": true
+        "coinGeckoId": "wrapped-bitcoin"
     },
     {
         "type": "erc20",
@@ -73,8 +70,7 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/dai.png",
-        "coinGeckoId": "dai",
-        "wallet_preload": true
+        "coinGeckoId": "dai"
     },
     {
         "type": "erc20",
@@ -84,8 +80,7 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/ldo.png",
-        "coinGeckoId": "lido-dao",
-        "wallet_preload": true
+        "coinGeckoId": "lido-dao"
     },
     {
         "type": "erc20",
@@ -95,8 +90,7 @@
         "description": "",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/d5f1fb80a26251f4173e7f8b7b849333f979d39af96c9d64ea377d88d4482b83.png",
-        "coinGeckoId": "pyth-network",
-        "wallet_preload": true
+        "coinGeckoId": "pyth-network"
     },
     {
         "type": "erc20",
@@ -105,9 +99,8 @@
         "symbol": "WLD",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/29d0264f8810da1a738358dcdf5f1f66bab8bd87f7a7311dc1b84e25c0c841ce.png",
-        "coinGeckoId": "worldcoin-wld",
-        "wallet_preload": true
+        "image": "https://cdn.chainroot.io/images/tokens/wld.png",
+        "coinGeckoId": "worldcoin-wld"
     },
     {
         "type": "erc20",
@@ -698,5 +691,25 @@
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/a5fe426ae9b9d5f69ab7ead7930ecac6233bfd0079d305536c15c2062c64361d.svg",
         "coinGeckoId": "saga"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x2218a117083f5b482b0bb821d27056ba9c04b1d3",
+        "name": "Savings Dai",
+        "symbol": "sDAI",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/c608c74514eb07f7ee3fde8a748c8de360c589a0aafbbe18469cee3a403fd346.png",
+        "coinGeckoId": "savings-dai"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+        "name": "LayerZero",
+        "symbol": "ZRO",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/0e0b26e7c82fcc8719ae5818604338aadfaa80e643d0e4da2352fe54ea83166a.png",
+        "coinGeckoId": "layerzero"
     }
 ]

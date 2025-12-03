@@ -38,5 +38,15 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
     "coinGeckoId": "cosmos"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/36FB3D778EADA4E4AFD5254A111C6C841278AC6E2E3A8ECCBBB67BAFD32197F5",
+    "symbol": "KYVE",
+    "name": "kyve",
+    "description": "The native utility token of the KYVE network.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/e621ad8b176327af5721e968d72998528ae59ca286b4bcee85e7b15b0a3815ab.svg",
+    "coinGeckoId": "kyve-network"
   }
 ]

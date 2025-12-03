@@ -1,0 +1,32 @@
+[
+    {
+        "type": "native",
+        "denom": "ubnt",
+        "name" : "Bluzelle",
+        "symbol": "BLZ",
+        "description": "Bluzelle Staking Coin",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/blz.png",
+        "coinGeckoId": "bluzelle"
+    },
+    {
+        "type": "native",
+        "denom": "uelt",
+        "name" : "Bluzelle",
+        "symbol": "ELT",
+        "description": "The ELT token of Bluzelle's Gamma 4 Gaming Ecosystem",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/4cfed51095dd5af3f6414db7bf59eed2066a763f1bc10d4f5b9d6a459f8be702.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "native",
+        "denom": "ug4",
+        "name" : "Bluzelle",
+        "symbol": "G4",
+        "description": "The game token of Bluzelle's Gamma 4 Gaming Ecosystem",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/ad2c2a087726b8b10f3391930e2e87958152bf3566f02f5aecca0174f92d9c52.png",
+        "coinGeckoId": ""
+    }
+]

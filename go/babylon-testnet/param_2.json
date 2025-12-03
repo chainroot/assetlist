@@ -1,5 +1,5 @@
 {
-    "chain_id_cosmos": "bbn-test-5",
+    "chain_id_cosmos": "bbn-test-6",
     "chain_name": "Babylon Testnet",
     "chain_image": "https://cdn.chainroot.io/images/tokens/chain_babylon-testnet.png",
     "staking_asset_denom" : "ubbn",

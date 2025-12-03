@@ -76,7 +76,7 @@
     "name": "scrt",
     "description": "Secret Network is a privacy-focused blockchain that enables private and secure smart contracts, protecting sensitive data.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/4e950180cbb20a28d82f99bc2243211928ef4995504af4b4029ba1f3031fde4a.svg",
+    "image": "https://cdn.chainroot.io/images/tokens/scrt.svg",
     "coinGeckoId": "secret"
   },
   {

@@ -7,8 +7,7 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/1c7fa1ff639cac48aeaff1f98aed516c2068236657e61e11be496e6eff0c81b0.png",
-        "coinGeckoId": "wbnb",
-        "wallet_preload": true
+        "coinGeckoId": "wbnb"
     },
     {
         "type": "erc20",
@@ -18,8 +17,7 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/busd.png",
-        "coinGeckoId": "binance-peg-busd",
-        "wallet_preload": true
+        "coinGeckoId": "binance-peg-busd"
     },
     {
         "type": "erc20",
@@ -51,8 +49,7 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/weth.png",
-        "coinGeckoId": "weth",
-        "wallet_preload": true
+        "coinGeckoId": "weth"
     },
     {
         "type": "erc20",
@@ -62,8 +59,7 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/5f1206d11ef5b488525cf4d9eb98c15ee2fc8d71bb9ba1287c125d825807daeb.png",
-        "coinGeckoId": "pancakeswap-token",
-        "wallet_preload": true
+        "coinGeckoId": "pancakeswap-token"
     },
     {
         "type": "erc20",
@@ -73,8 +69,7 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/10013a1a0293f416354d122a3a58fde34243b6c2661fbefdd2354e27b47c13b5.png",
-        "coinGeckoId": "binance-bitcoin",
-        "wallet_preload": true
+        "coinGeckoId": "binance-bitcoin"
     },
     {
         "type": "erc20",
@@ -1183,7 +1178,7 @@
         "symbol": "frxETH",
         "description": "",
         "decimals": 18,
-        "image": "https://cdn.chainroot.io/images/tokens/0942ec03e862b8ee2380bc54cb8da65762176bb82e15264416cbf59370c891e1.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/852f5dee043aad61da864bc79eaa1d7faa7c0c369c0bbc34d1f8cfe388685d09.png",
         "coinGeckoId": "frax-ether"
     },
     {
@@ -1295,5 +1290,65 @@
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/a3575a55674f873af2344824a934b7a5168ce51ca5dbff2f150692e441a54504.png",
         "coinGeckoId": "velo"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x2416092f143378750bb29b79ed961ab195cceea5",
+        "name": "Renzo Restaked ETH ",
+        "symbol": "ezETH",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/63b6c6b77fbb98a5318567fbe82e75e1e660b659db45ee35d2c85a2572e4e5ec.png",
+        "coinGeckoId": "renzo-restaked-eth"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+        "name": "Frax USD",
+        "symbol": "frxUSD",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/2acaea684d1f40c2cd924af9c5eb2a6677ef440179202aa3d5bf3705c947b293.png",
+        "coinGeckoId": "frax-usd"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xd1738eb733a636d1b8665f48bc8a24da889c2562",
+        "name": "Frax Price Index",
+        "symbol": "FPI",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/2102523191b8310e02944e89c444f46d98f65dfbea2663a8f27748d9b25a1ebd.png",
+        "coinGeckoId": "frax-price-index-share"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x000ae314e2a2172a039b26378814c252734f556a",
+        "name": "Aster",
+        "symbol": "ASTER",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/36f88d8a7aff81ec524d0d0e3b90e7174f9d56c54f28af41ca8c31e50b46ffe4.png",
+        "coinGeckoId": "aster-2"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xa2e3356610840701bdf5611a53974510ae27e2e1",
+        "name": "Wrapped Binance Beacon ETH",
+        "symbol": "wBETH",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/a8c6851eb0c8789ea7edb46823bf7cb4c2cf5b83be5097a902e4e17a92139265.png",
+        "coinGeckoId": "wrapped-beacon-eth"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+        "name": "LayerZero",
+        "symbol": "ZRO",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/0e0b26e7c82fcc8719ae5818604338aadfaa80e643d0e4da2352fe54ea83166a.png",
+        "coinGeckoId": "layerzero"
     }
 ]

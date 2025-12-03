@@ -111,16 +111,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/3A885CF4256997A923DBE557E916E63651FE080F9E030BC2E622968E2EE81598",
-    "symbol": "USDC",
-    "name": "usdc",
-    "description": "Circle's stablecoin on Axelar",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
-    "coinGeckoId": "axlusdc"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/A77CC2CB874719F10F3E8974D7D51EC85F912536127EA2009E8276FCD75B8527",
     "symbol": "SOURCE",
     "name": "source",
@@ -128,6 +118,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/ee4c0949975dcc99c76363626bc6e210f81c7e7144594ec6994c6405153fe273.svg",
     "coinGeckoId": "source"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/3A885CF4256997A923DBE557E916E63651FE080F9E030BC2E622968E2EE81598",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
   },
   {
     "type": "ibc",
@@ -146,7 +146,7 @@
     "name": "graviton",
     "description": "The native token of Gravity Bridge",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/80113d9226d07b7d5f24a7b6f569d4971cdfed9481d0b80d4121b8c3bd7e0a8b.svg",
+    "image": "https://cdn.chainroot.io/images/tokens/grav.svg",
     "coinGeckoId": "graviton"
   },
   {
@@ -206,7 +206,7 @@
     "name": "scrt",
     "description": "Secret Network is a privacy-focused blockchain that enables private and secure smart contracts, protecting sensitive data.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/4e950180cbb20a28d82f99bc2243211928ef4995504af4b4029ba1f3031fde4a.svg",
+    "image": "https://cdn.chainroot.io/images/tokens/scrt.svg",
     "coinGeckoId": "secret"
   },
   {
@@ -296,7 +296,7 @@
     "name": "scrt",
     "description": "Secret Network is a privacy-focused blockchain that enables private and secure smart contracts, protecting sensitive data.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/4e950180cbb20a28d82f99bc2243211928ef4995504af4b4029ba1f3031fde4a.svg",
+    "image": "https://cdn.chainroot.io/images/tokens/scrt.svg",
     "coinGeckoId": "secret"
   },
   {
@@ -328,6 +328,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/7e3434e560fbd87aa1454bcd19af60e93095de0ccb10d08c091e7464e4e9f153.svg",
     "coinGeckoId": "axelar"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/111F2927656C0BD6BBAE3F27823B6475D74043D0C27A8C3DDA7585B9BA1CB806",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
   },
   {
     "type": "ibc",

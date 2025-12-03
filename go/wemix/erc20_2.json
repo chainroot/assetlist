@@ -1,0 +1,144 @@
+[
+    {
+        "type": "erc20",
+        "contract": "0x7D72b22a74A216Af4a002a1095C8C707d6eC1C5f",
+        "name": "Wrapped Wemix",
+        "symbol": "WWEMIX",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/68e8533a364e0d88fa1f201e74ca08f0cfff695e2887c9e381997979936d9ff6.png",
+        "coinGeckoId": "wwemix",
+        "wallet_preload": true
+    },
+    {
+        "type": "erc20",
+        "contract": "0x8E81fCc2d4A3bAa0eE9044E0D7E36F59C9BbA9c1",
+        "name": "WEMIX Dollar",
+        "symbol": "WEMIX$",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/9a97efa07042ad0e845a7f79e5016eef4efd8d81cfec606fba754cc79882059b.png",
+        "coinGeckoId": "wemix-dollar",
+        "wallet_preload": true
+    },
+    {
+        "type": "erc20",
+        "contract": "0x770d9d14c4ae2f78dca810958c1d9b7ea4620289",
+        "name": "CROW",
+        "symbol": "CROW",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/824b5116ccf9d2a470a44136423381a70c29f36b8aebb8728122d796a21e7958.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "erc20",
+        "contract": "0x732e6973595136976173AF4a56Eac99F52beCc6E",
+        "name": "MORION",
+        "symbol": "MOR",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/e1fcc40ad783359e3fdb51a228b4597ae0fba0f528462747b61adfb0bad1c2a3.png",
+        "coinGeckoId": "morion"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x1BABB9d9a013533Fa48BA874580AFD7bEA9278EF",
+        "name": "VELZEROTH",
+        "symbol": "VEL",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/73bc89761d93d492605dd2933e45d52f1d51a14fe80166e07c34a799c2548423.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "erc20",
+        "contract": "0xc50a55cA9d4B7804471de1E44f3C3CE8216D8Ea0",
+        "name": "PAPYRUS",
+        "symbol": "PAP",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/5cf57e09170405aa9156a2835934ae9e766e2d07a54632c6b3fd1c19c0cfb23b.png",
+        "coinGeckoId": "papyrus-2"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xB91D37ABc99B9bbc3041e0B7646588F347aa6320",
+        "name": "TEAR",
+        "symbol": "TEAR",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/3ddda6f089f38b6ddbd7d6bdb7bef6c3ff86cb59dae5d5c0c80eb94f0e503612.png",
+        "coinGeckoId": "tear-2"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xd1445BcbE14cE5eDf7ae887e3F3F82f7bDa12aF3",
+        "name": "PROMOTE",
+        "symbol": "PRO",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/f4b8f3facc69465aa878ee537506c78fa89b5b0fcb05c24854406f1c1a81f677.png",
+        "coinGeckoId": "promote"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x09C7ADa689A77a230081Ab5aaDfa787aC711D4a8",
+        "name": "Valkyreum",
+        "symbol": "Valkyreum",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/60f615617491bfec81defafb6306687fe902c2847acdc652262167d5e6bdccf5.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "erc20",
+        "contract": "0x17133c3B231eb73aceece547933E05648ef1C027",
+        "name": "GEAR",
+        "symbol": "GEAR",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/b7ec642842e8c6fcaf829c2b9ae72384e61a77253facee0136e8fb2fcc5036b1.png",
+        "coinGeckoId": "gear-2"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x2ec6Fc5c495aF0C439E17268d595286d5f897dD0",
+        "name": "WEMIX Crypto Dollar",
+        "symbol": "WCD",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/d88ade973bdcbeb80f938b2fc67355001ca16171c2487a4777dc16800968b1d2.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "erc20",
+        "contract": "0x99618512fce498bebe0447c5f8bb8ea7ad32de76",
+        "name": "FEATHER",
+        "symbol": "FEA",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/228bfb400973410ab3e555a431e53073bb10db67fed307bc0d4aa4ca18936638.png",
+        "coinGeckoId": "feather"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x1CEbee37787cf9e043C8C76650034eB9131E5fB2",
+        "name": "XQ Games",
+        "symbol": "XQG",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/bdd2e43af44f1cb995a761868ad378994e3c71448a8f2e67e3ce38aaadceb32e.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "erc20",
+        "contract": "0x461d52769884ca6235B685EF2040F47d30C94EB5",
+        "name": "Klaytn",
+        "symbol": "KLAY",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/df6e070bd392b807e7c0b7dfd8c02bbf4d04237bf9fbe434675dc3cfecb10e6a.png",
+        "coinGeckoId": "klay-token"
+    }
+]

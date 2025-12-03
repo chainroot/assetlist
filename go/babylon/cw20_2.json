@@ -6,9 +6,9 @@
         "symbol": "eBABY",
         "description": "ESCHER LST for Babylon",
         "decimals": 6,
-        "image": "https://cdn.chainroot.io/images/tokens/cc6bc74883d5156a9bbeafebea149746d5f3fcbba438c4d9ab0f4f4341d702b5.svg",
+        "image": "https://cdn.chainroot.io/images/tokens/3417745c4d7d9ed2d41e817cb5b60e2886170875110c62f82520d76f3bc94b7b.svg",
         "coinGeckoId": "",
-        "color": "",
+        "color": "#0008FF",
         "wallet_preload": true
     },
     {

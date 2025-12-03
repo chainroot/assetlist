@@ -161,16 +161,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/B557233C2463BCEB5D95E247CBD52AC98BE0847E9BEC5C3800A4384936EB6280",
-    "symbol": "UMEE",
-    "name": "umee",
-    "description": "The native token of Umee",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/9d5325ca8b382d8836719bb3889fd12729e3e2855edf892245b7e6e27679a40a.svg",
-    "coinGeckoId": "umee"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/6A9571DE6A3F60D7703C3290E2944E806C15A47C1EA6D4AFCD3AE4DC8AF080B1",
     "symbol": "LVN",
     "name": "lvn",
@@ -181,13 +171,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/64B3EFE08A6A3EF5D2A7F1D3AF033DDC951DA51F92E06CC31D3F9AF8E8368860",
-    "symbol": "GRAV",
-    "name": "graviton",
-    "description": "The native token of Gravity Bridge",
+    "denom": "ibc/B557233C2463BCEB5D95E247CBD52AC98BE0847E9BEC5C3800A4384936EB6280",
+    "symbol": "UMEE",
+    "name": "umee",
+    "description": "The native token of Umee",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/80113d9226d07b7d5f24a7b6f569d4971cdfed9481d0b80d4121b8c3bd7e0a8b.svg",
-    "coinGeckoId": "graviton"
+    "image": "https://cdn.chainroot.io/images/tokens/9d5325ca8b382d8836719bb3889fd12729e3e2855edf892245b7e6e27679a40a.svg",
+    "coinGeckoId": "umee"
   },
   {
     "type": "ibc",
@@ -201,13 +191,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/B1E6288B5A0224565D915D1F66716486F16D8A44BF33A9EC323DD6BA30764C35",
-    "symbol": "stATOM",
-    "name": "statom",
-    "description": "",
+    "denom": "ibc/64B3EFE08A6A3EF5D2A7F1D3AF033DDC951DA51F92E06CC31D3F9AF8E8368860",
+    "symbol": "GRAV",
+    "name": "graviton",
+    "description": "The native token of Gravity Bridge",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/8952f870f7fecceb24d59b6e5e2cfba7235d513ea0cf5f5db6989352605b52b3.svg",
-    "coinGeckoId": "stride-staked-atom"
+    "image": "https://cdn.chainroot.io/images/tokens/grav.svg",
+    "coinGeckoId": "graviton"
   },
   {
     "type": "ibc",
@@ -218,6 +208,16 @@
     "decimals": 9,
     "image": "https://cdn.chainroot.io/images/tokens/8530e50d5e7f3ada5ed305032b315c471c5d6e4c5bb2ab7967dc749eae5e69ac.svg",
     "coinGeckoId": "unification"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/B1E6288B5A0224565D915D1F66716486F16D8A44BF33A9EC323DD6BA30764C35",
+    "symbol": "stATOM",
+    "name": "statom",
+    "description": "",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/8952f870f7fecceb24d59b6e5e2cfba7235d513ea0cf5f5db6989352605b52b3.svg",
+    "coinGeckoId": "stride-staked-atom"
   },
   {
     "type": "ibc",
@@ -278,16 +278,6 @@
     "decimals": 18,
     "image": "https://cdn.chainroot.io/images/tokens/b9e544baa0b9ee3b1a0a9f4a8b23aad2ba81f522e455f6a2b454991f39d414cf.svg",
     "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/DAD70BF1F889142E620A63D8C0CEFE60ABCE092B911A0BD728B105F1348679D8",
-    "symbol": "dATOM",
-    "name": "dATOM",
-    "description": "Drop staked ATOM",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/f83dc67714a5c47477a09e801198f14e04d2eef8a9fdf99372a2cd62981717e3.svg",
-    "coinGeckoId": "drop-staked-atom"
   },
   {
     "type": "ibc",
@@ -358,6 +348,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
     "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/DAD70BF1F889142E620A63D8C0CEFE60ABCE092B911A0BD728B105F1348679D8",
+    "symbol": "dATOM",
+    "name": "dATOM",
+    "description": "Drop staked ATOM",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f83dc67714a5c47477a09e801198f14e04d2eef8a9fdf99372a2cd62981717e3.svg",
+    "coinGeckoId": "drop-staked-atom"
   },
   {
     "type": "ibc",
@@ -461,16 +461,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/EA7DF7F779C7F14E07172E5713E07356B55F01496CA649DDE46CF8FBF1A8466D",
-    "symbol": "ION",
-    "name": "ion",
-    "description": "ION is the second native token of Osmosis.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/783677c916fdd15fd616c45e64d59f1ccfdb8e583ec24a0a1302454aa387603f.svg",
-    "coinGeckoId": "ion"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/7A0FAE01EB4FD6930A0111759B22BB631BB089C75F7186E4F9ACC0E139DE678C",
     "symbol": "CRE",
     "name": "cre",
@@ -506,8 +496,18 @@
     "name": "odin",
     "description": "ODIN is the Staking and governance token for ODIN Protocol",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/4466eadd0c642a34f8e888b430eae753e3a262a2de741ac91bf468db1ddc29eb.svg",
+    "image": "https://cdn.chainroot.io/images/tokens/odin.svg",
     "coinGeckoId": "odin-protocol"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/EA7DF7F779C7F14E07172E5713E07356B55F01496CA649DDE46CF8FBF1A8466D",
+    "symbol": "ION",
+    "name": "ion",
+    "description": "ION is the second native token of Osmosis.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/783677c916fdd15fd616c45e64d59f1ccfdb8e583ec24a0a1302454aa387603f.svg",
+    "coinGeckoId": "ion"
   },
   {
     "type": "ibc",
@@ -581,13 +581,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/0CD5EB67AE0BCC1EA9ACD05A92C4C2C5F03B362FDA88F480C8576ECDA289B1BE",
-    "symbol": "ATOM",
-    "name": "atom",
-    "description": "ATOM is the native cryptocurrency of the Cosmos network, designed to facilitate interoperability between multiple blockchains through its innovative hub-and-spoke model.",
+    "denom": "ibc/8BCCE28138180F7F7D7B9F3327DD97DE595A0DD66449FAA90D77EDC00D7F5B18",
+    "symbol": "KUJI",
+    "name": "kuji",
+    "description": "Kujira is a decentralized finance (DeFi) platform offering a suite of tools and services for managing and optimizing digital assets and investments.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
-    "coinGeckoId": "cosmos"
+    "image": "https://cdn.chainroot.io/images/tokens/9b4df5623b76ae925d1947e3d154d0f88fb1d194ff62673d6af8bc0a77e6a71a.svg",
+    "coinGeckoId": "kujira"
   },
   {
     "type": "ibc",
@@ -601,13 +601,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/8BCCE28138180F7F7D7B9F3327DD97DE595A0DD66449FAA90D77EDC00D7F5B18",
-    "symbol": "KUJI",
-    "name": "kuji",
-    "description": "Kujira is a decentralized finance (DeFi) platform offering a suite of tools and services for managing and optimizing digital assets and investments.",
+    "denom": "ibc/0CD5EB67AE0BCC1EA9ACD05A92C4C2C5F03B362FDA88F480C8576ECDA289B1BE",
+    "symbol": "ATOM",
+    "name": "atom",
+    "description": "ATOM is the native cryptocurrency of the Cosmos network, designed to facilitate interoperability between multiple blockchains through its innovative hub-and-spoke model.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/9b4df5623b76ae925d1947e3d154d0f88fb1d194ff62673d6af8bc0a77e6a71a.svg",
-    "coinGeckoId": "kujira"
+    "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
+    "coinGeckoId": "cosmos"
   },
   {
     "type": "ibc",
@@ -631,16 +631,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/A50BE69DE573F17AE1A5D0A862E32144BB6167367A6C7F41C20226833C544913",
-    "symbol": "USTC",
-    "name": "ust",
-    "description": "The USD stablecoin of Terra Classic.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/bbf7ad631fa51027777b71c54feda0517f9f112a5f42edad9c584fb9724561cb.svg",
-    "coinGeckoId": "terrausd"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/3103038EE5B7208E0802C75FC287B483E82063492A5FA955F270E5EB928E8AA6",
     "symbol": "JUNO",
     "name": "juno",
@@ -661,6 +651,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/A50BE69DE573F17AE1A5D0A862E32144BB6167367A6C7F41C20226833C544913",
+    "symbol": "USTC",
+    "name": "ust",
+    "description": "The USD stablecoin of Terra Classic.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/bbf7ad631fa51027777b71c54feda0517f9f112a5f42edad9c584fb9724561cb.svg",
+    "coinGeckoId": "terrausd"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/29A094924EB4272FFCAF4CBADC69F0C2BF575D5F28D6D9267A9E10F259346C53",
     "symbol": "stTIA",
     "name": "stTIA",
@@ -676,7 +676,7 @@
     "name": "scrt",
     "description": "Secret Network is a privacy-focused blockchain that enables private and secure smart contracts, protecting sensitive data.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/4e950180cbb20a28d82f99bc2243211928ef4995504af4b4029ba1f3031fde4a.svg",
+    "image": "https://cdn.chainroot.io/images/tokens/scrt.svg",
     "coinGeckoId": "secret"
   },
   {

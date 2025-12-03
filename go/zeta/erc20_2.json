@@ -70,8 +70,7 @@
         "description": "ZetaChain Bridged PEPE.ETH (ZRC20)",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/e54a684f28bf89f7f6f445dc43f0b15486b6c547506c16bfb900194366b9bb12.png",
-        "coinGeckoId": "pepe",
-        "wallet_preload": true
+        "coinGeckoId": "pepe"
     },
     {
         "type": "erc20",
@@ -81,8 +80,7 @@
         "description": "ZetaChain Bridged SHIB.ETH (ZRC20)",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/7bc2fa8d8408e216bd4c0e61acba5ae44a2b6bd1fa0fb676f574e986c2cce843.png",
-        "coinGeckoId": "shiba-inu",
-        "wallet_preload": true
+        "coinGeckoId": "shiba-inu"
     },
     {
         "type": "erc20",
@@ -92,8 +90,7 @@
         "description": "ZetaChain Bridged BNB.ETH (ZRC20)",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/cdac8bb62201c914317ff0b33d185eca1be3e13203a423c1b195bd3df539846f.png",
-        "coinGeckoId": "zetachain-bridged-bnb-bsc-zetachain",
-        "wallet_preload": true
+        "coinGeckoId": "zetachain-bridged-bnb-bsc-zetachain"
     },
     {
         "type": "erc20",
@@ -103,8 +100,7 @@
         "description": "ZetaChain Bridged USDT.BSC (ZRC20)",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/0fae6a1498f7e004f939b00571a18e56348204b59fd5ea7b7d4760e24c4e5a13.png",
-        "coinGeckoId": "zetachain-bridged-usdt-bsc-zetachain",
-        "wallet_preload": true
+        "coinGeckoId": "zetachain-bridged-usdt-bsc-zetachain"
     },
     {
         "type": "erc20",
@@ -114,8 +110,7 @@
         "description": "ZetaChain Bridged USDC.BSC (ZRC20)",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/7bfadec86c33b3d53548b603ecaed07c440bd5859aa532517a434e8ad4838920.png",
-        "coinGeckoId": "zetachain-bridged-usdc-bsc-zetachain",
-        "wallet_preload": true
+        "coinGeckoId": "zetachain-bridged-usdc-bsc-zetachain"
     },
     {
         "type": "erc20",

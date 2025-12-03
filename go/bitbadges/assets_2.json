@@ -2,21 +2,11 @@
     {
         "type": "native",
         "denom": "ubadge",
-        "name" : "BitBadges Credits",
+        "name" : "BitBadges",
         "symbol": "BADGE",
-        "description": "$BADGE is the native in-app credits token for BitBadges.",
+        "description": "$BADGE is the native token for BitBadges blockchain.",
         "decimals": 9,
-        "image": "https://cdn.chainroot.io/images/tokens/e48b984956a480b3a75c479868eaebb8449b9e666017e56fd4294bca09cb7d54.png",
-        "coinGeckoId": ""
-    },
-    {
-        "type": "native",
-        "denom": "ustake",
-        "name" : "BitBadges Staking",
-        "symbol": "STAKE",
-        "description": "The native staking denom for the BitBadges blockchain.",
-        "decimals": 9,
-        "image": "https://cdn.chainroot.io/images/tokens/e48b984956a480b3a75c479868eaebb8449b9e666017e56fd4294bca09cb7d54.png",
+        "image": "https://cdn.chainroot.io/images/tokens/63508ae624c9d243e1426b60c205f7e4717c81cbe088a68a9c6b9166c608a2ee.png",
         "coinGeckoId": ""
     }
 ]

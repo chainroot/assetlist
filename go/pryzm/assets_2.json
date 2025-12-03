@@ -7,7 +7,7 @@
         "description": "The native token of PRYZM",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/b43b909ea007320f98be29fae1da6f7929875e51c9c06d9ed9c15aec6c372560.png",
-        "coinGeckoId": "pryzmatics"
+        "coinGeckoId": "pryzm"
     },
     {
         "type": "native",
@@ -2065,6 +2065,26 @@
         "name": "PRYZM Yield LP",
         "symbol": "PRYZM-YIELD-LP",
         "description": "Pryzm's LP token for PRYZM Yield pool",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/74a64a736513339f6d08c53a37effd7abb53a65266009e39e396c624397e439f.png",
+        "coinGeckoId": "pryzmatics"
+    },
+    {
+        "type": "native",
+        "denom": "lp:34:upryzmypt-upryzm",
+        "name": "PRYZM Base LP",
+        "symbol": "PRYZM-BASE-LP",
+        "description": "Pryzm's LP token for PRYZM Base pool",
+        "decimals": 6,
+        "image": "https://cdn.chainroot.io/images/tokens/74a64a736513339f6d08c53a37effd7abb53a65266009e39e396c624397e439f.png",
+        "coinGeckoId": "pryzmatics"
+    },
+    {
+        "type": "native",
+        "denom": "lp:35:upryzm-uusdc",
+        "name": "PRYZM / USDC LP",
+        "symbol": "PRYZM-USDC-LP",
+        "description": "Pryzm's LP token for PRYZM / USDC pool",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/74a64a736513339f6d08c53a37effd7abb53a65266009e39e396c624397e439f.png",
         "coinGeckoId": "pryzmatics"

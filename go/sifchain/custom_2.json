@@ -136,7 +136,7 @@
     "name": "scrt",
     "description": "Secret Network is a privacy-focused blockchain that enables private and secure smart contracts, protecting sensitive data.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/4e950180cbb20a28d82f99bc2243211928ef4995504af4b4029ba1f3031fde4a.svg",
+    "image": "https://cdn.chainroot.io/images/tokens/scrt.svg",
     "coinGeckoId": "secret"
   },
   {
@@ -256,7 +256,7 @@
     "name": "eur",
     "description": "e-Money EUR stablecoin. Audited and backed by fiat EUR deposits and government bonds.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/8c52768e581d6ca2c73b6b9104c05d0e08c037291680f520b05f8176ab05ecc3.svg",
+    "image": "https://cdn.chainroot.io/images/tokens/eeur.svg",
     "coinGeckoId": "e-money-eur"
   },
   {
@@ -286,7 +286,7 @@
     "name": "graviton",
     "description": "The native token of Gravity Bridge",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/80113d9226d07b7d5f24a7b6f569d4971cdfed9481d0b80d4121b8c3bd7e0a8b.svg",
+    "image": "https://cdn.chainroot.io/images/tokens/grav.svg",
     "coinGeckoId": "graviton"
   },
   {

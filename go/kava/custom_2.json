@@ -61,6 +61,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/D442CFE38714246735C03B19699F7E7A07E802DD9106EAD22A005CD05E332541",
+    "symbol": "MAND",
+    "name": "mand",
+    "description": "The native token of Mande Network.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/e8c98a99651d7dba8858f098ac2897406527579b4d1e9444d854c6f186f2c9b8.svg",
+    "coinGeckoId": "mande-network"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/B3E1B03051272C16FDBE18F539E497223E64CA32A8C69863E7012378B77412D5",
     "symbol": "HARD",
     "name": "HARD",
@@ -141,16 +151,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/4D622C83933B16DD6C8398D18BD2C3E8501F3EA348478F6790111891E0363FE7",
-    "symbol": "USDC",
-    "name": "usdc",
-    "description": "Circle's stablecoin on Axelar",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
-    "coinGeckoId": "axlusdc"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/5149EACA571130C26F97CB76E83EA0BDB408B47620A8D167B945344E645657E1",
     "symbol": "KAVA",
     "name": "kava",
@@ -161,13 +161,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/799FDD409719A1122586A629AE8FCA17380351A51C1F47A80A1B8E7F2A491098",
-    "symbol": "AKT",
-    "name": "akt",
-    "description": "Akash Network is a decentralized cloud computing marketplace that connects users with unused computing resources, offering a cost-effective alternative to traditional cloud providers.",
+    "denom": "ibc/4D622C83933B16DD6C8398D18BD2C3E8501F3EA348478F6790111891E0363FE7",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/33d728dfd3351a640e4f316dcadbc5e50dfdb4a3798bb74e9485f74585cf0245.svg",
-    "coinGeckoId": "akash-network"
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
   },
   {
     "type": "ibc",
@@ -198,6 +198,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/a516e8c8ce681c3cbdfd1cd699a5d9a002bec3d002344cb13c956f6e6d2ed9da.svg",
     "coinGeckoId": "kava"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/799FDD409719A1122586A629AE8FCA17380351A51C1F47A80A1B8E7F2A491098",
+    "symbol": "AKT",
+    "name": "akt",
+    "description": "Akash Network is a decentralized cloud computing marketplace that connects users with unused computing resources, offering a cost-effective alternative to traditional cloud providers.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/33d728dfd3351a640e4f316dcadbc5e50dfdb4a3798bb74e9485f74585cf0245.svg",
+    "coinGeckoId": "akash-network"
   },
   {
     "type": "ibc",
@@ -391,7 +401,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/34F518637AA8535072B918F6270AC25501DEF920CB0C25A505EA81B3DC534466",
+    "denom": "ibc/32EBA8A841CB2F76702CD7922305FD2E9848C8896D51829955024C8175EBC46D",
     "symbol": "USTC",
     "name": "ust",
     "description": "The USD stablecoin of Terra Classic.",
@@ -401,7 +411,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/32EBA8A841CB2F76702CD7922305FD2E9848C8896D51829955024C8175EBC46D",
+    "denom": "ibc/34F518637AA8535072B918F6270AC25501DEF920CB0C25A505EA81B3DC534466",
     "symbol": "USTC",
     "name": "ust",
     "description": "The USD stablecoin of Terra Classic.",
@@ -446,7 +456,7 @@
     "name": "eur",
     "description": "e-Money EUR stablecoin. Audited and backed by fiat EUR deposits and government bonds.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/8c52768e581d6ca2c73b6b9104c05d0e08c037291680f520b05f8176ab05ecc3.svg",
+    "image": "https://cdn.chainroot.io/images/tokens/eeur.svg",
     "coinGeckoId": "e-money-eur"
   },
   {
@@ -521,16 +531,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/8E71F7DF0212F618E545B2748D8BEBCC8B225FD278382DBEED33FEAC4E3DD5FD",
-    "symbol": "HARD",
-    "name": "HARD",
-    "description": "Governance token of Kava Lend Protocol",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/23277c86ed9fc687ca1717a0e4df8360f3f1f0f73f5296c2a689d676f35199a0.svg",
-    "coinGeckoId": "kava-lend"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/1096AAD6B6E16F67A5D33A70006AB4CF03AD65A1D65903F8BD219A4DB726F056",
     "symbol": "LUNC",
     "name": "luna",
@@ -538,6 +538,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/14c7e454123f1f2843988899ce780773d8f9524c3e2f8b9ce0090845739961a2.svg",
     "coinGeckoId": "terra-luna"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/8E71F7DF0212F618E545B2748D8BEBCC8B225FD278382DBEED33FEAC4E3DD5FD",
+    "symbol": "HARD",
+    "name": "HARD",
+    "description": "Governance token of Kava Lend Protocol",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/23277c86ed9fc687ca1717a0e4df8360f3f1f0f73f5296c2a689d676f35199a0.svg",
+    "coinGeckoId": "kava-lend"
   },
   {
     "type": "ibc",
@@ -591,6 +601,16 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/552AA63A3284531EB71F5CE72399E4C21C89F2A40EE2D4923F410E33C448A5E1",
+    "symbol": "USTC",
+    "name": "ust",
+    "description": "The USD stablecoin of Terra Classic.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/bbf7ad631fa51027777b71c54feda0517f9f112a5f42edad9c584fb9724561cb.svg",
+    "coinGeckoId": "terrausd"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/BDADF655A81BF0888E6D81E13E7F4B1C1E1FBE9AB0D513AC773EA6AAC798DDFF",
     "symbol": "USTC",
     "name": "ust",
@@ -601,13 +621,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/552AA63A3284531EB71F5CE72399E4C21C89F2A40EE2D4923F410E33C448A5E1",
-    "symbol": "USTC",
-    "name": "ust",
-    "description": "The USD stablecoin of Terra Classic.",
+    "denom": "ibc/A3D9BA615C3BC5C8892E86B1D8B792DD139A68ADE97AA7A9C7F26AD25D9E5FD7",
+    "symbol": "SEI",
+    "name": "sei",
+    "description": "Sei is a layer-1 blockchain optimized for trading, focusing on providing high throughput, low latency, and efficient execution for decentralized exchanges.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/bbf7ad631fa51027777b71c54feda0517f9f112a5f42edad9c584fb9724561cb.svg",
-    "coinGeckoId": "terrausd"
+    "image": "https://cdn.chainroot.io/images/tokens/8d3cb495c013b2a9b022c8e23ad6f4bb89c198e625845b1b33cdd4855bf527d4.svg",
+    "coinGeckoId": "sei-network"
   },
   {
     "type": "ibc",
@@ -646,7 +666,7 @@
     "name": "scrt",
     "description": "Secret Network is a privacy-focused blockchain that enables private and secure smart contracts, protecting sensitive data.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/4e950180cbb20a28d82f99bc2243211928ef4995504af4b4029ba1f3031fde4a.svg",
+    "image": "https://cdn.chainroot.io/images/tokens/scrt.svg",
     "coinGeckoId": "secret"
   },
   {
@@ -701,7 +721,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/D48AF41B67879B5154C1897EF3BF92501826D6DD1B575FE3824F69983C68DE80",
+    "denom": "ibc/A8CC572688E2C90F0F4C58D5A972622A4E2C105AAD3650DFC619D2F6511775EE",
     "symbol": "ATOM",
     "name": "atom",
     "description": "ATOM is the native cryptocurrency of the Cosmos network, designed to facilitate interoperability between multiple blockchains through its innovative hub-and-spoke model.",
@@ -711,7 +731,7 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/A8CC572688E2C90F0F4C58D5A972622A4E2C105AAD3650DFC619D2F6511775EE",
+    "denom": "ibc/D48AF41B67879B5154C1897EF3BF92501826D6DD1B575FE3824F69983C68DE80",
     "symbol": "ATOM",
     "name": "atom",
     "description": "ATOM is the native cryptocurrency of the Cosmos network, designed to facilitate interoperability between multiple blockchains through its innovative hub-and-spoke model.",
@@ -731,23 +751,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/6DD9A114AB2841CF013E1B0A4F5ABD76ABAF811D4267D30E7BC90BB2545B16D6",
-    "symbol": "USDT",
-    "name": "usdt",
-    "description": "Tether USDt from Ethereum via Peggy bridge.",
+    "denom": "ibc/73888451D32A80580E791D13146E3BF68FF0BA34786C11073B63794CDE3134DA",
+    "symbol": "OSMO",
+    "name": "osmo",
+    "description": "The native token of Osmosis",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/1D07F27D2BD5E288D02DDC1A748DCE2CFC8D4D797BD2AA4C4B8C64754AFBB71A",
-    "symbol": "AKT",
-    "name": "akt",
-    "description": "Akash Network is a decentralized cloud computing marketplace that connects users with unused computing resources, offering a cost-effective alternative to traditional cloud providers.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/33d728dfd3351a640e4f316dcadbc5e50dfdb4a3798bb74e9485f74585cf0245.svg",
-    "coinGeckoId": "akash-network"
+    "image": "https://cdn.chainroot.io/images/tokens/e053406240eac4d978a66008f0551daa497be489fba6c5840e5cd073bd6fcd94.svg",
+    "coinGeckoId": "osmosis"
   },
   {
     "type": "ibc",
@@ -771,26 +781,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/D5CCD845ADA5B020CF58C4EBB7EADD302995507D5D7E08DADD993E4F738BF82C",
-    "symbol": "USDT",
-    "name": "usdt",
-    "description": "Tether USDt from Ethereum via Peggy bridge.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
-    "coinGeckoId": ""
-  },
-  {
-    "type": "ibc",
-    "denom": "ibc/73888451D32A80580E791D13146E3BF68FF0BA34786C11073B63794CDE3134DA",
-    "symbol": "OSMO",
-    "name": "osmo",
-    "description": "The native token of Osmosis",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/e053406240eac4d978a66008f0551daa497be489fba6c5840e5cd073bd6fcd94.svg",
-    "coinGeckoId": "osmosis"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/B2719736BC8BE3AF15336EBEDD5FED70B5D9377CB5CF1F60DABEF5ABB61BCF7A",
     "symbol": "OSMO",
     "name": "osmo",
@@ -801,12 +791,42 @@
   },
   {
     "type": "ibc",
+    "denom": "ibc/D5CCD845ADA5B020CF58C4EBB7EADD302995507D5D7E08DADD993E4F738BF82C",
+    "symbol": "USDT",
+    "name": "usdt",
+    "description": "Tether USDt from Ethereum via Peggy bridge.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/6DD9A114AB2841CF013E1B0A4F5ABD76ABAF811D4267D30E7BC90BB2545B16D6",
+    "symbol": "USDT",
+    "name": "usdt",
+    "description": "Tether USDt from Ethereum via Peggy bridge.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/f251c0bafe7efa34f2f32b7d4fa8423362acea8edf8d1c0269b4b34da2770c4d.svg",
+    "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/1D07F27D2BD5E288D02DDC1A748DCE2CFC8D4D797BD2AA4C4B8C64754AFBB71A",
+    "symbol": "AKT",
+    "name": "akt",
+    "description": "Akash Network is a decentralized cloud computing marketplace that connects users with unused computing resources, offering a cost-effective alternative to traditional cloud providers.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/33d728dfd3351a640e4f316dcadbc5e50dfdb4a3798bb74e9485f74585cf0245.svg",
+    "coinGeckoId": "akash-network"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/7C74924936C7FBEADF6CD1ABE0F572BCE66CFD3F9FD8BC9075961A01EF87BE3A",
     "symbol": "SCRT",
     "name": "scrt",
     "description": "Secret Network is a privacy-focused blockchain that enables private and secure smart contracts, protecting sensitive data.",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/4e950180cbb20a28d82f99bc2243211928ef4995504af4b4029ba1f3031fde4a.svg",
+    "image": "https://cdn.chainroot.io/images/tokens/scrt.svg",
     "coinGeckoId": "secret"
   },
   {
@@ -831,16 +851,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/6B199312B29CF047BF8B1337450EF3AA0475FE0C312DB94055F2D5B22CD1E71A",
-    "symbol": "USDC",
-    "name": "usdc",
-    "description": "Circle's stablecoin on Axelar",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
-    "coinGeckoId": "axlusdc"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/3FB835464BA493073A540B3FDE5B52F983FE626F428FA17CC52BAC5EC7D04C6A",
     "symbol": "ATOM",
     "name": "atom",
@@ -851,13 +861,13 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/A3D9BA615C3BC5C8892E86B1D8B792DD139A68ADE97AA7A9C7F26AD25D9E5FD7",
-    "symbol": "SEI",
-    "name": "sei",
-    "description": "Sei is a layer-1 blockchain optimized for trading, focusing on providing high throughput, low latency, and efficient execution for decentralized exchanges.",
+    "denom": "ibc/6B199312B29CF047BF8B1337450EF3AA0475FE0C312DB94055F2D5B22CD1E71A",
+    "symbol": "USDC",
+    "name": "usdc",
+    "description": "Circle's stablecoin on Axelar",
     "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/8d3cb495c013b2a9b022c8e23ad6f4bb89c198e625845b1b33cdd4855bf527d4.svg",
-    "coinGeckoId": "sei-network"
+    "image": "https://cdn.chainroot.io/images/tokens/063a4896dcae769260e820717bdb25f28103d26f489617244a77aa86f0ec0e80.svg",
+    "coinGeckoId": "axlusdc"
   },
   {
     "type": "ibc",
@@ -891,16 +901,6 @@
   },
   {
     "type": "ibc",
-    "denom": "ibc/194F96F98CE4470B012288A4266F8C7900A419454DBF6E3D26DDF4195867E9C6",
-    "symbol": "KAVA",
-    "name": "kava",
-    "description": "Kava is a decentralized finance (DeFi) platform that provides a range of financial services, including lending, borrowing, and stablecoins, leveraging the Cosmos and Ethereum ecosystems.",
-    "decimals": 6,
-    "image": "https://cdn.chainroot.io/images/tokens/a516e8c8ce681c3cbdfd1cd699a5d9a002bec3d002344cb13c956f6e6d2ed9da.svg",
-    "coinGeckoId": "kava"
-  },
-  {
-    "type": "ibc",
     "denom": "ibc/3E6D338287478B97F20FD36455DC367A366EF132AC3DBAEABBA5685F09AFF39F",
     "symbol": "ATOM",
     "name": "atom",
@@ -908,6 +908,16 @@
     "decimals": 6,
     "image": "https://cdn.chainroot.io/images/tokens/909618a8bc505391ece9ab5d939d8871a583d253131132e44196e55371af5e70.svg",
     "coinGeckoId": "cosmos"
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/194F96F98CE4470B012288A4266F8C7900A419454DBF6E3D26DDF4195867E9C6",
+    "symbol": "KAVA",
+    "name": "kava",
+    "description": "Kava is a decentralized finance (DeFi) platform that provides a range of financial services, including lending, borrowing, and stablecoins, leveraging the Cosmos and Ethereum ecosystems.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/a516e8c8ce681c3cbdfd1cd699a5d9a002bec3d002344cb13c956f6e6d2ed9da.svg",
+    "coinGeckoId": "kava"
   },
   {
     "type": "ibc",

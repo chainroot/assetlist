@@ -29,8 +29,7 @@
         "description": "",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/f61ad88e1ef99d3e61f8a28bf65d6ee9cd1ec59a8dbb1fb063cbbb8cb0465765.png",
-        "coinGeckoId": "cosmos",
-        "wallet_preload": true
+        "coinGeckoId": "cosmos"
     },
     {
         "type": "erc20",

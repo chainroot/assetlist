@@ -1,6 +1,16 @@
 [
   {
     "type": "ibc",
+    "denom": "ibc/46248909B99AFB8CDC0D3A241F631764EE20028DF3ECB70735A7CB982159597A",
+    "symbol": "ETH",
+    "name": "eth",
+    "description": "Ethereum is a decentralized blockchain platform for running smart contracts and dApps, with Ether (ETH) as its native cryptocurrency, enabling a versatile ecosystem beyond just digital currency.",
+    "decimals": 18,
+    "image": "https://cdn.chainroot.io/images/tokens/af33707625a9a948852514d2ffd2f99d2d8cfc603bca373190a152522fdb1c0c.svg",
+    "coinGeckoId": "ethereum"
+  },
+  {
+    "type": "ibc",
     "denom": "ibc/F2945055C9EC1637050CF630E36CCEE5668D2675022A3A5DD807D38E94D61D74",
     "symbol": "ARCH",
     "name": "arch",
@@ -18,6 +28,16 @@
     "decimals": 0,
     "image": "",
     "coinGeckoId": ""
+  },
+  {
+    "type": "ibc",
+    "denom": "ibc/2618B5E5370860FDA9E5745C0C8866DEE8077422B91EF52FC6E3926411FED81C",
+    "symbol": "NTRN",
+    "name": "ntrn",
+    "description": "Neutron is a smart contract blockchain within the Cosmos ecosystem, leveraging the Cosmos Hub's security to provide cross-chain DeFi applications.",
+    "decimals": 6,
+    "image": "https://cdn.chainroot.io/images/tokens/bcc7880c69cc88313d52a96ce2f7e780a98c5e8a5b86e7318667fd5eabe34c4c.svg",
+    "coinGeckoId": "neutron-3"
   },
   {
     "type": "ibc",

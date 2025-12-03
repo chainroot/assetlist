@@ -1,0 +1,184 @@
+[
+    {
+        "type": "erc20",
+        "contract": "0xb1a5700fA2358173Fe465e6eA4Ff52E36e88E2ad",
+        "name": "Blast",
+        "symbol": "BLAST",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/blast.png",
+        "coinGeckoId": "blast",
+        "wallet_preload": true
+    },
+    {
+        "type": "erc20",
+        "contract": "0x4300000000000000000000000000000000000003",
+        "name": "USDB",
+        "symbol": "USDB",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/af1c79f390b0e13d0d4afd896f6507ab0b18a0c354cd6616042276de58c238d1.png",
+        "coinGeckoId": "usdb",
+        "wallet_preload": true
+    },
+    {
+        "type": "erc20",
+        "contract": "0x4300000000000000000000000000000000000004",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/weth.png",
+        "coinGeckoId": "weth"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x963eec23618BbC8e1766661d5f263f18094Ae4d5",
+        "name": "Cybro Token",
+        "symbol": "CYBRO",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/32d30bc9ca72579c38d291c9523e4807c496237516729df811ef3137461bf92a.png",
+        "coinGeckoId": "cybro"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+        "name": "USDe",
+        "symbol": "USDe",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/ae1f8d5cbc8b42b9316aab5eac1d94f06bb9517d1e09a352291836fabff73113.png",
+        "coinGeckoId": "ethena-usde"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x76DA31D7C9CbEAE102aff34D3398bC450c8374c1",
+        "name": "Magic Internet Money",
+        "symbol": "MIM",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/41008f9b0f895a386c0653ea831924a2f5b2634ee306931b19f33c2d2d3635a1.png",
+        "coinGeckoId": "magic-internet-money"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xf77dd21c5ce38ac08786BE35Ef1d1DeC1a6a15F3",
+        "name": "YOLO",
+        "symbol": "YOLO",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/fc9eefca10a41a233c00458c47b9e4928d875142cee8d08f9f221620a84c759e.png",
+        "coinGeckoId": "yolo-games"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xF7bc58b8D8f97ADC129cfC4c9f45Ce3C0E1D2692",
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "description": "",
+        "decimals": 8,
+        "image": "https://cdn.chainroot.io/images/tokens/wbtc.png",
+        "coinGeckoId": "wrapped-bitcoin"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x73c369F61c90f03eb0Dd172e95c90208A28dC5bc",
+        "name": "OLE token powering both DistrictOne and OpenLeverage",
+        "symbol": "OLE",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/fbf579fc91412c1806b2ad235e98457b7349192bd068f4d55bb6608160972f6b.png",
+        "coinGeckoId": "openleverage"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x837fE561e9C5DFa73F607fDa679295DBC2Be5E40",
+        "name": "Monoswap USD",
+        "symbol": "MUSD",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/d3996926ea1427c1cfe70eeaeb8e7ffb45dc6aa0bf00d7aa34b3d206ffaf8561.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "erc20",
+        "contract": "0x59c159e5a4F4d1C86F7aBDC94B7907B7473477F6",
+        "name": "BlastUP Token",
+        "symbol": "BLASTUP",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/cc4c62839d3f9839bb0331f91d79cfa9df60063c6a3a42067b3e272f2646f745.png",
+        "coinGeckoId": "blastup"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x818a92bc81Aad0053d72ba753fb5Bc3d0C5C0923",
+        "name": "Juice",
+        "symbol": "JUICE",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/53b85471e8bf3605a667e0113a89d4a0641525602fb9402b54d6d174382e1a1b.png",
+        "coinGeckoId": "juice-finance"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xb9dfCd4CF589bB8090569cb52FaC1b88Dbe4981F",
+        "name": "Bag",
+        "symbol": "BAG",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/eb5cab544b2c2eeeeb98502ee1cc358152511fe41cfa1e433d659b1ef587cb27.png",
+        "coinGeckoId": "bag"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x42E12D42b3d6C4A74a88A61063856756Ea2DB357",
+        "name": "Orbit Protocol",
+        "symbol": "ORBIT",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/fec688f724638488ea4ab02183899cd0f86f5eaf4b16b1380245f619f4317a6b.png",
+        "coinGeckoId": "orbit-protocol"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xd582879453337BD149Ae53EC2092B0af5281d1D7",
+        "name": "GLORY",
+        "symbol": "GLORY",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/6949862d34d128059b5c34046533d08001d20e7d4d9c3a6f1f9df63cb7e41108.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "erc20",
+        "contract": "0xA4C7aA67189EC5623121c6C94Ec757DfeD932D4B",
+        "name": "Mia",
+        "symbol": "MIA",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/a8d58f2afb0e5b1820b87f02bae79eb138e686943aa89c7a9ff7c2a8df70a593.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "erc20",
+        "contract": "0x9bD75c164dAf830733AC2EA71A0258f95aac7C57",
+        "name": "BlastCat",
+        "symbol": "BCat",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/19b695daecbb7b91e59c9e4b7dcddb660566c2c291a03aa176b30ab52130ad79.png",
+        "coinGeckoId": "blastcat"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x9e20461bc2c4c980f62f1B279D71734207a6A356",
+        "name": "OmniCat",
+        "symbol": "OMNI",
+        "description": "",
+        "decimals": 18,
+        "image": "https://cdn.chainroot.io/images/tokens/821ac5755cad8426d3dd7cc133433e29f713f957bf43c4cd1a76aee268d00f48.png",
+        "coinGeckoId": "omnicat"
+    }
+]

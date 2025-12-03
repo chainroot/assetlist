@@ -40,8 +40,7 @@
         "description": "Wrapped Ether (WETH)",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/weth.png",
-        "coinGeckoId": "",
-        "wallet_preload": true
+        "coinGeckoId": ""
   },
   {
         "type": "erc20",
@@ -51,8 +50,7 @@
         "description": "Wrapped Bera (WBERA)",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/wbera.png",
-        "coinGeckoId": "",
-        "wallet_preload": true
+        "coinGeckoId": ""
   },
   {
         "type": "erc20",
@@ -62,8 +60,7 @@
         "description": "Wrapped Bitcoin (WBTC)",
         "decimals": 8,
         "image": "https://cdn.chainroot.io/images/tokens/wbtc.png",
-        "coinGeckoId": "",
-        "wallet_preload": true
+        "coinGeckoId": ""
   },
   {
         "type": "erc20",
@@ -73,8 +70,7 @@
         "description": "NECTAR (NECT)",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/XXXXXXXXXXXXXXX.png",
-        "coinGeckoId": "",
-        "wallet_preload": true
+        "coinGeckoId": ""
   },
   {
         "type": "erc20",
@@ -84,8 +80,7 @@
         "description": "Liquid Staked Nectar (sNECT)",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/f1c3fc20f29617d0fdd1cbaee1862087d4f210d77d9d710b82002a18dd1fe734.png",
-        "coinGeckoId": "",
-        "wallet_preload": true
+        "coinGeckoId": ""
   },
   {
         "type": "erc20",
@@ -95,8 +90,7 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/97ea6061164a68a0d7611a812e9b21845be465112bd4585bc90878137b4a0407.png",
-        "coinGeckoId": "",
-        "wallet_preload": false
+        "coinGeckoId": ""
   },
   {
         "type": "erc20",
@@ -106,8 +100,7 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/68742596939378f54de0edcb9a5cd72c0c6867bab000c9f6d903a171bd52a1da.png",
-        "coinGeckoId": "",
-        "wallet_preload": false
+        "coinGeckoId": ""
   },
   {
         "type": "erc20",
@@ -117,8 +110,7 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/fe80b1ad6bcee1d4514fe976ffab4f612a05d2ab0dc61665d5c39c6372390461.png",
-        "coinGeckoId": "",
-        "wallet_preload": false
+        "coinGeckoId": ""
   },
   {
         "type": "erc20",
@@ -128,8 +120,7 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/7fb9073a26db4a66669d5d4dcd4d5097f4033e24f4a513bde7cdd9da94b67bc2.png",
-        "coinGeckoId": "",
-        "wallet_preload": false
+        "coinGeckoId": ""
   },
   {
         "type": "erc20",
@@ -139,8 +130,7 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/yeet.png",
-        "coinGeckoId": "",
-        "wallet_preload": false
+        "coinGeckoId": ""
   },
   {
         "type": "erc20",
@@ -150,8 +140,7 @@
         "description": "Tether USD",
         "decimals": 6,
         "image": "https://cdn.chainroot.io/images/tokens/usdt.png",
-        "coinGeckoId": "",
-        "wallet_preload": false
+        "coinGeckoId": ""
   },
   {
         "type": "erc20",
@@ -161,8 +150,7 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/dai.png",
-        "coinGeckoId": "",
-        "wallet_preload": false
+        "coinGeckoId": ""
   },
   {
         "type": "erc20",
@@ -172,8 +160,7 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/bb4b2bc286d00eba6a3be076fefc7dc0e296f4881bd85a368e7415c7f7eabaa6.png",
-        "coinGeckoId": "",
-        "wallet_preload": false
+        "coinGeckoId": ""
   },
   {
         "type": "erc20",
@@ -183,8 +170,7 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/6471f31db41459f302dfcae0c523030637812502c867df909db5e21f47bab57c.png",
-        "coinGeckoId": "",
-        "wallet_preload": false
+        "coinGeckoId": ""
   },
   {
         "type": "erc20",
@@ -194,8 +180,7 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/257e5b53ab870c263fb6ffcb68c5409933b719a494128fe8483432043f48f2c8.png",
-        "coinGeckoId": "",
-        "wallet_preload": false
+        "coinGeckoId": ""
   },
   {
         "type": "erc20",
@@ -205,8 +190,7 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/166c7cba172d0bfb41e16ae2dda521de691f340d1ce3988a309fe8db9427b5b0.png",
-        "coinGeckoId": "",
-        "wallet_preload": false
+        "coinGeckoId": ""
   },
   {
         "type": "erc20",
@@ -216,8 +200,7 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/nome.png",
-        "coinGeckoId": "",
-        "wallet_preload": false
+        "coinGeckoId": ""
   },
   {
         "type": "erc20",
@@ -227,8 +210,7 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/usdbr.png",
-        "coinGeckoId": "",
-        "wallet_preload": false
+        "coinGeckoId": ""
   },
   {
         "type": "erc20",
@@ -238,7 +220,6 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/f1727a5b36534f7851c7eca086aeceb2ff061acd967e374fe87d86e39544b4d2.png",
-        "coinGeckoId": "",
-        "wallet_preload": false
+        "coinGeckoId": ""
   }
 ]

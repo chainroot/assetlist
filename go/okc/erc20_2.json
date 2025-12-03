@@ -28,7 +28,8 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/8d812a3786178f6dbc556b3cb21411112b7c3a7ac893bf4b70c85e3c2db5a520.png",
-        "coinGeckoId": "tether"
+        "coinGeckoId": "tether",
+        "wallet_preload": true
     },
     {
         "type": "erc20",
@@ -38,7 +39,8 @@
         "description": "",
         "decimals": 18,
         "image": "https://cdn.chainroot.io/images/tokens/4a8f025d6260505fb812ce2a4441a2bfefe7283251c920c5c5f6355354ba2ba7.png",
-        "coinGeckoId": "usd-coin"
+        "coinGeckoId": "usd-coin",
+        "wallet_preload": true
     },
     {
         "type": "erc20",
